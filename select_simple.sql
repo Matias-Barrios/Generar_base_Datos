@@ -1,4 +1,4 @@
-# command : dbaccess - select_simple.sql
+-- command : dbaccess - select_simple.sql
 CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXXXXX';
 
 DROP TABLE IF EXISTS Usuarios;
@@ -11,4 +11,4 @@ CREATE TABLE IF NOT EXISTS Usuarios
  );
 
 
-
+-- DROP TABLE IF EXISTS Usuarios;
