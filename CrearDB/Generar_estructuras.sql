@@ -31,7 +31,8 @@ CREATE TABLE Usuarios
 -- DROP TABLE IF EXISTS Usuarios;
 
 -- select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
-select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
+-- select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
+
 
 
 
