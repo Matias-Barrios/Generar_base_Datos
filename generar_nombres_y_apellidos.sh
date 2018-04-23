@@ -11,6 +11,7 @@
 
 lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )
 lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
+lista_tipos_usuario=("Admin" "Docente" "Alumno")
 
 
 Item_Aleatorio () {
@@ -30,6 +31,15 @@ Numero_Aleatorio () {
 	maximo=$2
 	(( maximo-- ))
 	printf "$( shuf -i ${minimo}-${maximo} -n 1 )"
+}
+
+Cedula_Aleatoria () {
+	
+	numero="$(Numero_Aleatorio 1 6)$(Numero_Aleatorio 100000 999999)"
+	digitos=( $(echo $numero | sed -e 's/\(.\)/\1 /g') )
+	digito_verificador=`awk -v digito1="${digitos[0]}"  -v digito2="${digitos[1]}" -v digito3="${digitos[2]}" -v digito4="${digitos[3]}" -v digito5="${digitos[4]}" -v digito6="${digitos[5]}" -v digito7="${digitos[6]}" 'BEGIN { print  10 - ( ( ((digito1 * 2) % 10) + ((digito2 * 9) % 10) + ((digito3 * 8) % 10) + ((digito4 * 7) % 10) + ((digito5 * 6) % 10) + ((digito6 * 3) % 10) + ((digito7 * 4) % 10) ) % 10 ) } ';`
+	printf "${numero}${digito_verificador}"
+	
 }
 
 Generar_columnas () {
