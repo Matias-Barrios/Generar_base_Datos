@@ -16,7 +16,7 @@ CREATE TABLE Usuarios
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
   segundo_apellido   varchar(25),
-  grado INT,
+  grado INT CHECK ( grado > 0 AND grado < 8),
   fecha_nacimiento DATE NOT NULL,
   nota INT CHECK ( nota > 0 AND nota < 13),
   email varchar(80),
