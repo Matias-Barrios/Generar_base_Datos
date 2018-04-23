@@ -78,7 +78,7 @@ do
 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
 	
-	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$primer_apellido\" , );" >> ingresar_usuarios_auto.sql
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , );" >> ingresar_usuarios_auto.sql
 	
 	echo -e '\n' >> ingresar_usuarios_auto.sql
 	echo "Generando fila $i..."
