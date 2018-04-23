@@ -12,16 +12,16 @@ DROP TABLE IF EXISTS Institutos;
 CREATE TABLE Usuarios
  (
   CI  INT PRIMARY KEY,
-  primer_nombre   varchar(25) NOT NULL CHECK (primer_nombre MATCHES '^[a-zA-Z]$' ),
+  primer_nombre   varchar(25) NOT NULL CHECK nombre_valido (primer_nombre MATCHES '^[a-zA-Z]$' ),
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
   segundo_apellido   varchar(25),
-  grado INT CHECK ( grado > 0 AND grado < 8),
+  grado INT CHECK grado_valido ( grado > 0 AND grado < 8),
   fecha_nacimiento DATE NOT NULL,
-  nota INT CHECK ( nota > 0 AND nota < 13),
+  nota INT CHECK nota_valida ( nota > 0 AND nota < 13),
   email varchar(80),
   hace_proyecto boolean,
-  tipo varchar(20) CHECK (tipo IN ('Admin', 'Docente', 'Alumno')),
+  tipo varchar(20) CHECK tipo_valido (tipo IN ('Admin', 'Docente', 'Alumno')),
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   baja boolean 
