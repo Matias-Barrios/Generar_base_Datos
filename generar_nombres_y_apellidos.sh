@@ -63,10 +63,24 @@ Generar_columnas () {
 echo "$( date ) - Proceso iniciado..."
 i=0;
 
-while [ $i -le 10 ]
+
+
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_usuarios_auto.sql
+
+while [ $i -le 5 ]
 do
+	echo -e '\n' >> ingresar_usuarios_auto.sql
+	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_usuarios_auto.sql
+
+	CI=`Cedula_Aleatoria` 
+	primer_nombre=`Item_Aleatorio "$lista_nombres"`
+	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
+	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
+	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
 	
-	Generar_columnas # >> ./lista_nombres_apellidos_y_edades.txt
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$primer_apellido\" , );" >> ingresar_usuarios_auto.sql
+	
+	echo -e '\n' >> ingresar_usuarios_auto.sql
 	echo "Generando fila $i..."
 	(( i++ ))
 done
