@@ -12,7 +12,7 @@ DROP TABLE IF EXISTS Institutos;
 CREATE TABLE Usuarios
  (
   CI  INT PRIMARY KEY,
-  primer_nombre   varchar(25) NOT NULL CHECK (primer_nombre ~ '^[a-zA-Z]$' ),
+  primer_nombre   varchar(25) NOT NULL CHECK (primer_nombre MATCHES '^[a-zA-Z]$' ),
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
   segundo_apellido   varchar(25),
@@ -30,8 +30,8 @@ CREATE TABLE Usuarios
 -- 
 -- DROP TABLE IF EXISTS Usuarios;
 
-DESCRIBE Usuarios;
-
+-- select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
+select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
 
 
 
