@@ -12,7 +12,7 @@ DROP TABLE IF EXISTS Institutos;
 CREATE TABLE Usuarios
  (
   CI  INT PRIMARY KEY,
-  primer_nombre   varchar(25) NOT NULL,
+  primer_nombre   varchar(25) NOT NULL CHECK (primer_nombre ~ '^[a-zA-Z]$' ),
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
   segundo_apellido   varchar(25),
@@ -27,5 +27,12 @@ CREATE TABLE Usuarios
   baja boolean 
  );
 
--- CHECK (primer_nombre ~ '^[a-zA-Z]$' )
+-- 
 -- DROP TABLE IF EXISTS Usuarios;
+
+DESCRIBE Usuarios;
+
+
+
+
+
