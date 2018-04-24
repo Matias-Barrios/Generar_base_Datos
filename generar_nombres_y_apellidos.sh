@@ -11,8 +11,8 @@
 
 lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )
 lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
-lista_tipos_usuario=("Admin" "Docente" "Alumno")
-lista_pro_email=( "hotmail.com" "gmail.com" "its.edu.uy" "yahoo.com" "antel.com.uy")
+lista_tipos_usuario="Admin Docente Alumno" 
+lista_pro_email="hotmail.com gmail.com its.edu.uy yahoo.com antel.com.uy"
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -89,7 +89,7 @@ do
 	else
 		hace_proyecto="f"
 	fi
-	tipo=`Item_Aleatorio "$lista_tipos_usuario"`
+	tipo="Alumno"
 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_usuarios_auto.sql
 	
 	echo -e '\n' >> ingresar_usuarios_auto.sql
