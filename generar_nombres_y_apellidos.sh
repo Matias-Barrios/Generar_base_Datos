@@ -81,7 +81,7 @@ do
 	numero_dias=`Numero_Aleatorio 5400 19000` 
 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 	nota=1
-	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio $lista_pro_email`"
+	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
 	hace_proyecto=`Numero_Aleatorio 1 30`
 	if [[ hace_proyecto -gt 29 ]]
 	then
