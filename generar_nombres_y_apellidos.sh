@@ -12,7 +12,7 @@
 lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )
 lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
 lista_tipos_usuario=("Admin" "Docente" "Alumno")
-
+lista_pro_email=( "hotmail.com" "gmail.com" "its.edu.uy" "yahoo.com" "antel.com.uy")
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -77,8 +77,20 @@ do
 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	
-	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , );" >> ingresar_usuarios_auto.sql
+	grado=`Numero_Aleatorio 1 7` 
+	numero_dias=`Numero_Aleatorio 5400 19000` 
+	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+	nota=1
+	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio $lista_pro_email`"
+	hace_proyecto=`Numero_Aleatorio 1 30`
+	if [ hace_proyecto -gt 29]
+	then
+		hace_proyecto="t"
+	else
+		hace_proyecto="f"
+	fi
+	tipo=`Item_Aleatorio "$lista_tipos_usuario"`
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_usuarios_auto.sql
 	
 	echo -e '\n' >> ingresar_usuarios_auto.sql
 	echo "Generando fila $i..."
