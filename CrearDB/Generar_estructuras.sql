@@ -51,7 +51,7 @@ CREATE TABLE Grupos
  (
   id_tarea  INT PRIMARY KEY,
   nombre_tarea  varchar(40),
-  categoria varchar(30) NOT NULL CHECK (turno IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
+  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
   descripcion   varchar(255),
   baja boolean NOT NULL
  );
@@ -69,16 +69,20 @@ CREATE TABLE Institutos
 -- ACA CREAMOS LAS TABLAS DE RELACIONES
 ------------------------------------
 
+DROP TABLE IF EXISTS relacion_Usuarios_pertenecen_Instituto;
+
 
 CREATE TABLE relacion_Usuarios_pertenecen_Instituto
  (
-  foranea_CI_usuario  REFERENCES Usuarios CI INT,
-  foranea_id_instituto  REFERENCES Institutos id_instituto INT,
+  foranea_CI_usuario  REFERENCES Usuarios CI,
+  foranea_id_instituto  REFERENCES Institutos id_instituto,
   PRIMARY KEY (foranea_CI_usuario,foranea_id_instituto)
  );
 
 
 -- 
+
+
 
 
 
