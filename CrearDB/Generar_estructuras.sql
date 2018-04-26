@@ -3,6 +3,11 @@
 
 CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXXXXX';
 
+
+
+-- ACA CREAMOS LAS TABLAS DE ENTIDAD
+------------------------------------
+
 DROP TABLE IF EXISTS Usuarios;
 DROP TABLE IF EXISTS Grupos;
 DROP TABLE IF EXISTS Materias;
@@ -24,14 +29,57 @@ CREATE TABLE Usuarios
   tipo varchar(20) CHECK (tipo IN ('Admin', 'Docente', 'Alumno')) CONSTRAINT tipo_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
-  baja boolean 
+  baja boolean NOT NULL
  );
 
--- 
--- DROP TABLE IF EXISTS Usuarios;
+CREATE TABLE Grupos
+ (
+  nombre_grupo  varchar(5) PRIMARY KEY ,
+  orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('Informatica', 'Mecanica', 'Electronica', 'Electromecanica')) CONSTRAINT orientacion_valida,
+  turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
+  baja boolean NOT NULL
+ );
+ 
+ CREATE TABLE Materias
+ (
+  nombre_materia  varchar(25) PRIMARY KEY ,
+  descripcion   varchar(255),
+  baja boolean NOT NULL
+ );
 
--- select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
--- select tabname,colname,coltype,collength from systables as a join syscolumns as b on a.tabid=b.tabid where tabname='Usuarios';
+ CREATE TABLE Tareas
+ (
+  id_tarea  INT PRIMARY KEY,
+  nombre_tarea  varchar(40),
+  categoria varchar(30) NOT NULL CHECK (turno IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
+  descripcion   varchar(255),
+  baja boolean NOT NULL
+ );
+
+CREATE TABLE Institutos
+ (
+  id_instituto  INT PRIMARY KEY,
+  calle   varchar(50) NOT NULL,
+  numero   INT,
+  baja boolean NOT NULL
+ );
+
+
+
+-- ACA CREAMOS LAS TABLAS DE RELACIONES
+------------------------------------
+
+
+CREATE TABLE relacion_Usuarios_pertenecen_Instituto
+ (
+  foranea_CI_usuario  REFERENCES Usuarios CI INT,
+  foranea_id_instituto  REFERENCES Institutos id_instituto INT,
+  PRIMARY KEY (foranea_CI_usuario,foranea_id_instituto)
+ );
+
+
+-- 
+
 
 
 

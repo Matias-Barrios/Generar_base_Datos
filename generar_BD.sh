@@ -61,23 +61,25 @@ Generar_columnas () {
 
 
 echo "$( date ) - Proceso iniciado..."
+
+## Tabla Docentes
+
 i=0;
 
-
-
-echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_usuarios_auto.sql
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_alumnos_auto.sql
+echo -e '\n' >> ingresar_alumnos_auto.sql
 
 while [ $i -le 5 ]
 do
-	echo -e '\n' >> ingresar_usuarios_auto.sql
-	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_usuarios_auto.sql
+	
+	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
 
 	CI=`Cedula_Aleatoria` 
 	primer_nombre=`Item_Aleatorio "$lista_nombres"`
 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	grado=`Numero_Aleatorio 1 7` 
+	grado=1
 	numero_dias=`Numero_Aleatorio 5400 19000` 
 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 	nota=1
@@ -90,12 +92,44 @@ do
 		hace_proyecto="f"
 	fi
 	tipo="Alumno"
-	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_usuarios_auto.sql
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_alumnos_auto.sql
 	
-	echo -e '\n' >> ingresar_usuarios_auto.sql
+	
+	echo "Generando fila $i..."
+	(( i++ ))
+done
+
+## Tabla Docentes
+
+i=0;
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_docentes_auto.sql
+echo -e '\n' >> ingresar_usuarios_auto.sql
+
+while [ $i -le 5 ]
+do
+	
+	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
+
+	CI=`Cedula_Aleatoria` 
+	primer_nombre=`Item_Aleatorio "$lista_nombres"`
+	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
+	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
+	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
+	grado=`Numero_Aleatorio 1 7` 
+	numero_dias=`Numero_Aleatorio 5400 19000` 
+	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+	nota=1
+	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
+	hace_proyecto="f"
+	tipo="Docente"
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"$hace_proyecto\" );" >> ingresar_docentes_auto.sql
+	
+	
 	echo "Generando fila $i..."
 	(( i++ ))
 done
 
 echo "$( date ) - Proceso completado!!!"
+
+
 
