@@ -70,22 +70,14 @@ CREATE TABLE Institutos
 ------------------------------------
 
 DROP TABLE IF EXISTS relacion_Usuarios_pertenecen_Instituto;
-
-
+                                        
 CREATE TABLE relacion_Usuarios_pertenecen_Instituto
  (
-  foranea_CI_usuario  REFERENCES Usuarios CI,
-  foranea_id_instituto  REFERENCES Institutos id_instituto,
+  foranea_CI_usuario CONSTRAINT 'foranea_Usuarios' FOREIGN KEY ('foranea_CI_usuario') REFERENCES 'Usuarios' ('CI') ON DELETE CASCADE ON UPDATE CASCADE,
+  foranea_id_instituto  CONSTRAINT 'foranea_Instituto' FOREIGN KEY ('foranea_id_instituto') REFERENCES 'Institutos' ('id_instituto') ON DELETE CASCADE ON UPDATE CASCADE,
   PRIMARY KEY (foranea_CI_usuario,foranea_id_instituto)
  );
-
-
+                                        
 -- 
-
-
-
-
-
-
-
-
+                                        
+                                        
