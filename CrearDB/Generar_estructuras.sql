@@ -49,7 +49,7 @@ CREATE TABLE Grupos
 
  CREATE TABLE Tareas
  (
-  id_tarea  INT PRIMARY KEY CONSTRAINT Tareas_clave_primaria,
+  id_tarea  SERIAL PRIMARY KEY CONSTRAINT Tareas_clave_primaria,
   nombre_tarea  varchar(40),
   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
   descripcion   varchar(255),
@@ -58,7 +58,7 @@ CREATE TABLE Grupos
 
 CREATE TABLE Institutos
  (
-  id_instituto  INT PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
+  id_instituto  SERIAL PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
   nombre  varchar(50) NOT NULL,
   calle   varchar(50) NOT NULL,
   numero   INT,
