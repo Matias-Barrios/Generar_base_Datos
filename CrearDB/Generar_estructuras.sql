@@ -61,6 +61,7 @@ CREATE TABLE Institutos
   id_instituto  INT PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
   calle   varchar(50) NOT NULL,
   numero   INT,
+  email varchar(80),
   baja boolean NOT NULL
  );
 
