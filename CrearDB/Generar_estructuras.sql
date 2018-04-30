@@ -16,7 +16,7 @@ DROP TABLE IF EXISTS Institutos;
 
 CREATE TABLE Usuarios
  (
-  CI  INT PRIMARY KEY,
+  CI  INT PRIMARY KEY  CONSTRAINT Usuarios_clave_primaria,
   primer_nombre   varchar(25) NOT NULL,
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
@@ -34,7 +34,7 @@ CREATE TABLE Usuarios
 
 CREATE TABLE Grupos
  (
-  nombre_grupo  varchar(5) PRIMARY KEY ,
+  nombre_grupo  varchar(5) PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
   orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('Informatica', 'Mecanica', 'Electronica', 'Electromecanica')) CONSTRAINT orientacion_valida,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
   baja boolean NOT NULL
@@ -42,14 +42,14 @@ CREATE TABLE Grupos
  
  CREATE TABLE Materias
  (
-  nombre_materia  varchar(25) PRIMARY KEY ,
+  nombre_materia  varchar(25) PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
   descripcion   varchar(255),
   baja boolean NOT NULL
  );
 
  CREATE TABLE Tareas
  (
-  id_tarea  INT PRIMARY KEY,
+  id_tarea  INT PRIMARY KEY CONSTRAINT Tareas_clave_primaria,
   nombre_tarea  varchar(40),
   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
   descripcion   varchar(255),
@@ -58,7 +58,7 @@ CREATE TABLE Grupos
 
 CREATE TABLE Institutos
  (
-  id_instituto  INT PRIMARY KEY,
+  id_instituto  INT PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
   calle   varchar(50) NOT NULL,
   numero   INT,
   baja boolean NOT NULL
@@ -71,12 +71,12 @@ CREATE TABLE Institutos
 
 DROP TABLE IF EXISTS relacion_Usuarios_pertenecen_Instituto;
                                         
-CREATE TABLE relacion_Usuarios_pertenecen_Instituto
- (
-  foranea_CI_usuario CONSTRAINT 'foranea_Usuarios' FOREIGN KEY ('foranea_CI_usuario') REFERENCES 'Usuarios' ('CI') ON DELETE CASCADE ON UPDATE CASCADE,
-  foranea_id_instituto  CONSTRAINT 'foranea_Instituto' FOREIGN KEY ('foranea_id_instituto') REFERENCES 'Institutos' ('id_instituto') ON DELETE CASCADE ON UPDATE CASCADE,
-  PRIMARY KEY (foranea_CI_usuario,foranea_id_instituto)
- );
+CREATE TABLE relacion_usuarios_pertenecen_instituto
+(
+    foranea_ci_usuario INTEGER REFERENCES usuarios (ci) CONSTRAINT relacion_usuarios_pertenecen_instituto_fk1,
+    foranea_id_instituto  INTEGER REFERENCES institutos (id_instituto) CONSTRAINT relacion_usuarios_pertenecen_instituto_fk2,
+    PRIMARY KEY (foranea_ci_usuario, foranea_id_instituto) CONSTRAINT relacion_usuarios_pertenecen_instituto_clave_primaria
+);
                                         
 -- 
                                         
