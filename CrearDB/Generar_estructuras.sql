@@ -62,6 +62,7 @@ CREATE TABLE Institutos
   nombre  varchar(50) NOT NULL,
   calle   varchar(50) NOT NULL,
   numero   INT,
+  telefonos varchar(100),
   email varchar(80),
   baja boolean NOT NULL
  );
