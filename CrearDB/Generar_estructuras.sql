@@ -34,7 +34,8 @@ CREATE TABLE Usuarios
 
 CREATE TABLE Grupos
  (
-  nombre_grupo  varchar(5) PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
+  id_grupo  SERIAL PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
+  nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_clave_primaria,
   orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('Informatica', 'Mecanica', 'Electronica', 'Electromecanica')) CONSTRAINT orientacion_valida,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
   baja boolean NOT NULL
