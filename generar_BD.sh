@@ -13,6 +13,9 @@ lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )
 lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
 lista_tipos_usuario="Admin Docente Alumno" 
 lista_pro_email="hotmail.com gmail.com its.edu.uy yahoo.com antel.com.uy"
+lista_orientaciones="Informatica Mecanica Electronica Electromecanica"
+turnos="Verpertino Matutino Nocturno"
+grupos_posibles="A B C D E F G H I J K L M O P Q R S T U V W X Y Z"
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -69,7 +72,7 @@ i=0;
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_alumnos_auto.sql
 echo -e '\n' >> ingresar_alumnos_auto.sql
 
-while [ $i -le 5 ]
+while [ $i -le -1 ]
 do
 	
 	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
@@ -105,7 +108,7 @@ i=0;
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_docentes_auto.sql
 echo -e '\n' >> ingresar_usuarios_auto.sql
 
-while [ $i -le 5 ]
+while [ $i -le -1 ]
 do
 	
 	echo "INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
@@ -129,7 +132,29 @@ do
 	(( i++ ))
 done
 
+
+
+i=0;
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';" > ingresar_grupos_auto.sql
+echo -e '\n' >> ingresar_grupos_auto.sql
+
+while [ $i -le 20 ]
+do
+	
+	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)" >> ingresar_grupos_auto.sql
+
+	nombre_grupo=3`Item_Aleatorio "$grupos_posibles"``Item_Aleatorio "$grupos_posibles"` 
+	orientacion=`Item_Aleatorio "$lista_orientaciones"`
+	turno=`Item_Aleatorio "$turnos"` 
+	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\", \"f\" );" >> ingresar_grupos_auto.sql
+	
+	
+	echo "Generando fila $i..."
+	(( i++ ))
+done
+
 echo "$( date ) - Proceso completado!!!"
+
 
 
 
