@@ -1,22 +1,23 @@
 -- command : dbaccess - select_simple.sql
 -- CREATE TABLE IF NOT EXISTS Usuarios
 
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXXXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';
 
 
 
 -- ACA CREAMOS LAS TABLAS DE ENTIDAD
 ------------------------------------
 
-DROP TABLE IF EXISTS Usuarios;
+DROP TABLE IF EXISTS Personas;
 DROP TABLE IF EXISTS Grupos;
 DROP TABLE IF EXISTS Materias;
-DROP TABLE IF EXISTS Tareas;
+DROP TABLE IF EXISTS Evaluaciones;
 DROP TABLE IF EXISTS Institutos;
+DROP TABLE IF EXISTS Departamentos;
 
-CREATE TABLE Usuarios
+CREATE TABLE Personas
  (
-  CI  INT PRIMARY KEY  CONSTRAINT Usuarios_clave_primaria,
+  CI  INT PRIMARY KEY  CONSTRAINT Personas_clave_primaria,
   primer_nombre   varchar(25) NOT NULL,
   segundo_nombre   varchar(25),
   primer_apellido   varchar(25) NOT NULL,
@@ -48,9 +49,9 @@ CREATE TABLE Grupos
   baja boolean NOT NULL
  );
 
- CREATE TABLE Tareas
+ CREATE TABLE Evaluaciones
  (
-  id_tarea  SERIAL PRIMARY KEY CONSTRAINT Tareas_clave_primaria,
+  id_evaluacion  SERIAL PRIMARY KEY CONSTRAINT Evaluaciones_clave_primaria,
   nombre_tarea  varchar(40),
   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT tarea_categoria_valida,
   descripcion   varchar(255),
@@ -68,18 +69,24 @@ CREATE TABLE Institutos
   baja boolean NOT NULL
  );
 
-
-
+CREATE TABLE Departamentos
+ (
+  id_instituto  SERIAL PRIMARY KEY  CONSTRAINT Departamentos_clave_primaria,
+  nombre_departamento varchar(50) NOT NULL,
+  baja boolean NOT NULL
+ );
+                                        
+                                        
 -- ACA CREAMOS LAS TABLAS DE RELACIONES
 ------------------------------------
 
-DROP TABLE IF EXISTS relacion_Usuarios_pertenecen_Instituto;
+DROP TABLE IF EXISTS relacion_personas_pertenecen_instituto;
                                         
-CREATE TABLE relacion_usuarios_pertenecen_instituto
+CREATE TABLE relacion_personas_pertenecen_instituto
 (
-    foranea_ci_usuario INTEGER REFERENCES usuarios (ci) CONSTRAINT relacion_usuarios_pertenecen_instituto_fk1,
-    foranea_id_instituto  INTEGER REFERENCES institutos (id_instituto) CONSTRAINT relacion_usuarios_pertenecen_instituto_fk2,
-    PRIMARY KEY (foranea_ci_usuario, foranea_id_instituto) CONSTRAINT relacion_usuarios_pertenecen_instituto_clave_primaria
+    foranea_ci_usuario INTEGER REFERENCES Personas (ci) CONSTRAINT relacion_personas_pertenecen_instituto_fk_ci,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT relacion_personas_pertenecen_instituto_fk_id_instituto,
+    PRIMARY KEY (foranea_ci_usuario, foranea_id_instituto) CONSTRAINT relacion_personas_pertenecen_instituto_clave_primaria
 );
                                         
 -- 
