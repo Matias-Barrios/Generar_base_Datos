@@ -1,4 +1,5 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
+
 INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)
 VALUES ( 42864769 , "Cirino" , "Tobías" , "Suárez" , "Esteban" , 1, "03/16/1983" , 1 , "Cirino.Tobías.Suárez.Esteban@gmail.com" , "f" , "Docente" , NULL , NULL , "f" );
 INSERT INTO Usuarios (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)
