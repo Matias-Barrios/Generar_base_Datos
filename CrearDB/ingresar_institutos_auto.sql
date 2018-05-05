@@ -1,6 +1,6 @@
 -- command : dbaccess - select_simple.sql
 
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXXXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja)
 VALUES ('Escuela Técnica "Arroyo Seco"', "Av. Agraciada Esq. Aguilar", 2544, "29243865|29243856", "etas010@gmail.com", "f");
