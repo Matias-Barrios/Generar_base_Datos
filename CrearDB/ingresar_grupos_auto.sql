@@ -1,4 +1,4 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'XXXXPASSWORDXXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
 
 
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
