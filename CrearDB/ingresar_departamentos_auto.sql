@@ -1,5 +1,3 @@
--- command : dbaccess - select_simple.sql
-
 CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
 
 INSERT INTO Departamentos (nombre_departamento, baja)

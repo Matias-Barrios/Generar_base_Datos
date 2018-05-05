@@ -1,6 +1,3 @@
--- command : dbaccess - select_simple.sql
--- CREATE TABLE IF NOT EXISTS Usuarios
-
 CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
 
 
@@ -13,3 +10,6 @@ DROP TABLE IF EXISTS Materias;
 DROP TABLE IF EXISTS Evaluaciones;
 DROP TABLE IF EXISTS Institutos;
 DROP TABLE IF EXISTS Departamentos;
+DROP TABLE IF EXISTS relacion_personas_pertenecen_instituto;
+DROP TABLE IF EXISTS relacion_materias_pertenecen_grupos;
+DROP TABLE IF EXISTS relacion_ternaria_Personas_Grupos_Evaluaciones;
