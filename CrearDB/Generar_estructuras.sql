@@ -71,7 +71,7 @@ CREATE TABLE Institutos
 
 CREATE TABLE Departamentos
  (
-  id_instituto  SERIAL PRIMARY KEY  CONSTRAINT Departamentos_clave_primaria,
+  id_departamento SERIAL PRIMARY KEY  CONSTRAINT Departamentos_clave_primaria,
   nombre_departamento varchar(50) NOT NULL,
   baja boolean NOT NULL
  );
