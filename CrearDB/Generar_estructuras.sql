@@ -29,7 +29,27 @@ CREATE TABLE Personas
   encriptacion_sal varchar(250),
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
+                          
+CREATE TABLE Departamentos
+ (
+  id_departamento SERIAL PRIMARY KEY  CONSTRAINT Departamentos_clave_primaria,
+  nombre_departamento varchar(50) NOT NULL CONSTRAINT Departamentos_nombre_vacio,
+  baja boolean NOT NULL CONSTRAINT Departamentos_baja_vacio
+ );
+                          
+CREATE TABLE Institutos
+ (
+  id_instituto  SERIAL PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
+  nombre  varchar(50) NOT NULL CONSTRAINT Institutos_nombre_vacio,
+  calle   varchar(50) NOT NULL CONSTRAINT Institutos_calle_vacio,
+  numero  INT,
+  telefonos varchar(100),
+  email varchar(80),
+  baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio,
 
+  foranea_id_departamento INTEGER REFERENCES Departamentos (id_departamento) CONSTRAINT Institutos_fk_id_departamento
+ );   
+                          
 CREATE TABLE Grupos
  (
   id_grupo  SERIAL PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
@@ -58,25 +78,9 @@ CREATE TABLE Grupos
   baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio
  );
 
-CREATE TABLE Institutos
- (
-  id_instituto  SERIAL PRIMARY KEY  CONSTRAINT Institutos_clave_primaria,
-  nombre  varchar(50) NOT NULL CONSTRAINT Institutos_nombre_vacio,
-  calle   varchar(50) NOT NULL CONSTRAINT Institutos_calle_vacio,
-  numero  INT,
-  telefonos varchar(100),
-  email varchar(80),
-  baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio,
 
-  foranea_id_departamento INTEGER REFERENCES Departamentos (id_departamento) CONSTRAINT Institutos_fk_id_departamento
- );
 
-CREATE TABLE Departamentos
- (
-  id_departamento SERIAL PRIMARY KEY  CONSTRAINT Departamentos_clave_primaria,
-  nombre_departamento varchar(50) NOT NULL CONSTRAINT Departamentos_nombre_vacio,
-  baja boolean NOT NULL CONSTRAINT Departamentos_baja_vacio
- );
+
                                         
                                         
 -- ACA CREAMOS LAS TABLAS DE RELACIONES
