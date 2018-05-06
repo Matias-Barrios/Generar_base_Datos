@@ -64,7 +64,8 @@ CREATE TABLE Grupos
  
  CREATE TABLE Materias
  (
-  nombre_materia  varchar(25) PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
+  id_materia  SERIAL PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
+  nombre_materia  varchar(25) NOT NULL CONSTRAINT Materias_nombre_not_null,
   descripcion   varchar(255),
   baja boolean NOT NULL CONSTRAINT Materias_baja_vacio
  );
