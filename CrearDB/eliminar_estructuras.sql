@@ -10,6 +10,8 @@ DROP TABLE IF EXISTS Materias;
 DROP TABLE IF EXISTS Evaluaciones;
 DROP TABLE IF EXISTS Institutos;
 DROP TABLE IF EXISTS Departamentos;
+
 DROP TABLE IF EXISTS relacion_personas_pertenecen_instituto;
 DROP TABLE IF EXISTS relacion_materias_pertenecen_grupos;
 DROP TABLE IF EXISTS relacion_ternaria_Personas_Grupos_Evaluaciones;
+DROP TABLE IF EXISTS relacion_Evaluaciones_pertenecen_Personas;

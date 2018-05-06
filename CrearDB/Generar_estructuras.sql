@@ -36,8 +36,11 @@ CREATE TABLE Grupos
   nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
   orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('Informatica', 'Mecanica', 'Electronica', 'Electromecanica')) CONSTRAINT orientacion_valida,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
-  baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio
+  baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
+
+  foranea_id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_id_instituto
  );
+
  
  CREATE TABLE Materias
  (
@@ -63,7 +66,9 @@ CREATE TABLE Institutos
   numero  INT,
   telefonos varchar(100),
   email varchar(80),
-  baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio
+  baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio,
+
+  foranea_id_departamento INTEGER REFERENCES Departamentos (id_departamento) CONSTRAINT Institutos_fk_id_departamento
  );
 
 CREATE TABLE Departamentos
@@ -80,6 +85,8 @@ CREATE TABLE Departamentos
 DROP TABLE IF EXISTS relacion_personas_pertenecen_instituto;
 DROP TABLE IF EXISTS relacion_materias_pertenecen_grupos;
 DROP TABLE IF EXISTS relacion_ternaria_Personas_Grupos_Evaluaciones;
+DROP TABLE IF EXISTS relacion_Evaluaciones_pertenecen_Personas;
+
 
 
 
@@ -113,6 +120,9 @@ CREATE TABLE relacion_Evaluaciones_pertenecen_Personas
     foranea_id_evaluacion  INTEGER REFERENCES Materias (id_evaluacion) CONSTRAINT relacion_ternaria_Personas_Grupos_Evaluaciones_fk_id_materia,
     PRIMARY KEY (foranea_ci,foranea_id_materia) CONSTRAINT relacion_ternaria_Personas_Grupos_Evaluaciones_clave_primaria
 );
+
+
+
 
 
 
