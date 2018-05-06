@@ -14,7 +14,7 @@ lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
 lista_tipos_usuario="Admin Docente Alumno" 
 lista_pro_email="hotmail.com gmail.com its.edu.uy yahoo.com antel.com.uy"
 lista_orientaciones="Informatica Mecanica Electronica Electromecanica"
-turnos="Verpertino Matutino Nocturno"
+turnos="Vespertino Matutino Nocturno"
 grupos_posibles="A B C D E F G H I J K L M O P Q R S T U V W X Y Z"
 
 Item_Aleatorio () {
