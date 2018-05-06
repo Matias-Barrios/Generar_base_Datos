@@ -91,6 +91,7 @@ DROP TABLE IF EXISTS relacion_personas_pertenecen_instituto;
 DROP TABLE IF EXISTS relacion_materias_pertenecen_grupos;
 DROP TABLE IF EXISTS relacion_ternaria_Personas_Grupos_Evaluaciones;
 DROP TABLE IF EXISTS relacion_Evaluaciones_pertenecen_Personas;
+DROP TABLE IF EXISTS relacion_personas_pertenecen_grupos;
 
 
 
@@ -126,7 +127,12 @@ CREATE TABLE relacion_Evaluaciones_pertenecen_Personas
     PRIMARY KEY (foranea_ci,foranea_id_evaluacion) CONSTRAINT relacion_Evaluaciones_pertenecen_Personas_clave_primaria
 );
 
-
+CREATE TABLE relacion_personas_pertenecen_grupos
+(
+    foranea_ci INTEGER REFERENCES Personas (ci) CONSTRAINT relacion_personas_pertenecen_grupos_fk_id_grupo,
+    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_personas_pertenecen_grupos_fk_id_materia,
+    PRIMARY KEY (foranea_ci, foranea_id_grupo) CONSTRAINT rrelacion_personas_pertenecen_grupos_clave_primaria
+);
 
 
 
