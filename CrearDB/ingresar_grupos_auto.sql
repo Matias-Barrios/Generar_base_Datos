@@ -24,9 +24,9 @@ VALUES ( "3FV" , "Informatica" , "Nocturno", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
 VALUES ( "3ML" , "Electronica" , "Nocturno", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
-VALUES ( "3KZ" , "Mecanica" , "Verpertino", "f" );
+VALUES ( "3KZ" , "Mecanica" , "Vespertino", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
-VALUES ( "3IP" , "Informatica" , "Verpertino", "f" );
+VALUES ( "3IP" , "Informatica" , "Vespertino", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
 VALUES ( "3KJ" , "Informatica" , "Matutino", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
@@ -40,6 +40,6 @@ VALUES ( "3WH" , "Informatica" , "Nocturno", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
 VALUES ( "3WY" , "Mecanica" , "Nocturno", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
-VALUES ( "3TJ" , "Electronica" , "Verpertino", "f" );
+VALUES ( "3TJ" , "Electronica" , "Vespertino", "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja)
 VALUES ( "3XV" , "Electronica" , "Matutino", "f" );
