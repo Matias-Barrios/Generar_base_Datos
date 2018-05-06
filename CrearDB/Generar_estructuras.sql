@@ -121,9 +121,9 @@ CREATE TABLE relacion_ternaria_Personas_Grupos_Evaluaciones
 
 CREATE TABLE relacion_Evaluaciones_pertenecen_Personas
 (
-    foranea_ci INTEGER REFERENCES Personas (ci) CONSTRAINT relacion_ternaria_Personas_Grupos_Evaluaciones_fk_ci,
-    foranea_id_evaluacion  INTEGER REFERENCES Evaluaciones (id_evaluacion) CONSTRAINT relacion_ternaria_Personas_Grupos_Evaluaciones_fk_id_materia,
-    PRIMARY KEY (foranea_ci,foranea_id_evaluacion) CONSTRAINT relacion_ternaria_Personas_Grupos_Evaluaciones_clave_primaria
+    foranea_ci INTEGER REFERENCES Personas (ci) CONSTRAINT relacion_Evaluaciones_pertenecen_Personas_fk_ci,
+    foranea_id_evaluacion  INTEGER REFERENCES Evaluaciones (id_evaluacion) CONSTRAINT relacion_Evaluaciones_pertenecen_Personas_fk_id_materia,
+    PRIMARY KEY (foranea_ci,foranea_id_evaluacion) CONSTRAINT relacion_Evaluaciones_pertenecen_Personas_clave_primaria
 );
 
 
