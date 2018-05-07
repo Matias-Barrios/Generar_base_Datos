@@ -69,7 +69,7 @@ i=0;
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_alumnos_auto.sql
 echo -e '\n' >> ingresar_alumnos_auto.sql
 
-while [ $i -le 600 ]
+while [ $i -le -1 ]
 do
 	
 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
@@ -105,7 +105,7 @@ i=0;
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_docentes_auto.sql
 echo -e '\n' >> ingresar_docentes_auto.sql
 
-while [ $i -le 60 ]
+while [ $i -le -1 ]
 do
 	
 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
