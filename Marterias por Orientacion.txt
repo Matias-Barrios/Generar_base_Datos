@@ -1,0 +1,161 @@
+Administracion
+
+
+APT
+Administracion y Contabilidad Informatizada
+Comercializacion
+Contabilidad Superior
+Economia y Finanzas
+Matematica A
+Matematica B
+
+*********************************************************
+
+Agrario
+
+Agronegocios
+Administracion y Gestion de la Empresa Agropecuaria
+Fisica Aplicada a la Agrotecnologia III
+Quimica Aplicada a la Agrotecnologia III
+Sistemas Productivos Agrarios Vegetales
+Sistemas Productivos Agrarios Animal
+
+*********************************************************
+
+Aviacion - Avionica
+
+Fisica
+Ingles Tecnico
+Sistemas de Control
+Avionica I "Instrumentos"
+Avionica II "Electricidad"
+Avionica III "Comunicaciones"
+Avionica IV "Navegacion"
+Practicas y Materiales de Mantenimiento II
+
+********************************************************
+
+Construccion
+
+Administracion y Gestion de Obras III
+Informatica Aplicada C.A.D III
+Procesos Constructivos III
+Tecn. del Diseño de la Construccion III
+Teoricas Constructivas Contemporaneas
+
+********************************************************
+
+Deporte y Recreacion
+
+Fisica
+Biomecanica
+Psicologia del Deporte
+Estadistica
+Primeros Auxilios
+Gestion y Proyectos
+Taller de Deporte
+
+*******************************************************
+
+Electromecanica - Automotriz
+
+Administracion y Organizacion de Taller
+Electronica Analogica - Digital
+Electromecanica Automotriz II
+Fisica Tecnica III
+
+*******************************************************
+
+Electromecanica
+
+Analisis y Montaje de Sistemas Electricos
+Dispositivos Mecanicos de Control
+Electronica y Laboratorio III
+Fisica tecnica III
+Gestion del Mantenimiento Industrial
+
+******************************************************
+
+Electronica
+
+Comunicaciones
+Electronica III
+Fisica Tecnica III
+Potencia y Control
+
+******************************************************
+
+Energia Renovables
+
+Laboratorio de Electronica
+Fisica Tecnica
+Gestion Empresarial
+Eficiancia Energetica
+Laboratorio de Biomasa
+Proyecto Electrico
+Proyecto Termico
+
+******************************************************
+
+Informatica
+
+Analisis y Diseño de Aplicaciones
+Formacion Empresarial
+Programacion III
+Proyecto
+Sistemas Operativos III
+Base de Datos II
+Taller de Mantenimiento III
+
+*****************************************************
+
+Maquinista Naval
+
+Embrague Calificado
+Taller Naval III
+Termodinamica
+Maquinas Auxiliares
+Laboratorios de Electricidad
+Soldadura
+
+*****************************************************
+
+Quimica Basica e Industrial
+
+Fisica III
+Quimica Bio-Organica
+Quimica General III
+Introduccion a los Procesos Industriales
+Introduccion al Analisis Quimico
+
+*****************************************************
+
+Termodinamica
+
+Biologia Aplicada
+Electricidad III
+Seguridad Industrial
+Termofluidos y Proyecto
+
+****************************************************
+
+Turismo
+
+Geografia III
+Historia de la Cultura III
+Taller de Recreacion y Cultura Ludica II
+Gestion Empresarial Turistica
+Contabilidad
+Legislacion Turistica Aplicada
+Planeamineto de Actividades Turisticas
+
+****************************************************
+
+
+
+
+
+
+
+
+

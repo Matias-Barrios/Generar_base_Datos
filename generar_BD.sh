@@ -16,6 +16,7 @@ lista_pro_email="hotmail.com gmail.com its.edu.uy yahoo.com antel.com.uy"
 lista_orientaciones="ADMINISTRACIÓN ELECTROELECTRÓNICA QUÍMICA_BÁSICA QUÍMICA_INDUSTRIAL AERONÁUTICA ELECTROMECÁNICA TERMODINÁMICA AGRARIO ELECTROMECÁNICA_AUTOMOTRIZ TURISMO CONSTRUCCIÓN INFORMÁTICA DEPORTE_Y_RECREACIÓN MAQUINISTA_NAVAL ARTES_GRÁFICAS ENERGÍAS_RENOVABLES AUDIOVISUAL"
 lista_grupos_letras="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 lista_turnos="Vespertino Matutino Nocturno"
+lista_materias=$( cat ./lista_materias.txt)
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -65,93 +66,106 @@ Generar_columnas () {
 
 echo "$( date ) - Proceso iniciado..."
 
-## Tabla Alumnos
+# ## Tabla Alumnos
 
-i=0;
+# i=0;
 
-echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_alumnos_auto.sql
-echo -e '\n' >> ingresar_alumnos_auto.sql
+# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_alumnos_auto.sql
+# echo -e '\n' >> ingresar_alumnos_auto.sql
 
-while [ $i -le 600 ]
+# while [ $i -le 600 ]
+# do
+	
+# 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
+
+# 	CI=`Cedula_Aleatoria` 
+# 	primer_nombre=`Item_Aleatorio "$lista_nombres"`
+# 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
+# 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
+# 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
+# 	grado=1
+# 	numero_dias=`Numero_Aleatorio 5400 19000` 
+# 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+# 	nota=1
+# 	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
+# 	hace_proyecto=`Numero_Aleatorio 1 30`
+# 	if [[ hace_proyecto -gt 29 ]]
+# 	then
+# 		hace_proyecto="t"
+# 	else
+# 		hace_proyecto="f"
+# 	fi
+# 	tipo="Alumno"
+# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_alumnos_auto.sql
+	
+	
+# 	echo "Generando fila $i..."
+# 	(( i++ ))
+# done
+
+# ## Tabla Docentes
+
+# i=0;
+# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_docentes_auto.sql
+# echo -e '\n' >> ingresar_docentes_auto.sql
+
+# while [ $i -le 60 ]
+# do
+	
+# 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
+
+# 	CI=`Cedula_Aleatoria` 
+# 	primer_nombre=`Item_Aleatorio "$lista_nombres"`
+# 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
+# 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
+# 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
+# 	grado=`Numero_Aleatorio 1 7` 
+# 	numero_dias=`Numero_Aleatorio 5400 19000` 
+# 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+# 	nota=1
+# 	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
+# 	hace_proyecto="f"
+# 	tipo="Docente"
+# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"$hace_proyecto\" );" >> ingresar_docentes_auto.sql
+	
+	
+# 	echo "Generando fila $i..."
+# 	(( i++ ))
+# done
+
+# ## Tabla Grupos
+
+# i=0;
+# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_grupos_auto.sql
+# echo -e '\n' >> ingresar_grupos_auto.sql
+
+# while [ $i -le 25 ]
+# do
+	
+# 	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
+
+# 	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
+# 	orientacion=`Item_Aleatorio "$lista_orientaciones"` 
+# 	turno=`Item_Aleatorio "$lista_turnos"` 
+# 	foranea_id_instituto=`Numero_Aleatorio 1 14`
+# 	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" , $foranea_id_instituto);" >> ingresar_grupos_auto.sql
+	
+# 	echo "Generando fila $i..."
+# 	(( i++ ))
+# done
+
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_materias_auto.sql
+echo -e '\n' >> ingresar_materias_auto.sql
+
+while read materia 
 do
-	
-	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
 
-	CI=`Cedula_Aleatoria` 
-	primer_nombre=`Item_Aleatorio "$lista_nombres"`
-	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
-	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	grado=1
-	numero_dias=`Numero_Aleatorio 5400 19000` 
-	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
-	nota=1
-	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-	hace_proyecto=`Numero_Aleatorio 1 30`
-	if [[ hace_proyecto -gt 29 ]]
-	then
-		hace_proyecto="t"
-	else
-		hace_proyecto="f"
-	fi
-	tipo="Alumno"
-	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_alumnos_auto.sql
-	
-	
-	echo "Generando fila $i..."
-	(( i++ ))
-done
+	echo "INSERT INTO Materias (nombre_materia, descripcion,baja)" >> ingresar_materias_auto.sql
+	nombre_materia="$materia" 
+ 	descripcion="Aca va una descripcion! :)"
+	echo "VALUES ( \"$nombre_materia\" , \"$descripcion\" , \"f\" );" >> ingresar_materias_auto.sql
 
-## Tabla Docentes
-
-i=0;
-echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_docentes_auto.sql
-echo -e '\n' >> ingresar_docentes_auto.sql
-
-while [ $i -le 60 ]
-do
-	
-	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
-
-	CI=`Cedula_Aleatoria` 
-	primer_nombre=`Item_Aleatorio "$lista_nombres"`
-	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
-	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-	grado=`Numero_Aleatorio 1 7` 
-	numero_dias=`Numero_Aleatorio 5400 19000` 
-	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
-	nota=1
-	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-	hace_proyecto="f"
-	tipo="Docente"
-	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"$hace_proyecto\" );" >> ingresar_docentes_auto.sql
-	
-	
-	echo "Generando fila $i..."
-	(( i++ ))
-done
-
-## Tabla Grupos
-
-i=0;
-echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_grupos_auto.sql
-echo -e '\n' >> ingresar_grupos_auto.sql
-
-while [ $i -le 25 ]
-do
-	
-	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
-
-	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
-	orientacion=`Item_Aleatorio "$lista_orientaciones"` 
-	turno=`Item_Aleatorio "$lista_turnos"` 
-	foranea_id_instituto=`Numero_Aleatorio 1 14`
-	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" , $foranea_id_instituto);" >> ingresar_grupos_auto.sql
-	
-	echo "Generando fila $i..."
-	(( i++ ))
-done
+done <<< "$lista_materias"
 
 echo "$( date ) - Proceso completado!!!"
 

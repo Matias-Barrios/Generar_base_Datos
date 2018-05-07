@@ -1,0 +1,84 @@
+APT
+Administracion y Contabilidad Informatizada
+Comercializacion
+Contabilidad Superior
+Economia y Finanzas
+Matematica A
+Matematica B
+Agronegocios
+Administracion y Gestion de la Empresa Agropecuaria
+Fisica Aplicada a la Agrotecnologia III
+Quimica Aplicada a la Agrotecnologia III
+Sistemas Productivos Agrarios Vegetales
+Sistemas Productivos Agrarios Animal
+Fisica
+Ingles Tecnico
+Sistemas de Control
+Avionica I "Instrumentos"
+Avionica II "Electricidad"
+Avionica III "Comunicaciones"
+Avionica IV "Navegacion"
+Practicas y Materiales de Mantenimiento II
+Administracion y Gestion de Obras III
+Informatica Aplicada C.A.D III
+Procesos Constructivos III
+Tecn. del Dise�o de la Construccion III
+Teoricas Constructivas Contemporaneas
+Deporte y Recreacion
+Fisica
+Biomecanica
+Psicologia del Deporte
+Estadistica
+Primeros Auxilios
+Gestion y Proyectos
+Taller de Deporte
+Electromecanica - Automotriz
+Administracion y Organizacion de Taller
+Electronica Analogica - Digital
+Electromecanica Automotriz II
+Fisica Tecnica III
+Analisis y Montaje de Sistemas Electricos
+Dispositivos Mecanicos de Control
+Electronica y Laboratorio III
+Fisica tecnica III
+Gestion del Mantenimiento Industrial
+Comunicaciones
+Electronica III
+Fisica Tecnica III
+Potencia y Control
+Laboratorio de Electronica
+Fisica Tecnica
+Gestion Empresarial
+Eficiancia Energetica
+Laboratorio de Biomasa
+Proyecto Electrico
+Proyecto Termico
+Analisis y Diseño de Aplicaciones
+Formacion Empresarial
+Programacion III
+Proyecto
+Sistemas Operativos III
+Base de Datos II
+Taller de Mantenimiento III
+Embrague Calificado
+Taller Naval III
+Termodinamica
+Maquinas Auxiliares
+Laboratorios de Electricidad
+Soldadura
+Fisica III
+Quimica Bio-Organica
+Quimica General III
+Introduccion a los Procesos Industriales
+Introduccion al Analisis Quimico
+Biologia Aplicada
+Electricidad III
+Seguridad Industrial
+Termofluidos y Proyecto
+Geografia III
+Historia de la Cultura III
+Taller de Recreacion y Cultura Ludica II
+Gestion Empresarial Turistica
+Contabilidad
+Legislacion Turistica Aplicada
+Planeamineto de Actividades Turisticas
