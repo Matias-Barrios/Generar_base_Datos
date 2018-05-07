@@ -13,6 +13,9 @@ lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )
 lista_apellidos=$( cat ./apellidos.txt | tr '\n' ' ' )
 lista_tipos_usuario="Admin Docente Alumno" 
 lista_pro_email="hotmail.com gmail.com its.edu.uy yahoo.com antel.com.uy"
+lista_orientaciones="ADMINISTRACIÓN ELECTROELECTRÓNICA QUÍMICA_BÁSICA QUÍMICA_INDUSTRIAL AERONÁUTICA ELECTROMECÁNICA TERMODINÁMICA AGRARIO ELECTROMECÁNICA_AUTOMOTRIZ TURISMO CONSTRUCCIÓN INFORMÁTICA DEPORTE_Y_RECREACIÓN MAQUINISTA_NAVAL ARTES_GRÁFICAS ENERGÍAS_RENOVABLES AUDIOVISUAL"
+lista_grupos_letras="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+lista_turnos="Vespertino Matutino Nocturno"
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -62,7 +65,7 @@ Generar_columnas () {
 
 echo "$( date ) - Proceso iniciado..."
 
-## Tabla Docentes
+## Tabla Alumnos
 
 i=0;
 
@@ -124,6 +127,27 @@ do
 	tipo="Docente"
 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"$hace_proyecto\" );" >> ingresar_docentes_auto.sql
 	
+	
+	echo "Generando fila $i..."
+	(( i++ ))
+done
+
+## Tabla Grupos
+
+i=0;
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXXPASSWORDXXXX';" > ingresar_grupos_auto.sql
+echo -e '\n' >> ingresar_grupos_auto.sql
+
+while [ $i -le 80 ]
+do
+	
+	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
+
+	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
+	orientacion=`Item_Aleatorio "$lista_orientaciones"` 
+	turno=`Item_Aleatorio "$lista_turnos"` 
+	foranea_id_instituto=`Numero_Aleatorio 1 14`
+	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" , $foranea_id_instituto);" >> ingresar_grupos_auto.sql
 	
 	echo "Generando fila $i..."
 	(( i++ ))

@@ -12,6 +12,7 @@ DROP TABLE IF EXISTS Evaluaciones;
 DROP TABLE IF EXISTS Institutos;
 DROP TABLE IF EXISTS Departamentos;
 
+
 CREATE TABLE Personas
  (
   CI  INT PRIMARY KEY  CONSTRAINT Personas_clave_primaria,
@@ -49,12 +50,12 @@ CREATE TABLE Institutos
 
   foranea_id_departamento INTEGER REFERENCES Departamentos (id_departamento) CONSTRAINT Institutos_fk_id_departamento
  );   
-                          
+                     
 CREATE TABLE Grupos
  (
   id_grupo  SERIAL PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
   nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
-  orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('Informatica', 'Mecanica', 'Electronica', 'Electromecanica')) CONSTRAINT orientacion_valida,
+  orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('ADMINISTRACIÓN','ELECTROELECTRÓNICA','QUÍMICA_BÁSICA','QUÍMICA_INDUSTRIAL','AERONÁUTICA','ELECTROMECÁNICA','TERMODINÁMICA,AGRARIO','ELECTROMECÁNICA_AUTOMOTRIZ','TURISMO,CONSTRUCCIÓN','INFORMÁTICA','DEPORTE_Y_RECREACIÓN','MAQUINISTA_NAVAL','ARTES_GRÁFICAS','ENERGÍAS_RENOVABLES','AUDIOVISUAL')) CONSTRAINT orientacion_valida,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
   baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
 
