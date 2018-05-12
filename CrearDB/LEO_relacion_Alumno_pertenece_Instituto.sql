@@ -18,5 +18,5 @@ INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_i
 VALUES (14303066, 1);
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
 VALUES (57414907, 1);
-INSERT INTO relacion_Profesor_pertenece_Instituto (foranea_CI_profesor, foranea_id_instituto)
+INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_profesor, foranea_id_instituto)
 VALUES (19988998, 1);
