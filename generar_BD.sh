@@ -17,6 +17,8 @@ lista_orientaciones="ADMINISTRACIÓN ELECTROELECTRÓNICA QUÍMICA_BÁSICA QUÍMI
 lista_grupos_letras="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 lista_turnos="Vespertino Matutino Nocturno"
 lista_materias=$( cat ./lista_materias.txt)
+lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia"
+lista_departamentos="Rocha Maldonado Montevideo Durazno Rio_Negro"
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -66,12 +68,40 @@ Generar_columnas () {
 
 echo "$( date ) - Proceso iniciado..."
 
-# ## Tabla Alumnos
+
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > LEO_ingresar_ciudades_auto.sql
+echo -e '\n' >> LEO_ingresar_ciudades_auto.sql
+
+while [ $i -le 4 ]
+do
+
+	echo "INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)" >> LEO_ingresar_ciudades_auto.sql
+	nombre_ciudad=`Item_Aleatorio "$lista_ciudades"` 
+ 	nombre_departamento=`Item_Aleatorio "$lista_departamentos"`
+	echo "VALUES ( \"$nombre_ciudad\" , \"$nombre_departamento\" , \"f\" );" >> LEO_ingresar_ciudades_auto.sql
+
+done <<< "$lista_materias"
+
+
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > LEO_ingresar_materias_auto.sql
+echo -e '\n' >> LEO_ingresar_materias_auto.sql
+
+while read materia 
+do
+
+	echo "INSERT INTO Materias (nombre_materia, descripcion,baja)" >> LEO_ingresar_materias_auto.sql
+	nombre_materia="$materia" 
+ 	descripcion="Aca va una descripcion! :)"
+	echo "VALUES ( \"$nombre_materia\" , \"$descripcion\" , \"f\" );" >> LEO_ingresar_materias_auto.sql
+
+done <<< "$lista_materias"
+
+# ## Tabla Personas
 
 # i=0;
 
-# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_alumnos_auto.sql
-# echo -e '\n' >> ingresar_alumnos_auto.sql
+# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_personas_auto.sql
+# echo -e '\n' >> ingresar_personas_auto.sql
 
 # while [ $i -le 600 ]
 # do
@@ -96,7 +126,7 @@ echo "$( date ) - Proceso iniciado..."
 # 		hace_proyecto="f"
 # 	fi
 # 	tipo="Alumno"
-# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_alumnos_auto.sql
+# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_personas_auto.sql
 	
 	
 # 	echo "Generando fila $i..."
@@ -154,20 +184,20 @@ echo "$( date ) - Proceso iniciado..."
 # 	(( i++ ))
 # done
 
-echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_materias_auto.sql
-echo -e '\n' >> ingresar_materias_auto.sql
+# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_materias_auto.sql
+# echo -e '\n' >> ingresar_materias_auto.sql
 
-while read materia 
-do
+# while read materia 
+# do
 
-	echo "INSERT INTO Materias (nombre_materia, descripcion,baja)" >> ingresar_materias_auto.sql
-	nombre_materia="$materia" 
- 	descripcion="Aca va una descripcion! :)"
-	echo "VALUES ( \"$nombre_materia\" , \"$descripcion\" , \"f\" );" >> ingresar_materias_auto.sql
+# 	echo "INSERT INTO Materias (nombre_materia, descripcion,baja)" >> ingresar_materias_auto.sql
+# 	nombre_materia="$materia" 
+#  	descripcion="Aca va una descripcion! :)"
+# 	echo "VALUES ( \"$nombre_materia\" , \"$descripcion\" , \"f\" );" >> ingresar_materias_auto.sql
 
-done <<< "$lista_materias"
+# done <<< "$lista_materias"
+
+# echo "$( date ) - Proceso completado!!!"
+
 
 echo "$( date ) - Proceso completado!!!"
-
-
-
