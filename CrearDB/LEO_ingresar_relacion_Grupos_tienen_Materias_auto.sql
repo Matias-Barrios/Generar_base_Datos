@@ -1,3 +1,5 @@
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUSARIOXXX'  USING 'XXXPASSWORDXXX';
+
 INSERT INTO relacion_Grupos_tienen_Materias (foranea_id_grupo, foranea_id_materia)
 VALUES (1, 1);
 INSERT INTO relacion_Grupos_tienen_Materias (foranea_id_grupo, foranea_id_materia)
