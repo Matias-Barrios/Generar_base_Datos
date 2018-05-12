@@ -1,3 +1,5 @@
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUSARIOXXX'  USING 'XXXPASSWORDXXX';
+
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
 VALUES (13839024, 1);
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
