@@ -17,8 +17,13 @@ lista_orientaciones="ADMINISTRACIÓN ELECTROELECTRÓNICA QUÍMICA_BÁSICA QUÍMI
 lista_grupos_letras="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 lista_turnos="Vespertino Matutino Nocturno"
 lista_materias=$( cat ./lista_materias.txt)
-lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia"
-lista_departamentos="Rocha Maldonado Montevideo Durazno Rio_Negro"
+lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia Pando Colonia San_Luis Piedras_Blancas La_Union San_Peperino_Pomoro"
+lista_departamentos="Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja Maldonado Montevideo Paysandú Río_Negro Rivera Rocha Salto San_José Soriano Tacuarembó Treinta_y_Tres"
+
+
+
+    
+
 
 Item_Aleatorio () {
 	local arr=($1)
@@ -72,15 +77,15 @@ echo "$( date ) - Proceso iniciado..."
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > LEO_ingresar_ciudades_auto.sql
 echo -e '\n' >> LEO_ingresar_ciudades_auto.sql
 
-while [ $i -le 4 ]
+while read ciudad
 do
 
 	echo "INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)" >> LEO_ingresar_ciudades_auto.sql
-	nombre_ciudad=`Item_Aleatorio "$lista_ciudades"` 
+	nombre_ciudad="$ciudad" 
  	nombre_departamento=`Item_Aleatorio "$lista_departamentos"`
 	echo "VALUES ( \"$nombre_ciudad\" , \"$nombre_departamento\" , \"f\" );" >> LEO_ingresar_ciudades_auto.sql
 
-done <<< "$lista_materias"
+done <<< "$( echo $lista_ciudades | tr ' ' '\n' )"
 
 
 echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > LEO_ingresar_materias_auto.sql
@@ -96,42 +101,65 @@ do
 
 done <<< "$lista_materias"
 
-# ## Tabla Personas
+## Tabla Grupos
 
-# i=0;
+i=0;
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_grupos_auto.sql
+echo -e '\n' >> ingresar_grupos_auto.sql
 
-# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_personas_auto.sql
-# echo -e '\n' >> ingresar_personas_auto.sql
-
-# while [ $i -le 600 ]
-# do
+while [ $i -le 25 ]
+do
 	
-# 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_alumnos_auto.sql
+	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
 
-# 	CI=`Cedula_Aleatoria` 
-# 	primer_nombre=`Item_Aleatorio "$lista_nombres"`
-# 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
-# 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
-# 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-# 	grado=1
-# 	numero_dias=`Numero_Aleatorio 5400 19000` 
-# 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
-# 	nota=1
-# 	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-# 	hace_proyecto=`Numero_Aleatorio 1 30`
-# 	if [[ hace_proyecto -gt 29 ]]
-# 	then
-# 		hace_proyecto="t"
-# 	else
-# 		hace_proyecto="f"
-# 	fi
-# 	tipo="Alumno"
-# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"f\" );" >> ingresar_personas_auto.sql
+	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
+	orientacion=`Item_Aleatorio "$lista_orientaciones"` 
+	turno=`Item_Aleatorio "$lista_turnos"` 
+	foranea_id_instituto=`Numero_Aleatorio 1 3`
+	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" , $foranea_id_instituto);" >> ingresar_grupos_auto.sql
+	
+	echo "Generando fila $i..."
+	(( i++ ))
+done
+
+
+
+
+## Tabla Personas
+
+i=0;
+
+echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > LEO_ingresar_personas_auto.sql
+echo -e '\n' >> LEO_ingresar_personas_auto.sql
+
+while [ $i -le 600 ]
+do
+	
+	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)" >> LEO_ingresar_personas_auto.sql
+
+	CI=`Cedula_Aleatoria` 
+	primer_nombre=`Item_Aleatorio "$lista_nombres"`
+	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
+	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
+	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
+	numero_dias=`Numero_Aleatorio 5400 19000` 
+	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
+	hace_proyecto=`Numero_Aleatorio 1 30`
+	if [[ hace_proyecto -gt 29 ]]
+	then
+		hace_proyecto="t"
+	else
+		hace_proyecto="f"
+	fi
+	tipo="Alumno"
+	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , NULL , \"f\" );" >> LEO_ingresar_personas_auto.sql
 	
 	
-# 	echo "Generando fila $i..."
-# 	(( i++ ))
-# done
+	echo "Generando fila $i..."
+	(( i++ ))
+done
+
 
 # ## Tabla Docentes
 

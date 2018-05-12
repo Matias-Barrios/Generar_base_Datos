@@ -64,7 +64,6 @@ CREATE TABLE Personas
   segundo_apellido   varchar(25),
   fecha_nacimiento DATE NOT NULL CONSTRAINT fecha_nacimiento_vacio,
   email varchar(80),
-  hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio

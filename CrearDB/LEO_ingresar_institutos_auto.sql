@@ -2,19 +2,19 @@ CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto' USING 'tercero2018';
 
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica "Arroyo Seco"', "Av. Agraciada Esq. Aguilar", 2544, "29243865|29243856", "etas010@gmail.com", "f", 10);
+VALUES ('Escuela Técnica "Arroyo Seco"', "Av. Agraciada Esq. Aguilar", 2544, "29243865|29243856", "etas010@gmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Intituto Técnico Superior "Buceo"', "Av. Rivera Esq. Tomas de Tésanos", 3729 , "26285408|26285813", "itsbuceo@gmail.com", "f", 10);
+VALUES ('Intituto Técnico Superior "Buceo"', "Av. Rivera Esq. Tomas de Tésanos", 3729 , "26285408|26285813", "itsbuceo@gmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Cerro "Mtro. Nicasio García"', "Portugal Esq. Carlos Mª Ramírez", 4257 , "23111056|23119407|23114949", "portugal4257@hotmail.com", "f", 10);
+VALUES ('Escuela Técnica Cerro "Mtro. Nicasio García"', "Portugal Esq. Carlos Mª Ramírez", 4257 , "23111056|23119407|23114949", "portugal4257@hotmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Colón  "Don Alberico Passadore"', "Cno. Colman Esq. Cesar Mayo Gutierrez", 5274 , "23209511|23205789", "estecolon@gmail.com", "f", 10);
+VALUES ('Escuela Técnica Colón  "Don Alberico Passadore"', "Cno. Colman Esq. Cesar Mayo Gutierrez", 5274 , "23209511|23205789", "estecolon@gmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Flor de Maroñas', "Andrés Latorre Esq. Veracierto", 4914 , "25148177|25148210", "utuflor2012@hotmail.com", "f", 10);
+VALUES ('Escuela Técnica Flor de Maroñas', "Andrés Latorre Esq. Veracierto", 4914 , "25148177|25148210", "utuflor2012@hotmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
 VALUES ('Escuela Técnica Artigas', "Bernabé Rivera Esq. Gral Rivera", 626 , "47723687|47725988", "etautu626@adinet.com.uy", "f", 1);
@@ -35,18 +35,18 @@ INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_i
 VALUES ('Escuela Técnica Melo', "Treinta y Tres Esq. Oribe (Melo)", 290, "46422121|46429133|46424496", "escuelatmelo@gmail.com", "f", 3);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Carmelo', "José E. Rodó Esq. Ruta 21", NULL, "45422317|45424015", "utucarmelo@hotmail.com", "f", 4);
+VALUES ('Escuela Técnica Carmelo', "José E. Rodó Esq. Ruta 21", NULL, "45422317|45424015", "utucarmelo@hotmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica ERCNA', "18 de Julio s/n esq. Arroyo de las Vacas (Carmelo)", NULL, "45422372|45423912", "utu_ercna@hotmail.com", "f", 4);
+VALUES ('Escuela Técnica ERCNA', "18 de Julio s/n esq. Arroyo de las Vacas (Carmelo)", NULL, "45422372|45423912", "utu_ercna@hotmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Colonia', "F.D. Roosvelt esq. Río Negro", 167, "45222960|45220261", "utu.colonia.sac@gmail.com", "f", 4);
+VALUES ('Escuela Técnica Colonia', "F.D. Roosvelt esq. Río Negro", 167, "45222960|45220261", "utu.colonia.sac@gmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Durazno', "Herrera Esq. Juan Bautista de León", 1098, "43626288|43627735", "etecnicadurazno@gmail.com", "f", 5);
+VALUES ('Escuela Técnica Durazno', "Herrera Esq. Juan Bautista de León", 1098, "43626288|43627735", "etecnicadurazno@gmail.com", "f", 2);
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
-VALUES ('Escuela Técnica Sarandí del Yí', "A. Sosa Bernadet Esq. Alvariza", 579, "43679068|43639099", "utusarandidelyi@gmail.com", "f", 5);
+VALUES ('Escuela Técnica Sarandí del Yí', "A. Sosa Bernadet Esq. Alvariza", 579, "43679068|43639099", "utusarandidelyi@gmail.com", "f", 2);
 
 -- fin
