@@ -34,13 +34,13 @@ VALUES ( "Ingles Tecnico" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Sistemas de Control" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica I "Instrumentos"" , "Aca va una descripcion! :)" , "f" );
+VALUES ( "Avionica I Instrumentos" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica II "Electricidad"" , "Aca va una descripcion! :)" , "f" );
+VALUES ( "Avionica II Electricidad" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica III "Comunicaciones"" , "Aca va una descripcion! :)" , "f" );
+VALUES ( "Avionica III Comunicaciones" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica IV "Navegacion"" , "Aca va una descripcion! :)" , "f" );
+VALUES ( "Avionica IV Navegacion" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Practicas y Materiales de Mantenimiento II" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
@@ -50,7 +50,7 @@ VALUES ( "Informatica Aplicada C.A.D III" , "Aca va una descripcion! :)" , "f" )
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Procesos Constructivos III" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Tecn. del Dise�o de la Construccion III" , "Aca va una descripcion! :)" , "f" );
+VALUES ( "Tecn. del Diseño de la Construccion III" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Teoricas Constructivas Contemporaneas" , "Aca va una descripcion! :)" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
