@@ -1,4 +1,4 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto' USING 'tercero2018';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUSARIOXXX' USING 'XXXPASSWORDXXX';
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_departamento)
 VALUES ('Escuela Técnica "Arroyo Seco"', "Av. Agraciada Esq. Aguilar", 2544, "29243865|29243856", "etas010@gmail.com", "f", 10);

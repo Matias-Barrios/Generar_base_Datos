@@ -1,4 +1,4 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'tercero2018';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUSARIOXXX'  USING 'XXXPASSWORDXXX';
 
 
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
