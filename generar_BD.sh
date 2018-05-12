@@ -110,7 +110,7 @@ echo -e '\n' >> ingresar_grupos_auto.sql
 while [ $i -le 25 ]
 do
 	
-	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
+	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_ciudad)" >> ingresar_grupos_auto.sql
 
 	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
 	orientacion=`Item_Aleatorio "$lista_orientaciones"` 

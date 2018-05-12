@@ -41,7 +41,7 @@ CREATE TABLE Institutos
   email varchar(80),
   baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio,
 
-  foranea_id_departamento INTEGER REFERENCES Ciudad (id_ciudad) CONSTRAINT Institutos_fk_id_ciudad
+  foranea_id_ciudad INTEGER REFERENCES Ciudad (id_ciudad) CONSTRAINT Institutos_fk_id_ciudad
  ); 
 
 CREATE TABLE Grupos
