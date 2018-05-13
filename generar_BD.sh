@@ -421,7 +421,7 @@ echo "$( date ) - Proceso iniciado..."
 
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
-	k=0;
+	k=1;
 	while read id_grupo
 	do
 		i=56
@@ -431,10 +431,10 @@ echo "$( date ) - Proceso iniciado..."
 			while [ $j -le 25 ]
 			do
 
-				echo "INSERT INTO relacion_Alumno_Materias_Grupos (foranea_CI_alumno, foranea_id_materia,foranea_id_grupo)" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+				echo "INSERT INTO relacion_Alumno_Materias_Grupos (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo)" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
 				id_alumno=`sed -n "$k"' p' todas_CI_alumno.txt`
 				(( k++ ))
-				echo "VALUES ( $id_alumno, $i , $id_grupo );" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+				echo "VALUES ( $id_alumno, $i, $id_grupo );" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
 				(( j++ ))		
 			done 
 		
