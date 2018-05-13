@@ -367,14 +367,14 @@ echo "$( date ) - Proceso iniciado..."
 # );
 
 	echo "Generando relacion_Profesor_pertenece_Instituto"
-	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 11_AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
-	echo -e '\n' >> 11_AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 11_AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
+	echo -e '\n' >> 11_AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
 
 	while read id_profesor
 	do
 		
-		echo "INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)" >> 11_AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
-		echo "VALUES ( $id_profesor, 1 );" >> 11_AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
+		echo "INSERT INTO relacion_Profesor_pertenece_Instituto (foranea_CI_profesor, foranea_id_instituto)" >> 11_AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
+		echo "VALUES ( $id_profesor, 1 );" >> 11_AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
 		
 		
 	done <<< "$( cat ./todas_CI_Profesores.txt )"
