@@ -421,7 +421,7 @@ echo "$( date ) - Proceso iniciado..."
 #     foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_id_grupo,
 #     PRIMARY KEY (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo) CONSTRAINT rrelacion_personas_pertenecen_grupos_clave_primaria
 # );
-
+	> ./lista_alumnos_asignados_a_materia_y_grupo.txt
 	echo "Generando relacion_Alumno_Materias_Grupos"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
@@ -507,7 +507,7 @@ echo "$( date ) - Proceso iniciado..."
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_Evaluaciones_auto.sql
 	echo -e '\n' >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
 	i=0
-	while [ $i -le 5 ]
+	while [ $i -le 100 ]
 	do
 	
 			lista_CI_profesor=$( cat ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' )
