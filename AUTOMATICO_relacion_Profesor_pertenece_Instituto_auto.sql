@@ -2,102 +2,102 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 31014270, 1 , "f" );
+VALUES ( 19506619, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 48782197, 1 , "f" );
+VALUES ( 41491507, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 57001857, 1 , "f" );
+VALUES ( 49865237, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 55791527, 1 , "f" );
+VALUES ( 44131170, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 17135595, 1 , "f" );
+VALUES ( 19150690, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 31176585, 1 , "f" );
+VALUES ( 14974869, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 52935463, 1 , "f" );
+VALUES ( 57910155, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 49130074, 1 , "f" );
+VALUES ( 32895134, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 57363796, 1 , "f" );
+VALUES ( 39261924, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 25016616, 1 , "f" );
+VALUES ( 56559568, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 14150996, 1 , "f" );
+VALUES ( 57736333, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 43223342, 1 , "f" );
+VALUES ( 25797113, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 47121885, 1 , "f" );
+VALUES ( 21394705, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 23752006, 1 , "f" );
+VALUES ( 35573927, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 36081155, 1 , "f" );
+VALUES ( 52870429, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 46426567, 1 , "f" );
+VALUES ( 31653656, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 45708348, 1 , "f" );
+VALUES ( 31302485, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 46805888, 1 , "f" );
+VALUES ( 41352438, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 17202217, 1 , "f" );
+VALUES ( 53779010, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 26699029, 1 , "f" );
+VALUES ( 43317284, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 42417291, 1 , "f" );
+VALUES ( 35076123, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 31760386, 1 , "f" );
+VALUES ( 52001125, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 34705723, 1 , "f" );
+VALUES ( 17059147, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 58580892, 1 , "f" );
+VALUES ( 52315067, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 12900070, 1 , "f" );
+VALUES ( 51865271, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 19570359, 1 , "f" );
+VALUES ( 39429019, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 59536870, 1 , "f" );
+VALUES ( 24998615, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 23467417, 1 , "f" );
+VALUES ( 42678689, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 38690584, 1 , "f" );
+VALUES ( 28414089, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 58015318, 1 , "f" );
+VALUES ( 47187279, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 48379655, 1 , "f" );
+VALUES ( 54633530, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 57519216, 1 , "f" );
+VALUES ( 48153695, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 32198427, 1 , "f" );
+VALUES ( 18743941, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 43789479, 1 , "f" );
+VALUES ( 12017841, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 46698106, 1 , "f" );
+VALUES ( 42720054, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 31819862, 1 , "f" );
+VALUES ( 17663295, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 44400286, 1 , "f" );
+VALUES ( 51845576, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 13184558, 1 , "f" );
+VALUES ( 56902660, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 18888672, 1 , "f" );
+VALUES ( 33307976, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 31947699, 1 , "f" );
+VALUES ( 46337114, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 54285046, 1 , "f" );
+VALUES ( 17240910, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 38128137, 1 , "f" );
+VALUES ( 37754272, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 51673874, 1 , "f" );
+VALUES ( 38259427, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 58223709, 1 , "f" );
+VALUES ( 57131604, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 17846734, 1 , "f" );
+VALUES ( 17908215, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 11846926, 1 , "f" );
+VALUES ( 31263980, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 57060180, 1 , "f" );
+VALUES ( 52683903, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 34152451, 1 , "f" );
+VALUES ( 52661498, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 11066647, 1 , "f" );
+VALUES ( 55292189, 1 , "f" );
 INSERT INTO relacion_Grupos_pertenecen_Institutos (foranea_CI_profesor, foranea_id_instituto)
-VALUES ( 28238043, 1 , "f" );
+VALUES ( 32261842, 1 , "f" );

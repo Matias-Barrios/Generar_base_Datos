@@ -19,7 +19,7 @@ lista_turnos="Vespertino Matutino Nocturno"
 lista_materias=$( cat ./lista_materias.txt)
 lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia Pando Colonia San_Luis Piedras_Blancas La_Union San_Peperino_Pomoro"
 lista_departamentos="Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja Maldonado Montevideo Paysandú Río_Negro Rivera Rocha Salto San_José Soriano Tacuarembó Treinta_y_Tres"
-
+lista_tipos_evaluacion="Trabajo_laboratorio Trabajo_domiciliario Trabajo_practico Trabajo_investigacion Trabajo_escrito Oral Parcial Primera_entrega_proyecto Segunda_entrega_proyecto Defensa_individual Defensa_grupal"
 
 
     
@@ -84,6 +84,7 @@ echo "$( date ) - Proceso iniciado..."
 #   nombre_departamento varchar(50) NOT NULL CONSTRAINT Departamento_nombre_vacio,
 #   baja boolean NOT NULL CONSTRAINT Ciudad_baja_vacio
 #  );
+	echo "Generando Ciudad"	
 	i=0;
 	> ./todos_codigos_ciudad.txt
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_ciudades_auto.sql
@@ -114,7 +115,7 @@ echo "$( date ) - Proceso iniciado..."
 #   descripcion   varchar(255),
 #   baja boolean NOT NULL CONSTRAINT Materias_baja_vacio
 #  );
-
+	echo "Generando Grupos"	
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_materia_auto.sql
 	echo -e '\n' >> AUTOMATICO_ingresar_materia_auto.sql
 	i=0;
@@ -147,7 +148,7 @@ echo "$( date ) - Proceso iniciado..."
 
 #   foranea_id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_id_instituto
 #  );
-
+	echo "Generando Grupos"	
 	> ./todos_codigos_grupos.txt
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_grupos_auto.sql
 	echo -e '\n' >> AUTOMATICO_ingresar_grupos_auto.sql
@@ -184,7 +185,7 @@ echo "$( date ) - Proceso iniciado..."
 #   encriptacion_sal varchar(250),
 #   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
 #  );
-
+	echo "Generando Personas"	  
 	> ./todas_las_CI_personas.txt
 
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_personas_auto.sql
@@ -215,7 +216,7 @@ echo "$( date ) - Proceso iniciado..."
 		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , NULL , \"f\" );" >> AUTOMATICO_ingresar_personas_auto.sql
 		
 		
-		echo "Generando Personas $i..."
+		
 		(( i++ ))
 	done
 ###########################################
@@ -233,7 +234,7 @@ echo "$( date ) - Proceso iniciado..."
 #   baja boolean NOT NULL CONSTRAINT Alumno_baja_vacio
 #  );
 
-     
+    echo "Generando Alumnos"	  
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_alumno_auto.sql
 	echo -e '\n' >> AUTOMATICO_ingresar_alumno_auto.sql
 
@@ -250,7 +251,7 @@ echo "$( date ) - Proceso iniciado..."
 		nota_final=0
 		echo "VALUES ( $CI_alumno, \"t\", $nota_final, \"f\" );" >> AUTOMATICO_ingresar_alumno_auto.sql
 		
-		echo "Generando Profesor $i..."
+		
 		(( i++ ))
 	done <<< "$lista_CI_alumno"
 ###########################################
@@ -266,7 +267,7 @@ echo "$( date ) - Proceso iniciado..."
 #   grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
 #   baja boolean NOT NULL CONSTRAINT Profesor_baja_vacio
 #  );
-
+	echo "Generando Profesores"	
 	lista_CI_profesor=$( head -50  ./todas_las_CI_personas.txt)
 	> ./todas_CI_Profesores.txt
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_profesor_auto.sql
@@ -274,7 +275,7 @@ echo "$( date ) - Proceso iniciado..."
 	i=0;
 	while read CI_profesor
 	do
-		
+	
 		echo "INSERT INTO Profesor (CI_profesor, grado, baja)" >> AUTOMATICO_ingresar_profesor_auto.sql
 
 		CI_profesor="$CI_profesor"
@@ -282,7 +283,7 @@ echo "$( date ) - Proceso iniciado..."
 		grado=`Numero_Aleatorio 1 7`
 		echo "VALUES ( $CI_profesor, $grado, \"f\" );" >> AUTOMATICO_ingresar_profesor_auto.sql
 		
-		echo "Generando Alumno $i..."
+		
 		(( i++ ))
 	done <<< "$lista_CI_profesor"
 ###########################################
@@ -299,6 +300,7 @@ echo "$( date ) - Proceso iniciado..."
 #     PRIMARY KEY (foranea_id_grupo,foranea_id_materia) CONSTRAINT relacion_Grupos_tienen_Materias_clave_primaria
 # );
 
+	echo "Generando relacion_Grupos_tienen_Materias"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 
@@ -336,6 +338,7 @@ echo "$( date ) - Proceso iniciado..."
 #     PRIMARY KEY (foranea_id_grupo, foranea_id_instituto) CONSTRAINT relacion_Grupos_pertenecen_Institutos_clave_primaria
 # );
 
+	echo "Generando relacion_Grupos_pertenecen_Institutos"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Grupos_pertenecen_Institutos_auto.sql
 
@@ -363,6 +366,7 @@ echo "$( date ) - Proceso iniciado..."
 #     PRIMARY KEY (foranea_CI_profesor, foranea_id_instituto) CONSTRAINT relacion_Profesor_pertenece_Instituto_clave_primaria
 # );
 
+	echo "Generando relacion_Profesor_pertenece_Instituto"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Profesor_pertenece_Instituto_auto.sql
 
@@ -390,7 +394,7 @@ echo "$( date ) - Proceso iniciado..."
 #     PRIMARY KEY (foranea_CI_alumno, foranea_id_instituto) CONSTRAINT relacion_Alumno_pertenece_Instituto_clave_primaria
 # );
 
-
+	echo "Generando relacion_Alumno_pertenece_Instituto"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Alumno_pertenece_Instituto_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Alumno_pertenece_Instituto_auto.sql
 
@@ -418,100 +422,121 @@ echo "$( date ) - Proceso iniciado..."
 #     PRIMARY KEY (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo) CONSTRAINT rrelacion_personas_pertenecen_grupos_clave_primaria
 # );
 
-
+	echo "Generando relacion_Alumno_Materias_Grupos"
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
 	echo -e '\n' >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
-	k=1;
+	offset=0
 	while read id_grupo
 	do
 		i=56
 		while [ $i -le 62 ]
 		do
-			j=0
-			while [ $j -le 25 ]
+			while read alumno
 			do
-
 				echo "INSERT INTO relacion_Alumno_Materias_Grupos (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo)" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
-				id_alumno=`sed -n "$k"' p' todas_CI_alumno.txt`
-				(( k++ ))
-				echo "VALUES ( $id_alumno, $i, $id_grupo );" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
-				(( j++ ))		
-			done 
-		
+				echo "VALUES ( $alumno, $i, $id_grupo );"  >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+				echo "$alumno $i $id_grupo" >> ./lista_alumnos_asignados_a_materia_y_grupo.txt
+			done <<< "$( tail -n +$offset ./todas_CI_alumno.txt | head  -25 )"
 			(( i++ ))
 		done 
+		offset=$(( offset + 26 ))
 	done <<< "$( cat ./todos_codigos_grupos.txt )"
 ###########################################
 ## FIN 
 ###########################################
 
 
+###########################################
+## Tabla relacion_Profesor_Materias_Grupos
+###########################################
+# CREATE TABLE relacion_Profesor_Materias_Grupos
+# (
+#     foranea_CI_profesor INTEGER REFERENCES Profesor (CI_profesor) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_Personas_CI,
+#     foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_materia,
+#     foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_grupo,
+#     PRIMARY KEY (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_clave_primaria
+# );
+	echo "Generando relacion_Profesor_Materias_Grupos"
+	> ./lista_profesores_asignados_a_materia_y_grupo.txt
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+	echo -e '\n' >> AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+	offset=0
+	while read id_grupo
+	do
+		i=56
+		while [ $i -le 62 ]
+		do
+				lista_CI_profesor=$( echo "$lista_CI_profesor" | tr '\n' ' ' )
+				profe=`Item_Aleatorio "$lista_CI_profesor"`
+				echo "About to insert $profe"
+				echo "INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)" >> AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+				echo "VALUES ( $profe, $i, $id_grupo );"  >> AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+				echo "$profe $i $id_grupo" >> ./lista_profesores_asignados_a_materia_y_grupo.txt
+				(( i ++ ))
+		done 
+		offset=$(( offset + 21 ))
+	done <<< "$( cat ./todos_codigos_grupos.txt )"
 
-# ## Tabla Docentes
 
-# i=0;
-# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_docentes_auto.sql
-# echo -e '\n' >> ingresar_docentes_auto.sql
+###########################################
+## FIN 
+###########################################
 
-# while [ $i -le 60 ]
-# do
+###########################################
+## Tabla Evaluaciones
+###########################################
+#  CREATE TABLE Evaluaciones
+#  (
+#   id_evaluacion  SERIAL,
+#   CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT evaluaciones_fk_personas_CI_profesor,
+#   CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT evaluaciones_fk_personas_CI_alumno,
+#   id_materia INTEGER REFERENCES Materias (id_materia) CONSTRAINT evaluaciones_fk_materias_id_materia,
+#   id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT evaluaciones_fk_grupos_id_grupo,
+#   nombre_evaluacion varchar(40) NOT NULL CONSTRAINT Evaluaciones_nombre_vacio,
+#   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT Evaluaciones_categoria_valida,
+#   fecha_eva DATE NOT NULL CONSTRAINT fecha_eva_vacio,
+#   descripcion   varchar(255),
+#   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT evaluaciones_nota_valida,
+#   baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio,
+
+#   PRIMARY KEY (id_evaluacion,CI_profesor, CI_alumno, id_materia, id_grupo ) CONSTRAINT evaluaciones_clave_primaria
+#  );
+
+	echo "Generando Evaluaciones"
 	
-# 	echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,grado,fecha_nacimiento,nota,email,hace_proyecto,tipo,encriptacion_hash,encriptacion_sal,baja)" >> ingresar_docentes_auto.sql
-
-# 	CI=`Cedula_Aleatoria` 
-# 	primer_nombre=`Item_Aleatorio "$lista_nombres"`
-# 	segundo_nombre=`Item_Aleatorio "$lista_nombres"` 
-# 	primer_apellido=`Item_Aleatorio "$lista_apellidos"` 
-# 	segundo_apellido=`Item_Aleatorio "$lista_apellidos"` 
-# 	grado=`Numero_Aleatorio 1 7` 
-# 	numero_dias=`Numero_Aleatorio 5400 19000` 
-# 	fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
-# 	nota=1
-# 	email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-# 	hace_proyecto="f"
-# 	tipo="Docente"
-# 	echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , $grado, \"$fecha_nacimiento\" , $nota , \"$email\" , \"$hace_proyecto\" , \"$tipo\" , NULL , NULL , \"$hace_proyecto\" );" >> ingresar_docentes_auto.sql
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_ingresar_Evaluaciones_auto.sql
+	echo -e '\n' >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
+	i=0
+	while [ $i -le 5 ]
+	do
 	
-	
-# 	echo "Generando fila $i..."
-# 	(( i++ ))
-# done
+			lista_CI_profesor=$( cat ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' )
+			profe=`Item_Aleatorio "$lista_CI_profesor"`
+			echo "Buscando un grupo, un alumno y una materia relacionados con $profe..."
+			grupos_del_profe=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $3}' | tr '\n' ' '`
+			materias_del_profe=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $2}' | tr '\n' ' '`
+			una_materia_del_profe=`Item_Aleatorio "$materias_del_profe"`
+			un_grupo_del_profe=`Item_Aleatorio "$grupos_del_profe"`
+			echo "Buscando alumnos de ese grupo y esa materia :  $un_grupo_del_profe y $una_materia_del_profe"
+			alumnos_de_ese_grupo_y_esa_materia=`grep " $una_materia_del_profe $un_grupo_del_profe" ./lista_alumnos_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' `
+			un_alumno_random=`Item_Aleatorio "$alumnos_de_ese_grupo_y_esa_materia"`
+			numero_dias=`Numero_Aleatorio 1 90` 
+			fecha_eva="`date +%m/%d/%Y --date "$numero_dias days ago"`"
+			categoria=`Item_Aleatorio "$lista_tipos_evaluacion"`
+			nota=`Numero_Aleatorio 1 12` 
+			echo "Insertando $profe $un_alumno_random $una_materia_del_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
+			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			
+			echo "VALUES ( $profe, $un_alumno_random, $una_materia_del_profe, $un_grupo_del_profe, \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			
+			(( i ++ ))
+	done
 
-# ## Tabla Grupos
 
-# i=0;
-# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_grupos_auto.sql
-# echo -e '\n' >> ingresar_grupos_auto.sql
+###########################################
+## FIN 
+###########################################
 
-# while [ $i -le 25 ]
-# do
-	
-# 	echo "INSERT INTO Grupos (nombre_grupo, orientacion,turno,baja,foranea_id_instituto)" >> ingresar_grupos_auto.sql
-
-# 	nombre_grupo="3"`Item_Aleatorio "$lista_grupos_letras"``Item_Aleatorio "$lista_grupos_letras"`
-# 	orientacion=`Item_Aleatorio "$lista_orientaciones"` 
-# 	turno=`Item_Aleatorio "$lista_turnos"` 
-# 	foranea_id_instituto=`Numero_Aleatorio 1 14`
-# 	echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" , $foranea_id_instituto);" >> ingresar_grupos_auto.sql
-	
-# 	echo "Generando fila $i..."
-# 	(( i++ ))
-# done
-
-# echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > ingresar_materias_auto.sql
-# echo -e '\n' >> ingresar_materias_auto.sql
-
-# while read materia 
-# do
-
-# 	echo "INSERT INTO Materias (nombre_materia, descripcion,baja)" >> ingresar_materias_auto.sql
-# 	nombre_materia="$materia" 
-#  	descripcion="Aca va una descripcion! :)"
-# 	echo "VALUES ( \"$nombre_materia\" , \"$descripcion\" , \"f\" );" >> ingresar_materias_auto.sql
-
-# done <<< "$lista_materias"
-
-# echo "$( date ) - Proceso completado!!!"
 
 
 echo "$( date ) - Proceso completado!!!"

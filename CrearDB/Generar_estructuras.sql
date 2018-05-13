@@ -117,7 +117,6 @@ DROP TABLE IF EXISTS relacion_Grupos_tienen_Materias;
 DROP TABLE IF EXISTS relacion_Grupos_pertenecen_Institutos;
 DROP TABLE IF EXISTS relacion_Profesor_pertenece_Instituto;
 DROP TABLE IF EXISTS relacion_Alumno_pertenece_Instituto;
-
 DROP TABLE IF EXISTS relacion_Alumno_Materias_Grupos;
 
 DROP TABLE IF EXISTS relacion_Profesor_Materias_Grupos;
