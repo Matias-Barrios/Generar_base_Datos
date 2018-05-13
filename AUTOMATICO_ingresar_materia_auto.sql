@@ -34,13 +34,13 @@ VALUES ( "Ingles Tecnico" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Sistemas de Control" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica I "Instrumentos"" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Avionica I Instrumentos" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica II "Electricidad"" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Avionica II Electricidad" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica III "Comunicaciones"" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Avionica III Comunicaciones" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
-VALUES ( "Avionica IV "Navegacion"" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Avionica IV Navegacion" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
 VALUES ( "Practicas y Materiales de Mantenimiento II" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Materias (nombre_materia, descripcion,baja)
