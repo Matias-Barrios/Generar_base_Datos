@@ -14,10 +14,10 @@ Sistemas Productivos Agrarios Animal
 Fisica
 Ingles Tecnico
 Sistemas de Control
-Avionica I "Instrumentos"
-Avionica II "Electricidad"
-Avionica III "Comunicaciones"
-Avionica IV "Navegacion"
+Avionica I Instrumentos
+Avionica II Electricidad
+Avionica III Comunicaciones
+Avionica IV Navegacion
 Practicas y Materiales de Mantenimiento II
 Administracion y Gestion de Obras III
 Informatica Aplicada C.A.D III
