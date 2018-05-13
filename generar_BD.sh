@@ -515,19 +515,21 @@ echo "$( date ) - Proceso iniciado..."
 			echo "Buscando un grupo, un alumno y una materia relacionados con $profe..."
 			grupos_del_profe=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $3}' | tr '\n' ' '`
 			un_grupo_del_profe=`Item_Aleatorio "$grupos_del_profe"`
-			materias_que_da_para_ese_grupo=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | grep -E "$un_grupo_del_profe'$'" | awk '{ print $2}' | tr '\n' ' '`
-			una_materia_que_da_el_profe=`Item_Aleatorio "$materias_del_profe"`
-			echo "Buscando alumnos de ese grupo y esa materia :  $un_grupo_del_profe y $una_materia_del_profe"
-			alumnos_de_ese_grupo_y_esa_materia=`grep " $una_materia_del_profe $un_grupo_del_profe" ./lista_alumnos_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' `
+			
+			materias_que_da_para_ese_grupo=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | grep -E "$un_grupo_del_profe"'$' | awk '{ print $2}' | tr '\n' ' '`
+			
+			una_materia_que_da_el_profe=`Item_Aleatorio "$materias_que_da_para_ese_grupo"`
+			echo "Buscando alumnos de ese grupo y esa materia :  $un_grupo_del_profe y $una_materia_que_da_el_profe"
+			alumnos_de_ese_grupo_y_esa_materia=`grep " $una_materia_que_da_el_profe $un_grupo_del_profe" ./lista_alumnos_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' `
 			un_alumno_random=`Item_Aleatorio "$alumnos_de_ese_grupo_y_esa_materia"`
 			numero_dias=`Numero_Aleatorio 1 90` 
 			fecha_eva="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 			categoria=`Item_Aleatorio "$lista_tipos_evaluacion"`
 			nota=`Numero_Aleatorio 1 12` 
-			echo "Insertando $profe $un_alumno_random $una_materia_del_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
+			echo "Insertando $profe $un_alumno_random $una_materia_que_da_el_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
 			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
-			echo "VALUES ( $profe, $un_alumno_random, $una_materia_del_profe, $un_grupo_del_profe, \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))
 	done

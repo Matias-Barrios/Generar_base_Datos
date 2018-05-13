@@ -2,14 +2,14 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 22039655, 41685877, 59, 6, "Trabajo_practico", "02/17/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 45862247, 22624397, 58, 3, "Trabajo_escrito", "03/09/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29977400, 27288570, 56, 5, "Trabajo_escrito", "04/17/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 41099250, 39109255, 58, 15, "Segunda_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 11737759, 43331929, 60, 4, "Defensa_grupal", "03/11/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 31663784, 47957630, 61, 5, "Trabajo_laboratorio", "03/30/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 58312384, 51370309, 56, 6, "Defensa_grupal", "04/11/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 14396156, 23929764, 62, 16, "Segunda_entrega_proyecto", "03/05/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 55788691, 43776355, 57, 20, "Trabajo_escrito", "04/16/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 37100354, 42613512, 59, 17, "Trabajo_laboratorio", "03/12/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 54812493, 42906153, 56, 17, "Defensa_grupal", "04/27/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 32273241, 15495428, 57, 21, "Trabajo_domiciliario", "04/05/2018", "Esto es una descripcion", 6, "f");
