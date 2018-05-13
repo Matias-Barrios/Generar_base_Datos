@@ -248,7 +248,7 @@ echo "$( date ) - Proceso iniciado..."
 
 		CI_alumno="$CI_alumno"
 		echo "$CI_alumno" >> ./todas_CI_alumno.txt
-		nota_final=0
+		nota_final=1
 		echo "VALUES ( $CI_alumno, \"t\", $nota_final, \"f\" );" >> 07_AUTOMATICO_ingresar_alumno_auto.sql
 		
 		
