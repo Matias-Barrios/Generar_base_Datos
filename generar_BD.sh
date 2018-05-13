@@ -526,9 +526,10 @@ echo "$( date ) - Proceso iniciado..."
 			categoria=`Item_Aleatorio "$lista_tipos_evaluacion"`
 			nota=`Numero_Aleatorio 1 12` 
 			echo "Insertando $profe $un_alumno_random $una_materia_que_da_el_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
+			nombre_evaluacion="Un trabajillo"
 			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
-			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"Un trabajillo\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))
 	done

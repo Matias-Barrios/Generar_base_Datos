@@ -2,1304 +2,1304 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51799177 , "Salomón" , "Fortunato" , "Serrano" , "Santiago" , "02/03/1977" , "Salomón.Fortunato.Serrano.Santiago@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 22586222 , "Elías" , "Teófila" , "Cabrera" , "Fernández" , "07/30/1998" , "Elías.Teófila.Cabrera.Fernández@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22809696 , "Jordi" , "Nazario" , "Gallego" , "Molina" , "09/20/1981" , "Jordi.Nazario.Gallego.Molina@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 12473813 , "Rodrigo" , "Celina" , "Durán" , "Serrano" , "12/26/1986" , "Rodrigo.Celina.Durán.Serrano@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29356555 , "Jonás" , "Casiano" , "Díez" , "Cruz" , "01/07/1991" , "Jonás.Casiano.Díez.Cruz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25700118 , "Bernabé" , "Eduvigis" , "Rodríguez" , "Blesa" , "09/18/1979" , "Bernabé.Eduvigis.Rodríguez.Blesa@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44481303 , "Melchor" , "Fabio" , "Sáez" , "Guerrero" , "11/10/2001" , "Melchor.Fabio.Sáez.Guerrero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 21885320 , "Priscila" , "Gonzalo" , "Calvo" , "Pastor" , "10/22/1975" , "Priscila.Gonzalo.Calvo.Pastor@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22050069 , "Edmundo" , "Marcelo" , "Bravo" , "Gil" , "04/10/1973" , "Edmundo.Marcelo.Bravo.Gil@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 49924471 , "Pilar" , "Vicenta" , "Castillo" , "Cruz" , "08/17/1968" , "Pilar.Vicenta.Castillo.Cruz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15059026 , "Marta" , "Aureliano" , "Crespo" , "Montoro" , "09/14/1988" , "Marta.Aureliano.Crespo.Montoro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 54793778 , "Roberto" , "Gabriel" , "Rubio" , "Fuentes" , "12/02/1995" , "Roberto.Gabriel.Rubio.Fuentes@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47114925 , "Alfredo" , "Albina" , "Fernández" , "Calvo" , "04/13/1969" , "Alfredo.Albina.Fernández.Calvo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 34009383 , "Probo" , "Andrea" , "Márquez" , "Prieto" , "08/31/1971" , "Probo.Andrea.Márquez.Prieto@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52193473 , "Donato" , "Úrsula" , "Ortega" , "Ortega" , "01/31/1975" , "Donato.Úrsula.Ortega.Ortega@gmail.com" , NULL , NULL , "f" );
+VALUES ( 22496740 , "Romualdo" , "Ramón" , "Herrera" , "Soler" , "04/02/1979" , "Romualdo.Ramón.Herrera.Soler@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46764181 , "Cipriano" , "Raquel" , "Núñez" , "Santiago" , "05/10/1987" , "Cipriano.Raquel.Núñez.Santiago@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 39105475 , "Lucía" , "Guillermo" , "Ramos" , "Guerrero" , "01/23/1994" , "Lucía.Guillermo.Ramos.Guerrero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13181346 , "Celia" , "Salvio" , "Pérez" , "Campos" , "12/20/1981" , "Celia.Salvio.Pérez.Campos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 29679634 , "Cayo" , "Cristian" , "Lorenzo" , "Blesa" , "06/13/1982" , "Cayo.Cristian.Lorenzo.Blesa@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31863512 , "Fabio" , "Almudena" , "Hernández" , "Santana" , "06/01/1992" , "Fabio.Almudena.Hernández.Santana@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 16881434 , "María" , "Nicomedes" , "Aguilar" , "Delgado" , "02/06/1999" , "María.Nicomedes.Aguilar.Delgado@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29551214 , "Miqueas" , "Pedro" , "Núñez" , "Pascual" , "11/24/1968" , "Miqueas.Pedro.Núñez.Pascual@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 45861130 , "Esiquio" , "Epifanía" , "Sanz" , "Castillo" , "12/11/1986" , "Esiquio.Epifanía.Sanz.Castillo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38756221 , "Ernesto" , "Leocadia" , "Díaz" , "Giménez" , "08/16/1970" , "Ernesto.Leocadia.Díaz.Giménez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 21859800 , "Aurora" , "Fabiola" , "Méndez" , "Castillo" , "05/23/1984" , "Aurora.Fabiola.Méndez.Castillo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17294256 , "Cipriano" , "Demócrito" , "Morales" , "Torres" , "08/08/1996" , "Cipriano.Demócrito.Morales.Torres@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 35891119 , "Constancio" , "Emilio" , "Herrero" , "Cabrera" , "07/06/1982" , "Constancio.Emilio.Herrero.Cabrera@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11548069 , "Fausto" , "Priscila" , "Sánchez" , "Moya" , "09/19/1989" , "Fausto.Priscila.Sánchez.Moya@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 28223642 , "Matías" , "Leocadia" , "Ramos" , "Vázquez" , "05/15/1984" , "Matías.Leocadia.Ramos.Vázquez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38914429 , "Paula" , "Jordi" , "Suárez" , "Gómez" , "05/17/1998" , "Paula.Jordi.Suárez.Gómez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 29481186 , "Ramiro" , "Simeón" , "Fuentes" , "Sánchez" , "11/19/1999" , "Ramiro.Simeón.Fuentes.Sánchez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32500448 , "Albina" , "Poncio" , "Marín" , "Hernández" , "12/23/1966" , "Albina.Poncio.Marín.Hernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 43871125 , "Antonio" , "Simeón" , "Ibáñez" , "Serrano" , "11/03/1986" , "Antonio.Simeón.Ibáñez.Serrano@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15671931 , "Donato" , "Teodosia" , "Bravo" , "Herrero" , "12/03/1975" , "Donato.Teodosia.Bravo.Herrero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 42951186 , "Victorio" , "Tomás" , "Gallego" , "Campos" , "05/13/2000" , "Victorio.Tomás.Gallego.Campos@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24283630 , "Oscar" , "Guillermo" , "Cruz" , "Montoro" , "07/19/1997" , "Oscar.Guillermo.Cruz.Montoro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 34708468 , "Dimas" , "Soledad" , "Sánchez" , "Martín" , "09/04/1982" , "Dimas.Soledad.Sánchez.Martín@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45225524 , "Fulgencio" , "Pedro" , "Álvarez" , "Ramos" , "01/05/1971" , "Fulgencio.Pedro.Álvarez.Ramos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 11856270 , "Abdón" , "Jacob" , "Vicente" , "Romero" , "07/05/2002" , "Abdón.Jacob.Vicente.Romero@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55996480 , "Miqueas" , "Francisca" , "García" , "Carrasco" , "05/17/1994" , "Miqueas.Francisca.García.Carrasco@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 43719387 , "Francisca" , "Adolfo" , "Torres" , "Montoro" , "12/14/1974" , "Francisca.Adolfo.Torres.Montoro@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43491515 , "Borja" , "Hilarión" , "Martínez" , "Gutiérrez" , "05/24/2002" , "Borja.Hilarión.Martínez.Gutiérrez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 39663663 , "Venancio" , "Siro" , "Márquez" , "Giménez" , "09/23/1975" , "Venancio.Siro.Márquez.Giménez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48718203 , "Reinaldo" , "Abdón" , "Rey" , "Vargas" , "05/23/1978" , "Reinaldo.Abdón.Rey.Vargas@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 16419261 , "Simón" , "Eulalia" , "Ramos" , "Castillo" , "07/16/1985" , "Simón.Eulalia.Ramos.Castillo@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25487788 , "Fermín" , "Carlos" , "Montero" , "Rodríguez" , "12/04/1995" , "Fermín.Carlos.Montero.Rodríguez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 17194135 , "Probo" , "Roberto" , "Nieto" , "Blanco" , "01/25/1979" , "Probo.Roberto.Nieto.Blanco@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23436549 , "Gloria" , "Rubén" , "Ferrer" , "Soler" , "06/16/1992" , "Gloria.Rubén.Ferrer.Soler@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 39679096 , "Xavier" , "Casiano" , "Vargas" , "Vázquez" , "07/04/1988" , "Xavier.Casiano.Vargas.Vázquez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52550756 , "Aniano" , "Priscila" , "Martín" , "Álvarez" , "04/18/1978" , "Aniano.Priscila.Martín.Álvarez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27950363 , "Venancio" , "Matilde" , "Torres" , "Delgado" , "12/14/1969" , "Venancio.Matilde.Torres.Delgado@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21949990 , "Renato" , "Pilar" , "Román" , "León" , "05/31/2001" , "Renato.Pilar.Román.León@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 28359249 , "Simón" , "Benedicto" , "Peña" , "Blesa" , "07/06/1986" , "Simón.Benedicto.Peña.Blesa@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23264132 , "Nuria" , "Isaías" , "Vázquez" , "Molina" , "09/08/2001" , "Nuria.Isaías.Vázquez.Molina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 38109975 , "Zaqueo" , "Cirilo" , "Castillo" , "Vicente" , "05/03/1980" , "Zaqueo.Cirilo.Castillo.Vicente@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26427509 , "Aránzazu" , "Luciano" , "Román" , "Nieto" , "10/13/1998" , "Aránzazu.Luciano.Román.Nieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 56340816 , "Justino" , "Joel" , "Pascual" , "Serrano" , "10/18/1990" , "Justino.Joel.Pascual.Serrano@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11473492 , "Ricardo" , "Otilia" , "Pastor" , "González" , "05/21/1969" , "Ricardo.Otilia.Pastor.González@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 19245348 , "Úrsula" , "Matilde" , "Torres" , "Martínez" , "08/14/1972" , "Úrsula.Matilde.Torres.Martínez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22601446 , "Onésimo" , "Octavio" , "Guerrero" , "Vázquez" , "01/05/1999" , "Onésimo.Octavio.Guerrero.Vázquez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 36624640 , "Fabiola" , "Sebastián" , "Soler" , "Sáez" , "06/15/1996" , "Fabiola.Sebastián.Soler.Sáez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53728049 , "Sixto" , "Pancracio" , "Lozano" , "Romero" , "04/26/1988" , "Sixto.Pancracio.Lozano.Romero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 38376241 , "Margarita" , "Emilio" , "Campos" , "Parra" , "12/21/1985" , "Margarita.Emilio.Campos.Parra@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37012030 , "Alicia" , "Dámaso" , "Vázquez" , "Sanz" , "12/14/1974" , "Alicia.Dámaso.Vázquez.Sanz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 28553249 , "Gloria" , "Macario" , "Santana" , "Ibáñez" , "09/01/1979" , "Gloria.Macario.Santana.Ibáñez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57785566 , "Matilde" , "Aitor" , "Vargas" , "Alonso" , "11/09/1970" , "Matilde.Aitor.Vargas.Alonso@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 21108051 , "Rogelio" , "Jaume" , "Rey" , "Fernández" , "06/20/1978" , "Rogelio.Jaume.Rey.Fernández@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22962604 , "Colombo" , "Primo" , "Sanz" , "León" , "04/05/1977" , "Colombo.Primo.Sanz.León@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 44028383 , "Epifanía" , "Augusto" , "Medina" , "Castillo" , "03/24/1967" , "Epifanía.Augusto.Medina.Castillo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13326198 , "Albert" , "Anna" , "Vicente" , "Pérez" , "02/21/1992" , "Albert.Anna.Vicente.Pérez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 31445243 , "Baltasar" , "Anastasia" , "Sanz" , "Carrasco" , "05/28/1991" , "Baltasar.Anastasia.Sanz.Carrasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13744194 , "Ubaldo" , "Vanesa" , "Gallego" , "Aguilar" , "04/26/1987" , "Ubaldo.Vanesa.Gallego.Aguilar@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 55866865 , "Anastasia" , "Abelardo" , "Molina" , "Lozano" , "09/28/2000" , "Anastasia.Abelardo.Molina.Lozano@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18365276 , "Noelia" , "Ignacio" , "Cruz" , "Hernández" , "05/04/1968" , "Noelia.Ignacio.Cruz.Hernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 21411949 , "Benedicto" , "Natalia" , "Vázquez" , "Cano" , "07/12/1978" , "Benedicto.Natalia.Vázquez.Cano@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14240490 , "Pío" , "Ananías" , "Marín" , "Ortega" , "02/16/1976" , "Pío.Ananías.Marín.Ortega@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 47968289 , "Hilarión" , "Oriol" , "Ibáñez" , "Martín" , "05/03/1975" , "Hilarión.Oriol.Ibáñez.Martín@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39706023 , "Probo" , "Ananías" , "Román" , "Moreno" , "12/10/1973" , "Probo.Ananías.Román.Moreno@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 49918236 , "Venancio" , "Ildefonso" , "Medina" , "Parra" , "11/10/1976" , "Venancio.Ildefonso.Medina.Parra@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17532240 , "Aniano" , "Domingo" , "Muñoz" , "Navarro" , "01/23/1982" , "Aniano.Domingo.Muñoz.Navarro@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35715830 , "Timoteo" , "Ubaldo" , "Sanz" , "Martínez" , "06/07/1977" , "Timoteo.Ubaldo.Sanz.Martínez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45496391 , "Renato" , "Segismundo" , "Herrera" , "Hidalgo" , "01/16/1996" , "Renato.Segismundo.Herrera.Hidalgo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 21325526 , "Trinidad" , "Renato" , "Moreno" , "García" , "05/29/1988" , "Trinidad.Renato.Moreno.García@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37406655 , "Lino" , "Victorio" , "Ramos" , "Carrasco" , "09/01/1968" , "Lino.Victorio.Ramos.Carrasco@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 22440616 , "Carolina" , "Víctor" , "Campos" , "Bravo" , "08/19/1977" , "Carolina.Víctor.Campos.Bravo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13022453 , "Héctor" , "Ariadna" , "Carrasco" , "Cortés" , "11/18/1985" , "Héctor.Ariadna.Carrasco.Cortés@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 43339385 , "Lino" , "Urbano" , "Pastor" , "Sanz" , "07/07/1972" , "Lino.Urbano.Pastor.Sanz@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58334394 , "Ramón" , "Concepción" , "Alonso" , "Santana" , "08/19/2002" , "Ramón.Concepción.Alonso.Santana@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 25309291 , "Samuel" , "Bernarda" , "Medina" , "Soler" , "06/07/1986" , "Samuel.Bernarda.Medina.Soler@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19223350 , "Salvador" , "Jesús" , "Cruz" , "Márquez" , "04/15/1989" , "Salvador.Jesús.Cruz.Márquez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 45902122 , "Irene" , "Rogelio" , "Pastor" , "Esteban" , "07/11/1994" , "Irene.Rogelio.Pastor.Esteban@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54539764 , "Severino" , "Lucrecia" , "Ferrer" , "Serrano" , "04/11/1994" , "Severino.Lucrecia.Ferrer.Serrano@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38393427 , "Benigno" , "Otilia" , "Vicente" , "Sáez" , "01/26/1979" , "Benigno.Otilia.Vicente.Sáez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17393981 , "Lorena" , "Benito" , "Sáez" , "Gallardo" , "07/05/2001" , "Lorena.Benito.Sáez.Gallardo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 51237739 , "Yolanda" , "Jacinto" , "Lozano" , "Esteban" , "12/23/1993" , "Yolanda.Jacinto.Lozano.Esteban@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33088241 , "Leandro" , "Julio" , "Cortés" , "Ortiz" , "10/14/1979" , "Leandro.Julio.Cortés.Ortiz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 37230571 , "Esiquio" , "Vidal" , "León" , "Giménez" , "06/14/1967" , "Esiquio.Vidal.León.Giménez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33427645 , "Milagros" , "Ceferino" , "Vargas" , "Vega" , "09/21/1976" , "Milagros.Ceferino.Vargas.Vega@gmail.com" , NULL , NULL , "f" );
+VALUES ( 48270782 , "Absalón" , "José" , "Castro" , "Díaz" , "06/05/2003" , "Absalón.José.Castro.Díaz@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27728908 , "Bernarda" , "Irene" , "Muñoz" , "Suárez" , "11/13/1971" , "Bernarda.Irene.Muñoz.Suárez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11792876 , "Emilio" , "Rocío" , "Marín" , "Vargas" , "02/01/1984" , "Emilio.Rocío.Marín.Vargas@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11016329 , "Valeriano" , "Cayo" , "Jiménez" , "Moreno" , "10/25/1974" , "Valeriano.Cayo.Jiménez.Moreno@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 28491928 , "Reinaldo" , "Balduino" , "Crespo" , "Reyes" , "04/27/1974" , "Reinaldo.Balduino.Crespo.Reyes@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23889782 , "Anatolio" , "Roque" , "Álvarez" , "Martín" , "09/25/1971" , "Anatolio.Roque.Álvarez.Martín@gmail.com" , NULL , NULL , "f" );
+VALUES ( 14984107 , "Guadalupe" , "Ruperto" , "Parra" , "Benítez" , "11/25/1972" , "Guadalupe.Ruperto.Parra.Benítez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23776672 , "Esteban" , "Genoveva" , "Garrido" , "Campos" , "09/14/1973" , "Esteban.Genoveva.Garrido.Campos@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 12762389 , "Abel" , "Jaime" , "Reyes" , "Rubio" , "11/25/1996" , "Abel.Jaime.Reyes.Rubio@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23107106 , "Jesús" , "Belén" , "Hernández" , "Navarro" , "07/02/1985" , "Jesús.Belén.Hernández.Navarro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25539056 , "Ángela" , "Lucas" , "Rey" , "Fernández" , "01/03/1998" , "Ángela.Lucas.Rey.Fernández@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46817293 , "Honorato" , "Juvenal" , "González" , "Cabrera" , "06/17/1971" , "Honorato.Juvenal.González.Cabrera@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29259624 , "Constancio" , "Josep" , "Hernández" , "Mora" , "09/26/1969" , "Constancio.Josep.Hernández.Mora@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12629957 , "Vicenta" , "Iván" , "Cruz" , "Cambil" , "01/19/1969" , "Vicenta.Iván.Cruz.Cambil@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 39825033 , "Leopoldo" , "Orestes" , "Mora" , "Delgado" , "05/17/1978" , "Leopoldo.Orestes.Mora.Delgado@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21905099 , "Poncio" , "Nicomedes" , "Ramírez" , "Arias" , "05/16/1977" , "Poncio.Nicomedes.Ramírez.Arias@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 29706003 , "Concepción" , "Lázaro" , "Caballero" , "Rubio" , "09/14/1997" , "Concepción.Lázaro.Caballero.Rubio@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59768627 , "Daciano" , "Josefa" , "Santiago" , "Vázquez" , "07/28/1990" , "Daciano.Josefa.Santiago.Vázquez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 14438857 , "Raimundo" , "José" , "Santiago" , "Rubio" , "07/20/1980" , "Raimundo.José.Santiago.Rubio@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18249666 , "Marcelino" , "Mar" , "Domínguez" , "Gallardo" , "07/22/1966" , "Marcelino.Mar.Domínguez.Gallardo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 34291655 , "Natalia" , "Blas" , "Carrasco" , "Román" , "10/01/1984" , "Natalia.Blas.Carrasco.Román@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21817214 , "Ildefonso" , "Cayetano" , "Campos" , "Guerrero" , "04/30/1994" , "Ildefonso.Cayetano.Campos.Guerrero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 33373761 , "Joaquín" , "Marcelino" , "Herrero" , "Prieto" , "08/11/1975" , "Joaquín.Marcelino.Herrero.Prieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26125050 , "Pedro" , "Victoria" , "Serrano" , "Lorenzo" , "02/08/1994" , "Pedro.Victoria.Serrano.Lorenzo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16976029 , "Octavio" , "Ester" , "Gil" , "Moya" , "06/10/1968" , "Octavio.Ester.Gil.Moya@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38507373 , "Celia" , "Esperanza" , "Serrano" , "Castro" , "07/22/1977" , "Celia.Esperanza.Serrano.Castro@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 17632628 , "Miqueas" , "Vidal" , "Garrido" , "Sanz" , "03/20/1988" , "Miqueas.Vidal.Garrido.Sanz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46450261 , "Adela" , "Pablo" , "Benítez" , "Ortega" , "12/29/1989" , "Adela.Pablo.Benítez.Ortega@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 28108917 , "Pilar" , "María" , "Nieto" , "Arias" , "09/13/1993" , "Pilar.María.Nieto.Arias@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34353926 , "Honorato" , "Marcelo" , "Guerrero" , "Pastor" , "08/20/1983" , "Honorato.Marcelo.Guerrero.Pastor@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 14012489 , "Adrián" , "Tadeo" , "Moya" , "Rodríguez" , "07/17/2002" , "Adrián.Tadeo.Moya.Rodríguez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52247498 , "José" , "Sonia" , "Santiago" , "Ortiz" , "07/22/1983" , "José.Sonia.Santiago.Ortiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 51886011 , "Julio" , "Claudio" , "Gil" , "Flores" , "12/06/1997" , "Julio.Claudio.Gil.Flores@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22811142 , "Abdón" , "Eugenia" , "Ruiz" , "Vázquez" , "05/07/1985" , "Abdón.Eugenia.Ruiz.Vázquez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 53450084 , "Catalina" , "Ricardo" , "Nieto" , "Nieto" , "04/29/1991" , "Catalina.Ricardo.Nieto.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16971154 , "Edgar" , "Alejandra" , "Vega" , "Muñoz" , "05/02/1995" , "Edgar.Alejandra.Vega.Muñoz@gmail.com" , NULL , NULL , "f" );
+VALUES ( 33744463 , "Salomón" , "Fernando" , "Flores" , "Velasco" , "01/21/1992" , "Salomón.Fernando.Flores.Velasco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14059138 , "Margarita" , "Adón" , "Iglesias" , "Santiago" , "04/21/2000" , "Margarita.Adón.Iglesias.Santiago@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29867574 , "Almudena" , "Honorato" , "Torres" , "Bravo" , "12/22/1967" , "Almudena.Honorato.Torres.Bravo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59984198 , "Teófila" , "Arnaldo" , "Serrano" , "Martín" , "08/23/1983" , "Teófila.Arnaldo.Serrano.Martín@gmail.com" , NULL , NULL , "f" );
+VALUES ( 17458044 , "Soledad" , "Felipe" , "Fuentes" , "López" , "07/25/1983" , "Soledad.Felipe.Fuentes.López@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36710433 , "Mauricio" , "Absalón" , "Ruiz" , "Méndez" , "11/02/1969" , "Mauricio.Absalón.Ruiz.Méndez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 43436294 , "Inmaculada" , "Emiliano" , "Calvo" , "Molina" , "09/29/1986" , "Inmaculada.Emiliano.Calvo.Molina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22149644 , "Amaro" , "Elías" , "Pascual" , "Moreno" , "10/11/1973" , "Amaro.Elías.Pascual.Moreno@gmail.com" , NULL , NULL , "f" );
+VALUES ( 25375616 , "Romualdo" , "Priscila" , "Santiago" , "Blanco" , "05/06/1974" , "Romualdo.Priscila.Santiago.Blanco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36744256 , "Ananías" , "Amadeo" , "Ferrer" , "Vargas" , "11/11/1990" , "Ananías.Amadeo.Ferrer.Vargas@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 37945807 , "Julián" , "Daniel" , "Montero" , "Durán" , "01/31/1988" , "Julián.Daniel.Montero.Durán@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38658045 , "Jonás" , "Ambrosio" , "Jiménez" , "Román" , "07/14/2001" , "Jonás.Ambrosio.Jiménez.Román@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38938302 , "Jeremías" , "Eugenia" , "Serrano" , "León" , "02/04/1994" , "Jeremías.Eugenia.Serrano.León@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36887757 , "Teófila" , "Gisela" , "Gallardo" , "Moreno" , "04/11/1970" , "Teófila.Gisela.Gallardo.Moreno@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 53120556 , "Rigoberto" , "Remedios" , "Peña" , "Vidal" , "07/06/1999" , "Rigoberto.Remedios.Peña.Vidal@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58329501 , "Jaime" , "Roque" , "Herrera" , "Parra" , "03/03/1988" , "Jaime.Roque.Herrera.Parra@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33687619 , "Artemio" , "Arcadio" , "Gutiérrez" , "Mora" , "10/29/1967" , "Artemio.Arcadio.Gutiérrez.Mora@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49750618 , "Onésimo" , "Albina" , "Moreno" , "González" , "12/03/1968" , "Onésimo.Albina.Moreno.González@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 19766473 , "Alejandro" , "Antero" , "Cano" , "Campos" , "04/30/1977" , "Alejandro.Antero.Cano.Campos@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38069169 , "Antero" , "Beltrán" , "Lozano" , "Castillo" , "09/15/1991" , "Antero.Beltrán.Lozano.Castillo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 43116850 , "Lorena" , "Aurora" , "Gómez" , "Santiago" , "11/07/1988" , "Lorena.Aurora.Gómez.Santiago@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33197220 , "Miqueas" , "Luis" , "Herrero" , "Vázquez" , "11/06/1995" , "Miqueas.Luis.Herrero.Vázquez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 25257111 , "Enrique" , "José" , "Santiago" , "Navarro" , "02/22/1973" , "Enrique.José.Santiago.Navarro@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27568633 , "Casimiro" , "Gregorio" , "Rey" , "Soto" , "03/24/2002" , "Casimiro.Gregorio.Rey.Soto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 21678892 , "Hildegarda" , "Joan" , "Pastor" , "Rodríguez" , "02/20/1994" , "Hildegarda.Joan.Pastor.Rodríguez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23312125 , "Casimiro" , "Eva" , "Ortiz" , "Martínez" , "12/11/1986" , "Casimiro.Eva.Ortiz.Martínez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 21938181 , "Mateo" , "Dario" , "Torres" , "Bravo" , "06/13/1978" , "Mateo.Dario.Torres.Bravo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22730324 , "Salvador" , "Cristian" , "Muñoz" , "Medina" , "10/01/1975" , "Salvador.Cristian.Muñoz.Medina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 18391887 , "Francesc" , "Eduardo" , "Medina" , "Guerrero" , "01/29/1976" , "Francesc.Eduardo.Medina.Guerrero@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14118344 , "Leocadia" , "Aurelia" , "Velasco" , "Vicente" , "03/05/1968" , "Leocadia.Aurelia.Velasco.Vicente@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 41138131 , "Tadeo" , "Samuel" , "Pascual" , "Peña" , "10/14/1981" , "Tadeo.Samuel.Pascual.Peña@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18257611 , "Adolfo" , "Olga" , "Caballero" , "Aguilar" , "05/20/1975" , "Adolfo.Olga.Caballero.Aguilar@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 43078757 , "Pablo" , "Sandra" , "Pascual" , "Prieto" , "11/03/1993" , "Pablo.Sandra.Pascual.Prieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14300616 , "Ignacio" , "Genoveva" , "Aguilar" , "Pascual" , "08/23/1993" , "Ignacio.Genoveva.Aguilar.Pascual@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 36303343 , "Teodosia" , "Probo" , "Reyes" , "Gallego" , "12/18/1997" , "Teodosia.Probo.Reyes.Gallego@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58094114 , "Romualdo" , "Laureano" , "Guerrero" , "Arias" , "04/20/1970" , "Romualdo.Laureano.Guerrero.Arias@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 37031907 , "Columbano" , "Blanca" , "Campos" , "Arias" , "09/20/1989" , "Columbano.Blanca.Campos.Arias@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56255425 , "Remedios" , "Catalina" , "Moya" , "Reyes" , "12/04/1983" , "Remedios.Catalina.Moya.Reyes@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 48656396 , "Cecilia" , "Rufo" , "González" , "Arias" , "06/15/1982" , "Cecilia.Rufo.González.Arias@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19621190 , "Raúl" , "Damián" , "Mora" , "Bravo" , "09/23/1997" , "Raúl.Damián.Mora.Bravo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 16671302 , "Bernarda" , "Daciano" , "Sanz" , "Montero" , "09/02/1979" , "Bernarda.Daciano.Sanz.Montero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24278853 , "Romualdo" , "Gustavo" , "Vidal" , "Lozano" , "12/23/1982" , "Romualdo.Gustavo.Vidal.Lozano@gmail.com" , NULL , NULL , "f" );
+VALUES ( 27366738 , "Ricardo" , "Andrea" , "Molina" , "Santos" , "06/13/1993" , "Ricardo.Andrea.Molina.Santos@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56694001 , "Julia" , "Melchor" , "Medina" , "Medina" , "01/22/1999" , "Julia.Melchor.Medina.Medina@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 36877077 , "Honorio" , "Félix" , "Cano" , "Bravo" , "11/27/1997" , "Honorio.Félix.Cano.Bravo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58827456 , "Laureano" , "Siro" , "Domínguez" , "García" , "01/08/1981" , "Laureano.Siro.Domínguez.García@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38553695 , "Francisco" , "Borja" , "Díaz" , "Arias" , "05/18/1994" , "Francisco.Borja.Díaz.Arias@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29388239 , "Lourdes" , "Vladimiro" , "Rey" , "Montoro" , "11/29/2000" , "Lourdes.Vladimiro.Rey.Montoro@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 54739978 , "Silvia" , "Carmelo" , "Soler" , "Medina" , "07/20/1978" , "Silvia.Carmelo.Soler.Medina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15520300 , "Celso" , "Venancio" , "Hidalgo" , "Márquez" , "05/15/1971" , "Celso.Venancio.Hidalgo.Márquez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 15463249 , "Germán" , "Felipe" , "Sánchez" , "Santana" , "01/20/1975" , "Germán.Felipe.Sánchez.Santana@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26580567 , "César" , "Timoteo" , "Sáez" , "León" , "12/29/1966" , "César.Timoteo.Sáez.León@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 22584735 , "Xavier" , "Ciro" , "Bravo" , "Marín" , "11/21/1999" , "Xavier.Ciro.Bravo.Marín@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34059112 , "Velerio" , "Claudia" , "Calvo" , "Vega" , "08/19/1977" , "Velerio.Claudia.Calvo.Vega@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 19793925 , "Celso" , "Aquiles" , "Santos" , "Gutiérrez" , "07/14/1996" , "Celso.Aquiles.Santos.Gutiérrez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48074217 , "Martín" , "Leonor" , "Caballero" , "Fernández" , "09/05/1998" , "Martín.Leonor.Caballero.Fernández@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 28838302 , "Concepción" , "Eugenio" , "León" , "Soto" , "09/15/1981" , "Concepción.Eugenio.León.Soto@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25027629 , "Donato" , "Alipio" , "Molina" , "Santiago" , "01/31/1992" , "Donato.Alipio.Molina.Santiago@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23816400 , "Araceli" , "Fabián" , "Ortiz" , "Carmona" , "02/01/1986" , "Araceli.Fabián.Ortiz.Carmona@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49773804 , "Germán" , "Laureano" , "Sáez" , "Díez" , "01/12/1989" , "Germán.Laureano.Sáez.Díez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 49618111 , "Lorena" , "Miguel" , "Ortiz" , "Castillo" , "08/16/1987" , "Lorena.Miguel.Ortiz.Castillo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15383312 , "Fidel" , "Casiano" , "Gil" , "Ramos" , "11/02/1973" , "Fidel.Casiano.Gil.Ramos@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 22286282 , "Cristóbal" , "Borja" , "Vega" , "Velasco" , "06/25/1966" , "Cristóbal.Borja.Vega.Velasco@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24373485 , "Josep" , "Yolanda" , "León" , "Cruz" , "09/15/1983" , "Josep.Yolanda.León.Cruz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 12439047 , "Constancio" , "Vicenta" , "Ramos" , "Carmona" , "10/16/1977" , "Constancio.Vicenta.Ramos.Carmona@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37172234 , "Augusto" , "Jeremías" , "Castillo" , "Ramírez" , "01/26/1988" , "Augusto.Jeremías.Castillo.Ramírez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 42756568 , "Josafat" , "Raquel" , "Guerrero" , "Ramírez" , "12/29/2002" , "Josafat.Raquel.Guerrero.Ramírez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35633579 , "Tomás" , "Jacinto" , "Domínguez" , "González" , "07/14/1990" , "Tomás.Jacinto.Domínguez.González@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 38683630 , "Úrsula" , "Moisés" , "Rey" , "Caballero" , "08/01/1987" , "Úrsula.Moisés.Rey.Caballero@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42394075 , "Celina" , "Edgar" , "Prieto" , "Medina" , "12/12/1999" , "Celina.Edgar.Prieto.Medina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 15372086 , "Lorenzo" , "Aurelio" , "Gallego" , "Cortés" , "04/28/1994" , "Lorenzo.Aurelio.Gallego.Cortés@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34598621 , "Marciano" , "Absalón" , "Medina" , "Reyes" , "04/03/1976" , "Marciano.Absalón.Medina.Reyes@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23348849 , "Guzmán" , "Basileo" , "Cabrera" , "Sáez" , "04/10/1991" , "Guzmán.Basileo.Cabrera.Sáez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37361225 , "Zacarías" , "Camilo" , "Sanz" , "Santiago" , "07/13/1966" , "Zacarías.Camilo.Sanz.Santiago@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 46562941 , "Gregorio" , "Lourdes" , "Soler" , "Santiago" , "03/22/1996" , "Gregorio.Lourdes.Soler.Santiago@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15475977 , "Aurelio" , "Carlos" , "Ortega" , "Carrasco" , "05/19/1996" , "Aurelio.Carlos.Ortega.Carrasco@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 53711628 , "Gerardo" , "Magdalena" , "Ferrer" , "Ibáñez" , "11/16/1968" , "Gerardo.Magdalena.Ferrer.Ibáñez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29522554 , "Carmen" , "Nuria" , "Garrido" , "Díez" , "02/20/1976" , "Carmen.Nuria.Garrido.Díez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 45195040 , "Nieves" , "Margarita" , "Sáez" , "Ruiz" , "01/27/2000" , "Nieves.Margarita.Sáez.Ruiz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26586072 , "Daciano" , "Nazario" , "Vázquez" , "Pérez" , "08/03/1985" , "Daciano.Nazario.Vázquez.Pérez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 45915973 , "Jaume" , "Gonzalo" , "Rey" , "Méndez" , "02/02/1989" , "Jaume.Gonzalo.Rey.Méndez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32646941 , "Noelia" , "Lorena" , "Soler" , "Fuentes" , "01/01/1993" , "Noelia.Lorena.Soler.Fuentes@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 22819047 , "Abelardo" , "Benito" , "Arias" , "Molina" , "02/01/1996" , "Abelardo.Benito.Arias.Molina@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35087700 , "Beltrán" , "Cristian" , "Vidal" , "Montero" , "10/02/1987" , "Beltrán.Cristian.Vidal.Montero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 18669024 , "Gonzalo" , "Ildefonso" , "Martínez" , "Gallardo" , "01/04/1986" , "Gonzalo.Ildefonso.Martínez.Gallardo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31208374 , "Salomón" , "Laura" , "Vicente" , "Pastor" , "12/20/1979" , "Salomón.Laura.Vicente.Pastor@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 54344183 , "Calixto" , "Josafat" , "Hernández" , "Flores" , "12/20/1982" , "Calixto.Josafat.Hernández.Flores@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45045162 , "Adán" , "Ramón" , "Castillo" , "Navarro" , "05/02/1984" , "Adán.Ramón.Castillo.Navarro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 13476816 , "Irene" , "Josefa" , "Lorenzo" , "Hidalgo" , "03/15/2002" , "Irene.Josefa.Lorenzo.Hidalgo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14102096 , "Hugo" , "Leoncio" , "Sánchez" , "Gallego" , "12/29/1980" , "Hugo.Leoncio.Sánchez.Gallego@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 43619385 , "Tobías" , "Columba" , "Soler" , "Cano" , "02/02/1973" , "Tobías.Columba.Soler.Cano@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54197409 , "Salvador" , "Ladislao" , "Caballero" , "Soto" , "12/29/1991" , "Salvador.Ladislao.Caballero.Soto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 12289844 , "Abrahán" , "Esdras" , "Ramírez" , "Vargas" , "01/10/1970" , "Abrahán.Esdras.Ramírez.Vargas@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27768370 , "Raimundo" , "Inocencio" , "Soler" , "Flores" , "01/25/1979" , "Raimundo.Inocencio.Soler.Flores@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 28657140 , "Emilia" , "Eliseo" , "Rubio" , "Blesa" , "07/05/1971" , "Emilia.Eliseo.Rubio.Blesa@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48420662 , "Félix" , "Luciano" , "Fuentes" , "Crespo" , "04/16/1986" , "Félix.Luciano.Fuentes.Crespo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 34752130 , "Isaac" , "Heliodoro" , "Montero" , "Vicente" , "06/21/1997" , "Isaac.Heliodoro.Montero.Vicente@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54582670 , "Matilde" , "Guzmán" , "Vázquez" , "Esteban" , "09/06/1984" , "Matilde.Guzmán.Vázquez.Esteban@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18458302 , "Lucía" , "Emiliano" , "Morales" , "Méndez" , "08/05/1967" , "Lucía.Emiliano.Morales.Méndez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32046002 , "Josafat" , "Antonia" , "Díaz" , "Medina" , "01/03/1977" , "Josafat.Antonia.Díaz.Medina@gmail.com" , NULL , NULL , "f" );
+VALUES ( 24373968 , "Homero" , "Venancio" , "Ferrer" , "Suárez" , "01/31/1976" , "Homero.Venancio.Ferrer.Suárez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16714358 , "Soledad" , "Casio" , "Garrido" , "Soler" , "06/30/1997" , "Soledad.Casio.Garrido.Soler@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 42660402 , "Teresa" , "Raúl" , "Peña" , "Carmona" , "04/06/1998" , "Teresa.Raúl.Peña.Carmona@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31428794 , "Miguel" , "Eulalia" , "Rodríguez" , "Carmona" , "07/19/1984" , "Miguel.Eulalia.Rodríguez.Carmona@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16133502 , "Baltasar" , "Rogelio" , "Prieto" , "Velasco" , "09/19/1980" , "Baltasar.Rogelio.Prieto.Velasco@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32627319 , "Columbano" , "Tarsicio" , "Díez" , "Rey" , "05/02/1996" , "Columbano.Tarsicio.Díez.Rey@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 54424719 , "Aresio" , "Áurea" , "Navarro" , "Sánchez" , "01/01/1992" , "Aresio.Áurea.Navarro.Sánchez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43253448 , "Godofredo" , "Absalón" , "Márquez" , "Flores" , "02/08/1978" , "Godofredo.Absalón.Márquez.Flores@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16578900 , "León" , "Ascensión" , "Fernández" , "Martín" , "04/28/1971" , "León.Ascensión.Fernández.Martín@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31275771 , "Jaime" , "Luz" , "Garrido" , "Carmona" , "01/17/1981" , "Jaime.Luz.Garrido.Carmona@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 24293401 , "Cristian" , "Ismael" , "Herrero" , "Rubio" , "06/29/1987" , "Cristian.Ismael.Herrero.Rubio@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24243917 , "Venancio" , "Mauricio" , "Ferrer" , "Hidalgo" , "10/10/1970" , "Venancio.Mauricio.Ferrer.Hidalgo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 28620676 , "Marcial" , "Arturo" , "Hernández" , "Vega" , "02/12/1977" , "Marcial.Arturo.Hernández.Vega@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28647733 , "Marcelino" , "Tarsicio" , "Ibáñez" , "Pascual" , "03/03/1994" , "Marcelino.Tarsicio.Ibáñez.Pascual@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 12710483 , "Lorenzo" , "Benedicto" , "Ibáñez" , "Santos" , "06/19/1988" , "Lorenzo.Benedicto.Ibáñez.Santos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28657435 , "Eugenio" , "Amadeo" , "Benítez" , "Lozano" , "10/23/1966" , "Eugenio.Amadeo.Benítez.Lozano@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 34044385 , "Natividad" , "Rebeca" , "León" , "Campos" , "10/18/1992" , "Natividad.Rebeca.León.Campos@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58537726 , "Remedios" , "Otilia" , "Soler" , "Delgado" , "04/22/1994" , "Remedios.Otilia.Soler.Delgado@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 26853481 , "Santiago" , "Joaquín" , "Crespo" , "Castillo" , "04/10/1984" , "Santiago.Joaquín.Crespo.Castillo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32080709 , "Leopoldo" , "Rafael" , "Ramírez" , "Pastor" , "05/15/1982" , "Leopoldo.Rafael.Ramírez.Pastor@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23826754 , "Iván" , "Acacio" , "Carrasco" , "Velasco" , "12/19/1975" , "Iván.Acacio.Carrasco.Velasco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15895084 , "Columbano" , "Bernarda" , "Torres" , "Montero" , "01/18/1977" , "Columbano.Bernarda.Torres.Montero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 41453105 , "Eva" , "Aurelia" , "García" , "Soto" , "11/18/1981" , "Eva.Aurelia.García.Soto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11703760 , "Edmundo" , "Marc" , "Prieto" , "Fernández" , "01/19/1989" , "Edmundo.Marc.Prieto.Fernández@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 13841047 , "Carlos" , "Honorio" , "Ibáñez" , "Santana" , "10/09/1971" , "Carlos.Honorio.Ibáñez.Santana@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22210027 , "Evaristo" , "Adelaida" , "Blanco" , "Ruiz" , "06/20/1978" , "Evaristo.Adelaida.Blanco.Ruiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 49156814 , "César" , "Josefa" , "Román" , "Soto" , "12/02/1982" , "César.Josefa.Román.Soto@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14474568 , "Leopoldo" , "Poncio" , "Peña" , "Bravo" , "08/27/1979" , "Leopoldo.Poncio.Peña.Bravo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 25783590 , "Mariano" , "Raquel" , "Santos" , "Navarro" , "03/15/2000" , "Mariano.Raquel.Santos.Navarro@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22767616 , "Camilo" , "Fernando" , "Peña" , "Torres" , "03/02/1982" , "Camilo.Fernando.Peña.Torres@gmail.com" , NULL , NULL , "f" );
+VALUES ( 21948059 , "Ángela" , "Priscila" , "Giménez" , "Giménez" , "05/04/2003" , "Ángela.Priscila.Giménez.Giménez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31999329 , "Casimiro" , "Patricio" , "Ortiz" , "Arias" , "05/08/2002" , "Casimiro.Patricio.Ortiz.Arias@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 41201926 , "Abdón" , "Poncio" , "Lorenzo" , "Herrero" , "09/24/1994" , "Abdón.Poncio.Lorenzo.Herrero@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35203516 , "Eugenio" , "Hildegarda" , "Cortés" , "Hernández" , "12/05/1975" , "Eugenio.Hildegarda.Cortés.Hernández@gmail.com" , NULL , NULL , "f" );
+VALUES ( 39616109 , "Narciso" , "Asunción" , "Fuentes" , "Ruiz" , "03/02/1976" , "Narciso.Asunción.Fuentes.Ruiz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13267324 , "Daciano" , "Francisco" , "Fernández" , "Gómez" , "02/06/1999" , "Daciano.Francisco.Fernández.Gómez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 36076908 , "Emiliano" , "Francisco" , "Lozano" , "Prieto" , "06/03/1980" , "Emiliano.Francisco.Lozano.Prieto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27734325 , "Tito" , "Benito" , "Ortega" , "Rodríguez" , "06/03/1975" , "Tito.Benito.Ortega.Rodríguez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 31434519 , "Claudio" , "Benedicto" , "Muñoz" , "Nieto" , "11/19/1995" , "Claudio.Benedicto.Muñoz.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31273905 , "Gustavo" , "Esdras" , "Campos" , "González" , "05/19/1996" , "Gustavo.Esdras.Campos.González@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 15935088 , "Bartolomé" , "Lourdes" , "Medina" , "Castillo" , "11/20/1977" , "Bartolomé.Lourdes.Medina.Castillo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48822420 , "Lino" , "Ángela" , "Cruz" , "Esteban" , "06/29/1978" , "Lino.Ángela.Cruz.Esteban@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 41415145 , "Gema" , "Bernabé" , "Fernández" , "Sáez" , "11/17/1992" , "Gema.Bernabé.Fernández.Sáez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47443700 , "Cristóbal" , "Jorge" , "Rey" , "Fuentes" , "10/26/2002" , "Cristóbal.Jorge.Rey.Fuentes@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 24673243 , "Alejo" , "Victorio" , "Gil" , "Santos" , "11/29/1966" , "Alejo.Victorio.Gil.Santos@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48368432 , "Luz" , "Sebastián" , "Morales" , "Crespo" , "06/22/2000" , "Luz.Sebastián.Morales.Crespo@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 34969602 , "Rigoberto" , "Eugenio" , "Suárez" , "Romero" , "05/02/1970" , "Rigoberto.Eugenio.Suárez.Romero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18998188 , "Evaristo" , "Begoña" , "Cabrera" , "Gil" , "02/08/1988" , "Evaristo.Begoña.Cabrera.Gil@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25648245 , "Alejandra" , "Josefina" , "Soler" , "Crespo" , "05/21/1966" , "Alejandra.Josefina.Soler.Crespo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15315557 , "Ángela" , "Liduvina" , "Vázquez" , "Herrero" , "03/14/1968" , "Ángela.Liduvina.Vázquez.Herrero@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33826718 , "Otilia" , "Yolanda" , "Blanco" , "Martínez" , "12/17/1986" , "Otilia.Yolanda.Blanco.Martínez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38927145 , "Guido" , "Gustavo" , "Márquez" , "Mora" , "04/16/1987" , "Guido.Gustavo.Márquez.Mora@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 17846041 , "Esther" , "Rebeca" , "García" , "Ruiz" , "06/08/2001" , "Esther.Rebeca.García.Ruiz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18602454 , "Gisela" , "Acacio" , "Moya" , "Montero" , "06/05/1988" , "Gisela.Acacio.Moya.Montero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 52016720 , "Jordi" , "Ananías" , "Domínguez" , "Campos" , "07/08/1994" , "Jordi.Ananías.Domínguez.Campos@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58855253 , "Orestes" , "Rita" , "Santana" , "Serrano" , "08/19/1988" , "Orestes.Rita.Santana.Serrano@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 48855409 , "Félix" , "Mohamed" , "Nieto" , "Soto" , "04/03/1967" , "Félix.Mohamed.Nieto.Soto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41940843 , "Abelardo" , "Velerio" , "Herrera" , "Vidal" , "07/30/1992" , "Abelardo.Velerio.Herrera.Vidal@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 29164982 , "Natalia" , "Godofredo" , "Vega" , "Lorenzo" , "06/10/1969" , "Natalia.Godofredo.Vega.Lorenzo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21145421 , "Julián" , "Ricardo" , "Durán" , "Reyes" , "09/27/1969" , "Julián.Ricardo.Durán.Reyes@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 24701810 , "Purificación" , "Inocencio" , "Ferrer" , "Suárez" , "04/04/1968" , "Purificación.Inocencio.Ferrer.Suárez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48783298 , "Ana" , "Atanasio" , "Crespo" , "Arias" , "05/03/2002" , "Ana.Atanasio.Crespo.Arias@gmail.com" , NULL , NULL , "f" );
+VALUES ( 15902338 , "Ruperto" , "Raimundo" , "Ibáñez" , "Méndez" , "01/31/1989" , "Ruperto.Raimundo.Ibáñez.Méndez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26240581 , "Nicolás" , "Fátima" , "Jiménez" , "Hidalgo" , "07/15/1976" , "Nicolás.Fátima.Jiménez.Hidalgo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 25857179 , "Joaquín" , "Cirilo" , "Carrasco" , "Ramos" , "08/25/1972" , "Joaquín.Cirilo.Carrasco.Ramos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24083288 , "Honorato" , "Esiquio" , "Herrera" , "Torres" , "02/06/1974" , "Honorato.Esiquio.Herrera.Torres@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 22488626 , "Marcelino" , "Aitor" , "Lozano" , "Lorenzo" , "09/04/2002" , "Marcelino.Aitor.Lozano.Lorenzo@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41253402 , "Rosendo" , "Amaro" , "Soto" , "Nieto" , "02/13/1991" , "Rosendo.Amaro.Soto.Nieto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 46036976 , "Rigoberto" , "Cipriano" , "Ferrer" , "Cortés" , "10/28/1989" , "Rigoberto.Cipriano.Ferrer.Cortés@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42447579 , "Yolanda" , "Julia" , "Giménez" , "Ortega" , "04/08/1991" , "Yolanda.Julia.Giménez.Ortega@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51060491 , "Noelia" , "Narciso" , "Álvarez" , "Díaz" , "10/14/1974" , "Noelia.Narciso.Álvarez.Díaz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12538233 , "Susana" , "Araceli" , "Suárez" , "Herrero" , "07/03/2003" , "Susana.Araceli.Suárez.Herrero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 24479732 , "Abrahán" , "Pío" , "Rodríguez" , "Vega" , "07/19/1974" , "Abrahán.Pío.Rodríguez.Vega@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31904203 , "Eugenia" , "Mateo" , "Mora" , "Carrasco" , "12/03/1999" , "Eugenia.Mateo.Mora.Carrasco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 32653334 , "Alejandro" , "Sebastián" , "Cano" , "Díez" , "04/26/1990" , "Alejandro.Sebastián.Cano.Díez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46003408 , "Abel" , "Ascensión" , "Cruz" , "Ramos" , "06/16/1994" , "Abel.Ascensión.Cruz.Ramos@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 29390149 , "Abdón" , "Pancracio" , "Reyes" , "Durán" , "08/03/1986" , "Abdón.Pancracio.Reyes.Durán@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45690686 , "Iván" , "Mohamed" , "Alonso" , "Serrano" , "06/19/1994" , "Iván.Mohamed.Alonso.Serrano@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51960041 , "Godofredo" , "Lino" , "Giménez" , "Gómez" , "10/03/1986" , "Godofredo.Lino.Giménez.Gómez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43322936 , "Elena" , "Julia" , "Garrido" , "Lorenzo" , "08/05/1975" , "Elena.Julia.Garrido.Lorenzo@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 14755459 , "Francesc" , "Pascual" , "Márquez" , "López" , "12/12/1979" , "Francesc.Pascual.Márquez.López@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26702612 , "Cayo" , "Purificación" , "Román" , "Herrera" , "01/27/1995" , "Cayo.Purificación.Román.Herrera@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 17407302 , "Cirilo" , "Manuela" , "Benítez" , "Román" , "06/18/1972" , "Cirilo.Manuela.Benítez.Román@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59807172 , "Noé" , "Cristina" , "Carmona" , "Velasco" , "01/13/1984" , "Noé.Cristina.Carmona.Velasco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51758074 , "Julia" , "Mauricio" , "Navarro" , "Morales" , "12/29/1971" , "Julia.Mauricio.Navarro.Morales@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18226339 , "Basileo" , "Julia" , "Romero" , "Flores" , "05/16/1995" , "Basileo.Julia.Romero.Flores@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18063238 , "Tomas" , "Colombo" , "Santana" , "Fernández" , "06/28/1977" , "Tomas.Colombo.Santana.Fernández@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35315177 , "Claudia" , "Odón" , "Flores" , "Domínguez" , "02/10/2000" , "Claudia.Odón.Flores.Domínguez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 17755305 , "Luisa" , "Moisés" , "Pastor" , "Fernández" , "12/15/1992" , "Luisa.Moisés.Pastor.Fernández@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22809408 , "Isabel" , "Blanca" , "Vicente" , "Benítez" , "03/16/1968" , "Isabel.Blanca.Vicente.Benítez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 49086667 , "Melchor" , "Francesc" , "Rey" , "Cabrera" , "06/04/1988" , "Melchor.Francesc.Rey.Cabrera@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16720098 , "Demócrito" , "Nicomedes" , "Velasco" , "Rey" , "08/31/1996" , "Demócrito.Nicomedes.Velasco.Rey@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 49672541 , "Narciso" , "Cristóbal" , "Sáez" , "Díez" , "01/18/1999" , "Narciso.Cristóbal.Sáez.Díez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45113559 , "Alipio" , "Genoveva" , "Iglesias" , "Ruiz" , "12/12/1983" , "Alipio.Genoveva.Iglesias.Ruiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 14981440 , "Emilio" , "Cipriano" , "Velasco" , "Ortiz" , "06/24/1981" , "Emilio.Cipriano.Velasco.Ortiz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42712297 , "Bernarda" , "Fernando" , "Ferrer" , "López" , "04/12/1997" , "Bernarda.Fernando.Ferrer.López@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 22458774 , "Lourdes" , "Abrahán" , "Bravo" , "Esteban" , "01/14/1974" , "Lourdes.Abrahán.Bravo.Esteban@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49973319 , "Josefina" , "Miqueas" , "Montoro" , "Giménez" , "07/01/1971" , "Josefina.Miqueas.Montoro.Giménez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 27677236 , "Aarón" , "Rigoberto" , "Rodríguez" , "Suárez" , "12/27/1985" , "Aarón.Rigoberto.Rodríguez.Suárez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18563987 , "Belén" , "Anastasia" , "Moya" , "Morales" , "03/05/1975" , "Belén.Anastasia.Moya.Morales@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 47006166 , "Romualdo" , "Macario" , "Rubio" , "Reyes" , "04/09/1996" , "Romualdo.Macario.Rubio.Reyes@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27440627 , "Clotilde" , "Francisca" , "Gallego" , "Vázquez" , "02/02/1987" , "Clotilde.Francisca.Gallego.Vázquez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 33640302 , "Ángela" , "Claudio" , "Santos" , "Cruz" , "08/02/1996" , "Ángela.Claudio.Santos.Cruz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43785495 , "Jacinto" , "Faustino" , "Vicente" , "Marín" , "12/05/1995" , "Jacinto.Faustino.Vicente.Marín@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 41027615 , "Poncio" , "Edmundo" , "Serrano" , "Moya" , "05/27/1997" , "Poncio.Edmundo.Serrano.Moya@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36914461 , "Luis" , "Adelaida" , "Blesa" , "Cano" , "08/31/1995" , "Luis.Adelaida.Blesa.Cano@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 28418966 , "Edgar" , "Hildegarda" , "Domínguez" , "Arias" , "09/06/1984" , "Edgar.Hildegarda.Domínguez.Arias@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16180050 , "Virgilio" , "Ruperto" , "Rubio" , "Ferrer" , "05/01/1994" , "Virgilio.Ruperto.Rubio.Ferrer@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 56131443 , "Teófila" , "Patricia" , "Vargas" , "Lozano" , "10/08/1979" , "Teófila.Patricia.Vargas.Lozano@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44235134 , "Luis" , "Onésimo" , "Crespo" , "Mora" , "02/19/2002" , "Luis.Onésimo.Crespo.Mora@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16976706 , "Adelaida" , "Leandro" , "Delgado" , "Marín" , "09/04/1970" , "Adelaida.Leandro.Delgado.Marín@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54378100 , "Ariadna" , "Odón" , "Román" , "Delgado" , "04/22/1985" , "Ariadna.Odón.Román.Delgado@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 45733820 , "Edgar" , "Abelardo" , "Blanco" , "Álvarez" , "06/10/1967" , "Edgar.Abelardo.Blanco.Álvarez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55037870 , "Octavio" , "Andrea" , "Alonso" , "Blanco" , "09/08/1974" , "Octavio.Andrea.Alonso.Blanco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 36386678 , "Erico" , "Laura" , "Herrero" , "Cortés" , "09/29/1987" , "Erico.Laura.Herrero.Cortés@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48567078 , "Isidro" , "Vladimiro" , "Soler" , "Ortiz" , "02/18/1998" , "Isidro.Vladimiro.Soler.Ortiz@gmail.com" , NULL , NULL , "f" );
+VALUES ( 22468385 , "Gabriel" , "Jeremías" , "Soler" , "Serrano" , "05/13/1970" , "Gabriel.Jeremías.Soler.Serrano@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39723760 , "Ildefonso" , "Paula" , "Santiago" , "Vargas" , "09/06/1976" , "Ildefonso.Paula.Santiago.Vargas@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 28800602 , "Teófanes" , "Aureliano" , "Cabrera" , "Velasco" , "02/22/1999" , "Teófanes.Aureliano.Cabrera.Velasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18092750 , "Francisca" , "Milagros" , "Santos" , "Vidal" , "12/25/1982" , "Francisca.Milagros.Santos.Vidal@gmail.com" , NULL , NULL , "f" );
+VALUES ( 35787986 , "Rosalia" , "Lucrecia" , "Peña" , "Carrasco" , "08/10/1985" , "Rosalia.Lucrecia.Peña.Carrasco@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14512467 , "Esteban" , "Nicomedes" , "Ibáñez" , "Fuentes" , "06/23/2003" , "Esteban.Nicomedes.Ibáñez.Fuentes@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 53036294 , "Raquel" , "Leocadia" , "Delgado" , "Herrera" , "11/18/1978" , "Raquel.Leocadia.Delgado.Herrera@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57291212 , "Velerio" , "Sandra" , "Gutiérrez" , "Prieto" , "09/25/1976" , "Velerio.Sandra.Gutiérrez.Prieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 25047255 , "Hugo" , "Celso" , "Santana" , "Pascual" , "09/09/1987" , "Hugo.Celso.Santana.Pascual@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45540269 , "Guido" , "Clara" , "Velasco" , "Guerrero" , "03/12/2003" , "Guido.Clara.Velasco.Guerrero@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 21841071 , "Gabriel" , "Lucano" , "Blanco" , "Márquez" , "06/17/1971" , "Gabriel.Lucano.Blanco.Márquez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12468785 , "Rebeca" , "Rubén" , "Díez" , "Medina" , "05/03/1987" , "Rebeca.Rubén.Díez.Medina@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 46780636 , "Emilio" , "Calixto" , "Esteban" , "Molina" , "02/24/1967" , "Emilio.Calixto.Esteban.Molina@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44807975 , "Amadeo" , "Dolores" , "Cortés" , "Márquez" , "07/22/1990" , "Amadeo.Dolores.Cortés.Márquez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 19969996 , "Porfirio" , "Sofía" , "Román" , "López" , "09/18/1999" , "Porfirio.Sofía.Román.López@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11988978 , "Anna" , "Concepción" , "Márquez" , "García" , "11/11/1990" , "Anna.Concepción.Márquez.García@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 51800637 , "Ifigenia" , "Rogelio" , "Pascual" , "Lozano" , "12/13/1969" , "Ifigenia.Rogelio.Pascual.Lozano@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29259862 , "Emiliano" , "Pancracio" , "López" , "Fernández" , "07/15/1971" , "Emiliano.Pancracio.López.Fernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 36565280 , "Albert" , "Faustino" , "Pascual" , "Sánchez" , "07/02/1977" , "Albert.Faustino.Pascual.Sánchez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15653303 , "Jeremías" , "Colombo" , "Fuentes" , "Román" , "11/28/1990" , "Jeremías.Colombo.Fuentes.Román@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 47444403 , "Tito" , "Rogelio" , "Montero" , "Cabrera" , "12/27/1975" , "Tito.Rogelio.Montero.Cabrera@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46020214 , "Nicanor" , "Celina" , "Castillo" , "Moreno" , "06/13/1971" , "Nicanor.Celina.Castillo.Moreno@gmail.com" , NULL , NULL , "f" );
+VALUES ( 25417947 , "Melchor" , "Alejandra" , "Caballero" , "Nieto" , "09/07/1993" , "Melchor.Alejandra.Caballero.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44644620 , "Cayo" , "Timoteo" , "Aguilar" , "Rodríguez" , "10/26/2002" , "Cayo.Timoteo.Aguilar.Rodríguez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 48702187 , "Ceferino" , "Almudena" , "García" , "Ortega" , "10/08/1970" , "Ceferino.Almudena.García.Ortega@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13222504 , "Celina" , "Ildefonso" , "Cambil" , "Campos" , "08/19/1968" , "Celina.Ildefonso.Cambil.Campos@gmail.com" , NULL , NULL , "f" );
+VALUES ( 19827035 , "Asunción" , "Dámaso" , "Montoro" , "Iglesias" , "09/13/1971" , "Asunción.Dámaso.Montoro.Iglesias@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23974656 , "Anastasia" , "Natalia" , "Esteban" , "Caballero" , "11/02/1986" , "Anastasia.Natalia.Esteban.Caballero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 55999539 , "Cristina" , "Petronila" , "Serrano" , "Castro" , "08/23/1987" , "Cristina.Petronila.Serrano.Castro@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56418980 , "Arcadio" , "Paula" , "Serrano" , "Arias" , "03/29/1967" , "Arcadio.Paula.Serrano.Arias@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 12530930 , "Daciano" , "Ladislao" , "Cambil" , "Hernández" , "08/20/1981" , "Daciano.Ladislao.Cambil.Hernández@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23490101 , "Alonso" , "Fausto" , "Santiago" , "Navarro" , "10/28/1997" , "Alonso.Fausto.Santiago.Navarro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 17902722 , "Eduardo" , "Ignacio" , "Cruz" , "Vázquez" , "10/28/1967" , "Eduardo.Ignacio.Cruz.Vázquez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46606468 , "Fulgencio" , "Humberto" , "Álvarez" , "Muñoz" , "07/19/1997" , "Fulgencio.Humberto.Álvarez.Muñoz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51227792 , "Úrsula" , "Beltrán" , "Sanz" , "Crespo" , "05/17/2002" , "Úrsula.Beltrán.Sanz.Crespo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12842482 , "Fátima" , "Dámaso" , "Santos" , "Prieto" , "12/07/1987" , "Fátima.Dámaso.Santos.Prieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 39555503 , "Almudena" , "Nicodemo" , "Santos" , "Delgado" , "01/02/1992" , "Almudena.Nicodemo.Santos.Delgado@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21133050 , "Aarón" , "Marta" , "Torres" , "Prieto" , "06/16/1999" , "Aarón.Marta.Torres.Prieto@gmail.com" , NULL , NULL , "f" );
+VALUES ( 44110910 , "Valeriano" , "Gabriel" , "Parra" , "Blanco" , "08/06/1976" , "Valeriano.Gabriel.Parra.Blanco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47500043 , "Sofía" , "Vicenta" , "Santiago" , "Vicente" , "05/18/1995" , "Sofía.Vicenta.Santiago.Vicente@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 54194281 , "Lucrecia" , "Diego" , "Vicente" , "Crespo" , "05/06/1990" , "Lucrecia.Diego.Vicente.Crespo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26163242 , "Marcos" , "Consuelo" , "Román" , "Fuentes" , "11/19/2002" , "Marcos.Consuelo.Román.Fuentes@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 13110595 , "Victorino" , "Priscila" , "Gallego" , "Lorenzo" , "09/26/1975" , "Victorino.Priscila.Gallego.Lorenzo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47807514 , "Benigno" , "Raúl" , "Moya" , "Castro" , "08/06/1980" , "Benigno.Raúl.Moya.Castro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 11839191 , "Dámaso" , "Ricardo" , "León" , "Medina" , "09/10/1998" , "Dámaso.Ricardo.León.Medina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17597577 , "Facundo" , "Humberto" , "Velasco" , "Flores" , "11/02/1988" , "Facundo.Humberto.Velasco.Flores@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33115325 , "Natividad" , "Narciso" , "Hernández" , "Gómez" , "07/06/1989" , "Natividad.Narciso.Hernández.Gómez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17470894 , "Juvenal" , "Vidal" , "Morales" , "Blanco" , "06/08/2002" , "Juvenal.Vidal.Morales.Blanco@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 57296074 , "Timoteo" , "Cesáreo" , "Cortés" , "Rubio" , "06/03/1970" , "Timoteo.Cesáreo.Cortés.Rubio@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44303985 , "Vanesa" , "Isaías" , "Flores" , "Arias" , "02/21/1999" , "Vanesa.Isaías.Flores.Arias@gmail.com" , NULL , NULL , "f" );
+VALUES ( 43410125 , "Nieves" , "Alejandro" , "López" , "Ibáñez" , "05/14/1972" , "Nieves.Alejandro.López.Ibáñez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32038132 , "Orestes" , "Lázaro" , "Carmona" , "Flores" , "05/14/1989" , "Orestes.Lázaro.Carmona.Flores@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 27151606 , "Xavier" , "Porfirio" , "Martínez" , "Calvo" , "12/12/1977" , "Xavier.Porfirio.Martínez.Calvo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44516100 , "Epifanía" , "Juana" , "Soler" , "Carmona" , "05/18/1974" , "Epifanía.Juana.Soler.Carmona@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 54908797 , "Lucas" , "Claudio" , "Fernández" , "Santana" , "05/10/1984" , "Lucas.Claudio.Fernández.Santana@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32559029 , "Tomas" , "Feliciano" , "Benítez" , "Santiago" , "12/02/1983" , "Tomas.Feliciano.Benítez.Santiago@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 34765044 , "Guillermo" , "Agustín" , "Castro" , "López" , "05/07/1990" , "Guillermo.Agustín.Castro.López@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11727079 , "Olga" , "Julia" , "Flores" , "Blanco" , "09/28/1998" , "Olga.Julia.Flores.Blanco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 35293610 , "Columba" , "Leonor" , "Pérez" , "Soto" , "04/26/1988" , "Columba.Leonor.Pérez.Soto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27556121 , "Bernabé" , "Octavio" , "Cambil" , "Cortés" , "04/15/1996" , "Bernabé.Octavio.Cambil.Cortés@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 14220422 , "Romualdo" , "Nuria" , "Arias" , "Marín" , "01/28/1986" , "Romualdo.Nuria.Arias.Marín@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27039365 , "Adrián" , "Urbano" , "Martín" , "Castro" , "10/02/1969" , "Adrián.Urbano.Martín.Castro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 15228748 , "Olga" , "Feliciano" , "Soto" , "Aguilar" , "02/18/1971" , "Olga.Feliciano.Soto.Aguilar@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35557870 , "Ramón" , "Esteban" , "Navarro" , "Bravo" , "07/05/1980" , "Ramón.Esteban.Navarro.Bravo@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 51025148 , "Adalberto" , "Rebeca" , "Herrera" , "Garrido" , "05/30/1996" , "Adalberto.Rebeca.Herrera.Garrido@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32940307 , "Belén" , "Valeriano" , "Lorenzo" , "Durán" , "10/18/1997" , "Belén.Valeriano.Lorenzo.Durán@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 25410745 , "Constancio" , "Lucía" , "Giménez" , "Garrido" , "06/21/1972" , "Constancio.Lucía.Giménez.Garrido@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38467937 , "Balduino" , "Elvira" , "Márquez" , "Ibáñez" , "02/11/1988" , "Balduino.Elvira.Márquez.Ibáñez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 58812328 , "Benedicto" , "Francisca" , "Pérez" , "Cortés" , "09/22/1994" , "Benedicto.Francisca.Pérez.Cortés@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58550871 , "Belén" , "Narciso" , "Lozano" , "Díez" , "03/24/2002" , "Belén.Narciso.Lozano.Díez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 28949163 , "Aquiles" , "Benedicto" , "Lorenzo" , "Moreno" , "11/21/1984" , "Aquiles.Benedicto.Lorenzo.Moreno@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48424492 , "Alipio" , "Joan" , "Cortés" , "Carmona" , "10/17/1974" , "Alipio.Joan.Cortés.Carmona@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 31027667 , "Natividad" , "Donato" , "Sanz" , "Lorenzo" , "05/05/1974" , "Natividad.Donato.Sanz.Lorenzo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11268655 , "Jacob" , "Raimundo" , "Garrido" , "Santos" , "03/25/1970" , "Jacob.Raimundo.Garrido.Santos@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 57335911 , "Demócrito" , "Aurelia" , "Díez" , "Arias" , "11/02/1993" , "Demócrito.Aurelia.Díez.Arias@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15163390 , "Ananías" , "Almudena" , "Herrera" , "Garrido" , "01/28/1998" , "Ananías.Almudena.Herrera.Garrido@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 15656418 , "Mauricio" , "Rigoberto" , "Guerrero" , "Lozano" , "11/19/1976" , "Mauricio.Rigoberto.Guerrero.Lozano@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21401463 , "Rodrigo" , "Teodosia" , "Sáez" , "Santiago" , "05/20/1981" , "Rodrigo.Teodosia.Sáez.Santiago@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51288136 , "Colombo" , "Noelia" , "Medina" , "Montero" , "05/30/1971" , "Colombo.Noelia.Medina.Montero@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42307638 , "Guadalupe" , "Cesáreo" , "Castillo" , "Pascual" , "03/10/1970" , "Guadalupe.Cesáreo.Castillo.Pascual@gmail.com" , NULL , NULL , "f" );
+VALUES ( 11669908 , "Ireneo" , "Humberto" , "Flores" , "Campos" , "06/17/1971" , "Ireneo.Humberto.Flores.Campos@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31574955 , "Bernarda" , "David" , "Gutiérrez" , "Iglesias" , "11/07/1979" , "Bernarda.David.Gutiérrez.Iglesias@gmail.com" , NULL , NULL , "f" );
+VALUES ( 43363374 , "Inés" , "Edmundo" , "Campos" , "Domínguez" , "07/01/1978" , "Inés.Edmundo.Campos.Domínguez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23303364 , "Alejandro" , "Beltrán" , "Delgado" , "Molina" , "09/29/1984" , "Alejandro.Beltrán.Delgado.Molina@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 24272207 , "Eduardo" , "Bernabé" , "Soto" , "Fernández" , "06/22/1977" , "Eduardo.Bernabé.Soto.Fernández@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44475516 , "Pascual" , "Elena" , "Márquez" , "Muñoz" , "04/30/1994" , "Pascual.Elena.Márquez.Muñoz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 54304222 , "Alejo" , "Hildegarda" , "Campos" , "Herrero" , "09/26/1970" , "Alejo.Hildegarda.Campos.Herrero@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35543752 , "Virginia" , "Bartolomé" , "Gómez" , "Marín" , "09/13/2000" , "Virginia.Bartolomé.Gómez.Marín@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 56297566 , "Rebeca" , "Erico" , "Martín" , "Peña" , "06/26/1971" , "Rebeca.Erico.Martín.Peña@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22838287 , "Begoña" , "Xavier" , "Méndez" , "Caballero" , "07/14/1982" , "Begoña.Xavier.Méndez.Caballero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 13079149 , "Narciso" , "Esiquio" , "Moreno" , "Blesa" , "09/18/2002" , "Narciso.Esiquio.Moreno.Blesa@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28962406 , "Yolanda" , "Nieves" , "Carmona" , "Pascual" , "10/22/1969" , "Yolanda.Nieves.Carmona.Pascual@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46263187 , "Lorenzo" , "Inocencio" , "Ramos" , "Benítez" , "06/18/1968" , "Lorenzo.Inocencio.Ramos.Benítez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27432133 , "Marc" , "Sonia" , "Vega" , "Cabrera" , "03/01/1993" , "Marc.Sonia.Vega.Cabrera@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 43678674 , "Ricardo" , "Elisa" , "Ramírez" , "Reyes" , "05/28/1986" , "Ricardo.Elisa.Ramírez.Reyes@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33079913 , "Esperanza" , "Ceferino" , "Gómez" , "Vidal" , "12/02/1994" , "Esperanza.Ceferino.Gómez.Vidal@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 13941453 , "Honorato" , "Mohamed" , "Vargas" , "Domínguez" , "02/10/1973" , "Honorato.Mohamed.Vargas.Domínguez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11253674 , "Salomón" , "Remedios" , "Aguilar" , "Parra" , "11/02/1970" , "Salomón.Remedios.Aguilar.Parra@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 46458382 , "Beltrán" , "Amaro" , "Jiménez" , "Álvarez" , "10/15/1978" , "Beltrán.Amaro.Jiménez.Álvarez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46250643 , "Amaro" , "Lidia" , "Martín" , "Pastor" , "09/20/1971" , "Amaro.Lidia.Martín.Pastor@gmail.com" , NULL , NULL , "f" );
+VALUES ( 21453886 , "Lourdes" , "Gonzalo" , "Rodríguez" , "Ortega" , "07/03/1970" , "Lourdes.Gonzalo.Rodríguez.Ortega@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19573840 , "Albert" , "Jerónimo" , "Gallardo" , "Gutiérrez" , "07/16/1990" , "Albert.Jerónimo.Gallardo.Gutiérrez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 56667383 , "Vladimiro" , "Teodosia" , "Vicente" , "González" , "07/22/1966" , "Vladimiro.Teodosia.Vicente.González@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37935707 , "Samuel" , "Cleofás" , "Moreno" , "Sanz" , "10/28/1975" , "Samuel.Cleofás.Moreno.Sanz@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49020972 , "Anselmo" , "Alberto" , "Rubio" , "Parra" , "01/25/1995" , "Anselmo.Alberto.Rubio.Parra@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51118791 , "Aristides" , "Ezequiel" , "Torres" , "Blanco" , "07/16/1977" , "Aristides.Ezequiel.Torres.Blanco@gmail.com" , NULL , NULL , "f" );
+VALUES ( 56978665 , "Erico" , "Heliodoro" , "Castro" , "Blanco" , "08/18/1978" , "Erico.Heliodoro.Castro.Blanco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21186665 , "Josué" , "Bonifacio" , "Sáez" , "Giménez" , "08/17/1970" , "Josué.Bonifacio.Sáez.Giménez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 46508420 , "Dámaso" , "Adela" , "Soler" , "Pérez" , "10/09/1981" , "Dámaso.Adela.Soler.Pérez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48145402 , "Román" , "Nazario" , "Navarro" , "Suárez" , "06/21/1980" , "Román.Nazario.Navarro.Suárez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 54876384 , "Constantino" , "Rubén" , "Lozano" , "Sanz" , "05/10/1980" , "Constantino.Rubén.Lozano.Sanz@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11270480 , "Raquel" , "Carolina" , "Giménez" , "Alonso" , "02/25/1976" , "Raquel.Carolina.Giménez.Alonso@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 42384464 , "Marta" , "Isaac" , "Núñez" , "Esteban" , "07/15/1989" , "Marta.Isaac.Núñez.Esteban@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29987293 , "Felipe" , "Ramiro" , "Molina" , "Suárez" , "11/04/2001" , "Felipe.Ramiro.Molina.Suárez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 29993626 , "Josefa" , "Benedicto" , "Peña" , "Gallego" , "12/09/1973" , "Josefa.Benedicto.Peña.Gallego@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26730497 , "Pablo" , "Javier" , "Pérez" , "Serrano" , "10/07/1975" , "Pablo.Javier.Pérez.Serrano@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 41573824 , "Heliodoro" , "Nuria" , "Nieto" , "Ortega" , "04/28/1990" , "Heliodoro.Nuria.Nieto.Ortega@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22107268 , "Nicodemo" , "Aitor" , "Díez" , "Morales" , "02/25/1974" , "Nicodemo.Aitor.Díez.Morales@gmail.com" , NULL , NULL , "f" );
+VALUES ( 17626057 , "Dimas" , "Raquel" , "Serrano" , "Álvarez" , "10/29/1974" , "Dimas.Raquel.Serrano.Álvarez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49199846 , "Cristian" , "Bonifacio" , "Prieto" , "Ibáñez" , "06/13/2002" , "Cristian.Bonifacio.Prieto.Ibáñez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11959854 , "Santiago" , "Tomás" , "Montero" , "Rey" , "04/12/2002" , "Santiago.Tomás.Montero.Rey@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58673702 , "Rosendo" , "Fulgencio" , "Moreno" , "Pastor" , "03/26/1995" , "Rosendo.Fulgencio.Moreno.Pastor@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 43588926 , "Vicenta" , "Donato" , "Giménez" , "Méndez" , "09/22/1966" , "Vicenta.Donato.Giménez.Méndez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16828149 , "Claudia" , "Cristina" , "Romero" , "Guerrero" , "04/22/1970" , "Claudia.Cristina.Romero.Guerrero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35364811 , "Feliciano" , "Nuria" , "Ortiz" , "Prieto" , "07/27/2001" , "Feliciano.Nuria.Ortiz.Prieto@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46126577 , "Lino" , "Juvenal" , "López" , "González" , "10/04/1981" , "Lino.Juvenal.López.González@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 37680546 , "Salvador" , "Aquiles" , "Herrera" , "Gallego" , "06/29/1969" , "Salvador.Aquiles.Herrera.Gallego@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39095511 , "Jeremías" , "Genoveva" , "Sanz" , "Gallardo" , "08/23/1982" , "Jeremías.Genoveva.Sanz.Gallardo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 26592596 , "Araceli" , "Asunción" , "Cabrera" , "Hernández" , "03/28/1996" , "Araceli.Asunción.Cabrera.Hernández@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39918921 , "Celina" , "Úrsula" , "Navarro" , "Crespo" , "06/07/1982" , "Celina.Úrsula.Navarro.Crespo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 39663061 , "Daciano" , "Aresio" , "Martínez" , "Prieto" , "09/24/1982" , "Daciano.Aresio.Martínez.Prieto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29129316 , "Cecilia" , "Almudena" , "Campos" , "Méndez" , "05/15/1993" , "Cecilia.Almudena.Campos.Méndez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 54423969 , "Teresa" , "Anselmo" , "Ortega" , "Molina" , "08/21/1968" , "Teresa.Anselmo.Ortega.Molina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39405330 , "Aureliano" , "Casio" , "Blesa" , "Marín" , "07/09/2003" , "Aureliano.Casio.Blesa.Marín@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 56266745 , "Victoria" , "Salomón" , "Nieto" , "Herrera" , "07/06/1973" , "Victoria.Salomón.Nieto.Herrera@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39024209 , "Esiquio" , "Pedro" , "Campos" , "Blesa" , "01/02/1985" , "Esiquio.Pedro.Campos.Blesa@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 17491349 , "Joaquín" , "Edgar" , "Durán" , "Cruz" , "03/08/1995" , "Joaquín.Edgar.Durán.Cruz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51446403 , "Juan" , "Marta" , "López" , "Mora" , "04/30/1998" , "Juan.Marta.López.Mora@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51781683 , "Nieves" , "Lucas" , "Ibáñez" , "Pastor" , "04/11/1977" , "Nieves.Lucas.Ibáñez.Pastor@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44972649 , "Laureano" , "Cristian" , "Rey" , "Crespo" , "03/02/1975" , "Laureano.Cristian.Rey.Crespo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 59732884 , "Olga" , "Mar" , "Benítez" , "Márquez" , "12/07/2001" , "Olga.Mar.Benítez.Márquez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24977568 , "Fabián" , "Manuel" , "Santana" , "Díaz" , "05/28/1976" , "Fabián.Manuel.Santana.Díaz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 47270662 , "Pascual" , "César" , "Campos" , "Blanco" , "04/18/1990" , "Pascual.César.Campos.Blanco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15477345 , "Segismundo" , "Arnaldo" , "Montoro" , "Flores" , "05/07/1986" , "Segismundo.Arnaldo.Montoro.Flores@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29007398 , "Aurelio" , "Sergio" , "Garrido" , "Blanco" , "04/06/1994" , "Aurelio.Sergio.Garrido.Blanco@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39593228 , "Juana" , "Nuria" , "Iglesias" , "Esteban" , "09/24/1976" , "Juana.Nuria.Iglesias.Esteban@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 58023125 , "Felipe" , "Raimundo" , "Herrera" , "Jiménez" , "11/22/1967" , "Felipe.Raimundo.Herrera.Jiménez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38023129 , "Guzmán" , "Anastasia" , "Prieto" , "Ibáñez" , "06/24/1969" , "Guzmán.Anastasia.Prieto.Ibáñez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 59520663 , "Margarita" , "Aquiles" , "Prieto" , "Jiménez" , "09/09/1966" , "Margarita.Aquiles.Prieto.Jiménez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42028870 , "Casio" , "Humberto" , "Montero" , "Gómez" , "04/27/1992" , "Casio.Humberto.Montero.Gómez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 51633480 , "Josué" , "Emilia" , "Ibáñez" , "Nieto" , "10/05/1979" , "Josué.Emilia.Ibáñez.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42629763 , "Julián" , "Alejandro" , "Guerrero" , "Jiménez" , "10/26/1968" , "Julián.Alejandro.Guerrero.Jiménez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 32873384 , "Aurelio" , "Sonia" , "Soler" , "Cano" , "11/09/1987" , "Aurelio.Sonia.Soler.Cano@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12727127 , "Moisés" , "Rocío" , "Sanz" , "Ramírez" , "09/25/1976" , "Moisés.Rocío.Sanz.Ramírez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 39627178 , "Elías" , "Benito" , "Campos" , "Jiménez" , "12/07/1973" , "Elías.Benito.Campos.Jiménez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57702350 , "Abdón" , "Balduino" , "Gallardo" , "Castro" , "06/13/1970" , "Abdón.Balduino.Gallardo.Castro@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 54689062 , "Zacarías" , "Blas" , "Vargas" , "Gómez" , "08/23/1978" , "Zacarías.Blas.Vargas.Gómez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42265868 , "Virginia" , "Martín" , "Esteban" , "Torres" , "08/07/1990" , "Virginia.Martín.Esteban.Torres@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 22122383 , "Iván" , "Cristian" , "Álvarez" , "Vidal" , "11/11/1983" , "Iván.Cristian.Álvarez.Vidal@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46803090 , "Aitor" , "Wilfredo" , "Ortiz" , "López" , "09/14/1993" , "Aitor.Wilfredo.Ortiz.López@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 21620453 , "Pascual" , "Julia" , "Vicente" , "Márquez" , "01/30/1980" , "Pascual.Julia.Vicente.Márquez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14653051 , "Albert" , "Aquiles" , "Vicente" , "Martín" , "04/13/1986" , "Albert.Aquiles.Vicente.Martín@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 56633510 , "Ireneo" , "Erico" , "Rodríguez" , "Navarro" , "12/31/2002" , "Ireneo.Erico.Rodríguez.Navarro@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19708906 , "Adón" , "Laura" , "Ramírez" , "Torres" , "03/31/1989" , "Adón.Laura.Ramírez.Torres@gmail.com" , NULL , NULL , "f" );
+VALUES ( 12627341 , "Feliciano" , "Guadalupe" , "Pascual" , "Fuentes" , "10/18/1991" , "Feliciano.Guadalupe.Pascual.Fuentes@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49981251 , "Emiliano" , "Octavio" , "Parra" , "Núñez" , "05/27/1992" , "Emiliano.Octavio.Parra.Núñez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 28213724 , "Ester" , "Absalón" , "Giménez" , "Aguilar" , "04/28/1991" , "Ester.Absalón.Giménez.Aguilar@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23762491 , "Arturo" , "Eliseo" , "Sánchez" , "Gutiérrez" , "11/29/1973" , "Arturo.Eliseo.Sánchez.Gutiérrez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 44785844 , "Liduvina" , "Fulgencio" , "Cruz" , "Caballero" , "09/12/2000" , "Liduvina.Fulgencio.Cruz.Caballero@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26088525 , "Heriberto" , "Rufo" , "Méndez" , "Crespo" , "07/23/1971" , "Heriberto.Rufo.Méndez.Crespo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 37672290 , "Fortunato" , "Mateo" , "Campos" , "Reyes" , "12/28/1982" , "Fortunato.Mateo.Campos.Reyes@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16651475 , "Guillermo" , "Cecilia" , "Jiménez" , "Martínez" , "12/15/1994" , "Guillermo.Cecilia.Jiménez.Martínez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51834955 , "Ezequiel" , "Áurea" , "Bravo" , "Ferrer" , "11/24/1974" , "Ezequiel.Áurea.Bravo.Ferrer@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29893351 , "Conrado" , "Cecilia" , "Guerrero" , "Bravo" , "05/01/1971" , "Conrado.Cecilia.Guerrero.Bravo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 42049751 , "Nazario" , "Artemio" , "Torres" , "Gil" , "03/10/1997" , "Nazario.Artemio.Torres.Gil@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58412994 , "Paula" , "Gloria" , "Mora" , "Rubio" , "06/30/1997" , "Paula.Gloria.Mora.Rubio@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 22956657 , "Félix" , "Eduardo" , "González" , "Alonso" , "06/04/1999" , "Félix.Eduardo.González.Alonso@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17821788 , "Onésimo" , "Baltasar" , "Fuentes" , "Castro" , "06/29/2001" , "Onésimo.Baltasar.Fuentes.Castro@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 27050525 , "Cristina" , "Dacio" , "Sáez" , "Guerrero" , "11/18/1984" , "Cristina.Dacio.Sáez.Guerrero@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56927810 , "Raquel" , "Fermín" , "Vargas" , "Marín" , "12/24/1981" , "Raquel.Fermín.Vargas.Marín@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 55127318 , "Inés" , "Aarón" , "Méndez" , "Herrero" , "10/03/1975" , "Inés.Aarón.Méndez.Herrero@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31362574 , "Josué" , "Jorge" , "Rey" , "Sanz" , "05/20/1982" , "Josué.Jorge.Rey.Sanz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 22756590 , "Ernesto" , "Atanasio" , "Esteban" , "Castillo" , "11/18/1973" , "Ernesto.Atanasio.Esteban.Castillo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41415725 , "Salomón" , "Beatriz" , "Méndez" , "Navarro" , "08/09/1997" , "Salomón.Beatriz.Méndez.Navarro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 26073629 , "Victorio" , "Eduvigis" , "Montero" , "Vicente" , "06/30/1967" , "Victorio.Eduvigis.Montero.Vicente@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53389623 , "Miqueas" , "Jordi" , "Serrano" , "Molina" , "12/21/1991" , "Miqueas.Jordi.Serrano.Molina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 48632372 , "Dario" , "Lázaro" , "Blanco" , "Peña" , "05/11/1968" , "Dario.Lázaro.Blanco.Peña@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21593642 , "Celia" , "Rebeca" , "Cano" , "Ortiz" , "04/11/1992" , "Celia.Rebeca.Cano.Ortiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 21817139 , "Jonás" , "Otilia" , "Nieto" , "Giménez" , "05/24/1982" , "Jonás.Otilia.Nieto.Giménez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24264622 , "Luisa" , "Guillermo" , "Ramos" , "Gallardo" , "11/06/1977" , "Luisa.Guillermo.Ramos.Gallardo@gmail.com" , NULL , NULL , "f" );
+VALUES ( 36967543 , "Leandro" , "Mónica" , "Sánchez" , "Peña" , "02/14/1987" , "Leandro.Mónica.Sánchez.Peña@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34034655 , "Joaquín" , "Atanasio" , "Mora" , "Nieto" , "10/18/1992" , "Joaquín.Atanasio.Mora.Nieto@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 59736896 , "Octavio" , "Constantino" , "Navarro" , "Ramos" , "04/20/1985" , "Octavio.Constantino.Navarro.Ramos@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28609206 , "Pedro" , "Dario" , "Prieto" , "Pastor" , "01/29/1985" , "Pedro.Dario.Prieto.Pastor@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 57418339 , "Noelia" , "Rafael" , "Gil" , "Moya" , "02/23/1973" , "Noelia.Rafael.Gil.Moya@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57820554 , "Nicanor" , "Lorena" , "Carrasco" , "Caballero" , "05/14/1976" , "Nicanor.Lorena.Carrasco.Caballero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 38189214 , "Rosario" , "Natividad" , "Cortés" , "Martín" , "10/14/1997" , "Rosario.Natividad.Cortés.Martín@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54206080 , "Onésimo" , "Rosendo" , "Parra" , "Parra" , "01/11/1984" , "Onésimo.Rosendo.Parra.Parra@gmail.com" , NULL , NULL , "f" );
+VALUES ( 25693256 , "Marcial" , "Abel" , "Parra" , "Vázquez" , "07/02/1997" , "Marcial.Abel.Parra.Vázquez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58507818 , "Anatolio" , "Nuria" , "Gutiérrez" , "Lozano" , "05/20/1983" , "Anatolio.Nuria.Gutiérrez.Lozano@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 11425304 , "Conrado" , "Benigno" , "Durán" , "Medina" , "12/02/1971" , "Conrado.Benigno.Durán.Medina@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12558518 , "Moisés" , "Fermín" , "Gil" , "Gil" , "08/20/1994" , "Moisés.Fermín.Gil.Gil@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 36708545 , "Blanca" , "Catalina" , "Márquez" , "Rey" , "10/30/1995" , "Blanca.Catalina.Márquez.Rey@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58668088 , "Diego" , "Raúl" , "Velasco" , "Nieto" , "01/13/1989" , "Diego.Raúl.Velasco.Nieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 33300291 , "Raquel" , "Victoria" , "Iglesias" , "Carmona" , "09/20/1988" , "Raquel.Victoria.Iglesias.Carmona@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29052105 , "Amparo" , "Ruperto" , "Parra" , "Vega" , "12/27/1990" , "Amparo.Ruperto.Parra.Vega@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 27643087 , "Juvenal" , "Casimiro" , "Muñoz" , "Pastor" , "04/19/1968" , "Juvenal.Casimiro.Muñoz.Pastor@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57480792 , "Remedios" , "Romualdo" , "Blesa" , "Sanz" , "09/29/1969" , "Remedios.Romualdo.Blesa.Sanz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 55725588 , "Casimiro" , "Juana" , "Hernández" , "Gutiérrez" , "07/08/1985" , "Casimiro.Juana.Hernández.Gutiérrez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14751572 , "Valentín" , "Cayo" , "Pastor" , "Carrasco" , "09/15/1977" , "Valentín.Cayo.Pastor.Carrasco@gmail.com" , NULL , NULL , "f" );
+VALUES ( 43439133 , "Oscar" , "Benigno" , "Moreno" , "Rubio" , "06/07/1982" , "Oscar.Benigno.Moreno.Rubio@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35160065 , "Lidia" , "Salomón" , "Núñez" , "Garrido" , "03/19/1988" , "Lidia.Salomón.Núñez.Garrido@gmail.com" , NULL , NULL , "f" );
+VALUES ( 14949597 , "Paula" , "Joaquín" , "Lorenzo" , "Hidalgo" , "05/31/1988" , "Paula.Joaquín.Lorenzo.Hidalgo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23673377 , "Adelaida" , "Vicente" , "Sánchez" , "Mora" , "08/28/1975" , "Adelaida.Vicente.Sánchez.Mora@gmail.com" , NULL , NULL , "f" );
+VALUES ( 12599633 , "Sergio" , "Andrés" , "Blesa" , "Sánchez" , "03/22/1968" , "Sergio.Andrés.Blesa.Sánchez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29233088 , "Pío" , "Salomón" , "Hernández" , "Santiago" , "07/07/1999" , "Pío.Salomón.Hernández.Santiago@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 19590333 , "Rogelio" , "León" , "Álvarez" , "Jiménez" , "07/14/1971" , "Rogelio.León.Álvarez.Jiménez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27781516 , "Isaac" , "Fabio" , "Torres" , "Ramos" , "01/02/1989" , "Isaac.Fabio.Torres.Ramos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 52006620 , "Míriam" , "Noé" , "Suárez" , "Marín" , "03/22/1971" , "Míriam.Noé.Suárez.Marín@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47284570 , "Martín" , "Isidro" , "Mora" , "Mora" , "04/27/1985" , "Martín.Isidro.Mora.Mora@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 49699664 , "Cecilia" , "Romualdo" , "Carrasco" , "Carmona" , "01/19/1976" , "Cecilia.Romualdo.Carrasco.Carmona@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22957059 , "Iván" , "Álvaro" , "Domínguez" , "Fuentes" , "07/04/1973" , "Iván.Álvaro.Domínguez.Fuentes@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 19369405 , "Ernesto" , "Nicanor" , "Ferrer" , "Suárez" , "03/21/1982" , "Ernesto.Nicanor.Ferrer.Suárez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29097721 , "Germán" , "Elisa" , "Torres" , "Cortés" , "12/18/1974" , "Germán.Elisa.Torres.Cortés@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 55278927 , "Ernesto" , "Ildefonso" , "Méndez" , "Medina" , "10/23/1991" , "Ernesto.Ildefonso.Méndez.Medina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35870909 , "Octavio" , "Fortunato" , "Romero" , "Calvo" , "06/08/1971" , "Octavio.Fortunato.Romero.Calvo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23026786 , "Claudia" , "Alberto" , "Morales" , "Lozano" , "11/25/2002" , "Claudia.Alberto.Morales.Lozano@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36354665 , "Epifanía" , "Fortunato" , "Marín" , "Santos" , "07/23/1971" , "Epifanía.Fortunato.Marín.Santos@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 15380536 , "Carolina" , "Amaro" , "Soler" , "Ramírez" , "09/23/1979" , "Carolina.Amaro.Soler.Ramírez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52184195 , "Bonifacio" , "Antonia" , "Ruiz" , "Parra" , "10/06/1980" , "Bonifacio.Antonia.Ruiz.Parra@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 53248443 , "Heraclio" , "Justino" , "Gómez" , "Durán" , "08/27/1999" , "Heraclio.Justino.Gómez.Durán@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58554457 , "Ángeles" , "Octavio" , "Castro" , "Cabrera" , "04/22/1988" , "Ángeles.Octavio.Castro.Cabrera@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 47133024 , "Nuria" , "Ismael" , "Ruiz" , "Hernández" , "07/03/1974" , "Nuria.Ismael.Ruiz.Hernández@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48574518 , "Dacio" , "Alonso" , "Peña" , "García" , "09/09/1998" , "Dacio.Alonso.Peña.García@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29260176 , "Adalberto" , "Inés" , "Rodríguez" , "Martín" , "09/17/1979" , "Adalberto.Inés.Rodríguez.Martín@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44675899 , "Patricia" , "Fabián" , "Torres" , "Prieto" , "05/08/1987" , "Patricia.Fabián.Torres.Prieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 45616608 , "Ariadna" , "Concepción" , "Delgado" , "Ramos" , "09/04/1968" , "Ariadna.Concepción.Delgado.Ramos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32207854 , "Fortunato" , "Patricia" , "Cruz" , "Morales" , "08/06/1990" , "Fortunato.Patricia.Cruz.Morales@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 36138122 , "Pascual" , "Tobías" , "Velasco" , "Marín" , "05/11/2002" , "Pascual.Tobías.Velasco.Marín@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45558480 , "Elías" , "Consuelo" , "Molina" , "Ortega" , "10/01/1982" , "Elías.Consuelo.Molina.Ortega@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 31662188 , "Fabio" , "Teófila" , "Álvarez" , "Medina" , "09/09/1981" , "Fabio.Teófila.Álvarez.Medina@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38251362 , "Jacob" , "Ismael" , "Aguilar" , "Montero" , "04/21/2000" , "Jacob.Ismael.Aguilar.Montero@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 11784360 , "Andrea" , "Valeriano" , "Santos" , "Peña" , "02/03/1972" , "Andrea.Valeriano.Santos.Peña@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35795862 , "Germán" , "Marta" , "Arias" , "Vidal" , "11/05/1976" , "Germán.Marta.Arias.Vidal@gmail.com" , NULL , NULL , "f" );
+VALUES ( 56866678 , "Asunción" , "Ciro" , "Sanz" , "Ibáñez" , "08/08/1986" , "Asunción.Ciro.Sanz.Ibáñez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46545282 , "Teodora" , "Lucano" , "Romero" , "Domínguez" , "05/10/1992" , "Teodora.Lucano.Romero.Domínguez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 27558834 , "Sandra" , "Inocencio" , "Moya" , "Navarro" , "07/09/1997" , "Sandra.Inocencio.Moya.Navarro@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17383580 , "Natalia" , "Balduino" , "Herrera" , "Vicente" , "10/26/1987" , "Natalia.Balduino.Herrera.Vicente@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51187782 , "Colombo" , "Arnaldo" , "Soler" , "Sáez" , "10/30/1999" , "Colombo.Arnaldo.Soler.Sáez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36661418 , "Isaac" , "Joaquín" , "Ferrer" , "Calvo" , "04/29/1973" , "Isaac.Joaquín.Ferrer.Calvo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 24363595 , "Probo" , "Julia" , "Gallego" , "Iglesias" , "06/01/1988" , "Probo.Julia.Gallego.Iglesias@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26864717 , "Narciso" , "Encarnación" , "Ibáñez" , "Reyes" , "01/18/1990" , "Narciso.Encarnación.Ibáñez.Reyes@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27998339 , "Purificación" , "Melchor" , "Moya" , "Arias" , "05/19/1994" , "Purificación.Melchor.Moya.Arias@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55687526 , "Simón" , "Vicenta" , "León" , "Campos" , "04/20/1973" , "Simón.Vicenta.León.Campos@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 26549925 , "Colombo" , "Rubén" , "Cruz" , "Aguilar" , "02/17/1968" , "Colombo.Rubén.Cruz.Aguilar@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46807529 , "Juana" , "Javier" , "Arias" , "Morales" , "12/06/1995" , "Juana.Javier.Arias.Morales@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 21385552 , "Olga" , "Daciano" , "Durán" , "Jiménez" , "12/25/1984" , "Olga.Daciano.Durán.Jiménez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38254530 , "Rafael" , "Andrea" , "Nieto" , "Marín" , "02/14/1975" , "Rafael.Andrea.Nieto.Marín@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 12917742 , "Joaquím" , "Yolanda" , "Garrido" , "Peña" , "10/10/1982" , "Joaquím.Yolanda.Garrido.Peña@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38202725 , "Roberto" , "Agustín" , "Peña" , "Flores" , "09/29/1981" , "Roberto.Agustín.Peña.Flores@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 57742095 , "Salomón" , "Baltasar" , "Vargas" , "Moya" , "12/13/2000" , "Salomón.Baltasar.Vargas.Moya@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23395977 , "Enrique" , "Fabiola" , "Alonso" , "González" , "10/17/1981" , "Enrique.Fabiola.Alonso.González@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 52879986 , "Iván" , "Victoria" , "Vidal" , "León" , "10/02/1987" , "Iván.Victoria.Vidal.León@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39071058 , "Héctor" , "Amaro" , "Vidal" , "Gómez" , "07/10/1972" , "Héctor.Amaro.Vidal.Gómez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 45511678 , "Rocío" , "Trinidad" , "Gallego" , "Santana" , "07/08/1985" , "Rocío.Trinidad.Gallego.Santana@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16789456 , "Urbano" , "Adolfo" , "Nieto" , "Hernández" , "01/08/1970" , "Urbano.Adolfo.Nieto.Hernández@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 25630892 , "Victorio" , "Alonso" , "Fernández" , "Lozano" , "12/15/1983" , "Victorio.Alonso.Fernández.Lozano@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51818375 , "Venancio" , "Alonso" , "Carrasco" , "Velasco" , "09/15/1978" , "Venancio.Alonso.Carrasco.Velasco@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16229878 , "Leonor" , "Julia" , "Moya" , "Soto" , "08/21/1967" , "Leonor.Julia.Moya.Soto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43849689 , "Gloria" , "Jerónimo" , "Parra" , "Ortiz" , "09/25/1984" , "Gloria.Jerónimo.Parra.Ortiz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35960522 , "Alfonso" , "Salvador" , "Rey" , "Ibáñez" , "03/11/1983" , "Alfonso.Salvador.Rey.Ibáñez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53986526 , "Gustavo" , "Blas" , "Jiménez" , "Castillo" , "05/31/1972" , "Gustavo.Blas.Jiménez.Castillo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 13437642 , "Norberto" , "Antonio" , "Moreno" , "Velasco" , "07/05/1971" , "Norberto.Antonio.Moreno.Velasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47364849 , "Dario" , "Adón" , "Parra" , "Ruiz" , "07/17/1983" , "Dario.Adón.Parra.Ruiz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 28751881 , "Yolanda" , "Marta" , "Crespo" , "Soler" , "02/06/1981" , "Yolanda.Marta.Crespo.Soler@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38854877 , "Luz" , "Oscar" , "Marín" , "Gallego" , "08/22/1969" , "Luz.Oscar.Marín.Gallego@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 27072723 , "Cirilo" , "Adolfo" , "Vicente" , "Moreno" , "10/19/1996" , "Cirilo.Adolfo.Vicente.Moreno@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11553993 , "Faustino" , "Ambrosio" , "Durán" , "Navarro" , "09/10/1989" , "Faustino.Ambrosio.Durán.Navarro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29784554 , "Natividad" , "Remedios" , "Martín" , "Gallego" , "02/27/1983" , "Natividad.Remedios.Martín.Gallego@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38882157 , "Félix" , "Natalia" , "Román" , "Fuentes" , "08/24/1980" , "Félix.Natalia.Román.Fuentes@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 13303714 , "Ariadna" , "Ubaldo" , "García" , "Bravo" , "05/04/1990" , "Ariadna.Ubaldo.García.Bravo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31660776 , "Josefa" , "Aurelio" , "Pastor" , "Soto" , "09/29/1986" , "Josefa.Aurelio.Pastor.Soto@gmail.com" , NULL , NULL , "f" );
+VALUES ( 44973502 , "Edmundo" , "Carmelo" , "Durán" , "Bravo" , "05/06/1968" , "Edmundo.Carmelo.Durán.Bravo@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15397731 , "Patricia" , "Lucrecia" , "Marín" , "Blanco" , "07/23/1967" , "Patricia.Lucrecia.Marín.Blanco@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46930685 , "Roque" , "Mar" , "Montoro" , "León" , "10/08/1985" , "Roque.Mar.Montoro.León@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59254173 , "Ladislao" , "Aurelio" , "Moya" , "Ramírez" , "05/29/1973" , "Ladislao.Aurelio.Moya.Ramírez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 52363898 , "Hugo" , "Lourdes" , "Gómez" , "Esteban" , "04/15/2001" , "Hugo.Lourdes.Gómez.Esteban@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15423811 , "Abrahán" , "Pancracio" , "Caballero" , "Herrera" , "08/08/1998" , "Abrahán.Pancracio.Caballero.Herrera@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 32527066 , "Lucas" , "Pedro" , "Román" , "Calvo" , "07/11/1999" , "Lucas.Pedro.Román.Calvo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44973427 , "Simón" , "Nuria" , "Sanz" , "Serrano" , "06/28/1974" , "Simón.Nuria.Sanz.Serrano@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16285171 , "Aurelio" , "Diego" , "Castillo" , "Suárez" , "07/15/1982" , "Aurelio.Diego.Castillo.Suárez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14560373 , "Isaías" , "Abrahán" , "Lorenzo" , "Delgado" , "10/04/1999" , "Isaías.Abrahán.Lorenzo.Delgado@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23210727 , "Mohamed" , "Andrés" , "Gallardo" , "Arias" , "12/20/1990" , "Mohamed.Andrés.Gallardo.Arias@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28392033 , "Nicolás" , "Macario" , "Pérez" , "Medina" , "07/05/2003" , "Nicolás.Macario.Pérez.Medina@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 52245064 , "Baltasar" , "Simón" , "Ruiz" , "Vicente" , "01/27/1984" , "Baltasar.Simón.Ruiz.Vicente@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56396019 , "Jacob" , "Lorenzo" , "Morales" , "Díaz" , "06/22/1987" , "Jacob.Lorenzo.Morales.Díaz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27475820 , "Remedios" , "Ascensión" , "Moreno" , "Pastor" , "10/26/1978" , "Remedios.Ascensión.Moreno.Pastor@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47315202 , "Alba" , "Valentín" , "Ruiz" , "Pascual" , "03/06/1976" , "Alba.Valentín.Ruiz.Pascual@gmail.com" , NULL , NULL , "f" );
+VALUES ( 15305156 , "Abdón" , "Albina" , "Parra" , "Santana" , "09/18/1979" , "Abdón.Albina.Parra.Santana@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46050962 , "Beltrán" , "Adela" , "Bravo" , "Vázquez" , "05/30/1981" , "Beltrán.Adela.Bravo.Vázquez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 13635143 , "Liduvina" , "Rosa" , "Castro" , "Domínguez" , "01/27/1995" , "Liduvina.Rosa.Castro.Domínguez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53719909 , "Cleofás" , "Asunción" , "Méndez" , "Montero" , "11/03/1966" , "Cleofás.Asunción.Méndez.Montero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 28292780 , "Segismundo" , "León" , "Díaz" , "Molina" , "01/10/1980" , "Segismundo.León.Díaz.Molina@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56822266 , "Mercedes" , "Áurea" , "Moya" , "Vázquez" , "04/22/1995" , "Mercedes.Áurea.Moya.Vázquez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23271274 , "Bonifacio" , "Verónica" , "Serrano" , "Herrera" , "04/02/1974" , "Bonifacio.Verónica.Serrano.Herrera@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44642848 , "Esther" , "Elvira" , "Ibáñez" , "Suárez" , "02/15/1983" , "Esther.Elvira.Ibáñez.Suárez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 18537332 , "Pedro" , "Hilarión" , "Santiago" , "Sáez" , "03/14/1967" , "Pedro.Hilarión.Santiago.Sáez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42644941 , "Lucano" , "Miguel" , "Vega" , "Suárez" , "02/01/1986" , "Lucano.Miguel.Vega.Suárez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18116334 , "Lourdes" , "Julia" , "Pascual" , "Esteban" , "10/25/1988" , "Lourdes.Julia.Pascual.Esteban@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33406203 , "Laura" , "Hugo" , "Díez" , "Lozano" , "08/21/1981" , "Laura.Hugo.Díez.Lozano@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 39542439 , "Jesús" , "Fortunato" , "Esteban" , "Vicente" , "10/27/2000" , "Jesús.Fortunato.Esteban.Vicente@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23180390 , "Zacarías" , "Justino" , "Santana" , "Navarro" , "10/06/1984" , "Zacarías.Justino.Santana.Navarro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29079983 , "Celia" , "Verónica" , "Ortega" , "Ruiz" , "11/24/1992" , "Celia.Verónica.Ortega.Ruiz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33601207 , "Pilar" , "Gerardo" , "Aguilar" , "Muñoz" , "04/25/1969" , "Pilar.Gerardo.Aguilar.Muñoz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 47141659 , "Eduvigis" , "Tarsicio" , "González" , "Lozano" , "07/17/1999" , "Eduvigis.Tarsicio.González.Lozano@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42310683 , "Abdón" , "Heliodoro" , "Moya" , "Vicente" , "09/17/1982" , "Abdón.Heliodoro.Moya.Vicente@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 52047234 , "Sofía" , "Soledad" , "Calvo" , "León" , "01/24/1989" , "Sofía.Soledad.Calvo.León@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44059273 , "Rebeca" , "Catalina" , "Parra" , "Alonso" , "09/28/1990" , "Rebeca.Catalina.Parra.Alonso@gmail.com" , NULL , NULL , "f" );
+VALUES ( 58404739 , "Josefa" , "Artemio" , "Vicente" , "Bravo" , "04/01/1982" , "Josefa.Artemio.Vicente.Bravo@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34867856 , "Natividad" , "Isaías" , "Román" , "Martínez" , "03/30/1982" , "Natividad.Isaías.Román.Martínez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 15995989 , "Montserrat" , "Elisa" , "Martínez" , "Jiménez" , "06/05/1975" , "Montserrat.Elisa.Martínez.Jiménez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45224122 , "Alba" , "Rosario" , "Álvarez" , "Vázquez" , "09/07/1971" , "Alba.Rosario.Álvarez.Vázquez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 48162553 , "Fermín" , "Leandro" , "Serrano" , "Pascual" , "02/04/1974" , "Fermín.Leandro.Serrano.Pascual@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12424351 , "Marta" , "Rebeca" , "Pascual" , "Blesa" , "07/14/1995" , "Marta.Rebeca.Pascual.Blesa@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 48528569 , "Carina" , "Daciano" , "Díez" , "Blanco" , "09/09/1973" , "Carina.Daciano.Díez.Blanco@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45050955 , "Isaac" , "Ifigenia" , "Román" , "Vega" , "08/19/1971" , "Isaac.Ifigenia.Román.Vega@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23638610 , "Narciso" , "Bernarda" , "Bravo" , "Suárez" , "02/04/1968" , "Narciso.Bernarda.Bravo.Suárez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24509379 , "Margarita" , "Emiliano" , "Gómez" , "Vázquez" , "10/11/1983" , "Margarita.Emiliano.Gómez.Vázquez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 43891808 , "Tomas" , "Rebeca" , "Álvarez" , "Ortiz" , "08/28/2000" , "Tomas.Rebeca.Álvarez.Ortiz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59952969 , "Benedicto" , "Victorino" , "Benítez" , "Cambil" , "05/14/1984" , "Benedicto.Victorino.Benítez.Cambil@gmail.com" , NULL , NULL , "f" );
+VALUES ( 13563722 , "Domingo" , "Narciso" , "Vicente" , "Mora" , "10/16/1973" , "Domingo.Narciso.Vicente.Mora@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18861430 , "Eva" , "Fausto" , "Serrano" , "Torres" , "03/15/1981" , "Eva.Fausto.Serrano.Torres@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 54618675 , "Xavier" , "Fernando" , "Soto" , "Medina" , "11/26/1981" , "Xavier.Fernando.Soto.Medina@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59317993 , "Sergio" , "Sandra" , "García" , "Medina" , "06/28/1974" , "Sergio.Sandra.García.Medina@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 45600764 , "Ángeles" , "Lorena" , "Martínez" , "Aguilar" , "10/24/1967" , "Ángeles.Lorena.Martínez.Aguilar@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15338367 , "Artemio" , "Beatriz" , "García" , "Domínguez" , "11/07/1978" , "Artemio.Beatriz.García.Domínguez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 49722316 , "Patricia" , "Fortunato" , "Ferrer" , "Nieto" , "11/16/2000" , "Patricia.Fortunato.Ferrer.Nieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59562895 , "Clara" , "Adolfo" , "Álvarez" , "Castro" , "02/25/2001" , "Clara.Adolfo.Álvarez.Castro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 31222053 , "Isaías" , "Demócrito" , "Carmona" , "Castro" , "11/15/1973" , "Isaías.Demócrito.Carmona.Castro@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13081300 , "Javier" , "Abdón" , "Calvo" , "Cano" , "08/27/1991" , "Javier.Abdón.Calvo.Cano@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 15367005 , "Carolina" , "Begoña" , "Márquez" , "Muñoz" , "07/02/1969" , "Carolina.Begoña.Márquez.Muñoz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11785289 , "Francesc" , "Hugo" , "Caballero" , "Molina" , "03/27/1987" , "Francesc.Hugo.Caballero.Molina@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46700751 , "Julián" , "Ezequiel" , "Campos" , "Soler" , "10/16/1983" , "Julián.Ezequiel.Campos.Soler@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49173567 , "Esteban" , "Leoncio" , "Santos" , "Carrasco" , "09/27/1990" , "Esteban.Leoncio.Santos.Carrasco@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 56976015 , "Eduardo" , "Lucía" , "Ortiz" , "Moya" , "01/03/1968" , "Eduardo.Lucía.Ortiz.Moya@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58987434 , "Benjamín" , "Fulgencio" , "Cano" , "Cortés" , "06/09/1975" , "Benjamín.Fulgencio.Cano.Cortés@gmail.com" , NULL , NULL , "f" );
+VALUES ( 38691118 , "Siro" , "Rosendo" , "Nieto" , "Sánchez" , "11/18/1993" , "Siro.Rosendo.Nieto.Sánchez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51034595 , "Fulgencio" , "Fortunato" , "López" , "Suárez" , "06/14/2000" , "Fulgencio.Fortunato.López.Suárez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 42384044 , "Fabiola" , "Fernando" , "Garrido" , "Vargas" , "01/12/1992" , "Fabiola.Fernando.Garrido.Vargas@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11870385 , "Bernarda" , "Mariano" , "Velasco" , "López" , "04/02/1984" , "Bernarda.Mariano.Velasco.López@gmail.com" , NULL , NULL , "f" );
+VALUES ( 31626085 , "Acacio" , "Raquel" , "Cabrera" , "Núñez" , "09/18/1977" , "Acacio.Raquel.Cabrera.Núñez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41188829 , "Francisco" , "Probo" , "Gallego" , "Lozano" , "07/20/2000" , "Francisco.Probo.Gallego.Lozano@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 21957644 , "Ángela" , "Gema" , "Calvo" , "Carrasco" , "07/02/1971" , "Ángela.Gema.Calvo.Carrasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51854694 , "Mercedes" , "Mario" , "Méndez" , "Nieto" , "12/01/1990" , "Mercedes.Mario.Méndez.Nieto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 35054420 , "Dacio" , "Emilia" , "Suárez" , "Alonso" , "04/22/1995" , "Dacio.Emilia.Suárez.Alonso@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54007074 , "Eliseo" , "Efrén" , "Mora" , "Méndez" , "01/05/1971" , "Eliseo.Efrén.Mora.Méndez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 49145538 , "Honorato" , "Víctor" , "Fuentes" , "Morales" , "11/13/1993" , "Honorato.Víctor.Fuentes.Morales@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58530596 , "Albert" , "Joel" , "Castillo" , "Ruiz" , "02/06/1993" , "Albert.Joel.Castillo.Ruiz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38471328 , "Otilia" , "Fortunato" , "Vicente" , "Soto" , "01/18/2003" , "Otilia.Fortunato.Vicente.Soto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25869233 , "Dámaso" , "Jorge" , "Cabrera" , "Durán" , "11/16/1978" , "Dámaso.Jorge.Cabrera.Durán@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18643018 , "Daciano" , "Nicodemo" , "Moreno" , "Gallardo" , "08/29/1988" , "Daciano.Nicodemo.Moreno.Gallardo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41972862 , "Margarita" , "Aniano" , "Peña" , "Reyes" , "03/13/1998" , "Margarita.Aniano.Peña.Reyes@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 36461050 , "Romualdo" , "Cristian" , "Carmona" , "González" , "05/20/1987" , "Romualdo.Cristian.Carmona.González@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14628303 , "Adalberto" , "Maximiliano" , "Domínguez" , "Esteban" , "03/12/1987" , "Adalberto.Maximiliano.Domínguez.Esteban@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 36181533 , "Eliseo" , "Felipe" , "Vega" , "Márquez" , "05/29/1991" , "Eliseo.Felipe.Vega.Márquez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52853174 , "Edmundo" , "Luz" , "Fuentes" , "Fuentes" , "08/08/1977" , "Edmundo.Luz.Fuentes.Fuentes@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 15734444 , "Jerónimo" , "Olga" , "Cabrera" , "Nieto" , "12/18/1986" , "Jerónimo.Olga.Cabrera.Nieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42917871 , "Dámaso" , "Cristina" , "Ortega" , "Giménez" , "09/06/1993" , "Dámaso.Cristina.Ortega.Giménez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51648160 , "Tarsicio" , "Ladislao" , "Lorenzo" , "Gallego" , "04/18/1979" , "Tarsicio.Ladislao.Lorenzo.Gallego@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29264843 , "Miguel" , "Federico" , "García" , "Pascual" , "06/09/1995" , "Miguel.Federico.García.Pascual@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 32685002 , "Purificación" , "Ricardo" , "Velasco" , "Pastor" , "12/20/1979" , "Purificación.Ricardo.Velasco.Pastor@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19837709 , "Alicia" , "Rafael" , "Lozano" , "Reyes" , "06/25/1978" , "Alicia.Rafael.Lozano.Reyes@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49323390 , "Ireneo" , "Rufo" , "Montoro" , "González" , "01/26/1988" , "Ireneo.Rufo.Montoro.González@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38500319 , "Esperanza" , "Lucía" , "Sáez" , "Castro" , "05/02/1977" , "Esperanza.Lucía.Sáez.Castro@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29052735 , "Liduvina" , "Jorge" , "Rey" , "Sanz" , "08/17/1966" , "Liduvina.Jorge.Rey.Sanz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31481863 , "Baltasar" , "Zacarías" , "Blesa" , "Calvo" , "05/12/1975" , "Baltasar.Zacarías.Blesa.Calvo@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 29879995 , "Juan" , "Isaías" , "Vidal" , "Marín" , "11/11/1966" , "Juan.Isaías.Vidal.Marín@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11549706 , "Elisa" , "Dámaso" , "Benítez" , "Sánchez" , "01/18/1978" , "Elisa.Dámaso.Benítez.Sánchez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25971167 , "Adrián" , "Josué" , "Montero" , "Benítez" , "10/21/2002" , "Adrián.Josué.Montero.Benítez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37987960 , "Antonio" , "Bernardo" , "Prieto" , "Moreno" , "01/12/1983" , "Antonio.Bernardo.Prieto.Moreno@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 39803631 , "Iván" , "Jacinto" , "Fuentes" , "Montoro" , "09/16/1978" , "Iván.Jacinto.Fuentes.Montoro@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27223209 , "Alipio" , "Abrahán" , "Fuentes" , "Núñez" , "12/16/2002" , "Alipio.Abrahán.Fuentes.Núñez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 43529126 , "Aránzazu" , "Octavio" , "Santiago" , "Rubio" , "06/04/1971" , "Aránzazu.Octavio.Santiago.Rubio@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14756516 , "David" , "Severino" , "Marín" , "Rodríguez" , "02/10/1981" , "David.Severino.Marín.Rodríguez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 31650660 , "Heliodoro" , "Cristian" , "Santiago" , "Ruiz" , "03/22/1988" , "Heliodoro.Cristian.Santiago.Ruiz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41347673 , "Dacio" , "Pío" , "Garrido" , "Alonso" , "06/02/1989" , "Dacio.Pío.Garrido.Alonso@gmail.com" , NULL , NULL , "f" );
+VALUES ( 18572356 , "Milagros" , "Nemesio" , "Montoro" , "Moya" , "08/28/1973" , "Milagros.Nemesio.Montoro.Moya@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54767775 , "Otilia" , "Bonifacio" , "Parra" , "Romero" , "09/23/1999" , "Otilia.Bonifacio.Parra.Romero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 59261425 , "Atanasio" , "Andrea" , "Montero" , "Pascual" , "11/23/1993" , "Atanasio.Andrea.Montero.Pascual@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58484131 , "Antonia" , "Fabián" , "Bravo" , "Ramírez" , "01/17/1983" , "Antonia.Fabián.Bravo.Ramírez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 36681630 , "Primo" , "Oriol" , "Márquez" , "Gómez" , "11/15/1968" , "Primo.Oriol.Márquez.Gómez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12577598 , "Valentín" , "Siro" , "Durán" , "Flores" , "11/16/1976" , "Valentín.Siro.Durán.Flores@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 14614940 , "Laureano" , "Gregorio" , "Montoro" , "Gómez" , "03/09/1995" , "Laureano.Gregorio.Montoro.Gómez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37780203 , "Natalia" , "Alejo" , "Giménez" , "Ramírez" , "11/20/1992" , "Natalia.Alejo.Giménez.Ramírez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 52021789 , "Timoteo" , "Colombo" , "Pérez" , "Lozano" , "02/09/1995" , "Timoteo.Colombo.Pérez.Lozano@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31127932 , "Alfonso" , "Pedro" , "Flores" , "Torres" , "05/30/1982" , "Alfonso.Pedro.Flores.Torres@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49031628 , "Cesáreo" , "Marta" , "Marín" , "Flores" , "12/10/1980" , "Cesáreo.Marta.Marín.Flores@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56919445 , "Norberto" , "Porfirio" , "Jiménez" , "Sánchez" , "02/20/2001" , "Norberto.Porfirio.Jiménez.Sánchez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 55319016 , "Cayo" , "Zaqueo" , "Méndez" , "Blanco" , "06/25/1982" , "Cayo.Zaqueo.Méndez.Blanco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35836519 , "Magdalena" , "Ángeles" , "Molina" , "Peña" , "08/25/1980" , "Magdalena.Ángeles.Molina.Peña@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 52799742 , "Gonzalo" , "Eduardo" , "Nieto" , "Méndez" , "10/16/1994" , "Gonzalo.Eduardo.Nieto.Méndez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17402415 , "Primo" , "León" , "Méndez" , "Romero" , "12/24/1975" , "Primo.León.Méndez.Romero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 29665566 , "Áurea" , "Bernarda" , "Vargas" , "Lorenzo" , "05/31/1990" , "Áurea.Bernarda.Vargas.Lorenzo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21062285 , "Irene" , "Gloria" , "Ibáñez" , "Núñez" , "12/16/1981" , "Irene.Gloria.Ibáñez.Núñez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 33632551 , "Francisca" , "Lidia" , "Martín" , "González" , "01/31/2000" , "Francisca.Lidia.Martín.González@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28688096 , "Teodora" , "Elena" , "Hidalgo" , "Hidalgo" , "08/11/1981" , "Teodora.Elena.Hidalgo.Hidalgo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 52476754 , "Lidia" , "Elvira" , "Bravo" , "Romero" , "11/07/2000" , "Lidia.Elvira.Bravo.Romero@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24703216 , "Donato" , "Salomé" , "Fuentes" , "Moreno" , "07/01/2003" , "Donato.Salomé.Fuentes.Moreno@gmail.com" , NULL , NULL , "f" );
+VALUES ( 35665297 , "Enrique" , "Marcelino" , "Medina" , "Sánchez" , "06/27/1993" , "Enrique.Marcelino.Medina.Sánchez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24307101 , "Álvaro" , "Odón" , "Gallardo" , "Carmona" , "07/15/2002" , "Álvaro.Odón.Gallardo.Carmona@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 14173615 , "Simeón" , "Eulalia" , "Blanco" , "Nieto" , "02/10/1996" , "Simeón.Eulalia.Blanco.Nieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49054256 , "Norberto" , "Yolanda" , "Díez" , "Ortega" , "04/07/1996" , "Norberto.Yolanda.Díez.Ortega@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 24346212 , "Velerio" , "Arcadio" , "Iglesias" , "Medina" , "04/16/1995" , "Velerio.Arcadio.Iglesias.Medina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16790801 , "Eugenia" , "Bruno" , "Gómez" , "Moreno" , "07/09/1982" , "Eugenia.Bruno.Gómez.Moreno@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 53406657 , "Javier" , "Virgilio" , "Medina" , "Román" , "08/17/1991" , "Javier.Virgilio.Medina.Román@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51451440 , "Esdras" , "Alberto" , "Núñez" , "Moya" , "10/28/1967" , "Esdras.Alberto.Núñez.Moya@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11923798 , "Josep" , "Dacio" , "Blanco" , "Ibáñez" , "03/09/1994" , "Josep.Dacio.Blanco.Ibáñez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55264116 , "Soledad" , "Irene" , "Ortega" , "Sáez" , "01/11/1991" , "Soledad.Irene.Ortega.Sáez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 59416781 , "Gustavo" , "Reinaldo" , "Márquez" , "Cruz" , "06/21/1975" , "Gustavo.Reinaldo.Márquez.Cruz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16883119 , "Balduino" , "Simón" , "Blesa" , "Martín" , "03/19/2003" , "Balduino.Simón.Blesa.Martín@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 48978885 , "Simeón" , "Félix" , "Lorenzo" , "Garrido" , "05/25/1995" , "Simeón.Félix.Lorenzo.Garrido@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21253359 , "Miguel" , "Juana" , "Vázquez" , "Pastor" , "01/22/1969" , "Miguel.Juana.Vázquez.Pastor@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 53840095 , "Soledad" , "Bartolomé" , "Benítez" , "Vega" , "05/09/1974" , "Soledad.Bartolomé.Benítez.Vega@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14998651 , "Casio" , "Tadeo" , "Martín" , "Hernández" , "11/14/2002" , "Casio.Tadeo.Martín.Hernández@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 45209869 , "Matilde" , "Leocadia" , "Vicente" , "Ramos" , "12/07/1981" , "Matilde.Leocadia.Vicente.Ramos@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12219229 , "Constancio" , "Aurora" , "Mora" , "Caballero" , "11/15/1989" , "Constancio.Aurora.Mora.Caballero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 23823116 , "Salvio" , "Javier" , "Santiago" , "Carrasco" , "04/28/1973" , "Salvio.Javier.Santiago.Carrasco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44970390 , "Purificación" , "Heraclio" , "Calvo" , "Caballero" , "10/07/1997" , "Purificación.Heraclio.Calvo.Caballero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 13835824 , "Josefa" , "Laureano" , "Pascual" , "Moya" , "10/20/1984" , "Josefa.Laureano.Pascual.Moya@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44717170 , "Norberto" , "Teodosia" , "Moya" , "Durán" , "08/24/1980" , "Norberto.Teodosia.Moya.Durán@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 57322609 , "Leonardo" , "Margarita" , "Hernández" , "Garrido" , "09/29/2000" , "Leonardo.Margarita.Hernández.Garrido@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34316562 , "Ismael" , "Clara" , "Morales" , "Molina" , "10/05/1998" , "Ismael.Clara.Morales.Molina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 56363864 , "Federico" , "Rosario" , "Torres" , "Carrasco" , "09/26/1992" , "Federico.Rosario.Torres.Carrasco@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37678993 , "Casiano" , "Velerio" , "Crespo" , "Santiago" , "06/07/1976" , "Casiano.Velerio.Crespo.Santiago@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 14343842 , "Félix" , "Adán" , "Cabrera" , "Durán" , "05/08/2001" , "Félix.Adán.Cabrera.Durán@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19169229 , "Porfirio" , "Vicente" , "Bravo" , "Román" , "02/05/1974" , "Porfirio.Vicente.Bravo.Román@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 39305918 , "Clara" , "Guillermo" , "Vidal" , "Rey" , "06/29/1972" , "Clara.Guillermo.Vidal.Rey@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25161334 , "Valeriano" , "Leocadia" , "Gutiérrez" , "Calvo" , "02/28/1980" , "Valeriano.Leocadia.Gutiérrez.Calvo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51458783 , "Melchor" , "Sixto" , "Mora" , "Herrera" , "07/12/1967" , "Melchor.Sixto.Mora.Herrera@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18612225 , "Homero" , "Sergio" , "Flores" , "Blanco" , "11/27/1969" , "Homero.Sergio.Flores.Blanco@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 29749289 , "Liduvina" , "Ariadna" , "Castro" , "Ramírez" , "08/16/1981" , "Liduvina.Ariadna.Castro.Ramírez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32110487 , "Santiago" , "Alicia" , "Vega" , "Vargas" , "02/18/2003" , "Santiago.Alicia.Vega.Vargas@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 31550210 , "Cirino" , "Ismael" , "Blesa" , "León" , "11/01/1996" , "Cirino.Ismael.Blesa.León@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53644940 , "Macario" , "Teófila" , "Fuentes" , "Ruiz" , "01/17/1978" , "Macario.Teófila.Fuentes.Ruiz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 14877944 , "Andrés" , "Purificación" , "Muñoz" , "Medina" , "05/25/1980" , "Andrés.Purificación.Muñoz.Medina@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52621731 , "Paula" , "Bernardo" , "Lorenzo" , "Velasco" , "10/19/1986" , "Paula.Bernardo.Lorenzo.Velasco@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 49548522 , "Vicente" , "Catalina" , "Molina" , "Pastor" , "07/26/1968" , "Vicente.Catalina.Molina.Pastor@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16875807 , "Marc" , "Lázaro" , "Vargas" , "Giménez" , "09/29/2002" , "Marc.Lázaro.Vargas.Giménez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46611176 , "Columbano" , "Mónica" , "Blesa" , "Delgado" , "05/15/1999" , "Columbano.Mónica.Blesa.Delgado@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14179813 , "Gema" , "Anastasia" , "Hidalgo" , "Medina" , "08/24/1973" , "Gema.Anastasia.Hidalgo.Medina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27609255 , "Carolina" , "Ester" , "Sáez" , "Delgado" , "06/20/1996" , "Carolina.Ester.Sáez.Delgado@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29094218 , "Alfredo" , "Pilar" , "Blesa" , "Morales" , "06/05/1974" , "Alfredo.Pilar.Blesa.Morales@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 23115236 , "Marina" , "Elías" , "Román" , "Prieto" , "12/02/1966" , "Marina.Elías.Román.Prieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39364382 , "Celia" , "Ciro" , "Herrero" , "Herrera" , "06/24/1975" , "Celia.Ciro.Herrero.Herrera@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 44638924 , "Marc" , "Esther" , "Durán" , "Álvarez" , "12/13/1976" , "Marc.Esther.Durán.Álvarez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37487697 , "Augusto" , "Cristina" , "Santos" , "Morales" , "02/20/1967" , "Augusto.Cristina.Santos.Morales@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 14247153 , "Marcial" , "Sandra" , "Martín" , "Carrasco" , "09/03/1971" , "Marcial.Sandra.Martín.Carrasco@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21712563 , "Arturo" , "Vladimiro" , "Carrasco" , "Esteban" , "04/28/1970" , "Arturo.Vladimiro.Carrasco.Esteban@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 34699956 , "Borja" , "Rosario" , "Morales" , "Díez" , "10/04/1990" , "Borja.Rosario.Morales.Díez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56446000 , "Adolfo" , "Adolfo" , "Mora" , "Cambil" , "12/26/1985" , "Adolfo.Adolfo.Mora.Cambil@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23440394 , "Santiago" , "Jacob" , "Gallego" , "Aguilar" , "05/06/1983" , "Santiago.Jacob.Gallego.Aguilar@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25771458 , "Victoria" , "Ezequiel" , "Díaz" , "Cruz" , "08/26/1982" , "Victoria.Ezequiel.Díaz.Cruz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 59725043 , "Heliodoro" , "Dacio" , "Ruiz" , "Nieto" , "08/31/1985" , "Heliodoro.Dacio.Ruiz.Nieto@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35804960 , "Priscila" , "Eduvigis" , "Vega" , "García" , "06/06/1985" , "Priscila.Eduvigis.Vega.García@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 38643729 , "Carmelo" , "Iván" , "Caballero" , "González" , "08/05/1976" , "Carmelo.Iván.Caballero.González@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53585110 , "Nieves" , "Lucas" , "Torres" , "Romero" , "05/04/1979" , "Nieves.Lucas.Torres.Romero@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 13076119 , "Guillermo" , "Esperanza" , "López" , "Castro" , "04/11/1990" , "Guillermo.Esperanza.López.Castro@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34410316 , "Cesáreo" , "Arnaldo" , "Campos" , "Hernández" , "02/16/1995" , "Cesáreo.Arnaldo.Campos.Hernández@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 19132573 , "Iván" , "Marcelino" , "Blesa" , "Sanz" , "11/12/1999" , "Iván.Marcelino.Blesa.Sanz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18561309 , "Alfredo" , "Oswaldo" , "Suárez" , "Esteban" , "12/24/1993" , "Alfredo.Oswaldo.Suárez.Esteban@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 19522324 , "Tobías" , "Victorio" , "Méndez" , "Garrido" , "05/24/1984" , "Tobías.Victorio.Méndez.Garrido@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13990062 , "Petronila" , "Tomas" , "Herrero" , "Serrano" , "02/16/1981" , "Petronila.Tomas.Herrero.Serrano@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 43537610 , "Rosario" , "Balduino" , "Medina" , "Nieto" , "05/04/2003" , "Rosario.Balduino.Medina.Nieto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16959605 , "Adela" , "Montserrat" , "Molina" , "Díez" , "10/18/1985" , "Adela.Montserrat.Molina.Díez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35242081 , "Jacob" , "Alicia" , "Aguilar" , "Marín" , "11/30/2002" , "Jacob.Alicia.Aguilar.Marín@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45127489 , "Aristides" , "Heliodoro" , "Cano" , "Lozano" , "08/08/1971" , "Aristides.Heliodoro.Cano.Lozano@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 48069872 , "Lidia" , "Jaime" , "Morales" , "Jiménez" , "07/16/1991" , "Lidia.Jaime.Morales.Jiménez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54007319 , "Gloria" , "Daciano" , "Rey" , "Moreno" , "12/21/1980" , "Gloria.Daciano.Rey.Moreno@gmail.com" , NULL , NULL , "f" );
+VALUES ( 46945741 , "Salomé" , "Gonzalo" , "Cabrera" , "Romero" , "06/08/1988" , "Salomé.Gonzalo.Cabrera.Romero@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21170715 , "Diego" , "Elisa" , "Núñez" , "Pérez" , "11/07/1987" , "Diego.Elisa.Núñez.Pérez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 53467057 , "Purificación" , "Ildefonso" , "Álvarez" , "Ortega" , "02/14/1990" , "Purificación.Ildefonso.Álvarez.Ortega@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25692826 , "Cristina" , "Bernarda" , "Molina" , "Santos" , "12/18/1996" , "Cristina.Bernarda.Molina.Santos@gmail.com" , NULL , NULL , "f" );
+VALUES ( 12390053 , "Leandro" , "Renato" , "Gutiérrez" , "Vidal" , "08/04/1995" , "Leandro.Renato.Gutiérrez.Vidal@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47195456 , "Lucas" , "Sandra" , "Cruz" , "Gutiérrez" , "08/13/1970" , "Lucas.Sandra.Cruz.Gutiérrez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 36490118 , "Gloria" , "Natalia" , "Soler" , "Vargas" , "09/03/1985" , "Gloria.Natalia.Soler.Vargas@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49095092 , "Manuela" , "Rosa" , "Bravo" , "Pascual" , "09/30/1979" , "Manuela.Rosa.Bravo.Pascual@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 19054666 , "Jeremías" , "Cayo" , "Cano" , "Moya" , "12/16/1994" , "Jeremías.Cayo.Cano.Moya@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31432583 , "Efrén" , "Natalia" , "Peña" , "Reyes" , "10/24/1974" , "Efrén.Natalia.Peña.Reyes@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38060420 , "Paula" , "Jerónimo" , "Álvarez" , "Giménez" , "02/18/1972" , "Paula.Jerónimo.Álvarez.Giménez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59153826 , "Andrés" , "Óscar" , "Herrera" , "Parra" , "07/21/1986" , "Andrés.Óscar.Herrera.Parra@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 14441749 , "Lázaro" , "Roque" , "Moya" , "Crespo" , "08/29/2002" , "Lázaro.Roque.Moya.Crespo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18827595 , "Petronila" , "Ifigenia" , "Prieto" , "Hernández" , "08/21/1973" , "Petronila.Ifigenia.Prieto.Hernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 58993798 , "Blanca" , "Cesáreo" , "Márquez" , "Lorenzo" , "08/28/1980" , "Blanca.Cesáreo.Márquez.Lorenzo@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37706112 , "Concepción" , "Demócrito" , "Reyes" , "Flores" , "05/10/1970" , "Concepción.Demócrito.Reyes.Flores@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 28048898 , "Alejo" , "Ifigenia" , "Torres" , "Gallego" , "06/05/1988" , "Alejo.Ifigenia.Torres.Gallego@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15623912 , "Óscar" , "Nicanor" , "Durán" , "Giménez" , "11/26/1979" , "Óscar.Nicanor.Durán.Giménez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 43484843 , "Rogelio" , "Sansón" , "Santos" , "Delgado" , "08/10/1989" , "Rogelio.Sansón.Santos.Delgado@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38798049 , "Bernarda" , "Heraclio" , "Carrasco" , "Martínez" , "08/16/1997" , "Bernarda.Heraclio.Carrasco.Martínez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 44323505 , "Eliseo" , "Petronila" , "Fernández" , "Moya" , "07/06/1970" , "Eliseo.Petronila.Fernández.Moya@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38088876 , "Mar" , "Laura" , "Peña" , "Caballero" , "09/13/1992" , "Mar.Laura.Peña.Caballero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 16526515 , "Justino" , "Javier" , "Núñez" , "García" , "09/22/1999" , "Justino.Javier.Núñez.García@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41008243 , "Ireneo" , "Alejandra" , "Carmona" , "Ortega" , "11/04/1971" , "Ireneo.Alejandra.Carmona.Ortega@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35616989 , "Encarnación" , "Catalina" , "Blesa" , "Benítez" , "08/23/1997" , "Encarnación.Catalina.Blesa.Benítez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33275046 , "Zacarías" , "Dario" , "Vargas" , "Vega" , "04/29/1994" , "Zacarías.Dario.Vargas.Vega@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 39447120 , "Nemesio" , "Ernesto" , "Navarro" , "Montoro" , "06/25/1972" , "Nemesio.Ernesto.Navarro.Montoro@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48874235 , "Joel" , "Dorotea" , "Ferrer" , "Cortés" , "06/13/1987" , "Joel.Dorotea.Ferrer.Cortés@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18953879 , "Alipio" , "Reinaldo" , "Castillo" , "Moreno" , "09/01/1979" , "Alipio.Reinaldo.Castillo.Moreno@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36352140 , "Vladimiro" , "Raúl" , "Herrera" , "Flores" , "01/14/1982" , "Vladimiro.Raúl.Herrera.Flores@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 48657936 , "Pedro" , "Demócrito" , "Bravo" , "Santana" , "07/20/2000" , "Pedro.Demócrito.Bravo.Santana@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24497445 , "Guido" , "Juan" , "Mora" , "Prieto" , "10/15/1977" , "Guido.Juan.Mora.Prieto@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 28558910 , "Aureliano" , "Marcial" , "Sanz" , "León" , "07/29/1983" , "Aureliano.Marcial.Sanz.León@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35332789 , "Luisa" , "Jerónimo" , "Pascual" , "Fuentes" , "01/22/1995" , "Luisa.Jerónimo.Pascual.Fuentes@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 35377850 , "Conrado" , "Basileo" , "Sanz" , "León" , "05/19/2003" , "Conrado.Basileo.Sanz.León@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34952037 , "Narciso" , "Luz" , "Calvo" , "Sáez" , "10/20/1979" , "Narciso.Luz.Calvo.Sáez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49052662 , "Erico" , "Ifigenia" , "Jiménez" , "Núñez" , "08/02/1985" , "Erico.Ifigenia.Jiménez.Núñez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33289954 , "Leopoldo" , "Rafael" , "Sánchez" , "Carrasco" , "09/22/1996" , "Leopoldo.Rafael.Sánchez.Carrasco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 42510358 , "José" , "Trinidad" , "Díaz" , "Nieto" , "12/26/1983" , "José.Trinidad.Díaz.Nieto@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37561815 , "Soledad" , "Bernarda" , "Sanz" , "Gallardo" , "09/09/1971" , "Soledad.Bernarda.Sanz.Gallardo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 45672462 , "Rosalia" , "Agustín" , "Reyes" , "Román" , "12/20/1969" , "Rosalia.Agustín.Reyes.Román@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42264325 , "Roberto" , "Severino" , "Ibáñez" , "Navarro" , "10/22/1967" , "Roberto.Severino.Ibáñez.Navarro@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18878196 , "Yolanda" , "Bernarda" , "Méndez" , "Gil" , "10/03/1998" , "Yolanda.Bernarda.Méndez.Gil@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54470558 , "José" , "Blas" , "Pastor" , "Mora" , "10/14/1996" , "José.Blas.Pastor.Mora@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 31485825 , "Tito" , "Marcelo" , "Caballero" , "Campos" , "07/16/1987" , "Tito.Marcelo.Caballero.Campos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33104209 , "Verónica" , "Josué" , "Medina" , "Núñez" , "07/16/1974" , "Verónica.Josué.Medina.Núñez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 13275357 , "Basileo" , "Moisés" , "Cano" , "Vega" , "04/23/1979" , "Basileo.Moisés.Cano.Vega@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58986797 , "Alicia" , "Ignacio" , "Lozano" , "Martínez" , "03/03/1981" , "Alicia.Ignacio.Lozano.Martínez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 13184047 , "Petronila" , "Clara" , "Jiménez" , "Herrera" , "10/26/2001" , "Petronila.Clara.Jiménez.Herrera@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25862285 , "Tomás" , "Primo" , "Medina" , "Ferrer" , "09/02/1970" , "Tomás.Primo.Medina.Ferrer@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 48767737 , "Cirilo" , "Irene" , "Esteban" , "Giménez" , "12/21/1990" , "Cirilo.Irene.Esteban.Giménez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16362385 , "Tomás" , "Lázaro" , "Benítez" , "Mora" , "02/11/1969" , "Tomás.Lázaro.Benítez.Mora@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 25405037 , "Inocencio" , "Cándida" , "Blesa" , "Sánchez" , "07/28/1966" , "Inocencio.Cándida.Blesa.Sánchez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58978178 , "Adón" , "Natividad" , "Ramos" , "Durán" , "01/28/1998" , "Adón.Natividad.Ramos.Durán@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23339743 , "Aránzazu" , "Cecilia" , "Navarro" , "Martínez" , "02/09/1988" , "Aránzazu.Cecilia.Navarro.Martínez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15899234 , "Marina" , "Antonio" , "Parra" , "Cambil" , "02/14/2001" , "Marina.Antonio.Parra.Cambil@gmail.com" , NULL , NULL , "f" );
+VALUES ( 23956802 , "Beatriz" , "Jorge" , "López" , "Carrasco" , "09/29/1971" , "Beatriz.Jorge.López.Carrasco@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36385577 , "Héctor" , "Valeriano" , "Cortés" , "Lorenzo" , "10/16/1998" , "Héctor.Valeriano.Cortés.Lorenzo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 53906607 , "César" , "Emilia" , "Álvarez" , "Carmona" , "09/08/1998" , "César.Emilia.Álvarez.Carmona@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36078069 , "Sofía" , "Nieves" , "Cortés" , "Blanco" , "11/25/1990" , "Sofía.Nieves.Cortés.Blanco@gmail.com" , NULL , NULL , "f" );
+VALUES ( 42760119 , "Alberto" , "Clotilde" , "Torres" , "Álvarez" , "04/24/1989" , "Alberto.Clotilde.Torres.Álvarez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46084898 , "Mónica" , "Beltrán" , "Torres" , "Vargas" , "10/20/1973" , "Mónica.Beltrán.Torres.Vargas@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 26333009 , "Jeremías" , "Augusto" , "Bravo" , "Peña" , "02/05/1983" , "Jeremías.Augusto.Bravo.Peña@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56782789 , "Columbano" , "Paula" , "Ortiz" , "Román" , "01/26/1968" , "Columbano.Paula.Ortiz.Román@gmail.com" , NULL , NULL , "f" );
+VALUES ( 24913984 , "Feliciano" , "Gloria" , "Pascual" , "Durán" , "08/09/1982" , "Feliciano.Gloria.Pascual.Durán@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52550552 , "Roberto" , "Patricio" , "Nieto" , "Ferrer" , "08/05/1986" , "Roberto.Patricio.Nieto.Ferrer@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 42225941 , "Gerardo" , "Milagros" , "Serrano" , "Delgado" , "04/29/1999" , "Gerardo.Milagros.Serrano.Delgado@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41209241 , "Heriberto" , "Erico" , "Vidal" , "Ortega" , "05/14/1995" , "Heriberto.Erico.Vidal.Ortega@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 39964544 , "Renato" , "Úrsula" , "Bravo" , "Cortés" , "11/07/1979" , "Renato.Úrsula.Bravo.Cortés@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24067539 , "Fabiola" , "Martín" , "Durán" , "Díaz" , "12/20/1984" , "Fabiola.Martín.Durán.Díaz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 21337903 , "Octavio" , "Rosario" , "Ortega" , "Medina" , "07/11/1977" , "Octavio.Rosario.Ortega.Medina@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56047454 , "Fabio" , "Aquiles" , "Caballero" , "Rubio" , "03/19/1982" , "Fabio.Aquiles.Caballero.Rubio@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38824903 , "Melchor" , "Jerónimo" , "Fernández" , "Martín" , "06/06/1982" , "Melchor.Jerónimo.Fernández.Martín@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47017890 , "Eugenio" , "Fausto" , "Vidal" , "González" , "01/06/1980" , "Eugenio.Fausto.Vidal.González@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 37192616 , "Rocío" , "Carmen" , "Ferrer" , "López" , "08/05/1992" , "Rocío.Carmen.Ferrer.López@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56646797 , "Priscila" , "Guillermo" , "Ramírez" , "Arias" , "05/25/1999" , "Priscila.Guillermo.Ramírez.Arias@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 55432317 , "Zaqueo" , "Cayetano" , "Nieto" , "Reyes" , "03/02/1979" , "Zaqueo.Cayetano.Nieto.Reyes@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33305520 , "Ariadna" , "Francisco" , "Domínguez" , "Carrasco" , "02/25/1991" , "Ariadna.Francisco.Domínguez.Carrasco@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 21534927 , "Zacarías" , "Lino" , "Vicente" , "Hernández" , "03/28/1991" , "Zacarías.Lino.Vicente.Hernández@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25132533 , "Luciano" , "Gerardo" , "Esteban" , "Montoro" , "09/12/1975" , "Luciano.Gerardo.Esteban.Montoro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33210509 , "Francesc" , "Cándida" , "Romero" , "Cambil" , "04/22/1968" , "Francesc.Cándida.Romero.Cambil@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57894476 , "Blas" , "Sofía" , "Gutiérrez" , "Mora" , "02/10/2002" , "Blas.Sofía.Gutiérrez.Mora@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 32087014 , "Ángela" , "Ángel" , "Carrasco" , "Serrano" , "05/01/2001" , "Ángela.Ángel.Carrasco.Serrano@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41875721 , "Donato" , "Tito" , "Torres" , "Lozano" , "01/28/1987" , "Donato.Tito.Torres.Lozano@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46688915 , "Santiago" , "Rosalia" , "Blanco" , "Fuentes" , "05/19/1986" , "Santiago.Rosalia.Blanco.Fuentes@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 37215020 , "Edmundo" , "Heriberto" , "Gil" , "Vidal" , "01/07/1989" , "Edmundo.Heriberto.Gil.Vidal@gmail.com" , NULL , NULL , "f" );
+VALUES ( 26696209 , "Renato" , "Isabel" , "Méndez" , "Guerrero" , "03/28/1984" , "Renato.Isabel.Méndez.Guerrero@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52658299 , "Albina" , "Fabián" , "Reyes" , "Ortiz" , "09/02/2001" , "Albina.Fabián.Reyes.Ortiz@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 17098719 , "Fabián" , "Abrahán" , "Muñoz" , "Vargas" , "06/20/1978" , "Fabián.Abrahán.Muñoz.Vargas@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35589811 , "Francesc" , "Soledad" , "Navarro" , "Benítez" , "04/21/1982" , "Francesc.Soledad.Navarro.Benítez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 38144911 , "Fabio" , "Patricia" , "Moya" , "Prieto" , "12/21/1966" , "Fabio.Patricia.Moya.Prieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11170808 , "Eduardo" , "Matías" , "Garrido" , "Pascual" , "06/08/1995" , "Eduardo.Matías.Garrido.Pascual@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 54339180 , "Jacinto" , "Wilfredo" , "Peña" , "Ruiz" , "03/02/1975" , "Jacinto.Wilfredo.Peña.Ruiz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19129625 , "Zaqueo" , "Severino" , "Díaz" , "Montero" , "12/19/1998" , "Zaqueo.Severino.Díaz.Montero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 57880950 , "Enrique" , "Adón" , "Gil" , "Sánchez" , "04/30/1999" , "Enrique.Adón.Gil.Sánchez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25468639 , "Marcos" , "Ananías" , "Velasco" , "Díaz" , "12/25/1990" , "Marcos.Ananías.Velasco.Díaz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 41389902 , "Alejandro" , "Sebastián" , "Rodríguez" , "Martín" , "06/02/1985" , "Alejandro.Sebastián.Rodríguez.Martín@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58014267 , "Emilio" , "Aurelia" , "Lorenzo" , "Parra" , "09/16/1968" , "Emilio.Aurelia.Lorenzo.Parra@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 11451197 , "Adón" , "Dorotea" , "Reyes" , "Benítez" , "01/17/1994" , "Adón.Dorotea.Reyes.Benítez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19179799 , "Julio" , "Cesáreo" , "Delgado" , "Santiago" , "02/09/1994" , "Julio.Cesáreo.Delgado.Santiago@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27027869 , "Beltrán" , "Facundo" , "Lozano" , "Caballero" , "03/19/1992" , "Beltrán.Facundo.Lozano.Caballero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57795898 , "Milagros" , "Jesús" , "López" , "Cruz" , "07/11/1977" , "Milagros.Jesús.López.Cruz@gmail.com" , NULL , NULL , "f" );
+VALUES ( 18743208 , "Felipe" , "Magdalena" , "Pastor" , "Morales" , "09/23/1988" , "Felipe.Magdalena.Pastor.Morales@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25496981 , "Aurelia" , "Absalón" , "Cano" , "Méndez" , "09/05/1991" , "Aurelia.Absalón.Cano.Méndez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 12116429 , "Arturo" , "Carolina" , "Benítez" , "Flores" , "12/17/1999" , "Arturo.Carolina.Benítez.Flores@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25230678 , "Esdras" , "Fátima" , "Cortés" , "Martín" , "09/18/1989" , "Esdras.Fátima.Cortés.Martín@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 55798729 , "Lorenzo" , "Germán" , "Benítez" , "Díaz" , "07/18/1996" , "Lorenzo.Germán.Benítez.Díaz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26260098 , "Lorena" , "Zaqueo" , "Martínez" , "Ortega" , "03/14/1996" , "Lorena.Zaqueo.Martínez.Ortega@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25630030 , "Albina" , "Pancracio" , "Benítez" , "Hernández" , "06/19/1985" , "Albina.Pancracio.Benítez.Hernández@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14948888 , "Silvia" , "Orestes" , "Moya" , "Hernández" , "11/28/1969" , "Silvia.Orestes.Moya.Hernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 38592762 , "Olga" , "Mónica" , "Cruz" , "Santiago" , "09/20/1996" , "Olga.Mónica.Cruz.Santiago@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19929104 , "Verónica" , "Macario" , "Caballero" , "Cano" , "12/13/1990" , "Verónica.Macario.Caballero.Cano@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 56353394 , "León" , "Raúl" , "Ortega" , "Sanz" , "06/19/1994" , "León.Raúl.Ortega.Sanz@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49531286 , "Noé" , "Edmundo" , "Vega" , "Carmona" , "06/25/1984" , "Noé.Edmundo.Vega.Carmona@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 19270284 , "Alba" , "Dámaso" , "Soto" , "Lorenzo" , "06/14/1989" , "Alba.Dámaso.Soto.Lorenzo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48866741 , "Hugo" , "Cleofás" , "Márquez" , "Benítez" , "09/09/1978" , "Hugo.Cleofás.Márquez.Benítez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 17333814 , "Gertrudis" , "Josafat" , "Cortés" , "Flores" , "10/20/1981" , "Gertrudis.Josafat.Cortés.Flores@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48847238 , "Cosme" , "Teófila" , "Aguilar" , "Márquez" , "03/31/1977" , "Cosme.Teófila.Aguilar.Márquez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 44609195 , "Cristóbal" , "Aurora" , "Pascual" , "Ortiz" , "10/15/1984" , "Cristóbal.Aurora.Pascual.Ortiz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31499062 , "Adela" , "Otilia" , "Domínguez" , "Sáez" , "10/17/1992" , "Adela.Otilia.Domínguez.Sáez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 29407813 , "Eva" , "Teresa" , "Garrido" , "Márquez" , "05/02/1998" , "Eva.Teresa.Garrido.Márquez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22054639 , "Nicodemo" , "Eusebio" , "Rey" , "Soto" , "05/19/1969" , "Nicodemo.Eusebio.Rey.Soto@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 36051394 , "Matilde" , "León" , "Romero" , "Jiménez" , "04/28/1986" , "Matilde.León.Romero.Jiménez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47320669 , "Verónica" , "Cecilia" , "Blesa" , "Ferrer" , "01/04/1978" , "Verónica.Cecilia.Blesa.Ferrer@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 38749220 , "Rubén" , "Emilia" , "Pérez" , "López" , "08/11/1990" , "Rubén.Emilia.Pérez.López@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48995453 , "Julián" , "Milagros" , "Sáez" , "Fernández" , "07/16/2001" , "Julián.Milagros.Sáez.Fernández@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 12895520 , "Odón" , "Godofredo" , "Román" , "Marín" , "05/09/1987" , "Odón.Godofredo.Román.Marín@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53260748 , "Lucrecia" , "Lorena" , "Márquez" , "Carrasco" , "02/13/1977" , "Lucrecia.Lorena.Márquez.Carrasco@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18896752 , "Mar" , "Emiliano" , "Gil" , "Carrasco" , "11/09/1966" , "Mar.Emiliano.Gil.Carrasco@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51382601 , "Fabiola" , "Gonzalo" , "Román" , "Díez" , "12/11/1980" , "Fabiola.Gonzalo.Román.Díez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 59180679 , "Jordi" , "Jordi" , "Suárez" , "Calvo" , "09/25/2001" , "Jordi.Jordi.Suárez.Calvo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58133017 , "Josefa" , "Hugo" , "García" , "Esteban" , "09/10/1973" , "Josefa.Hugo.García.Esteban@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 51957626 , "Hilarión" , "Asunción" , "Molina" , "Núñez" , "07/28/1971" , "Hilarión.Asunción.Molina.Núñez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38266917 , "Lidia" , "Esiquio" , "Aguilar" , "Esteban" , "06/21/1987" , "Lidia.Esiquio.Aguilar.Esteban@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 29495737 , "Justino" , "Rogelio" , "Pérez" , "Gallego" , "04/16/1978" , "Justino.Rogelio.Pérez.Gallego@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39893092 , "Acacio" , "Cleofás" , "Campos" , "Campos" , "07/13/1970" , "Acacio.Cleofás.Campos.Campos@gmail.com" , NULL , NULL , "f" );
+VALUES ( 24934586 , "Juvenal" , "Felipe" , "Montoro" , "Gutiérrez" , "12/01/1969" , "Juvenal.Felipe.Montoro.Gutiérrez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43197632 , "Gertrudis" , "Baldomero" , "Sánchez" , "Rey" , "02/12/1980" , "Gertrudis.Baldomero.Sánchez.Rey@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 14561844 , "Eva" , "Iván" , "Medina" , "García" , "10/18/1991" , "Eva.Iván.Medina.García@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46726676 , "Adrián" , "Eugenia" , "Suárez" , "Durán" , "05/15/1990" , "Adrián.Eugenia.Suárez.Durán@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 16331025 , "Juvenal" , "Demócrito" , "Durán" , "Santiago" , "10/14/1966" , "Juvenal.Demócrito.Durán.Santiago@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34793186 , "Carlos" , "Fermín" , "Márquez" , "Rey" , "04/12/1992" , "Carlos.Fermín.Márquez.Rey@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49461910 , "Efrén" , "Nazario" , "Rubio" , "Alonso" , "02/13/1976" , "Efrén.Nazario.Rubio.Alonso@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57758945 , "Aitor" , "Benedicto" , "García" , "Bravo" , "03/09/1971" , "Aitor.Benedicto.García.Bravo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 24000373 , "Celia" , "Nieves" , "Molina" , "Herrera" , "03/09/2003" , "Celia.Nieves.Molina.Herrera@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12195930 , "Manuel" , "Elena" , "Rey" , "Rey" , "05/13/1966" , "Manuel.Elena.Rey.Rey@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23647211 , "Albert" , "Rubén" , "Ramos" , "Blesa" , "09/05/1971" , "Albert.Rubén.Ramos.Blesa@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34104749 , "Lorenzo" , "Oriol" , "Ortega" , "Peña" , "07/30/1969" , "Lorenzo.Oriol.Ortega.Peña@gmail.com" , NULL , NULL , "f" );
+VALUES ( 54606486 , "Úrsula" , "Carolina" , "Crespo" , "Benítez" , "08/10/1995" , "Úrsula.Carolina.Crespo.Benítez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38867941 , "Heliodoro" , "Mohamed" , "Herrero" , "Gómez" , "08/21/1970" , "Heliodoro.Mohamed.Herrero.Gómez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 47436000 , "Bernabé" , "Fabiola" , "Cabrera" , "Vega" , "02/03/1982" , "Bernabé.Fabiola.Cabrera.Vega@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28688494 , "Jonás" , "Severino" , "Santos" , "Ramírez" , "08/04/1977" , "Jonás.Severino.Santos.Ramírez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 17885237 , "Edgar" , "Verónica" , "Montoro" , "García" , "04/10/2002" , "Edgar.Verónica.Montoro.García@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45435816 , "Cosme" , "Carmelo" , "Domínguez" , "Santos" , "03/31/1983" , "Cosme.Carmelo.Domínguez.Santos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 35813630 , "Esther" , "Gisela" , "Rodríguez" , "Vázquez" , "11/24/1969" , "Esther.Gisela.Rodríguez.Vázquez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48549086 , "Poncio" , "Alfredo" , "Márquez" , "Gómez" , "06/03/1978" , "Poncio.Alfredo.Márquez.Gómez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 55470941 , "Isaac" , "Elvira" , "Jiménez" , "Díaz" , "07/12/2003" , "Isaac.Elvira.Jiménez.Díaz@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53827207 , "Luisa" , "Daciano" , "Pastor" , "Garrido" , "11/27/1973" , "Luisa.Daciano.Pastor.Garrido@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 27050553 , "Josefa" , "Baltasar" , "López" , "Ibáñez" , "07/12/2003" , "Josefa.Baltasar.López.Ibáñez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45084126 , "Amelia" , "Rubén" , "Suárez" , "Gómez" , "04/09/1985" , "Amelia.Rubén.Suárez.Gómez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 16922266 , "Casio" , "Rita" , "Mora" , "Ibáñez" , "05/11/1988" , "Casio.Rita.Mora.Ibáñez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45784051 , "Patricia" , "Zacarías" , "Gómez" , "Núñez" , "10/16/2002" , "Patricia.Zacarías.Gómez.Núñez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 27205734 , "Antero" , "Cirino" , "Díez" , "Gil" , "10/21/1998" , "Antero.Cirino.Díez.Gil@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32672320 , "Begoña" , "Pancracio" , "Alonso" , "Benítez" , "11/29/1999" , "Begoña.Pancracio.Alonso.Benítez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 41122902 , "Vidal" , "Ruperto" , "Velasco" , "Gómez" , "10/17/1999" , "Vidal.Ruperto.Velasco.Gómez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44407795 , "Ernesto" , "Honorato" , "Vidal" , "Hernández" , "12/22/2001" , "Ernesto.Honorato.Vidal.Hernández@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 53317652 , "Esiquio" , "Beatriz" , "Márquez" , "Blesa" , "03/27/1998" , "Esiquio.Beatriz.Márquez.Blesa@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47129417 , "Alejo" , "Purificación" , "Castillo" , "Castro" , "12/07/1979" , "Alejo.Purificación.Castillo.Castro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 29739054 , "Efrén" , "Beltrán" , "León" , "Navarro" , "01/16/1981" , "Efrén.Beltrán.León.Navarro@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15700308 , "Carmen" , "Eulalia" , "Hernández" , "Márquez" , "10/23/1976" , "Carmen.Eulalia.Hernández.Márquez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 36696514 , "Leandro" , "Elena" , "González" , "Peña" , "10/22/1971" , "Leandro.Elena.González.Peña@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26413823 , "Petronila" , "Genoveva" , "Blanco" , "Nieto" , "05/02/1973" , "Petronila.Genoveva.Blanco.Nieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 17562631 , "Bernarda" , "Mauricio" , "Vidal" , "Cruz" , "09/12/1996" , "Bernarda.Mauricio.Vidal.Cruz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31096711 , "Rita" , "Aurelio" , "Calvo" , "Cambil" , "04/13/1979" , "Rita.Aurelio.Calvo.Cambil@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 34144644 , "Mauricio" , "Mercedes" , "Iglesias" , "Soler" , "03/02/1989" , "Mauricio.Mercedes.Iglesias.Soler@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28515671 , "Marina" , "Clara" , "Gil" , "Ruiz" , "04/02/1979" , "Marina.Clara.Gil.Ruiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 36440420 , "Sofía" , "Amelia" , "Aguilar" , "Campos" , "03/23/1970" , "Sofía.Amelia.Aguilar.Campos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55597464 , "Marciano" , "Porfirio" , "Marín" , "Morales" , "03/03/1983" , "Marciano.Porfirio.Marín.Morales@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 17186146 , "Tomás" , "Tadeo" , "Rodríguez" , "Fuentes" , "06/05/1991" , "Tomás.Tadeo.Rodríguez.Fuentes@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25554165 , "Mar" , "Otilia" , "Benítez" , "Moya" , "04/10/1997" , "Mar.Otilia.Benítez.Moya@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 13345203 , "Cándida" , "Hilarión" , "Muñoz" , "Vicente" , "05/10/1981" , "Cándida.Hilarión.Muñoz.Vicente@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43088227 , "Ifigenia" , "Adalberto" , "Vázquez" , "Martínez" , "08/29/1966" , "Ifigenia.Adalberto.Vázquez.Martínez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 44577259 , "Elvira" , "Artemio" , "Flores" , "Cabrera" , "08/07/1987" , "Elvira.Artemio.Flores.Cabrera@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56749791 , "Gregorio" , "Rodrigo" , "Marín" , "Castillo" , "10/21/1974" , "Gregorio.Rodrigo.Marín.Castillo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 58496483 , "Pablo" , "Casiano" , "Soler" , "Rey" , "03/18/1968" , "Pablo.Casiano.Soler.Rey@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28218166 , "Evaristo" , "Orestes" , "Cortés" , "Parra" , "06/19/1992" , "Evaristo.Orestes.Cortés.Parra@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 44717299 , "Antonia" , "Primo" , "Jiménez" , "Morales" , "03/04/1973" , "Antonia.Primo.Jiménez.Morales@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32312906 , "Rafael" , "Benedicto" , "Ramírez" , "Hernández" , "08/09/1984" , "Rafael.Benedicto.Ramírez.Hernández@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 25696957 , "Remedios" , "Victorino" , "Blesa" , "Prieto" , "04/26/1993" , "Remedios.Victorino.Blesa.Prieto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15486043 , "Jeremías" , "Poncio" , "Sáez" , "León" , "12/18/1997" , "Jeremías.Poncio.Sáez.León@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 16422971 , "Carmen" , "Demócrito" , "Cambil" , "Montero" , "01/16/2002" , "Carmen.Demócrito.Cambil.Montero@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29457357 , "Román" , "Carina" , "Mora" , "Campos" , "02/13/2001" , "Román.Carina.Mora.Campos@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 43538313 , "Timoteo" , "Edmundo" , "Soler" , "Giménez" , "02/24/1970" , "Timoteo.Edmundo.Soler.Giménez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44445222 , "Vidal" , "Ascensión" , "Durán" , "Alonso" , "10/17/1990" , "Vidal.Ascensión.Durán.Alonso@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 31549821 , "Victorino" , "Melchor" , "Arias" , "Sánchez" , "04/30/1976" , "Victorino.Melchor.Arias.Sánchez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25296266 , "Bonifacio" , "Petronila" , "Pascual" , "Pastor" , "09/26/2000" , "Bonifacio.Petronila.Pascual.Pastor@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 31282471 , "Pancracio" , "Nemesio" , "Delgado" , "Santana" , "09/17/1968" , "Pancracio.Nemesio.Delgado.Santana@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33282677 , "Aniano" , "Blas" , "Sanz" , "Blesa" , "12/21/1977" , "Aniano.Blas.Sanz.Blesa@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 21771341 , "Cirilo" , "Rebeca" , "Ortega" , "Gallardo" , "06/04/1966" , "Cirilo.Rebeca.Ortega.Gallardo@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19792404 , "Noé" , "Colombo" , "Aguilar" , "Pérez" , "11/08/1994" , "Noé.Colombo.Aguilar.Pérez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 58122446 , "Tadeo" , "Nieves" , "Soler" , "Prieto" , "02/19/1971" , "Tadeo.Nieves.Soler.Prieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55248138 , "Cristina" , "Josep" , "Guerrero" , "Cano" , "06/06/1967" , "Cristina.Josep.Guerrero.Cano@gmail.com" , NULL , NULL , "f" );
+VALUES ( 44719758 , "Honorio" , "Aurora" , "Castillo" , "Delgado" , "06/18/1993" , "Honorio.Aurora.Castillo.Delgado@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58871162 , "Demócrito" , "Gisela" , "Reyes" , "Hernández" , "05/03/1999" , "Demócrito.Gisela.Reyes.Hernández@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51760069 , "Emiliano" , "Jonás" , "Aguilar" , "Martínez" , "10/02/1990" , "Emiliano.Jonás.Aguilar.Martínez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55351016 , "Rafael" , "Liduvina" , "Garrido" , "Gil" , "01/03/1978" , "Rafael.Liduvina.Garrido.Gil@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 36095308 , "Ciro" , "Esiquio" , "Herrero" , "Giménez" , "07/21/1972" , "Ciro.Esiquio.Herrero.Giménez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23159579 , "Esther" , "César" , "Martín" , "Carrasco" , "11/10/2000" , "Esther.César.Martín.Carrasco@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 18796001 , "Virginia" , "Eulalia" , "Gutiérrez" , "Mora" , "07/26/1982" , "Virginia.Eulalia.Gutiérrez.Mora@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36931114 , "Bruno" , "Josafat" , "Pastor" , "Vargas" , "08/05/1985" , "Bruno.Josafat.Pastor.Vargas@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 47221611 , "Inés" , "Amadeo" , "Márquez" , "Pascual" , "05/18/2000" , "Inés.Amadeo.Márquez.Pascual@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39844706 , "Tadeo" , "Ángeles" , "León" , "Romero" , "08/20/1968" , "Tadeo.Ángeles.León.Romero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 52664882 , "Lucas" , "Miqueas" , "Morales" , "Moya" , "09/30/1996" , "Lucas.Miqueas.Morales.Moya@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24015398 , "Lourdes" , "Beatriz" , "Montoro" , "Durán" , "02/03/2002" , "Lourdes.Beatriz.Montoro.Durán@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 42727488 , "Isaías" , "Lucrecia" , "Márquez" , "Ramírez" , "02/10/1974" , "Isaías.Lucrecia.Márquez.Ramírez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28221923 , "Rafael" , "Ruperto" , "Carrasco" , "Nieto" , "03/04/1978" , "Rafael.Ruperto.Carrasco.Nieto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 32313580 , "Daniel" , "Eugenio" , "Alonso" , "Jiménez" , "01/13/1969" , "Daniel.Eugenio.Alonso.Jiménez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28732566 , "Ifigenia" , "Inmaculada" , "Ruiz" , "Fernández" , "06/12/1986" , "Ifigenia.Inmaculada.Ruiz.Fernández@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 37128954 , "Eva" , "Octavio" , "Torres" , "Soto" , "06/20/1979" , "Eva.Octavio.Torres.Soto@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33140471 , "Basileo" , "Sofía" , "Martín" , "Gallego" , "12/28/1967" , "Basileo.Sofía.Martín.Gallego@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 32120606 , "Nicomedes" , "Míriam" , "Núñez" , "Mora" , "04/15/1982" , "Nicomedes.Míriam.Núñez.Mora@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45967170 , "Josefina" , "Inocencio" , "Moya" , "Soto" , "02/04/1987" , "Josefina.Inocencio.Moya.Soto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 21792971 , "Encarnación" , "Heliodoro" , "Herrera" , "Morales" , "04/29/1971" , "Encarnación.Heliodoro.Herrera.Morales@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49675753 , "Aurelio" , "Ireneo" , "Ramos" , "Castro" , "12/11/1996" , "Aurelio.Ireneo.Ramos.Castro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 11308449 , "Jonathan" , "Dario" , "Montoro" , "Ortega" , "03/13/1981" , "Jonathan.Dario.Montoro.Ortega@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54953156 , "Nicomedes" , "Óscar" , "Pastor" , "Cambil" , "05/10/2002" , "Nicomedes.Óscar.Pastor.Cambil@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 44226696 , "Eduardo" , "Carmen" , "Díez" , "Vargas" , "03/04/1993" , "Eduardo.Carmen.Díez.Vargas@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19849813 , "Gisela" , "Tito" , "Hidalgo" , "Suárez" , "11/06/1970" , "Gisela.Tito.Hidalgo.Suárez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 59204883 , "Magdalena" , "Laureano" , "Castro" , "Morales" , "12/24/1985" , "Magdalena.Laureano.Castro.Morales@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11799034 , "Severino" , "Damián" , "Lozano" , "Cambil" , "04/19/1978" , "Severino.Damián.Lozano.Cambil@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51299939 , "Aresio" , "Ángeles" , "Nieto" , "León" , "05/17/1999" , "Aresio.Ángeles.Nieto.León@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11459230 , "Pancracio" , "Beatriz" , "Cano" , "Domínguez" , "03/20/1983" , "Pancracio.Beatriz.Cano.Domínguez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 42671346 , "Santiago" , "Hildegarda" , "Carrasco" , "Reyes" , "02/07/2000" , "Santiago.Hildegarda.Carrasco.Reyes@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12570813 , "Ascensión" , "Clotilde" , "Díez" , "Soler" , "06/16/1976" , "Ascensión.Clotilde.Díez.Soler@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 32419699 , "Donato" , "Clotilde" , "Cabrera" , "Fuentes" , "03/26/1991" , "Donato.Clotilde.Cabrera.Fuentes@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36136027 , "Erico" , "Pedro" , "Soto" , "Bravo" , "03/01/1977" , "Erico.Pedro.Soto.Bravo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 54773001 , "Valentín" , "Rosalia" , "Cambil" , "Vargas" , "03/14/1992" , "Valentín.Rosalia.Cambil.Vargas@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12229755 , "Arcadio" , "Nieves" , "González" , "Caballero" , "02/04/1984" , "Arcadio.Nieves.González.Caballero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 38778043 , "Esdras" , "Nicodemo" , "Ortiz" , "Ramos" , "10/09/1993" , "Esdras.Nicodemo.Ortiz.Ramos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43826409 , "Cristóbal" , "Ladislao" , "Gil" , "Gallardo" , "05/21/1975" , "Cristóbal.Ladislao.Gil.Gallardo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 44075342 , "Arnaldo" , "Tomas" , "Herrero" , "Rodríguez" , "07/10/1986" , "Arnaldo.Tomas.Herrero.Rodríguez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32171912 , "Ireneo" , "Juvenal" , "Ortiz" , "Herrera" , "05/29/1975" , "Ireneo.Juvenal.Ortiz.Herrera@gmail.com" , NULL , NULL , "f" );
+VALUES ( 44873544 , "Celso" , "Hilarión" , "Gutiérrez" , "Díaz" , "02/18/1978" , "Celso.Hilarión.Gutiérrez.Díaz@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 29749314 , "Oseas" , "Laureano" , "Carmona" , "Montero" , "08/05/1988" , "Oseas.Laureano.Carmona.Montero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23257034 , "Tarsicio" , "Santiago" , "Blanco" , "Ramírez" , "04/08/1993" , "Tarsicio.Santiago.Blanco.Ramírez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33523221 , "Fátima" , "Jeremías" , "Ibáñez" , "Álvarez" , "08/14/1975" , "Fátima.Jeremías.Ibáñez.Álvarez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 29001833 , "Lourdes" , "Concepción" , "García" , "Núñez" , "10/18/1983" , "Lourdes.Concepción.García.Núñez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38085272 , "Aresio" , "Teresa" , "Parra" , "Durán" , "01/13/2002" , "Aresio.Teresa.Parra.Durán@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 36669460 , "Ismael" , "Petronila" , "Giménez" , "Benítez" , "10/20/1986" , "Ismael.Petronila.Giménez.Benítez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54242199 , "Elena" , "Pilar" , "Pastor" , "Sanz" , "11/04/1983" , "Elena.Pilar.Pastor.Sanz@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 29235973 , "Isaac" , "Josafat" , "Aguilar" , "Carrasco" , "06/28/2000" , "Isaac.Josafat.Aguilar.Carrasco@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19049889 , "Amadeo" , "Artemio" , "Sáez" , "Serrano" , "07/24/1968" , "Amadeo.Artemio.Sáez.Serrano@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 33432074 , "Marcos" , "Evaristo" , "Iglesias" , "Morales" , "12/27/1989" , "Marcos.Evaristo.Iglesias.Morales@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14954766 , "Norberto" , "Juan" , "Benítez" , "Herrera" , "01/02/1986" , "Norberto.Juan.Benítez.Herrera@gmail.com" , NULL , NULL , "f" );
+VALUES ( 53792165 , "Augusto" , "Antonia" , "Vidal" , "Torres" , "05/10/1978" , "Augusto.Antonia.Vidal.Torres@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46813930 , "Bernarda" , "Ernesto" , "Serrano" , "Gallardo" , "05/12/1990" , "Bernarda.Ernesto.Serrano.Gallardo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 39507443 , "Celso" , "Alberto" , "Jiménez" , "Carrasco" , "01/10/1976" , "Celso.Alberto.Jiménez.Carrasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34568804 , "Teodora" , "Federico" , "Cabrera" , "Ortiz" , "06/08/2003" , "Teodora.Federico.Cabrera.Ortiz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 15290907 , "Ricardo" , "Otilia" , "Ortiz" , "Román" , "10/19/2000" , "Ricardo.Otilia.Ortiz.Román@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16070566 , "Anatolio" , "Amadeo" , "Herrero" , "Aguilar" , "10/31/1998" , "Anatolio.Amadeo.Herrero.Aguilar@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33620685 , "Ascensión" , "Fidel" , "Caballero" , "Sánchez" , "03/19/1980" , "Ascensión.Fidel.Caballero.Sánchez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44713544 , "Almudena" , "Elisa" , "Álvarez" , "López" , "09/19/1992" , "Almudena.Elisa.Álvarez.López@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 53157484 , "Sonia" , "Celso" , "Ortiz" , "Martín" , "04/22/1974" , "Sonia.Celso.Ortiz.Martín@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 45959608 , "Lorenzo" , "Matías" , "Castro" , "Vicente" , "03/21/1973" , "Lorenzo.Matías.Castro.Vicente@gmail.com" , NULL , NULL , "f" );
+VALUES ( 22539310 , "Pío" , "Julio" , "Morales" , "Cruz" , "09/26/1983" , "Pío.Julio.Morales.Cruz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56115794 , "Benedicto" , "Casiano" , "Cambil" , "Ferrer" , "03/27/1972" , "Benedicto.Casiano.Cambil.Ferrer@gmail.com" , NULL , NULL , "f" );
+VALUES ( 38925119 , "Aurora" , "Porfirio" , "Navarro" , "Esteban" , "03/02/2001" , "Aurora.Porfirio.Navarro.Esteban@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44972752 , "Alfonso" , "Federico" , "Santiago" , "Guerrero" , "02/02/1989" , "Alfonso.Federico.Santiago.Guerrero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 35645843 , "Porfirio" , "Amparo" , "Marín" , "Prieto" , "07/23/1981" , "Porfirio.Amparo.Marín.Prieto@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26940927 , "Tito" , "Teresa" , "Ramos" , "Reyes" , "01/27/1994" , "Tito.Teresa.Ramos.Reyes@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 17819599 , "Clotilde" , "Rigoberto" , "Blanco" , "Bravo" , "06/24/1977" , "Clotilde.Rigoberto.Blanco.Bravo@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39099761 , "Zacarías" , "Elena" , "Sánchez" , "Martín" , "09/08/1992" , "Zacarías.Elena.Sánchez.Martín@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 18869692 , "Odón" , "Cirino" , "Ortega" , "Campos" , "12/04/1982" , "Odón.Cirino.Ortega.Campos@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17206354 , "Gonzalo" , "Hugo" , "Morales" , "Ortiz" , "07/20/1977" , "Gonzalo.Hugo.Morales.Ortiz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 26766058 , "Virgilio" , "Fernando" , "Navarro" , "Vargas" , "12/31/1966" , "Virgilio.Fernando.Navarro.Vargas@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49920378 , "Daciano" , "Porfirio" , "Martínez" , "Sáez" , "10/29/1982" , "Daciano.Porfirio.Martínez.Sáez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 26478768 , "Purificación" , "Inocencio" , "Lozano" , "Pérez" , "06/21/1967" , "Purificación.Inocencio.Lozano.Pérez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48250219 , "Celina" , "Concepción" , "Guerrero" , "Hidalgo" , "10/17/1982" , "Celina.Concepción.Guerrero.Hidalgo@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 18042567 , "Oseas" , "Porfirio" , "Gil" , "Nieto" , "08/13/1981" , "Oseas.Porfirio.Gil.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31967372 , "Benedicto" , "Rubén" , "Castro" , "Guerrero" , "07/30/1972" , "Benedicto.Rubén.Castro.Guerrero@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 33523099 , "Alejo" , "Iván" , "Cambil" , "Ramírez" , "10/31/1997" , "Alejo.Iván.Cambil.Ramírez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13920992 , "Carmelo" , "Carolina" , "Álvarez" , "Fuentes" , "03/07/1988" , "Carmelo.Carolina.Álvarez.Fuentes@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 29151147 , "Guillermo" , "Constancio" , "Pastor" , "Blesa" , "10/12/1998" , "Guillermo.Constancio.Pastor.Blesa@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 57064421 , "Catalina" , "Josefa" , "Santiago" , "Mora" , "08/17/1978" , "Catalina.Josefa.Santiago.Mora@gmail.com" , NULL , NULL , "f" );
+VALUES ( 21811646 , "Gema" , "Míriam" , "Santos" , "Pastor" , "06/13/1993" , "Gema.Míriam.Santos.Pastor@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13462011 , "Ángel" , "Gema" , "Rubio" , "Lozano" , "05/13/1998" , "Ángel.Gema.Rubio.Lozano@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 23431436 , "Heliodoro" , "Valeriano" , "López" , "Ferrer" , "05/06/1986" , "Heliodoro.Valeriano.López.Ferrer@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42114914 , "Vidal" , "Ezequiel" , "Aguilar" , "Román" , "10/10/1970" , "Vidal.Ezequiel.Aguilar.Román@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 39529180 , "Antonio" , "Cirilo" , "Caballero" , "Ramírez" , "12/16/1987" , "Antonio.Cirilo.Caballero.Ramírez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28222121 , "Gisela" , "Gustavo" , "Cambil" , "Guerrero" , "05/21/1983" , "Gisela.Gustavo.Cambil.Guerrero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 59555286 , "Albert" , "Salomé" , "Campos" , "Muñoz" , "02/20/1999" , "Albert.Salomé.Campos.Muñoz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25931278 , "Román" , "Francesc" , "Gallardo" , "Martínez" , "01/03/1975" , "Román.Francesc.Gallardo.Martínez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 57386590 , "Victorio" , "Vanesa" , "Peña" , "Aguilar" , "12/21/1978" , "Victorio.Vanesa.Peña.Aguilar@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25103237 , "Timoteo" , "Alberto" , "Sánchez" , "Peña" , "08/02/1999" , "Timoteo.Alberto.Sánchez.Peña@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 28131485 , "Zacarías" , "Pablo" , "Méndez" , "Castillo" , "08/05/1995" , "Zacarías.Pablo.Méndez.Castillo@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11994345 , "Arturo" , "Ramón" , "Cano" , "Moreno" , "08/22/1967" , "Arturo.Ramón.Cano.Moreno@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 12857457 , "Cecilia" , "Teodosia" , "Esteban" , "Fuentes" , "02/14/1974" , "Cecilia.Teodosia.Esteban.Fuentes@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 26039198 , "Anastasia" , "Leonor" , "Alonso" , "Santos" , "09/22/2001" , "Anastasia.Leonor.Alonso.Santos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 48808882 , "Dimas" , "Salvador" , "Calvo" , "Gallardo" , "02/03/1985" , "Dimas.Salvador.Calvo.Gallardo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44894419 , "Fabiola" , "Luz" , "Blanco" , "Ibáñez" , "03/31/1997" , "Fabiola.Luz.Blanco.Ibáñez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 28602690 , "Noé" , "Nazario" , "Moreno" , "Blesa" , "05/31/1976" , "Noé.Nazario.Moreno.Blesa@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31645203 , "Luis" , "Antero" , "Cortés" , "Pascual" , "03/07/1973" , "Luis.Antero.Cortés.Pascual@gmail.com" , NULL , NULL , "f" );
+VALUES ( 48571895 , "Jonás" , "Manuela" , "Lozano" , "Sáez" , "07/14/1995" , "Jonás.Manuela.Lozano.Sáez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33675458 , "Sergio" , "Magdalena" , "Gallego" , "Caballero" , "10/03/1981" , "Sergio.Magdalena.Gallego.Caballero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 12190322 , "Heliodoro" , "Claudio" , "Nieto" , "Fuentes" , "07/03/1972" , "Heliodoro.Claudio.Nieto.Fuentes@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28511512 , "Ifigenia" , "Isabel" , "Díaz" , "Lozano" , "06/29/1998" , "Ifigenia.Isabel.Díaz.Lozano@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 55716238 , "Victoria" , "Roque" , "Vidal" , "Gil" , "04/01/2000" , "Victoria.Roque.Vidal.Gil@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41892515 , "Reinaldo" , "Salvador" , "Campos" , "Álvarez" , "05/15/1972" , "Reinaldo.Salvador.Campos.Álvarez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 51812741 , "Oriol" , "Hugo" , "Hernández" , "Ferrer" , "11/02/2000" , "Oriol.Hugo.Hernández.Ferrer@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53911939 , "Salvio" , "Adela" , "Castillo" , "Nieto" , "11/07/1983" , "Salvio.Adela.Castillo.Nieto@gmail.com" , NULL , NULL , "f" );
+VALUES ( 39933262 , "Oswaldo" , "Pío" , "González" , "Domínguez" , "11/11/1999" , "Oswaldo.Pío.González.Domínguez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47992262 , "Luis" , "Nieves" , "Cortés" , "Mora" , "10/15/1991" , "Luis.Nieves.Cortés.Mora@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 14474295 , "Marcelino" , "Leocadia" , "Núñez" , "Ortega" , "11/20/1992" , "Marcelino.Leocadia.Núñez.Ortega@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 48128583 , "Tarsicio" , "Lourdes" , "Hernández" , "Ramírez" , "02/18/1993" , "Tarsicio.Lourdes.Hernández.Ramírez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 22032970 , "Francisca" , "Godofredo" , "Vargas" , "Pascual" , "08/22/1997" , "Francisca.Godofredo.Vargas.Pascual@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49415858 , "Nicodemo" , "Reinaldo" , "Vidal" , "Romero" , "11/10/1997" , "Nicodemo.Reinaldo.Vidal.Romero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 31407443 , "Marc" , "Francisco" , "Cruz" , "Gómez" , "09/09/1975" , "Marc.Francisco.Cruz.Gómez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 47731965 , "Marc" , "Laura" , "Ramírez" , "Herrero" , "02/21/1988" , "Marc.Laura.Ramírez.Herrero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 53444598 , "Casimiro" , "Concepción" , "Santiago" , "Gómez" , "10/22/1985" , "Casimiro.Concepción.Santiago.Gómez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39228425 , "Elías" , "Carmelo" , "Gil" , "Suárez" , "04/14/2003" , "Elías.Carmelo.Gil.Suárez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 31274410 , "Rosendo" , "Cesáreo" , "Morales" , "Méndez" , "07/05/1972" , "Rosendo.Cesáreo.Morales.Méndez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 54369747 , "Óscar" , "Natividad" , "Campos" , "Fuentes" , "06/11/1967" , "Óscar.Natividad.Campos.Fuentes@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 25336787 , "Gloria" , "Edmundo" , "Campos" , "Pascual" , "09/21/1987" , "Gloria.Edmundo.Campos.Pascual@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43876062 , "Oto" , "Jaume" , "Sáez" , "Sánchez" , "02/16/2001" , "Oto.Jaume.Sáez.Sánchez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 46464533 , "Arcadio" , "María" , "Pascual" , "Lozano" , "08/22/1990" , "Arcadio.María.Pascual.Lozano@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44340236 , "Inmaculada" , "Francisco" , "Sanz" , "Parra" , "05/29/1983" , "Inmaculada.Francisco.Sanz.Parra@gmail.com" , NULL , NULL , "f" );
+VALUES ( 25503724 , "Mónica" , "Otilia" , "Gómez" , "Martínez" , "12/01/2000" , "Mónica.Otilia.Gómez.Martínez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15529168 , "Benito" , "Gonzalo" , "Santos" , "Esteban" , "08/01/2001" , "Benito.Gonzalo.Santos.Esteban@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 42338976 , "Virgilio" , "Diego" , "Fuentes" , "Gómez" , "08/19/1993" , "Virgilio.Diego.Fuentes.Gómez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 53416791 , "Susana" , "Adalberto" , "Castillo" , "Garrido" , "08/05/1981" , "Susana.Adalberto.Castillo.Garrido@gmail.com" , NULL , NULL , "f" );
+VALUES ( 51229029 , "Héctor" , "Celina" , "Carmona" , "González" , "01/08/1973" , "Héctor.Celina.Carmona.González@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17091642 , "Eduardo" , "Claudia" , "Navarro" , "Gutiérrez" , "07/09/1972" , "Eduardo.Claudia.Navarro.Gutiérrez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 15965849 , "Encarnación" , "Gisela" , "Pastor" , "Rey" , "01/21/1995" , "Encarnación.Gisela.Pastor.Rey@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31459082 , "Pilar" , "Beatriz" , "Ruiz" , "Pastor" , "02/27/1974" , "Pilar.Beatriz.Ruiz.Pastor@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 18942662 , "Eugenio" , "Bárbara" , "Lozano" , "Navarro" , "08/03/1988" , "Eugenio.Bárbara.Lozano.Navarro@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23869463 , "Jaume" , "Teresa" , "Esteban" , "Álvarez" , "03/14/1983" , "Jaume.Teresa.Esteban.Álvarez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 36382622 , "Jorge" , "Olga" , "Gallardo" , "Benítez" , "06/28/1997" , "Jorge.Olga.Gallardo.Benítez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11514218 , "Atanasio" , "Dolores" , "Hernández" , "Moya" , "02/08/1986" , "Atanasio.Dolores.Hernández.Moya@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 48023484 , "Aurelio" , "Matías" , "Navarro" , "Pascual" , "10/04/1999" , "Aurelio.Matías.Navarro.Pascual@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13522566 , "Cayetano" , "Teresa" , "Blanco" , "Gallego" , "10/18/1974" , "Cayetano.Teresa.Blanco.Gallego@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 37063556 , "Urbano" , "Primo" , "Carmona" , "Nieto" , "12/01/2002" , "Urbano.Primo.Carmona.Nieto@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39937070 , "Onésimo" , "Albert" , "Carrasco" , "Navarro" , "10/19/1988" , "Onésimo.Albert.Carrasco.Navarro@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 46512952 , "Ángeles" , "Elena" , "Navarro" , "Guerrero" , "08/07/1986" , "Ángeles.Elena.Navarro.Guerrero@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35556923 , "Demócrito" , "Valentín" , "Torres" , "Torres" , "07/17/1973" , "Demócrito.Valentín.Torres.Torres@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 58418829 , "Sergio" , "Dorotea" , "Rubio" , "Montero" , "06/12/1981" , "Sergio.Dorotea.Rubio.Montero@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31944108 , "Anselmo" , "Jerónimo" , "Martín" , "Sanz" , "11/22/1991" , "Anselmo.Jerónimo.Martín.Sanz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 51494030 , "Raúl" , "Marcos" , "Castillo" , "Cabrera" , "05/31/1972" , "Raúl.Marcos.Castillo.Cabrera@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 18033182 , "Fabiola" , "David" , "Ramírez" , "Flores" , "01/11/1999" , "Fabiola.David.Ramírez.Flores@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 41613088 , "Vladimiro" , "Lourdes" , "Ibáñez" , "Rodríguez" , "01/15/1969" , "Vladimiro.Lourdes.Ibáñez.Rodríguez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11836644 , "Ricardo" , "Ariadna" , "Parra" , "Santos" , "04/05/1988" , "Ricardo.Ariadna.Parra.Santos@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11102491 , "Leonor" , "Cirilo" , "León" , "Fuentes" , "12/17/1976" , "Leonor.Cirilo.León.Fuentes@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21593147 , "Nicanor" , "Fabiola" , "Montero" , "Fuentes" , "06/17/1982" , "Nicanor.Fabiola.Montero.Fuentes@gmail.com" , NULL , NULL , "f" );
+VALUES ( 18554411 , "Porfirio" , "Aquiles" , "Castro" , "Ruiz" , "10/07/2002" , "Porfirio.Aquiles.Castro.Ruiz@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 39915123 , "Ezequiel" , "Carina" , "Benítez" , "Guerrero" , "05/15/1977" , "Ezequiel.Carina.Benítez.Guerrero@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 45498979 , "Oto" , "Genoveva" , "Román" , "Cortés" , "06/01/2002" , "Oto.Genoveva.Román.Cortés@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42448824 , "Cristian" , "Ángeles" , "Esteban" , "Vargas" , "06/22/1992" , "Cristian.Ángeles.Esteban.Vargas@gmail.com" , NULL , NULL , "f" );
+VALUES ( 38585103 , "Lucas" , "Bonifacio" , "Torres" , "Vidal" , "02/12/2003" , "Lucas.Bonifacio.Torres.Vidal@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51573010 , "Lucano" , "Roque" , "Sánchez" , "Medina" , "02/15/1981" , "Lucano.Roque.Sánchez.Medina@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 47880372 , "Fausto" , "Roque" , "Alonso" , "García" , "10/04/1977" , "Fausto.Roque.Alonso.García@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33417341 , "Pío" , "Teodora" , "Pastor" , "Moreno" , "05/08/1970" , "Pío.Teodora.Pastor.Moreno@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 26202822 , "Petronila" , "Godofredo" , "Mora" , "Núñez" , "01/19/1999" , "Petronila.Godofredo.Mora.Núñez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46145024 , "Fortunato" , "Jonathan" , "Castillo" , "Cambil" , "05/26/1969" , "Fortunato.Jonathan.Castillo.Cambil@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 24780070 , "Rufo" , "Bernardo" , "Morales" , "Pérez" , "10/26/1993" , "Rufo.Bernardo.Morales.Pérez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42785535 , "Alipio" , "Esdras" , "Benítez" , "Prieto" , "04/08/2001" , "Alipio.Esdras.Benítez.Prieto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 31063657 , "Antero" , "Eliseo" , "Martín" , "Márquez" , "06/22/1967" , "Antero.Eliseo.Martín.Márquez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 19628778 , "Joan" , "Laura" , "Flores" , "Cambil" , "06/21/2002" , "Joan.Laura.Flores.Cambil@gmail.com" , NULL , NULL , "f" );
+VALUES ( 46641830 , "Encarnación" , "Alba" , "Ferrer" , "Gil" , "05/17/1983" , "Encarnación.Alba.Ferrer.Gil@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51503746 , "Guillermo" , "Ruperto" , "Durán" , "Guerrero" , "02/09/1982" , "Guillermo.Ruperto.Durán.Guerrero@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 54342903 , "Gustavo" , "Priscila" , "Campos" , "León" , "04/14/1997" , "Gustavo.Priscila.Campos.León@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 41572068 , "Alfonso" , "Honorato" , "Marín" , "Montero" , "07/02/1991" , "Alfonso.Honorato.Marín.Montero@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 45236468 , "Jaime" , "Lucía" , "Torres" , "Sánchez" , "03/08/1985" , "Jaime.Lucía.Torres.Sánchez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21449768 , "Elvira" , "Carlos" , "Sánchez" , "Vargas" , "09/09/1972" , "Elvira.Carlos.Sánchez.Vargas@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 13821239 , "Cesáreo" , "Alejandra" , "Montero" , "Giménez" , "12/13/1985" , "Cesáreo.Alejandra.Montero.Giménez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 14953461 , "Aránzazu" , "Juana" , "Fernández" , "González" , "09/17/1995" , "Aránzazu.Juana.Fernández.González@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 52493184 , "Lourdes" , "Nemesio" , "Peña" , "Montero" , "04/07/1985" , "Lourdes.Nemesio.Peña.Montero@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 25963413 , "David" , "Emiliano" , "Marín" , "Marín" , "07/27/1968" , "David.Emiliano.Marín.Marín@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 11832187 , "Ángel" , "Leoncio" , "Martínez" , "Vicente" , "05/24/2001" , "Ángel.Leoncio.Martínez.Vicente@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16134415 , "Donato" , "Poncio" , "Castro" , "Moya" , "03/27/1997" , "Donato.Poncio.Castro.Moya@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 55934462 , "Joan" , "Andrés" , "Ibáñez" , "Romero" , "05/04/1983" , "Joan.Andrés.Ibáñez.Romero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 52321020 , "Heriberto" , "Carolina" , "Arias" , "Martínez" , "12/26/1970" , "Heriberto.Carolina.Arias.Martínez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 24019269 , "Emilio" , "Matías" , "Rodríguez" , "Moreno" , "06/11/1984" , "Emilio.Matías.Rodríguez.Moreno@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35943437 , "Carmen" , "Moisés" , "Gil" , "Sanz" , "07/10/1988" , "Carmen.Moisés.Gil.Sanz@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 51448661 , "César" , "Casio" , "Martínez" , "Mora" , "04/18/1999" , "César.Casio.Martínez.Mora@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21146403 , "Marciano" , "Juan" , "Sánchez" , "Aguilar" , "08/06/2002" , "Marciano.Juan.Sánchez.Aguilar@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 55928841 , "Lucrecia" , "Tarsicio" , "Parra" , "Sáez" , "12/05/2000" , "Lucrecia.Tarsicio.Parra.Sáez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 23623297 , "Rafael" , "Bonifacio" , "Santos" , "Castillo" , "02/08/1986" , "Rafael.Bonifacio.Santos.Castillo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 48032273 , "Constancio" , "Ildefonso" , "Morales" , "Cambil" , "01/04/1992" , "Constancio.Ildefonso.Morales.Cambil@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32818358 , "Artemio" , "Velerio" , "Gallego" , "Jiménez" , "04/20/1978" , "Artemio.Velerio.Gallego.Jiménez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11050571 , "Esther" , "Moisés" , "Suárez" , "Garrido" , "05/12/1974" , "Esther.Moisés.Suárez.Garrido@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 49469940 , "María" , "Humberto" , "Álvarez" , "Prieto" , "05/18/1996" , "María.Humberto.Álvarez.Prieto@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 17623265 , "Teodosia" , "Hugo" , "Gil" , "Prieto" , "07/02/1968" , "Teodosia.Hugo.Gil.Prieto@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 24299790 , "Fabio" , "Honorato" , "Pérez" , "Cortés" , "01/09/1979" , "Fabio.Honorato.Pérez.Cortés@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 58398069 , "Vanesa" , "Patricio" , "Lorenzo" , "Esteban" , "07/22/2001" , "Vanesa.Patricio.Lorenzo.Esteban@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 17065928 , "Atanasio" , "Oscar" , "Pérez" , "Aguilar" , "09/14/1984" , "Atanasio.Oscar.Pérez.Aguilar@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 57840306 , "Guillermo" , "Oscar" , "Sanz" , "Ibáñez" , "04/17/1967" , "Guillermo.Oscar.Sanz.Ibáñez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 46754473 , "Mar" , "Oswaldo" , "Montoro" , "Jiménez" , "03/21/1981" , "Mar.Oswaldo.Montoro.Jiménez@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 59387029 , "Aureliano" , "Patricia" , "González" , "Carrasco" , "03/02/1967" , "Aureliano.Patricia.González.Carrasco@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31480289 , "Begoña" , "Gregorio" , "Márquez" , "Gallego" , "05/07/1988" , "Begoña.Gregorio.Márquez.Gallego@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 22708452 , "Roberto" , "Luz" , "Rodríguez" , "Ramos" , "07/11/2002" , "Roberto.Luz.Rodríguez.Ramos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 31496985 , "Ernesto" , "Beltrán" , "Prieto" , "Esteban" , "01/27/1991" , "Ernesto.Beltrán.Prieto.Esteban@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 11594347 , "Purificación" , "Jonás" , "Morales" , "Nieto" , "02/07/1984" , "Purificación.Jonás.Morales.Nieto@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44888547 , "Dario" , "Victorio" , "Hernández" , "Sáez" , "04/20/1992" , "Dario.Victorio.Hernández.Sáez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 12095546 , "Ubaldo" , "Elvira" , "Díez" , "Montoro" , "08/30/1984" , "Ubaldo.Elvira.Díez.Montoro@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58510669 , "Vidal" , "Jaime" , "Torres" , "Castro" , "04/06/1978" , "Vidal.Jaime.Torres.Castro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 21851262 , "Ana" , "Celina" , "Romero" , "Caballero" , "10/18/1976" , "Ana.Celina.Romero.Caballero@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58194780 , "Eduardo" , "Oto" , "Morales" , "Prieto" , "05/19/1982" , "Eduardo.Oto.Morales.Prieto@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 12856243 , "Elías" , "Elvira" , "Delgado" , "Hernández" , "12/29/2001" , "Elías.Elvira.Delgado.Hernández@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27970739 , "Dimas" , "Bruno" , "Díez" , "Soto" , "09/14/1976" , "Dimas.Bruno.Díez.Soto@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 22216485 , "Segismundo" , "Clara" , "Domínguez" , "López" , "07/23/1980" , "Segismundo.Clara.Domínguez.López@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28560977 , "Alipio" , "Gema" , "Gallardo" , "Soto" , "02/29/1968" , "Alipio.Gema.Gallardo.Soto@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 26652615 , "Abdón" , "Lorena" , "Sanz" , "Soler" , "03/17/1978" , "Abdón.Lorena.Sanz.Soler@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 38765640 , "Oswaldo" , "Roberto" , "Prieto" , "Rubio" , "11/13/1991" , "Oswaldo.Roberto.Prieto.Rubio@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 53692602 , "Norberto" , "Ananías" , "Vázquez" , "Rodríguez" , "09/07/1996" , "Norberto.Ananías.Vázquez.Rodríguez@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 34001535 , "Ramiro" , "Áurea" , "Reyes" , "Vázquez" , "05/07/1993" , "Ramiro.Áurea.Reyes.Vázquez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 16480846 , "Lino" , "Eulalia" , "Montero" , "Gallego" , "03/05/2003" , "Lino.Eulalia.Montero.Gallego@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44326507 , "Domingo" , "Marcial" , "Rey" , "Torres" , "10/10/1981" , "Domingo.Marcial.Rey.Torres@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 47143237 , "Natalia" , "Porfirio" , "Delgado" , "Gallego" , "05/11/1969" , "Natalia.Porfirio.Delgado.Gallego@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11613482 , "Matilde" , "Epifanía" , "Romero" , "Díez" , "08/20/1971" , "Matilde.Epifanía.Romero.Díez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 56377164 , "Macario" , "Matías" , "Cambil" , "Díez" , "07/31/1966" , "Macario.Matías.Cambil.Díez@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 36160492 , "Iván" , "Cirilo" , "Nieto" , "Román" , "06/29/2003" , "Iván.Cirilo.Nieto.Román@gmail.com" , NULL , NULL , "f" );
+VALUES ( 18665028 , "Marina" , "Inés" , "Herrera" , "Vega" , "07/14/1980" , "Marina.Inés.Herrera.Vega@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27094153 , "Carmelo" , "Cipriano" , "Campos" , "Moreno" , "05/25/1991" , "Carmelo.Cipriano.Campos.Moreno@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 42080246 , "Mar" , "Noé" , "Soler" , "Arias" , "01/28/1988" , "Mar.Noé.Soler.Arias@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55506463 , "Hugo" , "Antonio" , "Moreno" , "Herrero" , "01/15/2002" , "Hugo.Antonio.Moreno.Herrero@gmail.com" , NULL , NULL , "f" );
+VALUES ( 31444829 , "Francisca" , "Constancio" , "López" , "Gutiérrez" , "10/29/1988" , "Francisca.Constancio.López.Gutiérrez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 58232322 , "Casio" , "Damián" , "Parra" , "Cambil" , "06/22/1984" , "Casio.Damián.Parra.Cambil@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 36034522 , "Oriol" , "Baldomero" , "Cano" , "Alonso" , "08/15/1979" , "Oriol.Baldomero.Cano.Alonso@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 51100978 , "Odón" , "Oseas" , "Castillo" , "Díez" , "02/11/1984" , "Odón.Oseas.Castillo.Díez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 34225779 , "Patricia" , "Basileo" , "Ortiz" , "Castillo" , "02/06/1995" , "Patricia.Basileo.Ortiz.Castillo@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 15305548 , "Alonso" , "Bonifacio" , "León" , "Soler" , "05/11/1983" , "Alonso.Bonifacio.León.Soler@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 48878297 , "Evaristo" , "Atanasio" , "Caballero" , "Díez" , "09/07/1987" , "Evaristo.Atanasio.Caballero.Díez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 16791601 , "Esiquio" , "Cayetano" , "Núñez" , "Santos" , "04/21/1972" , "Esiquio.Cayetano.Núñez.Santos@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 12823270 , "Virginia" , "Benito" , "Lozano" , "Díaz" , "06/13/1994" , "Virginia.Benito.Lozano.Díaz@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 42739730 , "Nuria" , "Eugenio" , "Santos" , "Gutiérrez" , "12/16/1973" , "Nuria.Eugenio.Santos.Gutiérrez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 28344014 , "Julia" , "Albert" , "Herrera" , "Campos" , "12/27/1974" , "Julia.Albert.Herrera.Campos@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 32339267 , "Abelardo" , "Adalberto" , "Gil" , "Núñez" , "07/22/2002" , "Abelardo.Adalberto.Gil.Núñez@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 38287810 , "Julián" , "Victorio" , "Carrasco" , "Moreno" , "02/11/1980" , "Julián.Victorio.Carrasco.Moreno@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 33739169 , "Josafat" , "Simeón" , "Rey" , "Torres" , "02/27/1978" , "Josafat.Simeón.Rey.Torres@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 16397011 , "Xavier" , "Javier" , "Blanco" , "Navarro" , "09/06/1968" , "Xavier.Javier.Blanco.Navarro@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 22174160 , "Ubaldo" , "Míriam" , "Serrano" , "Durán" , "02/24/1976" , "Ubaldo.Míriam.Serrano.Durán@gmail.com" , NULL , NULL , "f" );
+VALUES ( 34761076 , "Porfirio" , "Victorio" , "Blanco" , "Montero" , "04/12/1980" , "Porfirio.Victorio.Blanco.Montero@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 21093915 , "Sansón" , "Francesc" , "Calvo" , "Román" , "09/13/1987" , "Sansón.Francesc.Calvo.Román@gmail.com" , NULL , NULL , "f" );
+VALUES ( 43079450 , "Ciro" , "Amadeo" , "Carmona" , "Pastor" , "09/10/1975" , "Ciro.Amadeo.Carmona.Pastor@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 44937766 , "Guzmán" , "Arnaldo" , "Martínez" , "Gutiérrez" , "11/30/1995" , "Guzmán.Arnaldo.Martínez.Gutiérrez@gmail.com" , NULL , NULL , "f" );
+VALUES ( 29649146 , "Javier" , "Aurelia" , "Medina" , "Castro" , "08/03/1989" , "Javier.Aurelia.Medina.Castro@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13650127 , "Fernando" , "Rogelio" , "Cortés" , "Moya" , "07/13/1986" , "Fernando.Rogelio.Cortés.Moya@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 11613993 , "Reinaldo" , "Rosa" , "Nieto" , "Vidal" , "10/30/1983" , "Reinaldo.Rosa.Nieto.Vidal@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 11242768 , "Cirino" , "Zaqueo" , "Delgado" , "Pastor" , "01/23/1992" , "Cirino.Zaqueo.Delgado.Pastor@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 25580942 , "Enrique" , "Calixto" , "Giménez" , "Giménez" , "09/22/1973" , "Enrique.Calixto.Giménez.Giménez@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55970383 , "Sandra" , "Ariadna" , "Gutiérrez" , "Muñoz" , "01/27/1996" , "Sandra.Ariadna.Gutiérrez.Muñoz@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 37238028 , "Lorena" , "Eulalia" , "Montero" , "Ramírez" , "05/22/2000" , "Lorena.Eulalia.Montero.Ramírez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28940753 , "Lorenzo" , "Zacarías" , "Romero" , "Navarro" , "11/07/1983" , "Lorenzo.Zacarías.Romero.Navarro@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 21445358 , "Lino" , "Amelia" , "Méndez" , "Muñoz" , "07/23/1976" , "Lino.Amelia.Méndez.Muñoz@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 59235977 , "Ernesto" , "Fabiola" , "Garrido" , "Núñez" , "01/30/1991" , "Ernesto.Fabiola.Garrido.Núñez@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 31036230 , "Oseas" , "Simón" , "Pascual" , "Durán" , "11/03/1984" , "Oseas.Simón.Pascual.Durán@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35361853 , "Sofía" , "Joan" , "Pérez" , "Gallardo" , "09/11/1991" , "Sofía.Joan.Pérez.Gallardo@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 33036743 , "Xavier" , "Tomás" , "Ortiz" , "Herrera" , "11/29/1970" , "Xavier.Tomás.Ortiz.Herrera@yahoo.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 13439844 , "Pancracio" , "Isabel" , "Vidal" , "Fernández" , "03/12/1977" , "Pancracio.Isabel.Vidal.Fernández@gmail.com" , NULL , NULL , "f" );
+VALUES ( 49822910 , "Fausto" , "Cesáreo" , "Crespo" , "Carrasco" , "05/12/1977" , "Fausto.Cesáreo.Crespo.Carrasco@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 35898719 , "Isidro" , "Jeremías" , "Rodríguez" , "Santos" , "11/28/1968" , "Isidro.Jeremías.Rodríguez.Santos@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 47139404 , "Míriam" , "Vanesa" , "Pérez" , "Lozano" , "01/26/1996" , "Míriam.Vanesa.Pérez.Lozano@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 27192583 , "Lázaro" , "Isaac" , "Hidalgo" , "Ramos" , "09/15/1969" , "Lázaro.Isaac.Hidalgo.Ramos@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 17515622 , "Patricia" , "Magdalena" , "Ruiz" , "Jiménez" , "11/20/1985" , "Patricia.Magdalena.Ruiz.Jiménez@its.edu.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 56000250 , "Reinaldo" , "Marina" , "Herrera" , "Castillo" , "01/16/1998" , "Reinaldo.Marina.Herrera.Castillo@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 23453872 , "Gloria" , "Adón" , "Calvo" , "Cabrera" , "11/18/1994" , "Gloria.Adón.Calvo.Cabrera@gmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 43429594 , "Teresa" , "Dorotea" , "Pérez" , "Vicente" , "07/30/1992" , "Teresa.Dorotea.Pérez.Vicente@its.edu.uy" , NULL , NULL , "f" );
+VALUES ( 22928894 , "Clotilde" , "Virginia" , "Soto" , "Méndez" , "06/10/1970" , "Clotilde.Virginia.Soto.Méndez@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 55630147 , "Augusto" , "Ezequiel" , "Soto" , "Gallardo" , "11/10/1971" , "Augusto.Ezequiel.Soto.Gallardo@antel.com.uy" , NULL , NULL , "f" );
+VALUES ( 49481790 , "Matilde" , "Adalberto" , "Castro" , "Montoro" , "07/19/1995" , "Matilde.Adalberto.Castro.Montoro@antel.com.uy" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 28749830 , "Fabián" , "Olga" , "Gómez" , "Navarro" , "04/11/1981" , "Fabián.Olga.Gómez.Navarro@yahoo.com" , NULL , NULL , "f" );
+VALUES ( 11910583 , "Luisa" , "Vladimiro" , "Rey" , "Ortega" , "04/10/1972" , "Luisa.Vladimiro.Rey.Ortega@hotmail.com" , NULL , NULL , "f" );
 INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)
-VALUES ( 12403232 , "Concepción" , "Sara" , "Ferrer" , "Sáez" , "03/04/1999" , "Concepción.Sara.Ferrer.Sáez@hotmail.com" , NULL , NULL , "f" );
+VALUES ( 31715820 , "Antero" , "Paula" , "Jiménez" , "Ruiz" , "08/20/1969" , "Antero.Paula.Jiménez.Ruiz@yahoo.com" , NULL , NULL , "f" );
