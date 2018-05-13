@@ -2,44 +2,44 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IM" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IC" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IQ" , "Esto se supone que es una descripcion" , "Nocturno" , "f" );
+VALUES ( "3IG" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IG" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IB" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IJ" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IY" , "INFORMÁTICA" , "Vespertino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IE" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IW" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IX" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3II" , "INFORMÁTICA" , "Vespertino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IS" , "Esto se supone que es una descripcion" , "Nocturno" , "f" );
+VALUES ( "3IO" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IE" , "Esto se supone que es una descripcion" , "Nocturno" , "f" );
+VALUES ( "3IS" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IV" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IU" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IG" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IC" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IT" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IU" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IL" , "Esto se supone que es una descripcion" , "Nocturno" , "f" );
+VALUES ( "3IR" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3II" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IW" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IP" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IH" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IK" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IR" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IW" , "Esto se supone que es una descripcion" , "Matutino" , "f" );
+VALUES ( "3IM" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IU" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IP" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IV" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IH" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3ID" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IF" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IC" , "Esto se supone que es una descripcion" , "Nocturno" , "f" );
+VALUES ( "3IO" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IL" , "Esto se supone que es una descripcion" , "Vespertino" , "f" );
+VALUES ( "3IN" , "INFORMÁTICA" , "Vespertino" , "f" );
