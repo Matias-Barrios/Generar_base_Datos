@@ -407,6 +407,43 @@ echo "$( date ) - Proceso iniciado..."
 ## FIN 
 ###########################################
 
+###########################################
+## Tabla relacion_Alumno_Materias_Grupos
+###########################################
+# CREATE TABLE relacion_Alumno_Materias_Grupos
+# (
+#     foranea_CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_Personas_CI,
+#     foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_id_materia,
+#     foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_id_grupo,
+#     PRIMARY KEY (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo) CONSTRAINT rrelacion_personas_pertenecen_grupos_clave_primaria
+# );
+
+
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+	echo -e '\n' >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+	k=0;
+	while read id_grupo
+	do
+		i=56
+		while [ $i -le 62 ]
+		do
+			j=0
+			while [ $j -le 25 ]
+			do
+
+				echo "INSERT INTO relacion_Alumno_Materias_Grupos (foranea_CI_alumno, foranea_id_materia,foranea_id_grupo)" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+				id_alumno=`sed -n "$k"' p' todas_CI_alumno.txt`
+				(( k++ ))
+				echo "VALUES ( $id_alumno, $i , $id_grupo );" >> AUTOMATICO_relacion_Alumno_Materias_Grupos_auto.sql
+				(( j++ ))		
+			done 
+		
+			(( i++ ))
+		done 
+	done <<< "$( cat ./todos_codigos_grupos.txt )"
+###########################################
+## FIN 
+###########################################
 
 
 
