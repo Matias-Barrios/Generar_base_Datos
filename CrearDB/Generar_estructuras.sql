@@ -73,8 +73,6 @@ CREATE TABLE Personas
  (
   CI_alumno INT PRIMARY KEY REFERENCES Personas (CI) CONSTRAINT Alumno_fk_personas_CI,
   hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
-  encriptacion_hash varchar(250),
-  encriptacion_sal varchar(250),
   nota_final INT CHECK ( nota_final > 0 AND nota_final < 13) CONSTRAINT nota_final_valida,
   baja boolean NOT NULL CONSTRAINT Alumno_baja_vacio
  );
@@ -114,10 +112,12 @@ CREATE TABLE Personas
 -- grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT validar_grado,
 -- tipo varchar(20) CHECK (tipo IN ('Admin', 'Docente', 'Alumno')) CONSTRAINT tipo_valido,
 
+
+DROP TABLE IF EXISTS relacion_Grupos_tienen_Materias;
+DROP TABLE IF EXISTS relacion_Grupos_pertenecen_Institutos;
 DROP TABLE IF EXISTS relacion_Profesor_pertenece_Instituto;
 DROP TABLE IF EXISTS relacion_Alumno_pertenece_Instituto;
-DROP TABLE IF EXISTS relacion_Grupos_pertenecen_Institutos;
-DROP TABLE IF EXISTS relacion_Grupos_tienen_Materias;
+
 DROP TABLE IF EXISTS relacion_Alumno_Materias_Grupos;
 DROP TABLE IF EXISTS relacion_Profesor_Materias_Grupos;
 
