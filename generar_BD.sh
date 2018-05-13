@@ -160,7 +160,7 @@ echo "$( date ) - Proceso iniciado..."
 		nombre_grupo="3I"`Item_Aleatorio "$lista_grupos_letras"` 
 		orientacion="INFORMÁTICA"
 		turno=`Item_Aleatorio "$lista_turnos"` 
-		echo "VALUES ( \"$nombre_grupo\" , \"$descripcion\" , \"$turno\" , \"f\" );" >> AUTOMATICO_ingresar_grupos_auto.sql
+		echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" );" >> AUTOMATICO_ingresar_grupos_auto.sql
 		(( i++ ))
 		echo "$i" >> ./todos_codigos_grupos.txt
 	done <<< "$lista_materias"
