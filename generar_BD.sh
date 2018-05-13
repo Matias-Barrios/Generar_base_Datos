@@ -514,9 +514,9 @@ echo "$( date ) - Proceso iniciado..."
 			profe=`Item_Aleatorio "$lista_CI_profesor"`
 			echo "Buscando un grupo, un alumno y una materia relacionados con $profe..."
 			grupos_del_profe=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $3}' | tr '\n' ' '`
-			materias_del_profe=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | awk '{ print $2}' | tr '\n' ' '`
-			una_materia_del_profe=`Item_Aleatorio "$materias_del_profe"`
 			un_grupo_del_profe=`Item_Aleatorio "$grupos_del_profe"`
+			materias_que_da_para_ese_grupo=`grep "$profe" ./lista_profesores_asignados_a_materia_y_grupo.txt | grep -E "$un_grupo_del_profe'$'" | awk '{ print $2}' | tr '\n' ' '`
+			una_materia_que_da_el_profe=`Item_Aleatorio "$materias_del_profe"`
 			echo "Buscando alumnos de ese grupo y esa materia :  $un_grupo_del_profe y $una_materia_del_profe"
 			alumnos_de_ese_grupo_y_esa_materia=`grep " $una_materia_del_profe $un_grupo_del_profe" ./lista_alumnos_asignados_a_materia_y_grupo.txt | awk '{ print $1}' | tr '\n' ' ' `
 			un_alumno_random=`Item_Aleatorio "$alumnos_de_ese_grupo_y_esa_materia"`
