@@ -2,1102 +2,1102 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31823429, 1 , "f" );
+VALUES ( 23947455, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11269671, 1 , "f" );
+VALUES ( 12745153, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51984441, 1 , "f" );
+VALUES ( 57881443, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13031929, 1 , "f" );
+VALUES ( 31260659, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47504328, 1 , "f" );
+VALUES ( 49393727, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45682039, 1 , "f" );
+VALUES ( 57962114, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18007076, 1 , "f" );
+VALUES ( 31997149, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37384665, 1 , "f" );
+VALUES ( 37047493, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56043301, 1 , "f" );
+VALUES ( 14274263, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28526844, 1 , "f" );
+VALUES ( 51382918, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43480687, 1 , "f" );
+VALUES ( 34531039, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43371664, 1 , "f" );
+VALUES ( 38273645, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31811810, 1 , "f" );
+VALUES ( 14372217, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18663622, 1 , "f" );
+VALUES ( 56089943, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37709788, 1 , "f" );
+VALUES ( 58921147, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56375138, 1 , "f" );
+VALUES ( 52516316, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49426651, 1 , "f" );
+VALUES ( 59229215, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44653419, 1 , "f" );
+VALUES ( 44092164, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12597641, 1 , "f" );
+VALUES ( 22629353, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29819646, 1 , "f" );
+VALUES ( 42826226, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42178576, 1 , "f" );
+VALUES ( 55743047, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24141860, 1 , "f" );
+VALUES ( 58539928, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 15177292, 1 , "f" );
+VALUES ( 51382015, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32477097, 1 , "f" );
+VALUES ( 22711429, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55915125, 1 , "f" );
+VALUES ( 46151441, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27151026, 1 , "f" );
+VALUES ( 51190646, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42543729, 1 , "f" );
+VALUES ( 22566094, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58812550, 1 , "f" );
+VALUES ( 22661842, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46667818, 1 , "f" );
+VALUES ( 54026208, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41206982, 1 , "f" );
+VALUES ( 58683244, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27730824, 1 , "f" );
+VALUES ( 45735260, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42993352, 1 , "f" );
+VALUES ( 33773418, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16985175, 1 , "f" );
+VALUES ( 23550123, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39300429, 1 , "f" );
+VALUES ( 14911198, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45501590, 1 , "f" );
+VALUES ( 19282906, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25591234, 1 , "f" );
+VALUES ( 41088623, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37796476, 1 , "f" );
+VALUES ( 12692972, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48442149, 1 , "f" );
+VALUES ( 43349203, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54964266, 1 , "f" );
+VALUES ( 17915084, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12172669, 1 , "f" );
+VALUES ( 39127708, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12932497, 1 , "f" );
+VALUES ( 35063576, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18324452, 1 , "f" );
+VALUES ( 26209983, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55547475, 1 , "f" );
+VALUES ( 59734230, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31312591, 1 , "f" );
+VALUES ( 49220976, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32777827, 1 , "f" );
+VALUES ( 33667083, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44666884, 1 , "f" );
+VALUES ( 32683399, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26303301, 1 , "f" );
+VALUES ( 16703997, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59015927, 1 , "f" );
+VALUES ( 56652302, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37924368, 1 , "f" );
+VALUES ( 54279839, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21962415, 1 , "f" );
+VALUES ( 44514431, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17509443, 1 , "f" );
+VALUES ( 37991204, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38235033, 1 , "f" );
+VALUES ( 24629214, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19812480, 1 , "f" );
+VALUES ( 49442930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23831848, 1 , "f" );
+VALUES ( 15558840, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54070196, 1 , "f" );
+VALUES ( 19771705, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44479863, 1 , "f" );
+VALUES ( 15259741, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54626539, 1 , "f" );
+VALUES ( 23553589, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31429146, 1 , "f" );
+VALUES ( 23947900, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14668571, 1 , "f" );
+VALUES ( 33561015, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55511347, 1 , "f" );
+VALUES ( 49604065, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42651174, 1 , "f" );
+VALUES ( 16304711, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16562561, 1 , "f" );
+VALUES ( 29347885, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31640996, 1 , "f" );
+VALUES ( 15193452, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49796460, 1 , "f" );
+VALUES ( 58839827, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36485494, 1 , "f" );
+VALUES ( 38979938, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36483292, 1 , "f" );
+VALUES ( 23688988, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38257576, 1 , "f" );
+VALUES ( 57426679, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54657162, 1 , "f" );
+VALUES ( 54548393, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23878650, 1 , "f" );
+VALUES ( 26028884, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57638856, 1 , "f" );
+VALUES ( 54796855, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51325304, 1 , "f" );
+VALUES ( 39605691, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24653065, 1 , "f" );
+VALUES ( 54172243, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38617237, 1 , "f" );
+VALUES ( 17550492, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56329753, 1 , "f" );
+VALUES ( 29676171, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49691452, 1 , "f" );
+VALUES ( 47603069, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26443634, 1 , "f" );
+VALUES ( 21191022, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54233548, 1 , "f" );
+VALUES ( 23022984, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48386076, 1 , "f" );
+VALUES ( 37002322, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41833248, 1 , "f" );
+VALUES ( 38186206, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51408136, 1 , "f" );
+VALUES ( 34649553, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51957002, 1 , "f" );
+VALUES ( 53441552, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12935449, 1 , "f" );
+VALUES ( 23761447, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21360772, 1 , "f" );
+VALUES ( 54199087, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25006390, 1 , "f" );
+VALUES ( 24515768, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55712696, 1 , "f" );
+VALUES ( 39533054, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25125827, 1 , "f" );
+VALUES ( 58072659, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45708332, 1 , "f" );
+VALUES ( 18510946, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59518797, 1 , "f" );
+VALUES ( 56015930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11368259, 1 , "f" );
+VALUES ( 19422203, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35148754, 1 , "f" );
+VALUES ( 42790453, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18866656, 1 , "f" );
+VALUES ( 48022468, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14750415, 1 , "f" );
+VALUES ( 36837081, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49045376, 1 , "f" );
+VALUES ( 53289944, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 15378080, 1 , "f" );
+VALUES ( 15249055, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22008301, 1 , "f" );
+VALUES ( 31057111, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14412089, 1 , "f" );
+VALUES ( 26878556, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58515368, 1 , "f" );
+VALUES ( 47276989, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53263778, 1 , "f" );
+VALUES ( 32958813, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54337568, 1 , "f" );
+VALUES ( 21423279, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39926766, 1 , "f" );
+VALUES ( 22707812, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32939485, 1 , "f" );
+VALUES ( 21458591, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34264460, 1 , "f" );
+VALUES ( 16798198, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11378246, 1 , "f" );
+VALUES ( 48744030, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22062123, 1 , "f" );
+VALUES ( 28159251, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33901491, 1 , "f" );
+VALUES ( 17050072, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41625669, 1 , "f" );
+VALUES ( 21105582, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22105969, 1 , "f" );
+VALUES ( 27028089, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24017192, 1 , "f" );
+VALUES ( 43870206, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55775981, 1 , "f" );
+VALUES ( 16126965, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25329457, 1 , "f" );
+VALUES ( 23110559, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23573591, 1 , "f" );
+VALUES ( 33972117, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19437767, 1 , "f" );
+VALUES ( 11367813, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17921962, 1 , "f" );
+VALUES ( 34957429, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 15098193, 1 , "f" );
+VALUES ( 31994959, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44605638, 1 , "f" );
+VALUES ( 15663704, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54280002, 1 , "f" );
+VALUES ( 33093965, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25215832, 1 , "f" );
+VALUES ( 21938636, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53580994, 1 , "f" );
+VALUES ( 51130961, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13148706, 1 , "f" );
+VALUES ( 51142649, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32375649, 1 , "f" );
+VALUES ( 14070774, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46403826, 1 , "f" );
+VALUES ( 48128050, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12062636, 1 , "f" );
+VALUES ( 43604809, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49697600, 1 , "f" );
+VALUES ( 14931592, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37139315, 1 , "f" );
+VALUES ( 39730056, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55776571, 1 , "f" );
+VALUES ( 28534071, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44205157, 1 , "f" );
+VALUES ( 56565060, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16769472, 1 , "f" );
+VALUES ( 21044782, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58665428, 1 , "f" );
+VALUES ( 28145058, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57373987, 1 , "f" );
+VALUES ( 11571593, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21899909, 1 , "f" );
+VALUES ( 18945056, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53909483, 1 , "f" );
+VALUES ( 36826216, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32604214, 1 , "f" );
+VALUES ( 32792732, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17092787, 1 , "f" );
+VALUES ( 43589447, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43839608, 1 , "f" );
+VALUES ( 29815894, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28313356, 1 , "f" );
+VALUES ( 58232316, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28315382, 1 , "f" );
+VALUES ( 29106904, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21385706, 1 , "f" );
+VALUES ( 13404500, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45901247, 1 , "f" );
+VALUES ( 52078419, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27057692, 1 , "f" );
+VALUES ( 33425562, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48292219, 1 , "f" );
+VALUES ( 24784800, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43106352, 1 , "f" );
+VALUES ( 43604263, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25652573, 1 , "f" );
+VALUES ( 57010969, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29456886, 1 , "f" );
+VALUES ( 24406563, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34968551, 1 , "f" );
+VALUES ( 39994800, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35510165, 1 , "f" );
+VALUES ( 12806668, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33022380, 1 , "f" );
+VALUES ( 44289226, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33930844, 1 , "f" );
+VALUES ( 58779554, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29046794, 1 , "f" );
+VALUES ( 28203157, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36682452, 1 , "f" );
+VALUES ( 18630148, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23145285, 1 , "f" );
+VALUES ( 59759480, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57867639, 1 , "f" );
+VALUES ( 39465708, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44848197, 1 , "f" );
+VALUES ( 51384665, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58184260, 1 , "f" );
+VALUES ( 57335836, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27991074, 1 , "f" );
+VALUES ( 16968256, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18068012, 1 , "f" );
+VALUES ( 55417941, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29108316, 1 , "f" );
+VALUES ( 36772445, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17219826, 1 , "f" );
+VALUES ( 22873853, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22817936, 1 , "f" );
+VALUES ( 54542151, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43224368, 1 , "f" );
+VALUES ( 41811062, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36299825, 1 , "f" );
+VALUES ( 56975221, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51558616, 1 , "f" );
+VALUES ( 24996463, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21075826, 1 , "f" );
+VALUES ( 18509002, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17782716, 1 , "f" );
+VALUES ( 36231104, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48123981, 1 , "f" );
+VALUES ( 13110385, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57193230, 1 , "f" );
+VALUES ( 49473319, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19815357, 1 , "f" );
+VALUES ( 39411315, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26163593, 1 , "f" );
+VALUES ( 22933007, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47601271, 1 , "f" );
+VALUES ( 57344681, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39152359, 1 , "f" );
+VALUES ( 55756597, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51225578, 1 , "f" );
+VALUES ( 37110385, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27577319, 1 , "f" );
+VALUES ( 16538663, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22102155, 1 , "f" );
+VALUES ( 26553764, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23574313, 1 , "f" );
+VALUES ( 25077232, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42357495, 1 , "f" );
+VALUES ( 32154930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32179851, 1 , "f" );
+VALUES ( 11184421, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25726447, 1 , "f" );
+VALUES ( 41140580, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26510425, 1 , "f" );
+VALUES ( 29701940, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22386212, 1 , "f" );
+VALUES ( 55078387, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14712897, 1 , "f" );
+VALUES ( 12559211, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32074025, 1 , "f" );
+VALUES ( 21017393, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45402702, 1 , "f" );
+VALUES ( 24864050, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28168426, 1 , "f" );
+VALUES ( 31203976, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12380624, 1 , "f" );
+VALUES ( 45715305, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28138944, 1 , "f" );
+VALUES ( 54727723, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37872993, 1 , "f" );
+VALUES ( 12713930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31724233, 1 , "f" );
+VALUES ( 13047318, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14820418, 1 , "f" );
+VALUES ( 45011399, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44392411, 1 , "f" );
+VALUES ( 17685863, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41365176, 1 , "f" );
+VALUES ( 26687686, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36646741, 1 , "f" );
+VALUES ( 29350727, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37445211, 1 , "f" );
+VALUES ( 16813594, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59546243, 1 , "f" );
+VALUES ( 34070344, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21396151, 1 , "f" );
+VALUES ( 54390944, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52723474, 1 , "f" );
+VALUES ( 39967251, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23933393, 1 , "f" );
+VALUES ( 47037686, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37466108, 1 , "f" );
+VALUES ( 38366505, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25005744, 1 , "f" );
+VALUES ( 54322684, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34191653, 1 , "f" );
+VALUES ( 31381093, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45255385, 1 , "f" );
+VALUES ( 37625300, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56395720, 1 , "f" );
+VALUES ( 36979312, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19153482, 1 , "f" );
+VALUES ( 27539337, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53295402, 1 , "f" );
+VALUES ( 28028626, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13550802, 1 , "f" );
+VALUES ( 32212948, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33771965, 1 , "f" );
+VALUES ( 23801407, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58989971, 1 , "f" );
+VALUES ( 41664435, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25768942, 1 , "f" );
+VALUES ( 15979741, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53952894, 1 , "f" );
+VALUES ( 26222094, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27114377, 1 , "f" );
+VALUES ( 58526519, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33141776, 1 , "f" );
+VALUES ( 44073883, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41107702, 1 , "f" );
+VALUES ( 23011272, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36482226, 1 , "f" );
+VALUES ( 41362635, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39021439, 1 , "f" );
+VALUES ( 39662023, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14652273, 1 , "f" );
+VALUES ( 16753613, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48403000, 1 , "f" );
+VALUES ( 33451662, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26305177, 1 , "f" );
+VALUES ( 21245928, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31432260, 1 , "f" );
+VALUES ( 34512219, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28656823, 1 , "f" );
+VALUES ( 34805656, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19613010, 1 , "f" );
+VALUES ( 49706247, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11291684, 1 , "f" );
+VALUES ( 38328448, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26555530, 1 , "f" );
+VALUES ( 13148091, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22145529, 1 , "f" );
+VALUES ( 41019256, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14082957, 1 , "f" );
+VALUES ( 52474411, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18700185, 1 , "f" );
+VALUES ( 44877142, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33846689, 1 , "f" );
+VALUES ( 27740980, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42671948, 1 , "f" );
+VALUES ( 35127760, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54017544, 1 , "f" );
+VALUES ( 58511629, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58037130, 1 , "f" );
+VALUES ( 49146203, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28278697, 1 , "f" );
+VALUES ( 43391626, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44804810, 1 , "f" );
+VALUES ( 35443471, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59364548, 1 , "f" );
+VALUES ( 55162934, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45828330, 1 , "f" );
+VALUES ( 24144696, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59447386, 1 , "f" );
+VALUES ( 23011987, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32810895, 1 , "f" );
+VALUES ( 31628679, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37702100, 1 , "f" );
+VALUES ( 28920553, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13100605, 1 , "f" );
+VALUES ( 32657681, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31667928, 1 , "f" );
+VALUES ( 47308029, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48233732, 1 , "f" );
+VALUES ( 24617774, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41914840, 1 , "f" );
+VALUES ( 14633635, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25937824, 1 , "f" );
+VALUES ( 51083289, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25104219, 1 , "f" );
+VALUES ( 41680805, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51799274, 1 , "f" );
+VALUES ( 14800086, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22976631, 1 , "f" );
+VALUES ( 52912443, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49454953, 1 , "f" );
+VALUES ( 32828492, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13533278, 1 , "f" );
+VALUES ( 27338395, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14342337, 1 , "f" );
+VALUES ( 36185727, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22850128, 1 , "f" );
+VALUES ( 36155223, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46625909, 1 , "f" );
+VALUES ( 28993001, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17068572, 1 , "f" );
+VALUES ( 39073501, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52514114, 1 , "f" );
+VALUES ( 43352509, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22821684, 1 , "f" );
+VALUES ( 22482393, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52200868, 1 , "f" );
+VALUES ( 39237286, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22487882, 1 , "f" );
+VALUES ( 59971892, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46466666, 1 , "f" );
+VALUES ( 52059752, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37201708, 1 , "f" );
+VALUES ( 59798228, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43754737, 1 , "f" );
+VALUES ( 35175579, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49949132, 1 , "f" );
+VALUES ( 43730854, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42965806, 1 , "f" );
+VALUES ( 48765911, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51615385, 1 , "f" );
+VALUES ( 25624469, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23515074, 1 , "f" );
+VALUES ( 21736537, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18787648, 1 , "f" );
+VALUES ( 59052068, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28347668, 1 , "f" );
+VALUES ( 42223595, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37995147, 1 , "f" );
+VALUES ( 54110366, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11558006, 1 , "f" );
+VALUES ( 36266595, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42963654, 1 , "f" );
+VALUES ( 32687179, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57935888, 1 , "f" );
+VALUES ( 51011917, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53147544, 1 , "f" );
+VALUES ( 48839045, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12167519, 1 , "f" );
+VALUES ( 35602554, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46209672, 1 , "f" );
+VALUES ( 14858130, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26675726, 1 , "f" );
+VALUES ( 23784940, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57713432, 1 , "f" );
+VALUES ( 14255863, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52316481, 1 , "f" );
+VALUES ( 23050101, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48831689, 1 , "f" );
+VALUES ( 56288432, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43616838, 1 , "f" );
+VALUES ( 36390655, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48663400, 1 , "f" );
+VALUES ( 45395602, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56613310, 1 , "f" );
+VALUES ( 19356353, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16584402, 1 , "f" );
+VALUES ( 22301042, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57213125, 1 , "f" );
+VALUES ( 33610375, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35757517, 1 , "f" );
+VALUES ( 24646917, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16750172, 1 , "f" );
+VALUES ( 13548146, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29581354, 1 , "f" );
+VALUES ( 42850522, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34056085, 1 , "f" );
+VALUES ( 54326232, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36535429, 1 , "f" );
+VALUES ( 16173617, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24756467, 1 , "f" );
+VALUES ( 14345577, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36058461, 1 , "f" );
+VALUES ( 11177179, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17584516, 1 , "f" );
+VALUES ( 23024039, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28906802, 1 , "f" );
+VALUES ( 31000027, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22993265, 1 , "f" );
+VALUES ( 22071229, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13359810, 1 , "f" );
+VALUES ( 51465643, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12133398, 1 , "f" );
+VALUES ( 59647794, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41844712, 1 , "f" );
+VALUES ( 39276159, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31122590, 1 , "f" );
+VALUES ( 48645220, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41963493, 1 , "f" );
+VALUES ( 42361052, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25217761, 1 , "f" );
+VALUES ( 13232096, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55577236, 1 , "f" );
+VALUES ( 11210454, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21329390, 1 , "f" );
+VALUES ( 12809563, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47063805, 1 , "f" );
+VALUES ( 31998375, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39480403, 1 , "f" );
+VALUES ( 53462342, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46958257, 1 , "f" );
+VALUES ( 21424831, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 15893230, 1 , "f" );
+VALUES ( 52417675, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37013517, 1 , "f" );
+VALUES ( 28382030, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27252072, 1 , "f" );
+VALUES ( 21937626, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28159922, 1 , "f" );
+VALUES ( 38830308, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12951972, 1 , "f" );
+VALUES ( 34088117, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56262971, 1 , "f" );
+VALUES ( 53239052, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31065683, 1 , "f" );
+VALUES ( 36478932, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42511910, 1 , "f" );
+VALUES ( 15925687, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44039772, 1 , "f" );
+VALUES ( 53040419, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45744792, 1 , "f" );
+VALUES ( 56573463, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52025644, 1 , "f" );
+VALUES ( 31485267, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49409174, 1 , "f" );
+VALUES ( 27437014, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48221054, 1 , "f" );
+VALUES ( 41376452, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33831551, 1 , "f" );
+VALUES ( 56932415, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55343798, 1 , "f" );
+VALUES ( 42791918, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29573995, 1 , "f" );
+VALUES ( 48641202, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22041719, 1 , "f" );
+VALUES ( 32705505, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38147286, 1 , "f" );
+VALUES ( 16006622, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43781427, 1 , "f" );
+VALUES ( 55654274, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16302387, 1 , "f" );
+VALUES ( 32257990, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54196029, 1 , "f" );
+VALUES ( 37162855, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32634912, 1 , "f" );
+VALUES ( 13585447, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45822013, 1 , "f" );
+VALUES ( 22931861, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38444183, 1 , "f" );
+VALUES ( 12899930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35955074, 1 , "f" );
+VALUES ( 34213944, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22473651, 1 , "f" );
+VALUES ( 48098742, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29407863, 1 , "f" );
+VALUES ( 16603989, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57806477, 1 , "f" );
+VALUES ( 13034379, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31472109, 1 , "f" );
+VALUES ( 45312452, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42001575, 1 , "f" );
+VALUES ( 52629830, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14236407, 1 , "f" );
+VALUES ( 11667740, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58912938, 1 , "f" );
+VALUES ( 32554790, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19588730, 1 , "f" );
+VALUES ( 14006341, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34256998, 1 , "f" );
+VALUES ( 43460186, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23100318, 1 , "f" );
+VALUES ( 51368314, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39259246, 1 , "f" );
+VALUES ( 16453902, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43404134, 1 , "f" );
+VALUES ( 26201793, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45481451, 1 , "f" );
+VALUES ( 24313249, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48276247, 1 , "f" );
+VALUES ( 24623834, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59072707, 1 , "f" );
+VALUES ( 36216493, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48987204, 1 , "f" );
+VALUES ( 11272591, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44614568, 1 , "f" );
+VALUES ( 12704561, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47254678, 1 , "f" );
+VALUES ( 14925818, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57336501, 1 , "f" );
+VALUES ( 32282331, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49454793, 1 , "f" );
+VALUES ( 45830347, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31720691, 1 , "f" );
+VALUES ( 59117353, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34086705, 1 , "f" );
+VALUES ( 49281605, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31243263, 1 , "f" );
+VALUES ( 44598102, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57922093, 1 , "f" );
+VALUES ( 38494229, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56259807, 1 , "f" );
+VALUES ( 36529353, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55997826, 1 , "f" );
+VALUES ( 17739377, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58512184, 1 , "f" );
+VALUES ( 42074465, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53221085, 1 , "f" );
+VALUES ( 42120739, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57358414, 1 , "f" );
+VALUES ( 57757468, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53996171, 1 , "f" );
+VALUES ( 33751094, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55506043, 1 , "f" );
+VALUES ( 43550505, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35119301, 1 , "f" );
+VALUES ( 22499338, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29563851, 1 , "f" );
+VALUES ( 47696416, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49960831, 1 , "f" );
+VALUES ( 48798520, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26402848, 1 , "f" );
+VALUES ( 59346932, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31022297, 1 , "f" );
+VALUES ( 36877760, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43101283, 1 , "f" );
+VALUES ( 51951939, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23047457, 1 , "f" );
+VALUES ( 12323678, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37070444, 1 , "f" );
+VALUES ( 15105613, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53283122, 1 , "f" );
+VALUES ( 39435232, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36656346, 1 , "f" );
+VALUES ( 25588160, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48136839, 1 , "f" );
+VALUES ( 47487009, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27009407, 1 , "f" );
+VALUES ( 18728810, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36827276, 1 , "f" );
+VALUES ( 15195109, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59875125, 1 , "f" );
+VALUES ( 17252676, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46273049, 1 , "f" );
+VALUES ( 55425015, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28918502, 1 , "f" );
+VALUES ( 42023789, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34931269, 1 , "f" );
+VALUES ( 14737263, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24445226, 1 , "f" );
+VALUES ( 59277121, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 31874092, 1 , "f" );
+VALUES ( 41163340, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39986491, 1 , "f" );
+VALUES ( 59910345, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45188845, 1 , "f" );
+VALUES ( 58072063, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37534993, 1 , "f" );
+VALUES ( 41602081, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54132188, 1 , "f" );
+VALUES ( 35869021, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29686306, 1 , "f" );
+VALUES ( 49111135, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43197767, 1 , "f" );
+VALUES ( 53607912, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54581416, 1 , "f" );
+VALUES ( 44877415, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38743505, 1 , "f" );
+VALUES ( 52790360, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17129639, 1 , "f" );
+VALUES ( 12051758, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41194321, 1 , "f" );
+VALUES ( 33367639, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58959784, 1 , "f" );
+VALUES ( 55028627, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26436451, 1 , "f" );
+VALUES ( 59269201, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52591144, 1 , "f" );
+VALUES ( 36987395, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11451658, 1 , "f" );
+VALUES ( 33184065, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23737561, 1 , "f" );
+VALUES ( 54686286, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18923648, 1 , "f" );
+VALUES ( 47515256, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28918126, 1 , "f" );
+VALUES ( 22777534, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49042108, 1 , "f" );
+VALUES ( 18854683, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24144351, 1 , "f" );
+VALUES ( 15605124, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43943251, 1 , "f" );
+VALUES ( 28922636, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42454843, 1 , "f" );
+VALUES ( 27971802, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56665573, 1 , "f" );
+VALUES ( 28189197, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47773238, 1 , "f" );
+VALUES ( 43459606, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26165303, 1 , "f" );
+VALUES ( 29972228, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25605263, 1 , "f" );
+VALUES ( 44772253, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24482919, 1 , "f" );
+VALUES ( 42599687, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53480362, 1 , "f" );
+VALUES ( 52353259, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46480088, 1 , "f" );
+VALUES ( 14543169, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26506040, 1 , "f" );
+VALUES ( 55687673, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59680823, 1 , "f" );
+VALUES ( 41669388, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14867941, 1 , "f" );
+VALUES ( 59255246, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37631664, 1 , "f" );
+VALUES ( 18146985, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49703643, 1 , "f" );
+VALUES ( 55607312, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38167442, 1 , "f" );
+VALUES ( 53963437, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14455710, 1 , "f" );
+VALUES ( 43569930, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36803008, 1 , "f" );
+VALUES ( 58261355, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36165458, 1 , "f" );
+VALUES ( 44415132, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42673861, 1 , "f" );
+VALUES ( 28515881, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56008359, 1 , "f" );
+VALUES ( 15092321, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 36271407, 1 , "f" );
+VALUES ( 58488018, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22980317, 1 , "f" );
+VALUES ( 57584615, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11187677, 1 , "f" );
+VALUES ( 59088271, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33850666, 1 , "f" );
+VALUES ( 29030662, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56275471, 1 , "f" );
+VALUES ( 27440081, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17880679, 1 , "f" );
+VALUES ( 16126482, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27196799, 1 , "f" );
+VALUES ( 19735022, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56521874, 1 , "f" );
+VALUES ( 36240084, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52992005, 1 , "f" );
+VALUES ( 38137948, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23436856, 1 , "f" );
+VALUES ( 42158934, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21700471, 1 , "f" );
+VALUES ( 11981061, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34192704, 1 , "f" );
+VALUES ( 45155866, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29911442, 1 , "f" );
+VALUES ( 33457274, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53350571, 1 , "f" );
+VALUES ( 32602385, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29201053, 1 , "f" );
+VALUES ( 28619077, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35978414, 1 , "f" );
+VALUES ( 39869724, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55624532, 1 , "f" );
+VALUES ( 44565098, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35086063, 1 , "f" );
+VALUES ( 55698620, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28888783, 1 , "f" );
+VALUES ( 57132119, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 15598024, 1 , "f" );
+VALUES ( 18545638, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51080782, 1 , "f" );
+VALUES ( 56226141, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28218348, 1 , "f" );
+VALUES ( 47194656, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11161564, 1 , "f" );
+VALUES ( 34999219, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 14435162, 1 , "f" );
+VALUES ( 56151499, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51664386, 1 , "f" );
+VALUES ( 18116936, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28745646, 1 , "f" );
+VALUES ( 55923211, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43979527, 1 , "f" );
+VALUES ( 34783600, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48102834, 1 , "f" );
+VALUES ( 38328987, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 37594270, 1 , "f" );
+VALUES ( 15848605, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51677262, 1 , "f" );
+VALUES ( 44660915, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 56787836, 1 , "f" );
+VALUES ( 54792683, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34666290, 1 , "f" );
+VALUES ( 41005633, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25351272, 1 , "f" );
+VALUES ( 57279359, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19233375, 1 , "f" );
+VALUES ( 38099265, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43730127, 1 , "f" );
+VALUES ( 25404964, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33005358, 1 , "f" );
+VALUES ( 34686230, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49588922, 1 , "f" );
+VALUES ( 21815379, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39847708, 1 , "f" );
+VALUES ( 53742869, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52889309, 1 , "f" );
+VALUES ( 33053781, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32420743, 1 , "f" );
+VALUES ( 11236523, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41760180, 1 , "f" );
+VALUES ( 54995479, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57427344, 1 , "f" );
+VALUES ( 46114281, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58978015, 1 , "f" );
+VALUES ( 14308038, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44295897, 1 , "f" );
+VALUES ( 23829580, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44095815, 1 , "f" );
+VALUES ( 41944689, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23814913, 1 , "f" );
+VALUES ( 31045574, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 51537183, 1 , "f" );
+VALUES ( 48698045, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 28867959, 1 , "f" );
+VALUES ( 22231629, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33715145, 1 , "f" );
+VALUES ( 53928708, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 44700436, 1 , "f" );
+VALUES ( 15294969, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22327105, 1 , "f" );
+VALUES ( 28476370, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55176905, 1 , "f" );
+VALUES ( 39287485, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59874836, 1 , "f" );
+VALUES ( 32258132, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46924597, 1 , "f" );
+VALUES ( 34313526, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26189195, 1 , "f" );
+VALUES ( 56646060, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54660139, 1 , "f" );
+VALUES ( 54325250, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 55858280, 1 , "f" );
+VALUES ( 37433094, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25903108, 1 , "f" );
+VALUES ( 33428768, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18469161, 1 , "f" );
+VALUES ( 18442377, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 42542628, 1 , "f" );
+VALUES ( 21554729, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13676155, 1 , "f" );
+VALUES ( 45661584, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16593956, 1 , "f" );
+VALUES ( 47250898, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21073721, 1 , "f" );
+VALUES ( 57509100, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52642098, 1 , "f" );
+VALUES ( 25662924, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 35885714, 1 , "f" );
+VALUES ( 14123206, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47193696, 1 , "f" );
+VALUES ( 23139410, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22812356, 1 , "f" );
+VALUES ( 19158476, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22907101, 1 , "f" );
+VALUES ( 59376884, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39015313, 1 , "f" );
+VALUES ( 54717344, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46679461, 1 , "f" );
+VALUES ( 41628150, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49844237, 1 , "f" );
+VALUES ( 58657558, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 57434787, 1 , "f" );
+VALUES ( 26917368, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 23553777, 1 , "f" );
+VALUES ( 36922585, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12687800, 1 , "f" );
+VALUES ( 14129896, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21894216, 1 , "f" );
+VALUES ( 59438092, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48747452, 1 , "f" );
+VALUES ( 45880621, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47296816, 1 , "f" );
+VALUES ( 54185743, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 24686317, 1 , "f" );
+VALUES ( 35061904, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13541847, 1 , "f" );
+VALUES ( 43872420, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33519733, 1 , "f" );
+VALUES ( 24715552, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 22238207, 1 , "f" );
+VALUES ( 25626536, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52355730, 1 , "f" );
+VALUES ( 34797041, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32504977, 1 , "f" );
+VALUES ( 53949827, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12991526, 1 , "f" );
+VALUES ( 41963164, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17938866, 1 , "f" );
+VALUES ( 49903330, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25962710, 1 , "f" );
+VALUES ( 43263071, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39500661, 1 , "f" );
+VALUES ( 21291121, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47547598, 1 , "f" );
+VALUES ( 57932870, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29131834, 1 , "f" );
+VALUES ( 24493427, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12051617, 1 , "f" );
+VALUES ( 13081429, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 34188551, 1 , "f" );
+VALUES ( 44673067, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18527834, 1 , "f" );
+VALUES ( 13010292, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13312393, 1 , "f" );
+VALUES ( 22451425, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53595210, 1 , "f" );
+VALUES ( 35808916, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21077686, 1 , "f" );
+VALUES ( 26173110, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58018956, 1 , "f" );
+VALUES ( 45885342, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11382132, 1 , "f" );
+VALUES ( 55496797, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 19072692, 1 , "f" );
+VALUES ( 49474642, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 17059288, 1 , "f" );
+VALUES ( 17780053, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 32822175, 1 , "f" );
+VALUES ( 37219781, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54445236, 1 , "f" );
+VALUES ( 46646084, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 13054046, 1 , "f" );
+VALUES ( 57175793, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33699319, 1 , "f" );
+VALUES ( 21973127, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27640706, 1 , "f" );
+VALUES ( 47955999, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 59981663, 1 , "f" );
+VALUES ( 21714953, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33169467, 1 , "f" );
+VALUES ( 25918305, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47911612, 1 , "f" );
+VALUES ( 45895533, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49030226, 1 , "f" );
+VALUES ( 25785833, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29752814, 1 , "f" );
+VALUES ( 26399158, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 11117698, 1 , "f" );
+VALUES ( 54424612, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 39248330, 1 , "f" );
+VALUES ( 27651032, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46175302, 1 , "f" );
+VALUES ( 55564350, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 12648818, 1 , "f" );
+VALUES ( 51708176, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45231010, 1 , "f" );
+VALUES ( 38551675, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 47808007, 1 , "f" );
+VALUES ( 37131385, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 41705449, 1 , "f" );
+VALUES ( 17646150, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54470536, 1 , "f" );
+VALUES ( 47739296, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 54915403, 1 , "f" );
+VALUES ( 21079543, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 26762024, 1 , "f" );
+VALUES ( 58151479, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 16777483, 1 , "f" );
+VALUES ( 22002642, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38445353, 1 , "f" );
+VALUES ( 51815000, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 43294325, 1 , "f" );
+VALUES ( 47894581, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 27005360, 1 , "f" );
+VALUES ( 38748806, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29270066, 1 , "f" );
+VALUES ( 41824415, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45027653, 1 , "f" );
+VALUES ( 14151570, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 48042141, 1 , "f" );
+VALUES ( 49018846, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 46475847, 1 , "f" );
+VALUES ( 57319052, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 38235895, 1 , "f" );
+VALUES ( 11464829, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 49796250, 1 , "f" );
+VALUES ( 42222911, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 25979103, 1 , "f" );
+VALUES ( 24797786, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 52777538, 1 , "f" );
+VALUES ( 16715619, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 58586363, 1 , "f" );
+VALUES ( 33180025, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 29383267, 1 , "f" );
+VALUES ( 43879638, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 21972800, 1 , "f" );
+VALUES ( 12161214, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 45492555, 1 , "f" );
+VALUES ( 14235453, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 53998715, 1 , "f" );
+VALUES ( 29326976, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 33216274, 1 , "f" );
+VALUES ( 19363097, 1 , "f" );
 INSERT INTO relacion_Alumno_pertenece_Instituto (foranea_CI_alumno, foranea_id_instituto)
-VALUES ( 18142070, 1 , "f" );
+VALUES ( 42939198, 1 , "f" );

@@ -244,7 +244,7 @@ echo "$( date ) - Proceso iniciado..."
 	while read CI_alumno
 	do
 		
-		echo "INSERT INTO Profesor (CI_alumno, hace_proyecto, nota_final, baja)" >> 07_AUTOMATICO_ingresar_alumno_auto.sql
+		echo "INSERT INTO Alumno (CI_alumno, hace_proyecto, nota_final, baja)" >> 07_AUTOMATICO_ingresar_alumno_auto.sql
 
 		CI_alumno="$CI_alumno"
 		echo "$CI_alumno" >> ./todas_CI_alumno.txt

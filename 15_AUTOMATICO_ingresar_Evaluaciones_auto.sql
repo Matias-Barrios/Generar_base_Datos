@@ -2,204 +2,204 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19628596, 58665428, 62, 5, "Trabajo_domiciliario", "05/10/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 47946003, 41963164, 60, 2, "Defensa_individual", "04/03/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 32811924, 45901247, 60, 6, "Trabajo_practico", "04/05/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 37777719, 47487009, 56, 15, "Defensa_individual", "04/01/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 21914032, 53350571, 59, 17, "Trabajo_practico", "03/06/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 37195652, 53949827, 58, 20, "Oral", "04/19/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 12286472, 15598024, 56, 17, "Trabajo_domiciliario", "05/10/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 14619332, 48645220, 56, 12, "Trabajo_domiciliario", "04/21/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 53617090, 13533278, 56, 10, "Oral", "03/11/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 57574173, 16703997, 58, 2, "Primera_entrega_proyecto", "04/12/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 23878650, 60, 3, "Trabajo_laboratorio", "03/10/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 27413078, 28515881, 61, 16, "Parcial", "02/17/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29269053, 24653065, 62, 3, "Oral", "02/23/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 32140248, 36877760, 57, 14, "Defensa_individual", "04/25/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29255305, 28906802, 61, 12, "Trabajo_investigacion", "05/07/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 32140248, 38099265, 57, 18, "Oral", "04/19/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 49691452, 60, 3, "Parcial", "03/16/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 36191166, 26028884, 57, 3, "Segunda_entrega_proyecto", "03/20/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19647617, 25215832, 61, 5, "Trabajo_laboratorio", "05/03/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 31510989, 48698045, 56, 1, "Trabajo_laboratorio", "04/01/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 55997826, 56, 14, "Trabajo_investigacion", "04/16/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 58026252, 19158476, 61, 19, "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 25663508, 59546243, 62, 8, "Oral", "04/03/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 52617481, 19282906, 60, 2, "Trabajo_practico", "02/21/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 21914032, 28218348, 59, 17, "Trabajo_escrito", "03/21/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 48534958, 28028626, 57, 8, "Trabajo_domiciliario", "03/25/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29269053, 54657162, 59, 3, "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 27529497, 21973127, 57, 20, "Trabajo_domiciliario", "03/29/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 53617090, 22812356, 60, 19, "Segunda_entrega_proyecto", "02/14/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 12480284, 52474411, 59, 9, "Trabajo_domiciliario", "04/04/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 43690747, 56787836, 56, 18, "Defensa_grupal", "02/16/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 38807012, 49281605, 57, 1, "Primera_entrega_proyecto", "03/26/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 53221085, 56, 14, "Trabajo_investigacion", "04/08/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 47948556, 51951939, 59, 14, "Oral", "03/03/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 12286472, 54196029, 61, 13, "Segunda_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 38807012, 15979741, 58, 8, "Trabajo_laboratorio", "03/14/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 38061361, 12051617, 59, 20, "Primera_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 28266129, 24646917, 62, 11, "Parcial", "04/29/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 55577236, 58, 12, "Primera_entrega_proyecto", "04/19/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 31510989, 12809563, 61, 12, "Trabajo_laboratorio", "03/16/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 15846522, 47296816, 62, 19, "Trabajo_practico", "03/13/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 48534958, 27539337, 57, 8, "Primera_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 39205825, 51677262, 60, 18, "Trabajo_laboratorio", "04/28/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 34505779, 15558840, 56, 3, "Segunda_entrega_proyecto", "04/06/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19628596, 47808007, 62, 21, "Primera_entrega_proyecto", "04/15/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 45349352, 43352509, 56, 10, "Defensa_grupal", "03/14/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 17191741, 36058461, 56, 1, "Primera_entrega_proyecto", "03/10/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 14635257, 42791918, 61, 13, "Trabajo_domiciliario", "04/30/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 46415413, 24756467, 61, 11, "Primera_entrega_proyecto", "04/18/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 38807012, 16813594, 58, 8, "Defensa_individual", "03/26/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 56087854, 14820418, 58, 8, "Trabajo_investigacion", "05/12/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 12480284, 16126482, 60, 17, "Trabajo_escrito", "03/23/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 17191741, 27196799, 58, 17, "Trabajo_laboratorio", "02/21/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 18338702, 21291121, 56, 20, "Trabajo_domiciliario", "04/29/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 26323197, 48403000, 60, 9, "Parcial", "03/08/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 58026252, 41628150, 61, 19, "Trabajo_investigacion", "03/20/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19932331, 13533278, 57, 10, "Primera_entrega_proyecto", "03/12/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 45317941, 11464829, 60, 21, "Trabajo_practico", "02/20/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19932331, 51615385, 57, 10, "Defensa_individual", "05/12/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 27413078, 29972228, 56, 16, "Trabajo_escrito", "03/01/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 39091145, 27991074, 62, 6, "Oral", "03/11/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 45349352, 47603069, 60, 3, "Trabajo_domiciliario", "03/08/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 52735566, 53595210, 60, 2, "Segunda_entrega_proyecto", "03/29/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 12480284, 44073883, 59, 9, "Trabajo_laboratorio", "03/07/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 39500661, 60, 20, "Trabajo_practico", "03/13/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 54650807, 19356353, 59, 11, "Trabajo_practico", "02/23/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29269053, 23100318, 62, 13, "Defensa_individual", "03/15/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 39526649, 26399158, 62, 21, "Defensa_grupal", "03/20/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23742019, 58978015, 59, 18, "Trabajo_laboratorio", "03/28/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 55960039, 34805656, 58, 9, "Trabajo_investigacion", "03/13/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 21914032, 58978015, 57, 18, "Defensa_individual", "03/22/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 46736265, 18510946, 57, 4, "Trabajo_escrito", "03/28/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 25663508, 13054046, 57, 2, "Trabajo_escrito", "03/14/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 48458889, 59759480, 60, 6, "Primera_entrega_proyecto", "05/01/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 44419116, 22907101, 58, 19, "Primera_entrega_proyecto", "03/28/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 52617481, 19282906, 60, 2, "Trabajo_practico", "04/30/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 47591997, 11558006, 57, 11, "Trabajo_practico", "04/01/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 36191166, 33367639, 58, 15, "Parcial", "03/10/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 26323197, 12167519, 58, 11, "Defensa_grupal", "02/16/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 37777719, 32705505, 56, 13, "Parcial", "02/27/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 32811924, 32822175, 57, 2, "Trabajo_practico", "02/25/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 52617481, 35175579, 58, 10, "Parcial", "03/09/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 15846522, 25903108, 62, 19, "Trabajo_domiciliario", "05/05/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 27413078, 43569930, 56, 16, "Trabajo_domiciliario", "05/06/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13254993, 39248330, 58, 2, "Trabajo_domiciliario", "03/14/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 23433616, 39127708, 62, 2, "Trabajo_investigacion", "03/17/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 47591997, 28347668, 57, 11, "Trabajo_investigacion", "04/30/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 47948556, 36837081, 61, 4, "Trabajo_escrito", "04/20/2018", "Esto es una descripcion", 9, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19847699, 43224368, 62, 7, "Primera_entrega_proyecto", "03/15/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 22544006, 43604263, 62, 6, "Trabajo_domiciliario", "03/20/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 44419116, 45231010, 56, 21, "Trabajo_practico", "03/05/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 24699801, 21424831, 59, 12, "Segunda_entrega_proyecto", "04/13/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 51412260, 48136839, 58, 15, "Trabajo_practico", "02/13/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 45317941, 51815000, 60, 21, "Defensa_individual", "04/01/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 51412260, 29686306, 58, 15, "Trabajo_investigacion", "02/20/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 43842829, 36240084, 62, 17, "Segunda_entrega_proyecto", "03/01/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13178153, 55176905, 58, 18, "Defensa_grupal", "02/20/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 31510989, 34088117, 61, 12, "Parcial", "05/10/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 57834296, 39259246, 56, 13, "Parcial", "03/03/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 18338702, 22451425, 56, 20, "Segunda_entrega_proyecto", "04/22/2018", "Esto es una descripcion", 9, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19647617, 19437767, 61, 5, "Trabajo_laboratorio", "04/10/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 52617481, 35175579, 58, 10, "Trabajo_investigacion", "03/17/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 38061361, 32504977, 59, 20, "Trabajo_escrito", "05/09/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 38807012, 27651032, 57, 21, "Oral", "05/12/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 54032067, 35978414, 61, 17, "Primera_entrega_proyecto", "04/15/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 34505779, 42120739, 58, 14, "Parcial", "04/06/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 34188551, 61, 2, "Trabajo_escrito", "02/13/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 47946003, 23761447, 58, 4, "Segunda_entrega_proyecto", "03/10/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13254993, 57193230, 60, 7, "Trabajo_domiciliario", "04/02/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 45349352, 14800086, 61, 10, "Defensa_grupal", "04/30/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13178153, 24482919, 56, 16, "Defensa_grupal", "03/15/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 47946003, 53289944, 58, 4, "Segunda_entrega_proyecto", "03/31/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 56087854, 25006390, 57, 4, "Trabajo_practico", "04/06/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 52617481, 28922636, 60, 16, "Segunda_entrega_proyecto", "04/09/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 18527834, 61, 2, "Trabajo_laboratorio", "02/25/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 37777719, 15195109, 56, 15, "Trabajo_laboratorio", "04/12/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 34188551, 61, 20, "Segunda_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 55960039, 28619077, 57, 1, "Trabajo_laboratorio", "04/08/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29269053, 56329753, 62, 3, "Trabajo_escrito", "03/02/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 34505779, 12323678, 58, 14, "Primera_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13388376, 13533278, 59, 1, "Trabajo_investigacion", "03/04/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 24699801, 56975221, 59, 7, "Trabajo_investigacion", "04/16/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 51412260, 17068572, 59, 10, "Trabajo_practico", "03/08/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 18934037, 22231629, 61, 18, "Oral", "04/07/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 12286472, 58018956, 58, 20, "Defensa_individual", "04/30/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 28266129, 45395602, 62, 11, "Trabajo_escrito", "03/04/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29255305, 11451658, 62, 15, "Oral", "04/09/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 45349352, 18509002, 57, 7, "Parcial", "04/14/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19647617, 33901491, 60, 5, "Trabajo_escrito", "04/20/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 47948556, 26173110, 59, 20, "Oral", "02/20/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 51887322, 47063805, 59, 12, "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 48534958, 26687686, 57, 8, "Trabajo_domiciliario", "05/05/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 21914032, 27196799, 59, 17, "Segunda_entrega_proyecto", "05/04/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 34505779, 22499338, 58, 14, "Trabajo_practico", "04/03/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13388376, 17068572, 62, 10, "Trabajo_escrito", "04/29/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 27413078, 48798520, 61, 14, "Trabajo_investigacion", "02/21/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19847699, 29686306, 56, 15, "Primera_entrega_proyecto", "04/13/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 32140248, 38494229, 62, 14, "Trabajo_laboratorio", "02/27/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 44479863, 60, 3, "Trabajo_domiciliario", "03/18/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 23568394, 59910345, 59, 15, "Primera_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19932331, 49454953, 57, 10, "Trabajo_investigacion", "03/29/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 23568394, 56015930, 60, 4, "Parcial", "02/17/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 56420408, 52316481, 62, 11, "Trabajo_practico", "02/24/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 37237171, 42599687, 62, 16, "Trabajo_investigacion", "03/21/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 28918126, 62, 16, "Trabajo_escrito", "03/08/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 18338702, 39411315, 60, 7, "Trabajo_laboratorio", "04/17/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 54915403, 58, 21, "Segunda_entrega_proyecto", "05/04/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 27529497, 39276159, 62, 12, "Trabajo_domiciliario", "04/23/2018", "Esto es una descripcion", 7, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29255305, 38444183, 60, 13, "Defensa_individual", "03/19/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 47946003, 26878556, 58, 4, "Trabajo_practico", "03/03/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 56420408, 36535429, 62, 11, "Segunda_entrega_proyecto", "03/17/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 12480284, 34999219, 59, 17, "Parcial", "03/31/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19628596, 34264460, 62, 4, "Trabajo_laboratorio", "03/26/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 38807012, 51815000, 57, 21, "Segunda_entrega_proyecto", "03/10/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19647617, 19437767, 61, 5, "Primera_entrega_proyecto", "03/07/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 37777719, 59376884, 60, 19, "Trabajo_domiciliario", "03/03/2018", "Esto es una descripcion", 9, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 57834296, 39259246, 56, 13, "Trabajo_investigacion", "02/13/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 22544006, 28203157, 62, 6, "Trabajo_laboratorio", "03/05/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 12286472, 44804810, 61, 9, "Defensa_individual", "03/10/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 54650807, 16538663, 61, 7, "Trabajo_investigacion", "05/02/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 41291315, 26163593, 56, 7, "Trabajo_escrito", "02/26/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 24699801, 53040419, 59, 12, "Trabajo_practico", "03/12/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19628596, 32375649, 62, 5, "Trabajo_laboratorio", "02/14/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 36191166, 11210454, 58, 12, "Trabajo_domiciliario", "05/06/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 32811924, 41963493, 57, 12, "Trabajo_laboratorio", "04/02/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 48534958, 42023789, 57, 15, "Oral", "04/20/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 23291402, 49796250, 58, 21, "Oral", "04/20/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 47946003, 48022468, 58, 4, "Trabajo_practico", "03/26/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 19647617, 33901491, 60, 5, "Trabajo_domiciliario", "04/18/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 55960039, 16126482, 57, 1, "Trabajo_investigacion", "03/07/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29958919, 57336501, 62, 14, "Trabajo_laboratorio", "05/09/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 18338702, 25662924, 57, 19, "Segunda_entrega_proyecto", "03/10/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 33448598, 13100605, 57, 1, "Trabajo_practico", "05/06/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 18338702, 32212948, 62, 8, "Primera_entrega_proyecto", "03/14/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 42558227, 35757517, 60, 11, "Segunda_entrega_proyecto", "03/24/2018", "Esto es una descripcion", 7, "f");
+VALUES ( 55960039, 33451662, 58, 9, "Primera_entrega_proyecto", "02/24/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13388376, 41914840, 62, 10, "Trabajo_laboratorio", "03/22/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 24699801, 57344681, 56, 7, "Trabajo_practico", "05/03/2018", "Esto es una descripcion", 5, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 29958919, 57336501, 60, 14, "Trabajo_practico", "04/28/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 14619332, 47308029, 59, 10, "Oral", "02/27/2018", "Esto es una descripcion", 4, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 57834296, 26443634, 61, 3, "Trabajo_escrito", "05/04/2018", "Esto es una descripcion", 11, "f");
+VALUES ( 31510989, 21424831, 61, 12, "Trabajo_investigacion", "05/05/2018", "Esto es una descripcion", 9, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 25663508, 45027653, 61, 21, "Defensa_individual", "03/30/2018", "Esto es una descripcion", 4, "f");
+VALUES ( 18934037, 41005633, 61, 18, "Parcial", "02/20/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13388376, 55997826, 59, 1, "Parcial", "03/26/2018", "Esto es una descripcion", 1, "f");
+VALUES ( 37237171, 13404500, 59, 6, "Trabajo_escrito", "03/12/2018", "Esto es una descripcion", 6, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 42558227, 17938866, 56, 20, "Trabajo_practico", "03/20/2018", "Esto es una descripcion", 3, "f");
+VALUES ( 31510989, 53928708, 58, 18, "Oral", "05/08/2018", "Esto es una descripcion", 10, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 56087854, 25125827, 57, 4, "Segunda_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 47948556, 47955999, 59, 20, "Defensa_individual", "04/07/2018", "Esto es una descripcion", 8, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13254993, 47601271, 60, 7, "Defensa_individual", "05/08/2018", "Esto es una descripcion", 10, "f");
+VALUES ( 46736265, 47603069, 62, 3, "Trabajo_laboratorio", "04/29/2018", "Esto es una descripcion", 1, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 34683749, 47254678, 58, 14, "Primera_entrega_proyecto", "02/21/2018", "Esto es una descripcion", 9, "f");
+VALUES ( 18338702, 41811062, 60, 7, "Trabajo_domiciliario", "03/23/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 13388376, 37709788, 59, 1, "Primera_entrega_proyecto", "04/08/2018", "Esto es una descripcion", 2, "f");
+VALUES ( 46736265, 21044782, 57, 5, "Defensa_individual", "05/06/2018", "Esto es una descripcion", 2, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 51412260, 24445226, 58, 15, "Trabajo_laboratorio", "04/27/2018", "Esto es una descripcion", 5, "f");
+VALUES ( 36191166, 42361052, 58, 12, "Segunda_entrega_proyecto", "02/25/2018", "Esto es una descripcion", 3, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 32811924, 33846689, 57, 9, "Defensa_individual", "03/22/2018", "Esto es una descripcion", 6, "f");
+VALUES ( 24699801, 57279359, 59, 18, "Parcial", "02/13/2018", "Esto es una descripcion", 11, "f");
 INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )
-VALUES ( 17191741, 37702100, 56, 1, "Trabajo_domiciliario", "03/14/2018", "Esto es una descripcion", 8, "f");
+VALUES ( 22544006, 18945056, 62, 6, "Primera_entrega_proyecto", "05/05/2018", "Esto es una descripcion", 5, "f");
