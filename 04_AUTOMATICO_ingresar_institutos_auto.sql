@@ -1,4 +1,4 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUSARIOXXX' USING 'XXXPASSWORDXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX' USING 'XXXPASSWORDXXX';
 
 
 INSERT INTO Institutos (nombre, calle, numero, telefonos, email, baja, foranea_id_ciudad)
