@@ -20,7 +20,7 @@ lista_materias=$( cat ./lista_materias.txt)
 lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia Pando Colonia San_Luis Piedras_Blancas La_Union San_Peperino_Pomoro"
 lista_departamentos="Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja Maldonado Montevideo Paysandú Río_Negro Rivera Rocha Salto San_José Soriano Tacuarembó Treinta_y_Tres"
 lista_tipos_evaluacion="Trabajo_laboratorio Trabajo_domiciliario Trabajo_practico Trabajo_investigacion Trabajo_escrito Oral Parcial Primera_entrega_proyecto Segunda_entrega_proyecto Defensa_individual Defensa_grupal"
-
+verdadero_o_falso="t f"
 
     
 
@@ -497,6 +497,7 @@ echo "$( date ) - Proceso iniciado..."
 #   descripcion   varchar(255),
 #   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT evaluaciones_nota_valida,
 #   baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio,
+#   es_proyecto boolean NOT NULL CONSTRAINT Evaluaciones_es_proyecto_vacio,
 
 #   PRIMARY KEY (id_evaluacion,CI_profesor, CI_alumno, id_materia, id_grupo ) CONSTRAINT evaluaciones_clave_primaria
 #  );
@@ -527,9 +528,10 @@ echo "$( date ) - Proceso iniciado..."
 			nota=`Numero_Aleatorio 1 12` 
 			echo "Insertando $profe $un_alumno_random $una_materia_que_da_el_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
 			nombre_evaluacion="Un trabajillo"
-			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			verdadero_o_falso=`Item_Aleatorio "$verdadero_o_falso"`
 			
-			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\");"  >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja, es_proyecto )" >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\", \"$verdadero_o_falso\" );"  >> 15_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))
 	done

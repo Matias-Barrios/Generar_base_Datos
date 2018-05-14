@@ -98,6 +98,7 @@ CREATE TABLE Personas
   descripcion   varchar(255),
   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT evaluaciones_nota_valida,
   baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio,
+  es_proyecto boolean NOT NULL CONSTRAINT Evaluaciones_es_proyecto_vacio,
 
   PRIMARY KEY (id_evaluacion,CI_profesor, CI_alumno, id_materia, id_grupo ) CONSTRAINT evaluaciones_clave_primaria
  );
