@@ -66,6 +66,7 @@ CREATE TABLE Personas
   email varchar(80),
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
+  es_admin boolean NOT NULL CONSTRAINT Personas_es_admin_vacio,
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
 
@@ -99,7 +100,7 @@ CREATE TABLE Personas
   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT evaluaciones_nota_valida,
   baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio,
   
-  PRIMARY KEY (id_evaluacion,CI_profesor, CI_alumno, id_materia, id_grupo ) CONSTRAINT evaluaciones_clave_primaria
+  PRIMARY KEY (id_evaluacion) CONSTRAINT evaluaciones_clave_primaria
  );
 
                                         

@@ -194,7 +194,7 @@ echo "$( date ) - Proceso iniciado..."
 	while [ $i -le 650 ]
 	do
 		
-		echo "INSERT INTO Personas (CI, primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,email,encriptacion_hash,encriptacion_sal,baja)" >> 06_AUTOMATICO_ingresar_personas_auto.sql
+		echo "INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, encriptacion_hash, encriptacion_sal, es_admin, baja)" >> 06_AUTOMATICO_ingresar_personas_auto.sql
 
 		CI=`Cedula_Aleatoria` 
 		echo "$CI" >> ./todas_las_CI_personas.txt
@@ -205,15 +205,8 @@ echo "$( date ) - Proceso iniciado..."
 		numero_dias=`Numero_Aleatorio 5400 19000` 
 		fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 		email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-		hace_proyecto=`Numero_Aleatorio 1 30`
-		if [[ hace_proyecto -gt 29 ]]
-		then
-			hace_proyecto="t"
-		else
-			hace_proyecto="f"
-		fi
 		tipo="Alumno"
-		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , NULL , \"f\" );" >> 06_AUTOMATICO_ingresar_personas_auto.sql
+		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , NULL , \"f\",  \"f\" );" >> 06_AUTOMATICO_ingresar_personas_auto.sql
 		
 		
 		
