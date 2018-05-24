@@ -3,7 +3,7 @@
 SELECT nombre_grupo FROM Grupos 
 WHERE id_grupo IN ( 
     SELECT foranea_id_grupo FROM relacion_Profesor_Materias_Grupos 
-    WHERE foranea_CI_profesor = 47530149
+    WHERE foranea_CI_profesor = 34554485
      );
 
  
@@ -11,14 +11,45 @@ WHERE id_grupo IN (
 SELECT A.foranea_CI_alumno
     FROM relacion_Alumno_Materias_Grupos A, relacion_Profesor_Materias_Grupos P
     WHERE  A.foranea_id_grupo = P.foranea_id_grupo AND A.foranea_id_materia = P.foranea_id_materia
-    AND P.foranea_CI_profesor = 35879723;
+    AND P.foranea_CI_profesor = 34554485;
 
 
 -- Profesores que tiene un alumno
 SELECT P.foranea_CI_profesor
     FROM relacion_Alumno_Materias_Grupos A, relacion_Profesor_Materias_Grupos P
     WHERE  A.foranea_id_grupo = P.foranea_id_grupo AND A.foranea_id_materia = P.foranea_id_materia
-    AND A.foranea_CI_alumno = 18426866;
+    AND A.foranea_CI_alumno = 57501631;
+
+-- GRupos asignados a un Profe
+
+SELECT foranea_id_grupo
+    FROM relacion_Profesor_Materias_Grupos
+        WHERE foranea_CI_profesor = 52694405;
+
+-- Cant Grupos asignados a un profe
+
+SELECT foranea_CI_Profesor, count(*) AS cant_grupos
+    FROM relacion_Profesor_Materias_Grupos
+        GROUP BY  foranea_CI_profesor ORDER BY cant_grupos DESC;
+
+-- Grupos asignados a cualquier profee
+
+SELECT DISTINCT(foranea_CI_profesor)
+    FROM relacion_Profesor_Materias_Grupos;
+
+
+-- Profesores en total
+
+SELECT CI 
+    FROM Personas
+	WHERE tipo = 'Profesor';
+
+
+-- Alumnos que hay en un grupo
+
+SELECT foranea_CI_alumno
+    FROM relacion_Alumno_Materias_Grupos 
+	WHERE  foranea_id_grupo = 15;
 
 
 -- De que da clases un Profesor
