@@ -219,7 +219,7 @@ echo "$( date ) - Proceso iniciado..."
 
 		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , \"$hace_proyecto\", $nota_final, \"$juicio_final\", \"$tipo\", NULL , NULL ,  \"f\" );" >> 06_AUTOMATICO_ingresar_personas_alumnos_auto.sql
 		
-		echo "$CI_alumno" >> ./todas_CI_alumno.txt
+		echo "$CI" >> ./todas_CI_alumno.txt
 		
 		
 		(( i++ ))
