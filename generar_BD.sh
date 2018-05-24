@@ -499,7 +499,7 @@ echo "$( date ) - Proceso iniciado..."
 #   PRIMARY KEY (id_evaluacion,CI_profesor, CI_alumno, id_materia, id_grupo ) CONSTRAINT evaluaciones_clave_primaria
 #  );
 
-	echo "Generando Evaluaciones"
+	echo "Generando Calificaciones"
 	
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 	echo -e '\n' >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
@@ -526,7 +526,7 @@ echo "$( date ) - Proceso iniciado..."
 			echo "Insertando $profe $un_alumno_random $una_materia_que_da_el_profe $un_grupo_del_profe $categoria $fecha_eva $nota ..."
 			nombre_evaluacion="Un trabajillo"
 						
-			echo "INSERT INTO Evaluaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "INSERT INTO Calificaciones (CI_profesor, CI_alumno, id_materia, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\" );"  >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))

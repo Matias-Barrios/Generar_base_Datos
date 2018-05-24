@@ -6,7 +6,6 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 ------------------------------------
 
 DROP TABLE IF EXISTS Personas;
-DROP TABLE IF EXISTS Evaluaciones;
 DROP TABLE IF EXISTS Grupos;
 DROP TABLE IF EXISTS Institutos;
 DROP TABLE IF EXISTS Materias;

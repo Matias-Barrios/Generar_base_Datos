@@ -2,44 +2,44 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IG" , "INFORMÁTICA" , "Matutino" , "f" );
+VALUES ( "3IW" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IT" , "INFORMÁTICA" , "Nocturno" , "f" );
+VALUES ( "3IH" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IX" , "INFORMÁTICA" , "Vespertino" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IW" , "INFORMÁTICA" , "Matutino" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IZ" , "INFORMÁTICA" , "Matutino" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IJ" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IA" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
 VALUES ( "3IF" , "INFORMÁTICA" , "Vespertino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3ID" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IM" , "INFORMÁTICA" , "Vespertino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IW" , "INFORMÁTICA" , "Nocturno" , "f" );
+VALUES ( "3IB" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3ID" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IH" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IC" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IA" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IA" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IF" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IE" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IB" , "INFORMÁTICA" , "Matutino" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3II" , "INFORMÁTICA" , "Nocturno" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3IC" , "INFORMÁTICA" , "Nocturno" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3IJ" , "INFORMÁTICA" , "Vespertino" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3IQ" , "INFORMÁTICA" , "Matutino" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3IV" , "INFORMÁTICA" , "Vespertino" , "f" );
+INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
+VALUES ( "3IA" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
 VALUES ( "3IE" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IU" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IH" , "INFORMÁTICA" , "Nocturno" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IV" , "INFORMÁTICA" , "Matutino" , "f" );
+VALUES ( "3IK" , "INFORMÁTICA" , "Matutino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IY" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IF" , "INFORMÁTICA" , "Vespertino" , "f" );
 INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IZ" , "INFORMÁTICA" , "Matutino" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IN" , "INFORMÁTICA" , "Nocturno" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3IH" , "INFORMÁTICA" , "Vespertino" , "f" );
-INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)
-VALUES ( "3II" , "INFORMÁTICA" , "Vespertino" , "f" );
+VALUES ( "3IB" , "INFORMÁTICA" , "Matutino" , "f" );
