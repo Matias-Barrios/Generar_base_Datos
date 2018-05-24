@@ -87,7 +87,7 @@ CREATE TABLE Personas
   id_materia INTEGER REFERENCES Materias (id_materia) CONSTRAINT Calificaciones_fk_materias_id_materia,
   id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Calificaciones_fk_grupos_id_grupo,
   nombre_evaluacion varchar(40) NOT NULL CONSTRAINT Calificaciones_nombre_vacio,
-  comentario varchar(500),
+  comentario lvarchar(500),
   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Entrega_final_proyecto', 'Defensa_individual', 'Defensa_grupal', 'Es_proyecto')) CONSTRAINT Calificaciones_categoria_valida,
   fecha_eva DATE NOT NULL CONSTRAINT Calificaciones_fecha_eva_vacio,
   descripcion   varchar(255),
