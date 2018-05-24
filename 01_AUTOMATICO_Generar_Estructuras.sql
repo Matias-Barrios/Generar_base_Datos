@@ -75,7 +75,6 @@ CREATE TABLE Personas
   tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador')) CONSTRAINT Personas_tipo_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
-  es_admin boolean NOT NULL CONSTRAINT Personas_es_admin_vacio,
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
  
