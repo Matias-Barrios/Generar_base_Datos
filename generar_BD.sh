@@ -217,7 +217,7 @@ echo "$( date ) - Proceso iniciado..."
 		nota_final=1
 		juicio_final="Examen Febrero"
 
-		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , $grado, \"$hace_proyecto\", $nota_final, \"$juicio_final\", \"$tipo\", NULL , NULL ,  \"f\" );" >> 06_AUTOMATICO_ingresar_personas_alumnos_auto.sql
+		echo "VALUES ( $CI , \"$primer_nombre\" , \"$segundo_nombre\" , \"$primer_apellido\" , \"$segundo_apellido\" , \"$fecha_nacimiento\" , \"$email\" , NULL , \"$hace_proyecto\", $nota_final, \"$juicio_final\", \"$tipo\", NULL , NULL ,  \"f\" );" >> 06_AUTOMATICO_ingresar_personas_alumnos_auto.sql
 		
 		echo "$CI_alumno" >> ./todas_CI_alumno.txt
 		
@@ -269,7 +269,8 @@ echo "$( date ) - Proceso iniciado..."
 		numero_dias=`Numero_Aleatorio 5400 19000` 
 		fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 		email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-		tipo="Alumno"
+		tipo="Profesor"
+		grado=`Numero_Aleatorio 1 7` 
 		hace_proyecto="t"
 		nota_final=1
 		juicio_final="Examen Febrero"
