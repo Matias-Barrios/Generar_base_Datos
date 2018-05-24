@@ -13,6 +13,7 @@ DROP TABLE IF EXISTS Materias;
 DROP TABLE IF EXISTS Ciudad;
 DROP TABLE IF EXISTS Alumno;
 DROP TABLE IF EXISTS Profesor;
+DROP TABLE IF EXISTS Calificaciones;
 
 CREATE TABLE Ciudad
  (
@@ -55,6 +56,9 @@ CREATE TABLE Grupos
   foranea_id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_id_instituto
  );
 
+
+Persona (CI, Nombre, Apellido, Fecha_Nac, E-mail, Grado, Nota_Final, Juicio_Final, Hace_Proyecto, Tipo, Baja_Logica, Encriptacion_Sal, Encriptacion_Hash)
+
 CREATE TABLE Personas
  (
   CI  INT PRIMARY KEY  CONSTRAINT Personas_clave_primaria,
@@ -64,43 +68,40 @@ CREATE TABLE Personas
   segundo_apellido   varchar(25),
   fecha_nacimiento DATE NOT NULL CONSTRAINT fecha_nacimiento_vacio,
   email varchar(80),
+  grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
+  hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
+  nota_final INT CHECK ( nota_final > 0 AND nota_final < 13) CONSTRAINT nota_final_valida,
+  juicio_final varchar(30) NOT NULL CHECK ( juicio_final IN ('Examen Febrero', 'Examen Diciembre', 'Aprobado')) CONSTRAINT Personas_Juicio_valido,
+  tipo varchar(30) NOT NULL CHECK ( juicio_final IN ('Alumno', 'Profesor', 'Administrador')) CONSTRAINT Personas_Juicio_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   es_admin boolean NOT NULL CONSTRAINT Personas_es_admin_vacio,
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
 
- CREATE TABLE Alumno
- (
-  CI_alumno INT PRIMARY KEY REFERENCES Personas (CI) CONSTRAINT Alumno_fk_personas_CI,
-  hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
-  nota_final INT CHECK ( nota_final > 0 AND nota_final < 13) CONSTRAINT nota_final_valida,
-  baja boolean NOT NULL CONSTRAINT Alumno_baja_vacio
- );
+      Calificaciones (ID_Calificacion, Nota, Fecha, Categoría, Comentario, Baja_Logica, CI_Profesor,  CI_Alumno, ID_Asignatura,        ID_Grupo)
+ID_Grupo Reference  Grupo.ID_Grupo
+CI_Alumno Reference Persona.CI
+CI_Profesor Reference Persona.CI
+ID_Asignatura Reference Asignatura.ID_Asignatura
 
- CREATE TABLE Profesor
- (
-  CI_profesor INT PRIMARY KEY REFERENCES Personas (CI) CONSTRAINT Profesor_fk_personas_CI,
-  grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
-  baja boolean NOT NULL CONSTRAINT Profesor_baja_vacio
- );
-            
  
- CREATE TABLE Evaluaciones
+ CREATE TABLE Calificaciones
  (
-  id_evaluacion  SERIAL,
-  CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT evaluaciones_fk_personas_CI_profesor,
-  CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT evaluaciones_fk_personas_CI_alumno,
-  id_materia INTEGER REFERENCES Materias (id_materia) CONSTRAINT evaluaciones_fk_materias_id_materia,
-  id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT evaluaciones_fk_grupos_id_grupo,
-  nombre_evaluacion varchar(40) NOT NULL CONSTRAINT Evaluaciones_nombre_vacio,
-  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Entrega_final_proyecto', 'Defensa_individual', 'Defensa_grupal', 'Es_proyecto')) CONSTRAINT Evaluaciones_categoria_valida,
-  fecha_eva DATE NOT NULL CONSTRAINT fecha_eva_vacio,
+  id_calificacion  SERIAL,
+  CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT Calificaciones_fk_personas_CI_profesor,
+  CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT Calificaciones_fk_personas_CI_alumno,
+  id_materia INTEGER REFERENCES Materias (id_materia) CONSTRAINT Calificaciones_fk_materias_id_materia,
+  id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Calificaciones_fk_grupos_id_grupo,
+  nombre_evaluacion varchar(40) NOT NULL CONSTRAINT Calificaciones_nombre_vacio,
+  comentario varchar(500) NOT NULL CONSTRAINT Calificaciones_nombre_vacio,
+  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Entrega_final_proyecto', 'Defensa_individual', 'Defensa_grupal', 'Es_proyecto')) CONSTRAINT Calificaciones_categoria_valida,
+  fecha_eva DATE NOT NULL CONSTRAINT Calificaciones_fecha_eva_vacio,
   descripcion   varchar(255),
-  nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT evaluaciones_nota_valida,
-  baja boolean NOT NULL CONSTRAINT Evaluaciones_baja_vacio,
+  nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT Calificaciones_nota_valida,
+  baja boolean NOT NULL CONSTRAINT Calificaciones_baja_vacio,
   
-  PRIMARY KEY (id_evaluacion) CONSTRAINT evaluaciones_clave_primaria
+  PRIMARY KEY (id_calificacion) CONSTRAINT Calificaciones_clave_primaria
  );
 
                                         
@@ -160,7 +161,7 @@ CREATE TABLE relacion_Alumno_Materias_Grupos
 
 CREATE TABLE relacion_Profesor_Materias_Grupos
 (
-    foranea_CI_profesor INTEGER REFERENCES Profesor (CI_profesor) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_Personas_CI,
+    foranea_CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_Personas_CI,
     foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_materia,
     foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_grupo,
     PRIMARY KEY (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_clave_primaria
