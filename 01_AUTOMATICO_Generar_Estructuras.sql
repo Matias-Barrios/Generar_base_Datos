@@ -57,7 +57,7 @@ CREATE TABLE Grupos
  );
 
 
-Persona (CI, Nombre, Apellido, Fecha_Nac, E-mail, Grado, Nota_Final, Juicio_Final, Hace_Proyecto, Tipo, Baja_Logica, Encriptacion_Sal, Encriptacion_Hash)
+
 
 CREATE TABLE Personas
  (
@@ -78,13 +78,6 @@ CREATE TABLE Personas
   es_admin boolean NOT NULL CONSTRAINT Personas_es_admin_vacio,
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
-
-      Calificaciones (ID_Calificacion, Nota, Fecha, Categoría, Comentario, Baja_Logica, CI_Profesor,  CI_Alumno, ID_Asignatura,        ID_Grupo)
-ID_Grupo Reference  Grupo.ID_Grupo
-CI_Alumno Reference Persona.CI
-CI_Profesor Reference Persona.CI
-ID_Asignatura Reference Asignatura.ID_Asignatura
-
  
  CREATE TABLE Calificaciones
  (
