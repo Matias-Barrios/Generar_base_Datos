@@ -72,7 +72,7 @@ CREATE TABLE Personas
   hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
   nota_final INT CHECK ( nota_final > 0 AND nota_final < 13) CONSTRAINT nota_final_valida,
   juicio_final varchar(30) NOT NULL CHECK ( juicio_final IN ('Examen Febrero', 'Examen Diciembre', 'Aprobado')) CONSTRAINT Personas_Juicio_valido,
-  tipo varchar(30) NOT NULL CHECK ( juicio_final IN ('Alumno', 'Profesor', 'Administrador')) CONSTRAINT Personas_Juicio_valido,
+  tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador')) CONSTRAINT Personas_tipo_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   es_admin boolean NOT NULL CONSTRAINT Personas_es_admin_vacio,
