@@ -124,7 +124,7 @@ DROP TABLE IF EXISTS relacion_Profesor_Materias_Grupos;
                                         
 CREATE TABLE relacion_Profesor_pertenece_Instituto
 (
-    foranea_CI_profesor INTEGER REFERENCES Profesor (CI_profesor) CONSTRAINT relacion_Profesor_pertenece_Instituto_fk_Personas_CI,
+    foranea_CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Profesor_pertenece_Instituto_fk_Personas_CI,
     foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT relacion_Profesor_pertenece_Instituto_fk_id_instituto,
     PRIMARY KEY (foranea_CI_profesor, foranea_id_instituto) CONSTRAINT relacion_Profesor_pertenece_Instituto_clave_primaria
 );
