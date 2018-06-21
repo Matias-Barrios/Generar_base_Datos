@@ -1,18 +1,19 @@
+
 CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';
 
 
 
 -- ACA CREAMOS LAS TABLAS DE ENTIDAD
 ------------------------------------
-
 DROP TABLE IF EXISTS Personas;
+DROP TABLE IF EXISTS Calificaciones;
 DROP TABLE IF EXISTS Grupos;
 DROP TABLE IF EXISTS Institutos;
-DROP TABLE IF EXISTS Materias;
+DROP TABLE IF EXISTS Asignaturas;
 DROP TABLE IF EXISTS Ciudad;
-DROP TABLE IF EXISTS Alumno;
-DROP TABLE IF EXISTS Profesor;
-DROP TABLE IF EXISTS Calificaciones;
+DROP TABLE IF EXISTS Historial;
+DROP TABLE IF EXISTS Errores;
+DROP TABLE IF EXISTS Orientaciones;
 
 CREATE TABLE Ciudad
  (
@@ -23,10 +24,10 @@ CREATE TABLE Ciudad
  );
 
  
- CREATE TABLE Materias
+ CREATE TABLE Asignaturas
  (
-  id_materia  SERIAL PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
-  nombre_materia  varchar(25) NOT NULL CONSTRAINT Materias_nombre_not_null,
+  id_asignatura  SERIAL PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
+  nombre_asignatura  varchar(25) NOT NULL CONSTRAINT Materias_nombre_not_null,
   descripcion   varchar(255),
   baja boolean NOT NULL CONSTRAINT Materias_baja_vacio
  );
@@ -40,60 +41,85 @@ CREATE TABLE Institutos
   telefonos varchar(100),
   email varchar(80),
   baja boolean NOT NULL CONSTRAINT Institutos_baja_vacio,
-
   foranea_id_ciudad INTEGER REFERENCES Ciudad (id_ciudad) CONSTRAINT Institutos_fk_id_ciudad
  ); 
 
-CREATE TABLE Grupos
- (
-  id_grupo  SERIAL PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
-  nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
-  orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('ADMINISTRACIÓN','ELECTROELECTRÓNICA','QUÍMICA_BÁSICA','QUÍMICA_INDUSTRIAL','AERONÁUTICA','ELECTROMECÁNICA','TERMODINÁMICA','AGRARIO','ELECTROMECÁNICA_AUTOMOTRIZ','TURISMO','CONSTRUCCIÓN','INFORMÁTICA','DEPORTE_Y_RECREACIÓN','MAQUINISTA_NAVAL','ARTES_GRÁFICAS','ENERGÍAS_RENOVABLES','AUDIOVISUAL')) CONSTRAINT orientacion_valida,
-  turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
-  baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
 
-  foranea_id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_id_instituto
+CREATE TABLE Oriantaciones
+ (
+  id_orientacion SERIAL PRIMARY KEY CONSTRAINT Oriantaciones_clave_primaria,
+  nombre_orientacion varchar(25) NOT NULL CHECK (nombre_orientacion IN ('ADMINISTRACIÓN','ELECTROELECTRÓNICA','QUÍMICA_BÁSICA','QUÍMICA_INDUSTRIAL','AERONÁUTICA','ELECTROMECÁNICA','TERMODINÁMICA','AGRARIO','ELECTROMECÁNICA_AUTOMOTRIZ','TURISMO','CONSTRUCCIÓN','INFORMÁTICA','DEPORTE_Y_RECREACIÓN','MAQUINISTA_NAVAL','ARTES_GRÁFICAS','ENERGÍAS_RENOVABLES','AUDIOVISUAL')) CONSTRAINT nombre_orientacion_valida,
+  descripcion varchar (500),
+  baja boolean NOT NULL CONSTRAINT Orientaciones_baja_vacio
+
  );
 
+CREATE TABLE Grupos
+ (
+  id_grupo  SERIAL,
+  foranea_id_instituto INTEGER REFERENCES Institutos (id_institutos) CONSTRAINT Grupos_fk_Instiuto_id_instituto,
+  nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
+  turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
+  baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
+  foranea_id_orientacion INTEGER REFERENCES Orientaciones (id_orientacion) CONSTRAINT Grupos_fk_id_Orientacion
+  PRIMARY KEY (id_grupo, foranea_id_instituto) CONSTRAINT Grupos_claves_primarias
 
+ );
 
 
 CREATE TABLE Personas
  (
   CI  INT PRIMARY KEY  CONSTRAINT Personas_clave_primaria,
-  primer_nombre   varchar(25) NOT NULL CONSTRAINT primer_nombre_vacio,
-  segundo_nombre   varchar(25),
-  primer_apellido   varchar(25) NOT NULL CONSTRAINT primer_apellido_vacio,
-  segundo_apellido   varchar(25),
+  nombre varchar(25) NOT NULL CONSTRAINT nombre_vacio,
+  apellido varchar(25) NOT NULL CONSTRAINT apellido_vacio,
   fecha_nacimiento DATE NOT NULL CONSTRAINT fecha_nacimiento_vacio,
   email varchar(80),
   grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
   hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
-  nota_final INT CHECK ( nota_final > 0 AND nota_final < 13) CONSTRAINT nota_final_valida,
+  nota_final_pro INT CHECK ( nota_final_pro > 0 AND nota_final < 13) CONSTRAINT nota_final_pro_valida,
   juicio_final varchar(30) NOT NULL CHECK ( juicio_final IN ('Examen Febrero', 'Examen Diciembre', 'Aprobado')) CONSTRAINT Personas_Juicio_valido,
-  tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador')) CONSTRAINT Personas_tipo_valido,
+  tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador', 'Admin')) CONSTRAINT Personas_tipo_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
  );
  
+
  CREATE TABLE Calificaciones
  (
-  id_calificacion  SERIAL,
-  CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT Calificaciones_fk_personas_CI_profesor,
-  CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT Calificaciones_fk_personas_CI_alumno,
-  id_materia INTEGER REFERENCES Materias (id_materia) CONSTRAINT Calificaciones_fk_materias_id_materia,
-  id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Calificaciones_fk_grupos_id_grupo,
-  nombre_evaluacion varchar(40) NOT NULL CONSTRAINT Calificaciones_nombre_vacio,
-  comentario lvarchar(500),
-  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Entrega_final_proyecto', 'Defensa_individual', 'Defensa_grupal', 'Es_proyecto')) CONSTRAINT Calificaciones_categoria_valida,
-  fecha_eva DATE NOT NULL CONSTRAINT Calificaciones_fecha_eva_vacio,
-  descripcion   varchar(255),
-  nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT Calificaciones_nota_valida,
-  baja boolean NOT NULL CONSTRAINT Calificaciones_baja_vacio,
-  
-  PRIMARY KEY (id_calificacion) CONSTRAINT Calificaciones_clave_primaria
+  id_calificacion SERIAL PRIMARY KEY  CONSTRAINT Calificaciones_clave_primaria,
+  CI_docente INTEGER REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
+  CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
+  id_asignatura INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT calificaciones_fk_asignaturas_id_asignatura,
+  id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT calificaciones_fk_grupos_id_grupo,
+  id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT calificaciones_fk_instituto_id_instituto,
+  nombre_calificacion varchar(40) NOT NULL CONSTRAINT calificaciones_nombre_vacio,
+  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT calificaciones_categoria_valida,
+  fecha DATE NOT NULL CONSTRAINT fecha_cal_vacio,
+  comentario varchar(255),
+  nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT calificaciones_nota_valida,
+  baja boolean NOT NULL CONSTRAINT calificaciones_baja_vacio,
+ 
  );
+
+CREATE TABLE Historial
+   (
+    codigo SERIAL
+    foranea_CI_Persona INTEGER REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
+    IP varchar(20)
+    fecha_hora TIMESTAMP NOT NULL CONSTRAINT fecha_historial_vacio,,
+    PRIMARY KEY (foranea_CI_Persona, codigo) CONSTRAINT  Historial_claves_primarias
+
+);
+
+  
+CREATE TABLE Errores
+   (
+    codigo_error INTEGER PRIMARY KEY CONSTRAINT Errores_clave_primaria,
+    detalle_e varchar(255)
+    fecha_hora_e TIMESTAMP NOT NULL CONSTRAINT fecha_error_vacio,
+
+);
 
                                         
 -- ACA CREAMOS LAS TABLAS DE RELACIONES
@@ -102,61 +128,63 @@ CREATE TABLE Personas
 -- tipo varchar(20) CHECK (tipo IN ('Admin', 'Docente', 'Alumno')) CONSTRAINT tipo_valido,
 
 
-DROP TABLE IF EXISTS relacion_Grupos_tienen_Materias;
-DROP TABLE IF EXISTS relacion_Grupos_pertenecen_Institutos;
-DROP TABLE IF EXISTS relacion_Profesor_pertenece_Instituto;
-DROP TABLE IF EXISTS relacion_Alumno_pertenece_Instituto;
-DROP TABLE IF EXISTS relacion_Alumno_Materias_Grupos;
-
-DROP TABLE IF EXISTS relacion_Profesor_Materias_Grupos;
+  DROP TABLE IF EXISTS Relacion_Grupos_Formado_Asignaturas;
+  DROP TABLE IF EXISTS Relacion_Docente_Trabaja_Instituto;
+  DROP TABLE IF EXISTS Relacion_Alumno_Asiste_Instituto;
+  DROP TABLE IF EXISTS Relacion_Alumno_Asignatura_Grupos;
+  DROP TABLE IF EXISTS Relacion_Docente_Asignatura_Grupos;
 
 
 
                                         
-CREATE TABLE relacion_Profesor_pertenece_Instituto
+CREATE TABLE Relacion_Docente_Trabaja_Instituto
 (
-    foranea_CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Profesor_pertenece_Instituto_fk_Personas_CI,
-    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT relacion_Profesor_pertenece_Instituto_fk_id_instituto,
-    PRIMARY KEY (foranea_CI_profesor, foranea_id_instituto) CONSTRAINT relacion_Profesor_pertenece_Instituto_clave_primaria
-);
-
-CREATE TABLE relacion_Alumno_pertenece_Instituto
-(
-    foranea_CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Alumno_pertenece_Instituto_fk_Personas_CI,
-    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT relacion_Alumno_pertenece_Instituto_fk_id_instituto,
-    PRIMARY KEY (foranea_CI_alumno, foranea_id_instituto) CONSTRAINT relacion_Alumno_pertenece_Instituto_clave_primaria
+    foranea_CI_docente INTEGER REFERENCES Persona (CI) CONSTRAINT Relacion_Docente_Trabaja_Instituto_fk_Personas_CI,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Relacion_Docente_Trabaja_Instituto,
+    PRIMARY KEY (foranea_CI_docente, foranea_id_instituto) CONSTRAINT Relacion_Docente_Trabaja_Instituto
 );
 
 
-CREATE TABLE relacion_Grupos_pertenecen_Institutos
+
+CREATE TABLE Relacion_Alumno_Asiste_Instituto
 (
-    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Grupos_pertenecen_Institutos_fk_Grupos_id_grupo,
-    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT relacion_Grupos_pertenecen_Institutos_fk_id_instituto,
-    PRIMARY KEY (foranea_id_grupo, foranea_id_instituto) CONSTRAINT relacion_Grupos_pertenecen_Institutos_clave_primaria
+    foranea_CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT Relacion_Alumno_Asiste_Instituto_fk_Personas_CI,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Relacion_Alumno_Asiste_Instituto_fk_id_instituto,
+    PRIMARY KEY (foranea_CI_alumno, foranea_id_instituto) CONSTRAINT Relacion_Alumno_Asiste_Instituto_clave_primaria
 );
 
-CREATE TABLE relacion_Grupos_tienen_Materias
+
+
+CREATE TABLE Relacion_Grupos_Formado_Asignaturas
 (
-    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Grupos_tienen_Materias_fk_Grupos_id_grupo,
-    foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Grupos_tienen_Materias_fk_id_materia,
-    PRIMARY KEY (foranea_id_grupo,foranea_id_materia) CONSTRAINT relacion_Grupos_tienen_Materias_clave_primaria
+    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Relacion_Grupos_Formado_Asignaturas_fk_Grupos_id_grupo,
+    foranea_id_asignatura  INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Grupos_Formado_Asignaturas_fk_id_asignatura,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT CONSTRAINT Relacion_Grupos_Formado_Asignaturas_fk_id_instituto,
+    PRIMARY KEY (foranea_id_grupo,foranea_id_asignatura,foranea_id_instituto) CONSTRAINT Relacion_Grupos_Formado_Asignaturas_clave_primaria
 );
 
-CREATE TABLE relacion_Alumno_Materias_Grupos
+
+CREATE TABLE Relacion_Alumno_Asignatura_Grupos
 (
-    foranea_CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_Personas_CI,
-    foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_id_materia,
-    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Alumno_Materias_Grupos_fk_id_grupo,
-    PRIMARY KEY (foranea_CI_alumno, foranea_id_materia, foranea_id_grupo) CONSTRAINT rrelacion_personas_pertenecen_grupos_clave_primaria
+    foranea_CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_Personas_CI,
+    foranea_id_asignatura  INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_asignatura,
+    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_grupo,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT CONSTRAINT
+    nota_final_asignatura INT CHECK ( nota_final_asignatura > 0 AND nota_final_asignatura < 13) CONSTRAINT nota_final_asignatura_valida,
+    PRIMARY KEY (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_clave_primaria
 );
 
-CREATE TABLE relacion_Profesor_Materias_Grupos
+
+
+REATE TABLE Relacion_Docente_Asignatura_Grupos
 (
-    foranea_CI_profesor INTEGER REFERENCES Personas (CI) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_Personas_CI,
-    foranea_id_materia  INTEGER REFERENCES Materias (id_materia) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_materia,
-    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_fk_id_grupo,
-    PRIMARY KEY (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo) CONSTRAINT relacion_Profesor_Materias_Grupos_clave_primaria
+    foranea_CI_docente INTEGER REFERENCES Persona (CI) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_Personas_CI,
+    foranea_id_asignatura  INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_asignatura,
+    foranea_id_instituto  INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_instituto
+    foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_grupo,
+    PRIMARY KEY (foranea_CI_docente, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Docente_Asignatura_Grupos_clave_primaria
 );
+
 
 
 
