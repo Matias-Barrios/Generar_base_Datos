@@ -45,13 +45,12 @@ CREATE TABLE Institutos
  ); 
 
 
-CREATE TABLE Oriantaciones
+CREATE TABLE Orientaciones
  (
-  id_orientacion SERIAL PRIMARY KEY CONSTRAINT Oriantaciones_clave_primaria,
-  nombre_orientacion varchar(25) NOT NULL CHECK (nombre_orientacion IN ('ADMINISTRACIÓN','ELECTROELECTRÓNICA','QUÍMICA_BÁSICA','QUÍMICA_INDUSTRIAL','AERONÁUTICA','ELECTROMECÁNICA','TERMODINÁMICA','AGRARIO','ELECTROMECÁNICA_AUTOMOTRIZ','TURISMO','CONSTRUCCIÓN','INFORMÁTICA','DEPORTE_Y_RECREACIÓN','MAQUINISTA_NAVAL','ARTES_GRÁFICAS','ENERGÍAS_RENOVABLES','AUDIOVISUAL')) CONSTRAINT nombre_orientacion_valida,
+  id_orientacion SERIAL PRIMARY KEY CONSTRAINT Orientaciones_clave_primaria,
+  nombre_orientacion varchar(25) NOT NULL,
   descripcion varchar (500),
   baja boolean NOT NULL CONSTRAINT Orientaciones_baja_vacio
-
  );
 
 CREATE TABLE Grupos
@@ -76,7 +75,7 @@ CREATE TABLE Personas
   email varchar(80),
   grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
   hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
-  nota_final_pro INT CHECK ( nota_final_pro > 0 AND nota_final < 13) CONSTRAINT nota_final_pro_valida,
+  nota_final_pro INT CHECK ( nota_final_pro > 0 AND nota_final_pro < 13) CONSTRAINT nota_final_pro_valida,
   juicio_final varchar(30) NOT NULL CHECK ( juicio_final IN ('Examen Febrero', 'Examen Diciembre', 'Aprobado')) CONSTRAINT Personas_Juicio_valido,
   tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador', 'Admin')) CONSTRAINT Personas_tipo_valido,
   encriptacion_hash varchar(250),
@@ -104,10 +103,11 @@ CREATE TABLE Personas
 
 CREATE TABLE Historial
    (
-    codigo SERIAL
+    codigo SERIAL,
     foranea_CI_Persona INTEGER REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
-    IP varchar(20)
-    fecha_hora TIMESTAMP NOT NULL CONSTRAINT fecha_historial_vacio,,
+    IP varchar(20),
+    statement varchar(500) NOT NULL,
+    fecha_hora TIMESTAMP NOT NULL CONSTRAINT fecha_historial_vacio,
     PRIMARY KEY (foranea_CI_Persona, codigo) CONSTRAINT  Historial_claves_primarias
 
 );
@@ -115,8 +115,9 @@ CREATE TABLE Historial
   
 CREATE TABLE Errores
    (
-    codigo_error INTEGER PRIMARY KEY CONSTRAINT Errores_clave_primaria,
-    detalle_e varchar(255)
+    codigo_error SERIAL PRIMARY KEY CONSTRAINT Errores_clave_primaria,
+    foranea_CI_Persona INTEGER REFERENCES Personas (CI) CONSTRAINT Errores_fk_Personas_CI,
+    statement varchar(500) NOT NULL,
     fecha_hora_e TIMESTAMP NOT NULL CONSTRAINT fecha_error_vacio,
 
 );
