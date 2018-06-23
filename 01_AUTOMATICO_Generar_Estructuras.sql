@@ -55,7 +55,7 @@ CREATE TABLE Orientaciones
 CREATE TABLE Grupos
  (
   id_grupo  SERIAL,
-  foranea_id_instituto INT REFERENCES Institutos (id_institutos) CONSTRAINT Grupos_fk_Instiuto_id_instituto,
+  foranea_id_instituto INT REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_Instiuto_id_instituto,
   nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
   baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
