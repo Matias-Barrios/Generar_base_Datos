@@ -476,7 +476,7 @@ echo "$( date ) - Proceso iniciado..."
 		do
 				lista_CI_profesor=$( cat ./todas_CI_Profesores.txt | tr '\n' ' ' )
 				profe=`Item_Aleatorio "$lista_CI_profesor"`
-				echo "INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)" >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+				echo "INSERT INTO Relacion_Docente_Asignatura_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)" >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
 				echo "VALUES ( $profe, $i, 1, $id_grupo );"  >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
 				echo "$profe $i $id_grupo" >> ./lista_profesores_asignados_a_materia_y_grupo.txt
 				(( i ++ ))
