@@ -88,8 +88,8 @@ CREATE TABLE Personas
  CREATE TABLE Calificaciones
  (
   id_calificacion SERIAL PRIMARY KEY  CONSTRAINT Calificaciones_clave_primaria,
-  CI_docente INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
-  CI_alumno INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
+  CI_docente INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_docente_CI,
+  CI_alumno INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_alumno_CI,
   id_asignatura INT REFERENCES Asignaturas (id_asignatura) CONSTRAINT calificaciones_fk_asignaturas_id_asignatura,
   id_grupo INT REFERENCES Grupos (id_grupo) CONSTRAINT calificaciones_fk_grupos_id_grupo,
   id_instituto INT REFERENCES Institutos (id_instituto) CONSTRAINT calificaciones_fk_instituto_id_instituto,
@@ -106,8 +106,8 @@ CREATE TABLE Historial
     codigo SERIAL,
     foranea_CI_Persona INT REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
     IP varchar(20),
-    statement lvarchar(500) NOT NULL,
-    fecha_hora TIMESTAMP NOT NULL CONSTRAINT fecha_historial_vacio,
+    statement lvarchar(1000) NOT NULL,
+    fecha_hora DATETIME NOT NULL CONSTRAINT fecha_historial_vacio,
     PRIMARY KEY (foranea_CI_Persona, codigo) CONSTRAINT  Historial_claves_primarias
 );
 
@@ -116,8 +116,8 @@ CREATE TABLE Errores
    (
     codigo_error SERIAL PRIMARY KEY CONSTRAINT Errores_clave_primaria,
     foranea_CI_Persona INT REFERENCES Personas (CI) CONSTRAINT Errores_fk_Personas_CI,
-    statement lvarchar(500) NOT NULL,
-    fecha_hora_e TIMESTAMP NOT NULL CONSTRAINT fecha_error_vacio
+    statement lvarchar(1000) NOT NULL,
+    fecha_hora_e DATETIME NOT NULL CONSTRAINT fecha_error_vacio
 
 );
 
