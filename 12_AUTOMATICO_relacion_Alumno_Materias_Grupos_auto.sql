@@ -2,7352 +2,7352 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 56, 1, 1, 1);
+VALUES ( 17100762, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 56, 1, 1, 1);
+VALUES ( 38367270, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 56, 1, 1, 1);
+VALUES ( 37030505, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 56, 1, 1, 1);
+VALUES ( 25537456, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 56, 1, 1, 1);
+VALUES ( 31200338, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 56, 1, 1, 1);
+VALUES ( 15653927, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 56, 1, 1, 1);
+VALUES ( 16844575, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 56, 1, 1, 1);
+VALUES ( 32439645, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 56, 1, 1, 1);
+VALUES ( 44402121, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 56, 1, 1, 1);
+VALUES ( 57578420, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 56, 1, 1, 1);
+VALUES ( 56363927, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 56, 1, 1, 1);
+VALUES ( 53145295, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 56, 1, 1, 1);
+VALUES ( 29544984, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 56, 1, 1, 1);
+VALUES ( 56063642, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 56, 1, 1, 1);
+VALUES ( 37797577, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 56, 1, 1, 1);
+VALUES ( 54838299, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 56, 1, 1, 1);
+VALUES ( 45935957, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 56, 1, 1, 1);
+VALUES ( 32283670, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 56, 1, 1, 1);
+VALUES ( 22423060, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 56, 1, 1, 1);
+VALUES ( 19849932, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 56, 1, 1, 1);
+VALUES ( 29914109, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 56, 1, 1, 1);
+VALUES ( 21342865, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 56, 1, 1, 1);
+VALUES ( 49375086, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 56, 1, 1, 1);
+VALUES ( 52333190, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 56, 1, 1, 1);
+VALUES ( 15622714, 56, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 57, 1, 1, 1);
+VALUES ( 17100762, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 57, 1, 1, 1);
+VALUES ( 38367270, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 57, 1, 1, 1);
+VALUES ( 37030505, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 57, 1, 1, 1);
+VALUES ( 25537456, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 57, 1, 1, 1);
+VALUES ( 31200338, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 57, 1, 1, 1);
+VALUES ( 15653927, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 57, 1, 1, 1);
+VALUES ( 16844575, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 57, 1, 1, 1);
+VALUES ( 32439645, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 57, 1, 1, 1);
+VALUES ( 44402121, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 57, 1, 1, 1);
+VALUES ( 57578420, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 57, 1, 1, 1);
+VALUES ( 56363927, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 57, 1, 1, 1);
+VALUES ( 53145295, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 57, 1, 1, 1);
+VALUES ( 29544984, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 57, 1, 1, 1);
+VALUES ( 56063642, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 57, 1, 1, 1);
+VALUES ( 37797577, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 57, 1, 1, 1);
+VALUES ( 54838299, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 57, 1, 1, 1);
+VALUES ( 45935957, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 57, 1, 1, 1);
+VALUES ( 32283670, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 57, 1, 1, 1);
+VALUES ( 22423060, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 57, 1, 1, 1);
+VALUES ( 19849932, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 57, 1, 1, 1);
+VALUES ( 29914109, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 57, 1, 1, 1);
+VALUES ( 21342865, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 57, 1, 1, 1);
+VALUES ( 49375086, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 57, 1, 1, 1);
+VALUES ( 52333190, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 57, 1, 1, 1);
+VALUES ( 15622714, 57, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 58, 1, 1, 1);
+VALUES ( 17100762, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 58, 1, 1, 1);
+VALUES ( 38367270, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 58, 1, 1, 1);
+VALUES ( 37030505, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 58, 1, 1, 1);
+VALUES ( 25537456, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 58, 1, 1, 1);
+VALUES ( 31200338, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 58, 1, 1, 1);
+VALUES ( 15653927, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 58, 1, 1, 1);
+VALUES ( 16844575, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 58, 1, 1, 1);
+VALUES ( 32439645, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 58, 1, 1, 1);
+VALUES ( 44402121, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 58, 1, 1, 1);
+VALUES ( 57578420, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 58, 1, 1, 1);
+VALUES ( 56363927, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 58, 1, 1, 1);
+VALUES ( 53145295, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 58, 1, 1, 1);
+VALUES ( 29544984, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 58, 1, 1, 1);
+VALUES ( 56063642, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 58, 1, 1, 1);
+VALUES ( 37797577, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 58, 1, 1, 1);
+VALUES ( 54838299, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 58, 1, 1, 1);
+VALUES ( 45935957, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 58, 1, 1, 1);
+VALUES ( 32283670, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 58, 1, 1, 1);
+VALUES ( 22423060, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 58, 1, 1, 1);
+VALUES ( 19849932, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 58, 1, 1, 1);
+VALUES ( 29914109, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 58, 1, 1, 1);
+VALUES ( 21342865, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 58, 1, 1, 1);
+VALUES ( 49375086, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 58, 1, 1, 1);
+VALUES ( 52333190, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 58, 1, 1, 1);
+VALUES ( 15622714, 58, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 59, 1, 1, 1);
+VALUES ( 17100762, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 59, 1, 1, 1);
+VALUES ( 38367270, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 59, 1, 1, 1);
+VALUES ( 37030505, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 59, 1, 1, 1);
+VALUES ( 25537456, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 59, 1, 1, 1);
+VALUES ( 31200338, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 59, 1, 1, 1);
+VALUES ( 15653927, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 59, 1, 1, 1);
+VALUES ( 16844575, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 59, 1, 1, 1);
+VALUES ( 32439645, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 59, 1, 1, 1);
+VALUES ( 44402121, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 59, 1, 1, 1);
+VALUES ( 57578420, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 59, 1, 1, 1);
+VALUES ( 56363927, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 59, 1, 1, 1);
+VALUES ( 53145295, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 59, 1, 1, 1);
+VALUES ( 29544984, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 59, 1, 1, 1);
+VALUES ( 56063642, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 59, 1, 1, 1);
+VALUES ( 37797577, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 59, 1, 1, 1);
+VALUES ( 54838299, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 59, 1, 1, 1);
+VALUES ( 45935957, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 59, 1, 1, 1);
+VALUES ( 32283670, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 59, 1, 1, 1);
+VALUES ( 22423060, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 59, 1, 1, 1);
+VALUES ( 19849932, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 59, 1, 1, 1);
+VALUES ( 29914109, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 59, 1, 1, 1);
+VALUES ( 21342865, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 59, 1, 1, 1);
+VALUES ( 49375086, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 59, 1, 1, 1);
+VALUES ( 52333190, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 59, 1, 1, 1);
+VALUES ( 15622714, 59, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 60, 1, 1, 1);
+VALUES ( 17100762, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 60, 1, 1, 1);
+VALUES ( 38367270, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 60, 1, 1, 1);
+VALUES ( 37030505, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 60, 1, 1, 1);
+VALUES ( 25537456, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 60, 1, 1, 1);
+VALUES ( 31200338, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 60, 1, 1, 1);
+VALUES ( 15653927, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 60, 1, 1, 1);
+VALUES ( 16844575, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 60, 1, 1, 1);
+VALUES ( 32439645, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 60, 1, 1, 1);
+VALUES ( 44402121, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 60, 1, 1, 1);
+VALUES ( 57578420, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 60, 1, 1, 1);
+VALUES ( 56363927, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 60, 1, 1, 1);
+VALUES ( 53145295, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 60, 1, 1, 1);
+VALUES ( 29544984, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 60, 1, 1, 1);
+VALUES ( 56063642, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 60, 1, 1, 1);
+VALUES ( 37797577, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 60, 1, 1, 1);
+VALUES ( 54838299, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 60, 1, 1, 1);
+VALUES ( 45935957, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 60, 1, 1, 1);
+VALUES ( 32283670, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 60, 1, 1, 1);
+VALUES ( 22423060, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 60, 1, 1, 1);
+VALUES ( 19849932, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 60, 1, 1, 1);
+VALUES ( 29914109, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 60, 1, 1, 1);
+VALUES ( 21342865, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 60, 1, 1, 1);
+VALUES ( 49375086, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 60, 1, 1, 1);
+VALUES ( 52333190, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 60, 1, 1, 1);
+VALUES ( 15622714, 60, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 61, 1, 1, 1);
+VALUES ( 17100762, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 61, 1, 1, 1);
+VALUES ( 38367270, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 61, 1, 1, 1);
+VALUES ( 37030505, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 61, 1, 1, 1);
+VALUES ( 25537456, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 61, 1, 1, 1);
+VALUES ( 31200338, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 61, 1, 1, 1);
+VALUES ( 15653927, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 61, 1, 1, 1);
+VALUES ( 16844575, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 61, 1, 1, 1);
+VALUES ( 32439645, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 61, 1, 1, 1);
+VALUES ( 44402121, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 61, 1, 1, 1);
+VALUES ( 57578420, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 61, 1, 1, 1);
+VALUES ( 56363927, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 61, 1, 1, 1);
+VALUES ( 53145295, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 61, 1, 1, 1);
+VALUES ( 29544984, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 61, 1, 1, 1);
+VALUES ( 56063642, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 61, 1, 1, 1);
+VALUES ( 37797577, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 61, 1, 1, 1);
+VALUES ( 54838299, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 61, 1, 1, 1);
+VALUES ( 45935957, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 61, 1, 1, 1);
+VALUES ( 32283670, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 61, 1, 1, 1);
+VALUES ( 22423060, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 61, 1, 1, 1);
+VALUES ( 19849932, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 61, 1, 1, 1);
+VALUES ( 29914109, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 61, 1, 1, 1);
+VALUES ( 21342865, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 61, 1, 1, 1);
+VALUES ( 49375086, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 61, 1, 1, 1);
+VALUES ( 52333190, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 61, 1, 1, 1);
+VALUES ( 15622714, 61, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11725037, 62, 1, 1, 1);
+VALUES ( 17100762, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17572719, 62, 1, 1, 1);
+VALUES ( 38367270, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54219308, 62, 1, 1, 1);
+VALUES ( 37030505, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59002386, 62, 1, 1, 1);
+VALUES ( 25537456, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21496313, 62, 1, 1, 1);
+VALUES ( 31200338, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44477069, 62, 1, 1, 1);
+VALUES ( 15653927, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52879099, 62, 1, 1, 1);
+VALUES ( 16844575, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21539795, 62, 1, 1, 1);
+VALUES ( 32439645, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46792251, 62, 1, 1, 1);
+VALUES ( 44402121, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25386544, 62, 1, 1, 1);
+VALUES ( 57578420, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45768023, 62, 1, 1, 1);
+VALUES ( 56363927, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52929911, 62, 1, 1, 1);
+VALUES ( 53145295, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49306095, 62, 1, 1, 1);
+VALUES ( 29544984, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24550760, 62, 1, 1, 1);
+VALUES ( 56063642, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38625163, 62, 1, 1, 1);
+VALUES ( 37797577, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38199289, 62, 1, 1, 1);
+VALUES ( 54838299, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17627261, 62, 1, 1, 1);
+VALUES ( 45935957, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51501782, 62, 1, 1, 1);
+VALUES ( 32283670, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19288148, 62, 1, 1, 1);
+VALUES ( 22423060, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48139916, 62, 1, 1, 1);
+VALUES ( 19849932, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53941621, 62, 1, 1, 1);
+VALUES ( 29914109, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11478317, 62, 1, 1, 1);
+VALUES ( 21342865, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45682318, 62, 1, 1, 1);
+VALUES ( 49375086, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46155839, 62, 1, 1, 1);
+VALUES ( 52333190, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19831783, 62, 1, 1, 1);
+VALUES ( 15622714, 62, 1, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 56, 2, 1, 1);
+VALUES ( 23006586, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 56, 2, 1, 1);
+VALUES ( 48621739, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 56, 2, 1, 1);
+VALUES ( 47751074, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 56, 2, 1, 1);
+VALUES ( 48172380, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 56, 2, 1, 1);
+VALUES ( 32425715, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 56, 2, 1, 1);
+VALUES ( 35189603, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 56, 2, 1, 1);
+VALUES ( 37036060, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 56, 2, 1, 1);
+VALUES ( 23290282, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 56, 2, 1, 1);
+VALUES ( 34785448, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 56, 2, 1, 1);
+VALUES ( 38298908, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 56, 2, 1, 1);
+VALUES ( 19607308, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 56, 2, 1, 1);
+VALUES ( 39958553, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 56, 2, 1, 1);
+VALUES ( 33063922, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 56, 2, 1, 1);
+VALUES ( 17718816, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 56, 2, 1, 1);
+VALUES ( 11291468, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 56, 2, 1, 1);
+VALUES ( 23420241, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 56, 2, 1, 1);
+VALUES ( 46204597, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 56, 2, 1, 1);
+VALUES ( 32210166, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 56, 2, 1, 1);
+VALUES ( 56844555, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 56, 2, 1, 1);
+VALUES ( 59594068, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 56, 2, 1, 1);
+VALUES ( 11986845, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 56, 2, 1, 1);
+VALUES ( 42201949, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 56, 2, 1, 1);
+VALUES ( 45976345, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 56, 2, 1, 1);
+VALUES ( 17069695, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 56, 2, 1, 1);
+VALUES ( 59922299, 56, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 57, 2, 1, 1);
+VALUES ( 23006586, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 57, 2, 1, 1);
+VALUES ( 48621739, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 57, 2, 1, 1);
+VALUES ( 47751074, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 57, 2, 1, 1);
+VALUES ( 48172380, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 57, 2, 1, 1);
+VALUES ( 32425715, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 57, 2, 1, 1);
+VALUES ( 35189603, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 57, 2, 1, 1);
+VALUES ( 37036060, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 57, 2, 1, 1);
+VALUES ( 23290282, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 57, 2, 1, 1);
+VALUES ( 34785448, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 57, 2, 1, 1);
+VALUES ( 38298908, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 57, 2, 1, 1);
+VALUES ( 19607308, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 57, 2, 1, 1);
+VALUES ( 39958553, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 57, 2, 1, 1);
+VALUES ( 33063922, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 57, 2, 1, 1);
+VALUES ( 17718816, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 57, 2, 1, 1);
+VALUES ( 11291468, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 57, 2, 1, 1);
+VALUES ( 23420241, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 57, 2, 1, 1);
+VALUES ( 46204597, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 57, 2, 1, 1);
+VALUES ( 32210166, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 57, 2, 1, 1);
+VALUES ( 56844555, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 57, 2, 1, 1);
+VALUES ( 59594068, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 57, 2, 1, 1);
+VALUES ( 11986845, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 57, 2, 1, 1);
+VALUES ( 42201949, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 57, 2, 1, 1);
+VALUES ( 45976345, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 57, 2, 1, 1);
+VALUES ( 17069695, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 57, 2, 1, 1);
+VALUES ( 59922299, 57, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 58, 2, 1, 1);
+VALUES ( 23006586, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 58, 2, 1, 1);
+VALUES ( 48621739, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 58, 2, 1, 1);
+VALUES ( 47751074, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 58, 2, 1, 1);
+VALUES ( 48172380, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 58, 2, 1, 1);
+VALUES ( 32425715, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 58, 2, 1, 1);
+VALUES ( 35189603, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 58, 2, 1, 1);
+VALUES ( 37036060, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 58, 2, 1, 1);
+VALUES ( 23290282, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 58, 2, 1, 1);
+VALUES ( 34785448, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 58, 2, 1, 1);
+VALUES ( 38298908, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 58, 2, 1, 1);
+VALUES ( 19607308, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 58, 2, 1, 1);
+VALUES ( 39958553, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 58, 2, 1, 1);
+VALUES ( 33063922, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 58, 2, 1, 1);
+VALUES ( 17718816, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 58, 2, 1, 1);
+VALUES ( 11291468, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 58, 2, 1, 1);
+VALUES ( 23420241, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 58, 2, 1, 1);
+VALUES ( 46204597, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 58, 2, 1, 1);
+VALUES ( 32210166, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 58, 2, 1, 1);
+VALUES ( 56844555, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 58, 2, 1, 1);
+VALUES ( 59594068, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 58, 2, 1, 1);
+VALUES ( 11986845, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 58, 2, 1, 1);
+VALUES ( 42201949, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 58, 2, 1, 1);
+VALUES ( 45976345, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 58, 2, 1, 1);
+VALUES ( 17069695, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 58, 2, 1, 1);
+VALUES ( 59922299, 58, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 59, 2, 1, 1);
+VALUES ( 23006586, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 59, 2, 1, 1);
+VALUES ( 48621739, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 59, 2, 1, 1);
+VALUES ( 47751074, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 59, 2, 1, 1);
+VALUES ( 48172380, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 59, 2, 1, 1);
+VALUES ( 32425715, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 59, 2, 1, 1);
+VALUES ( 35189603, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 59, 2, 1, 1);
+VALUES ( 37036060, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 59, 2, 1, 1);
+VALUES ( 23290282, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 59, 2, 1, 1);
+VALUES ( 34785448, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 59, 2, 1, 1);
+VALUES ( 38298908, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 59, 2, 1, 1);
+VALUES ( 19607308, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 59, 2, 1, 1);
+VALUES ( 39958553, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 59, 2, 1, 1);
+VALUES ( 33063922, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 59, 2, 1, 1);
+VALUES ( 17718816, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 59, 2, 1, 1);
+VALUES ( 11291468, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 59, 2, 1, 1);
+VALUES ( 23420241, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 59, 2, 1, 1);
+VALUES ( 46204597, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 59, 2, 1, 1);
+VALUES ( 32210166, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 59, 2, 1, 1);
+VALUES ( 56844555, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 59, 2, 1, 1);
+VALUES ( 59594068, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 59, 2, 1, 1);
+VALUES ( 11986845, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 59, 2, 1, 1);
+VALUES ( 42201949, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 59, 2, 1, 1);
+VALUES ( 45976345, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 59, 2, 1, 1);
+VALUES ( 17069695, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 59, 2, 1, 1);
+VALUES ( 59922299, 59, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 60, 2, 1, 1);
+VALUES ( 23006586, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 60, 2, 1, 1);
+VALUES ( 48621739, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 60, 2, 1, 1);
+VALUES ( 47751074, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 60, 2, 1, 1);
+VALUES ( 48172380, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 60, 2, 1, 1);
+VALUES ( 32425715, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 60, 2, 1, 1);
+VALUES ( 35189603, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 60, 2, 1, 1);
+VALUES ( 37036060, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 60, 2, 1, 1);
+VALUES ( 23290282, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 60, 2, 1, 1);
+VALUES ( 34785448, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 60, 2, 1, 1);
+VALUES ( 38298908, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 60, 2, 1, 1);
+VALUES ( 19607308, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 60, 2, 1, 1);
+VALUES ( 39958553, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 60, 2, 1, 1);
+VALUES ( 33063922, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 60, 2, 1, 1);
+VALUES ( 17718816, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 60, 2, 1, 1);
+VALUES ( 11291468, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 60, 2, 1, 1);
+VALUES ( 23420241, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 60, 2, 1, 1);
+VALUES ( 46204597, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 60, 2, 1, 1);
+VALUES ( 32210166, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 60, 2, 1, 1);
+VALUES ( 56844555, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 60, 2, 1, 1);
+VALUES ( 59594068, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 60, 2, 1, 1);
+VALUES ( 11986845, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 60, 2, 1, 1);
+VALUES ( 42201949, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 60, 2, 1, 1);
+VALUES ( 45976345, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 60, 2, 1, 1);
+VALUES ( 17069695, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 60, 2, 1, 1);
+VALUES ( 59922299, 60, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 61, 2, 1, 1);
+VALUES ( 23006586, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 61, 2, 1, 1);
+VALUES ( 48621739, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 61, 2, 1, 1);
+VALUES ( 47751074, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 61, 2, 1, 1);
+VALUES ( 48172380, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 61, 2, 1, 1);
+VALUES ( 32425715, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 61, 2, 1, 1);
+VALUES ( 35189603, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 61, 2, 1, 1);
+VALUES ( 37036060, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 61, 2, 1, 1);
+VALUES ( 23290282, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 61, 2, 1, 1);
+VALUES ( 34785448, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 61, 2, 1, 1);
+VALUES ( 38298908, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 61, 2, 1, 1);
+VALUES ( 19607308, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 61, 2, 1, 1);
+VALUES ( 39958553, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 61, 2, 1, 1);
+VALUES ( 33063922, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 61, 2, 1, 1);
+VALUES ( 17718816, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 61, 2, 1, 1);
+VALUES ( 11291468, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 61, 2, 1, 1);
+VALUES ( 23420241, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 61, 2, 1, 1);
+VALUES ( 46204597, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 61, 2, 1, 1);
+VALUES ( 32210166, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 61, 2, 1, 1);
+VALUES ( 56844555, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 61, 2, 1, 1);
+VALUES ( 59594068, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 61, 2, 1, 1);
+VALUES ( 11986845, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 61, 2, 1, 1);
+VALUES ( 42201949, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 61, 2, 1, 1);
+VALUES ( 45976345, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 61, 2, 1, 1);
+VALUES ( 17069695, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 61, 2, 1, 1);
+VALUES ( 59922299, 61, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21587708, 62, 2, 1, 1);
+VALUES ( 23006586, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57394454, 62, 2, 1, 1);
+VALUES ( 48621739, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38371730, 62, 2, 1, 1);
+VALUES ( 47751074, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56321610, 62, 2, 1, 1);
+VALUES ( 48172380, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27483762, 62, 2, 1, 1);
+VALUES ( 32425715, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48637162, 62, 2, 1, 1);
+VALUES ( 35189603, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47887922, 62, 2, 1, 1);
+VALUES ( 37036060, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34684925, 62, 2, 1, 1);
+VALUES ( 23290282, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14791900, 62, 2, 1, 1);
+VALUES ( 34785448, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51084380, 62, 2, 1, 1);
+VALUES ( 38298908, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18864965, 62, 2, 1, 1);
+VALUES ( 19607308, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49627659, 62, 2, 1, 1);
+VALUES ( 39958553, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36692524, 62, 2, 1, 1);
+VALUES ( 33063922, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17405514, 62, 2, 1, 1);
+VALUES ( 17718816, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28473748, 62, 2, 1, 1);
+VALUES ( 11291468, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15819826, 62, 2, 1, 1);
+VALUES ( 23420241, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46319075, 62, 2, 1, 1);
+VALUES ( 46204597, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13840350, 62, 2, 1, 1);
+VALUES ( 32210166, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46066389, 62, 2, 1, 1);
+VALUES ( 56844555, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48778881, 62, 2, 1, 1);
+VALUES ( 59594068, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22555401, 62, 2, 1, 1);
+VALUES ( 11986845, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34484062, 62, 2, 1, 1);
+VALUES ( 42201949, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15909596, 62, 2, 1, 1);
+VALUES ( 45976345, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13351777, 62, 2, 1, 1);
+VALUES ( 17069695, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37264015, 62, 2, 1, 1);
+VALUES ( 59922299, 62, 2, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 56, 3, 1, 1);
+VALUES ( 53986219, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 56, 3, 1, 1);
+VALUES ( 27141669, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 56, 3, 1, 1);
+VALUES ( 23816228, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 56, 3, 1, 1);
+VALUES ( 36560995, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 56, 3, 1, 1);
+VALUES ( 16437225, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 56, 3, 1, 1);
+VALUES ( 39234171, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 56, 3, 1, 1);
+VALUES ( 49247384, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 56, 3, 1, 1);
+VALUES ( 57014125, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 56, 3, 1, 1);
+VALUES ( 56203814, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 56, 3, 1, 1);
+VALUES ( 58512968, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 56, 3, 1, 1);
+VALUES ( 15469594, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 56, 3, 1, 1);
+VALUES ( 54855356, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 56, 3, 1, 1);
+VALUES ( 31675092, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 56, 3, 1, 1);
+VALUES ( 25720744, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 56, 3, 1, 1);
+VALUES ( 23059107, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 56, 3, 1, 1);
+VALUES ( 49344538, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 56, 3, 1, 1);
+VALUES ( 31810935, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 56, 3, 1, 1);
+VALUES ( 33663510, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 56, 3, 1, 1);
+VALUES ( 53895937, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 56, 3, 1, 1);
+VALUES ( 43929061, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 56, 3, 1, 1);
+VALUES ( 57935270, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 56, 3, 1, 1);
+VALUES ( 56593641, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 56, 3, 1, 1);
+VALUES ( 28075005, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 56, 3, 1, 1);
+VALUES ( 22612556, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 56, 3, 1, 1);
+VALUES ( 33362720, 56, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 57, 3, 1, 1);
+VALUES ( 53986219, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 57, 3, 1, 1);
+VALUES ( 27141669, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 57, 3, 1, 1);
+VALUES ( 23816228, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 57, 3, 1, 1);
+VALUES ( 36560995, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 57, 3, 1, 1);
+VALUES ( 16437225, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 57, 3, 1, 1);
+VALUES ( 39234171, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 57, 3, 1, 1);
+VALUES ( 49247384, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 57, 3, 1, 1);
+VALUES ( 57014125, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 57, 3, 1, 1);
+VALUES ( 56203814, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 57, 3, 1, 1);
+VALUES ( 58512968, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 57, 3, 1, 1);
+VALUES ( 15469594, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 57, 3, 1, 1);
+VALUES ( 54855356, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 57, 3, 1, 1);
+VALUES ( 31675092, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 57, 3, 1, 1);
+VALUES ( 25720744, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 57, 3, 1, 1);
+VALUES ( 23059107, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 57, 3, 1, 1);
+VALUES ( 49344538, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 57, 3, 1, 1);
+VALUES ( 31810935, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 57, 3, 1, 1);
+VALUES ( 33663510, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 57, 3, 1, 1);
+VALUES ( 53895937, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 57, 3, 1, 1);
+VALUES ( 43929061, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 57, 3, 1, 1);
+VALUES ( 57935270, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 57, 3, 1, 1);
+VALUES ( 56593641, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 57, 3, 1, 1);
+VALUES ( 28075005, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 57, 3, 1, 1);
+VALUES ( 22612556, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 57, 3, 1, 1);
+VALUES ( 33362720, 57, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 58, 3, 1, 1);
+VALUES ( 53986219, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 58, 3, 1, 1);
+VALUES ( 27141669, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 58, 3, 1, 1);
+VALUES ( 23816228, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 58, 3, 1, 1);
+VALUES ( 36560995, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 58, 3, 1, 1);
+VALUES ( 16437225, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 58, 3, 1, 1);
+VALUES ( 39234171, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 58, 3, 1, 1);
+VALUES ( 49247384, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 58, 3, 1, 1);
+VALUES ( 57014125, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 58, 3, 1, 1);
+VALUES ( 56203814, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 58, 3, 1, 1);
+VALUES ( 58512968, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 58, 3, 1, 1);
+VALUES ( 15469594, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 58, 3, 1, 1);
+VALUES ( 54855356, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 58, 3, 1, 1);
+VALUES ( 31675092, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 58, 3, 1, 1);
+VALUES ( 25720744, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 58, 3, 1, 1);
+VALUES ( 23059107, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 58, 3, 1, 1);
+VALUES ( 49344538, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 58, 3, 1, 1);
+VALUES ( 31810935, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 58, 3, 1, 1);
+VALUES ( 33663510, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 58, 3, 1, 1);
+VALUES ( 53895937, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 58, 3, 1, 1);
+VALUES ( 43929061, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 58, 3, 1, 1);
+VALUES ( 57935270, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 58, 3, 1, 1);
+VALUES ( 56593641, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 58, 3, 1, 1);
+VALUES ( 28075005, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 58, 3, 1, 1);
+VALUES ( 22612556, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 58, 3, 1, 1);
+VALUES ( 33362720, 58, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 59, 3, 1, 1);
+VALUES ( 53986219, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 59, 3, 1, 1);
+VALUES ( 27141669, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 59, 3, 1, 1);
+VALUES ( 23816228, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 59, 3, 1, 1);
+VALUES ( 36560995, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 59, 3, 1, 1);
+VALUES ( 16437225, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 59, 3, 1, 1);
+VALUES ( 39234171, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 59, 3, 1, 1);
+VALUES ( 49247384, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 59, 3, 1, 1);
+VALUES ( 57014125, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 59, 3, 1, 1);
+VALUES ( 56203814, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 59, 3, 1, 1);
+VALUES ( 58512968, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 59, 3, 1, 1);
+VALUES ( 15469594, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 59, 3, 1, 1);
+VALUES ( 54855356, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 59, 3, 1, 1);
+VALUES ( 31675092, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 59, 3, 1, 1);
+VALUES ( 25720744, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 59, 3, 1, 1);
+VALUES ( 23059107, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 59, 3, 1, 1);
+VALUES ( 49344538, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 59, 3, 1, 1);
+VALUES ( 31810935, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 59, 3, 1, 1);
+VALUES ( 33663510, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 59, 3, 1, 1);
+VALUES ( 53895937, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 59, 3, 1, 1);
+VALUES ( 43929061, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 59, 3, 1, 1);
+VALUES ( 57935270, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 59, 3, 1, 1);
+VALUES ( 56593641, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 59, 3, 1, 1);
+VALUES ( 28075005, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 59, 3, 1, 1);
+VALUES ( 22612556, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 59, 3, 1, 1);
+VALUES ( 33362720, 59, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 60, 3, 1, 1);
+VALUES ( 53986219, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 60, 3, 1, 1);
+VALUES ( 27141669, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 60, 3, 1, 1);
+VALUES ( 23816228, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 60, 3, 1, 1);
+VALUES ( 36560995, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 60, 3, 1, 1);
+VALUES ( 16437225, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 60, 3, 1, 1);
+VALUES ( 39234171, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 60, 3, 1, 1);
+VALUES ( 49247384, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 60, 3, 1, 1);
+VALUES ( 57014125, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 60, 3, 1, 1);
+VALUES ( 56203814, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 60, 3, 1, 1);
+VALUES ( 58512968, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 60, 3, 1, 1);
+VALUES ( 15469594, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 60, 3, 1, 1);
+VALUES ( 54855356, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 60, 3, 1, 1);
+VALUES ( 31675092, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 60, 3, 1, 1);
+VALUES ( 25720744, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 60, 3, 1, 1);
+VALUES ( 23059107, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 60, 3, 1, 1);
+VALUES ( 49344538, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 60, 3, 1, 1);
+VALUES ( 31810935, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 60, 3, 1, 1);
+VALUES ( 33663510, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 60, 3, 1, 1);
+VALUES ( 53895937, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 60, 3, 1, 1);
+VALUES ( 43929061, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 60, 3, 1, 1);
+VALUES ( 57935270, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 60, 3, 1, 1);
+VALUES ( 56593641, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 60, 3, 1, 1);
+VALUES ( 28075005, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 60, 3, 1, 1);
+VALUES ( 22612556, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 60, 3, 1, 1);
+VALUES ( 33362720, 60, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 61, 3, 1, 1);
+VALUES ( 53986219, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 61, 3, 1, 1);
+VALUES ( 27141669, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 61, 3, 1, 1);
+VALUES ( 23816228, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 61, 3, 1, 1);
+VALUES ( 36560995, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 61, 3, 1, 1);
+VALUES ( 16437225, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 61, 3, 1, 1);
+VALUES ( 39234171, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 61, 3, 1, 1);
+VALUES ( 49247384, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 61, 3, 1, 1);
+VALUES ( 57014125, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 61, 3, 1, 1);
+VALUES ( 56203814, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 61, 3, 1, 1);
+VALUES ( 58512968, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 61, 3, 1, 1);
+VALUES ( 15469594, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 61, 3, 1, 1);
+VALUES ( 54855356, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 61, 3, 1, 1);
+VALUES ( 31675092, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 61, 3, 1, 1);
+VALUES ( 25720744, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 61, 3, 1, 1);
+VALUES ( 23059107, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 61, 3, 1, 1);
+VALUES ( 49344538, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 61, 3, 1, 1);
+VALUES ( 31810935, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 61, 3, 1, 1);
+VALUES ( 33663510, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 61, 3, 1, 1);
+VALUES ( 53895937, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 61, 3, 1, 1);
+VALUES ( 43929061, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 61, 3, 1, 1);
+VALUES ( 57935270, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 61, 3, 1, 1);
+VALUES ( 56593641, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 61, 3, 1, 1);
+VALUES ( 28075005, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 61, 3, 1, 1);
+VALUES ( 22612556, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 61, 3, 1, 1);
+VALUES ( 33362720, 61, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22094772, 62, 3, 1, 1);
+VALUES ( 53986219, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32726577, 62, 3, 1, 1);
+VALUES ( 27141669, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11286948, 62, 3, 1, 1);
+VALUES ( 23816228, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28363561, 62, 3, 1, 1);
+VALUES ( 36560995, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35830894, 62, 3, 1, 1);
+VALUES ( 16437225, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38601064, 62, 3, 1, 1);
+VALUES ( 39234171, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24887393, 62, 3, 1, 1);
+VALUES ( 49247384, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57825952, 62, 3, 1, 1);
+VALUES ( 57014125, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38140238, 62, 3, 1, 1);
+VALUES ( 56203814, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53349342, 62, 3, 1, 1);
+VALUES ( 58512968, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47562914, 62, 3, 1, 1);
+VALUES ( 15469594, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56621036, 62, 3, 1, 1);
+VALUES ( 54855356, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42478889, 62, 3, 1, 1);
+VALUES ( 31675092, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43480336, 62, 3, 1, 1);
+VALUES ( 25720744, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15689033, 62, 3, 1, 1);
+VALUES ( 23059107, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23695600, 62, 3, 1, 1);
+VALUES ( 49344538, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44409179, 62, 3, 1, 1);
+VALUES ( 31810935, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12476398, 62, 3, 1, 1);
+VALUES ( 33663510, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21632799, 62, 3, 1, 1);
+VALUES ( 53895937, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51462431, 62, 3, 1, 1);
+VALUES ( 43929061, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35124990, 62, 3, 1, 1);
+VALUES ( 57935270, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44967743, 62, 3, 1, 1);
+VALUES ( 56593641, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14287688, 62, 3, 1, 1);
+VALUES ( 28075005, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35633262, 62, 3, 1, 1);
+VALUES ( 22612556, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49816894, 62, 3, 1, 1);
+VALUES ( 33362720, 62, 3, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 56, 4, 1, 1);
+VALUES ( 12425054, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 56, 4, 1, 1);
+VALUES ( 55334448, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 56, 4, 1, 1);
+VALUES ( 54089048, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 56, 4, 1, 1);
+VALUES ( 52265258, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 56, 4, 1, 1);
+VALUES ( 43247463, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 56, 4, 1, 1);
+VALUES ( 57010834, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 56, 4, 1, 1);
+VALUES ( 31781803, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 56, 4, 1, 1);
+VALUES ( 42804846, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 56, 4, 1, 1);
+VALUES ( 44132635, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 56, 4, 1, 1);
+VALUES ( 28691148, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 56, 4, 1, 1);
+VALUES ( 31809182, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 56, 4, 1, 1);
+VALUES ( 19830745, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 56, 4, 1, 1);
+VALUES ( 12283709, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 56, 4, 1, 1);
+VALUES ( 58227175, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 56, 4, 1, 1);
+VALUES ( 41506342, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 56, 4, 1, 1);
+VALUES ( 59696030, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 56, 4, 1, 1);
+VALUES ( 26671184, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 56, 4, 1, 1);
+VALUES ( 47607203, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 56, 4, 1, 1);
+VALUES ( 51500528, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 56, 4, 1, 1);
+VALUES ( 43155290, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 56, 4, 1, 1);
+VALUES ( 13867166, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 56, 4, 1, 1);
+VALUES ( 52911819, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 56, 4, 1, 1);
+VALUES ( 34268579, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 56, 4, 1, 1);
+VALUES ( 39917212, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 56, 4, 1, 1);
+VALUES ( 15947211, 56, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 57, 4, 1, 1);
+VALUES ( 12425054, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 57, 4, 1, 1);
+VALUES ( 55334448, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 57, 4, 1, 1);
+VALUES ( 54089048, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 57, 4, 1, 1);
+VALUES ( 52265258, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 57, 4, 1, 1);
+VALUES ( 43247463, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 57, 4, 1, 1);
+VALUES ( 57010834, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 57, 4, 1, 1);
+VALUES ( 31781803, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 57, 4, 1, 1);
+VALUES ( 42804846, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 57, 4, 1, 1);
+VALUES ( 44132635, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 57, 4, 1, 1);
+VALUES ( 28691148, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 57, 4, 1, 1);
+VALUES ( 31809182, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 57, 4, 1, 1);
+VALUES ( 19830745, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 57, 4, 1, 1);
+VALUES ( 12283709, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 57, 4, 1, 1);
+VALUES ( 58227175, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 57, 4, 1, 1);
+VALUES ( 41506342, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 57, 4, 1, 1);
+VALUES ( 59696030, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 57, 4, 1, 1);
+VALUES ( 26671184, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 57, 4, 1, 1);
+VALUES ( 47607203, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 57, 4, 1, 1);
+VALUES ( 51500528, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 57, 4, 1, 1);
+VALUES ( 43155290, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 57, 4, 1, 1);
+VALUES ( 13867166, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 57, 4, 1, 1);
+VALUES ( 52911819, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 57, 4, 1, 1);
+VALUES ( 34268579, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 57, 4, 1, 1);
+VALUES ( 39917212, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 57, 4, 1, 1);
+VALUES ( 15947211, 57, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 58, 4, 1, 1);
+VALUES ( 12425054, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 58, 4, 1, 1);
+VALUES ( 55334448, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 58, 4, 1, 1);
+VALUES ( 54089048, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 58, 4, 1, 1);
+VALUES ( 52265258, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 58, 4, 1, 1);
+VALUES ( 43247463, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 58, 4, 1, 1);
+VALUES ( 57010834, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 58, 4, 1, 1);
+VALUES ( 31781803, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 58, 4, 1, 1);
+VALUES ( 42804846, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 58, 4, 1, 1);
+VALUES ( 44132635, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 58, 4, 1, 1);
+VALUES ( 28691148, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 58, 4, 1, 1);
+VALUES ( 31809182, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 58, 4, 1, 1);
+VALUES ( 19830745, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 58, 4, 1, 1);
+VALUES ( 12283709, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 58, 4, 1, 1);
+VALUES ( 58227175, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 58, 4, 1, 1);
+VALUES ( 41506342, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 58, 4, 1, 1);
+VALUES ( 59696030, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 58, 4, 1, 1);
+VALUES ( 26671184, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 58, 4, 1, 1);
+VALUES ( 47607203, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 58, 4, 1, 1);
+VALUES ( 51500528, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 58, 4, 1, 1);
+VALUES ( 43155290, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 58, 4, 1, 1);
+VALUES ( 13867166, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 58, 4, 1, 1);
+VALUES ( 52911819, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 58, 4, 1, 1);
+VALUES ( 34268579, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 58, 4, 1, 1);
+VALUES ( 39917212, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 58, 4, 1, 1);
+VALUES ( 15947211, 58, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 59, 4, 1, 1);
+VALUES ( 12425054, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 59, 4, 1, 1);
+VALUES ( 55334448, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 59, 4, 1, 1);
+VALUES ( 54089048, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 59, 4, 1, 1);
+VALUES ( 52265258, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 59, 4, 1, 1);
+VALUES ( 43247463, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 59, 4, 1, 1);
+VALUES ( 57010834, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 59, 4, 1, 1);
+VALUES ( 31781803, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 59, 4, 1, 1);
+VALUES ( 42804846, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 59, 4, 1, 1);
+VALUES ( 44132635, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 59, 4, 1, 1);
+VALUES ( 28691148, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 59, 4, 1, 1);
+VALUES ( 31809182, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 59, 4, 1, 1);
+VALUES ( 19830745, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 59, 4, 1, 1);
+VALUES ( 12283709, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 59, 4, 1, 1);
+VALUES ( 58227175, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 59, 4, 1, 1);
+VALUES ( 41506342, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 59, 4, 1, 1);
+VALUES ( 59696030, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 59, 4, 1, 1);
+VALUES ( 26671184, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 59, 4, 1, 1);
+VALUES ( 47607203, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 59, 4, 1, 1);
+VALUES ( 51500528, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 59, 4, 1, 1);
+VALUES ( 43155290, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 59, 4, 1, 1);
+VALUES ( 13867166, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 59, 4, 1, 1);
+VALUES ( 52911819, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 59, 4, 1, 1);
+VALUES ( 34268579, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 59, 4, 1, 1);
+VALUES ( 39917212, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 59, 4, 1, 1);
+VALUES ( 15947211, 59, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 60, 4, 1, 1);
+VALUES ( 12425054, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 60, 4, 1, 1);
+VALUES ( 55334448, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 60, 4, 1, 1);
+VALUES ( 54089048, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 60, 4, 1, 1);
+VALUES ( 52265258, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 60, 4, 1, 1);
+VALUES ( 43247463, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 60, 4, 1, 1);
+VALUES ( 57010834, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 60, 4, 1, 1);
+VALUES ( 31781803, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 60, 4, 1, 1);
+VALUES ( 42804846, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 60, 4, 1, 1);
+VALUES ( 44132635, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 60, 4, 1, 1);
+VALUES ( 28691148, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 60, 4, 1, 1);
+VALUES ( 31809182, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 60, 4, 1, 1);
+VALUES ( 19830745, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 60, 4, 1, 1);
+VALUES ( 12283709, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 60, 4, 1, 1);
+VALUES ( 58227175, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 60, 4, 1, 1);
+VALUES ( 41506342, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 60, 4, 1, 1);
+VALUES ( 59696030, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 60, 4, 1, 1);
+VALUES ( 26671184, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 60, 4, 1, 1);
+VALUES ( 47607203, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 60, 4, 1, 1);
+VALUES ( 51500528, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 60, 4, 1, 1);
+VALUES ( 43155290, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 60, 4, 1, 1);
+VALUES ( 13867166, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 60, 4, 1, 1);
+VALUES ( 52911819, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 60, 4, 1, 1);
+VALUES ( 34268579, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 60, 4, 1, 1);
+VALUES ( 39917212, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 60, 4, 1, 1);
+VALUES ( 15947211, 60, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 61, 4, 1, 1);
+VALUES ( 12425054, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 61, 4, 1, 1);
+VALUES ( 55334448, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 61, 4, 1, 1);
+VALUES ( 54089048, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 61, 4, 1, 1);
+VALUES ( 52265258, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 61, 4, 1, 1);
+VALUES ( 43247463, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 61, 4, 1, 1);
+VALUES ( 57010834, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 61, 4, 1, 1);
+VALUES ( 31781803, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 61, 4, 1, 1);
+VALUES ( 42804846, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 61, 4, 1, 1);
+VALUES ( 44132635, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 61, 4, 1, 1);
+VALUES ( 28691148, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 61, 4, 1, 1);
+VALUES ( 31809182, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 61, 4, 1, 1);
+VALUES ( 19830745, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 61, 4, 1, 1);
+VALUES ( 12283709, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 61, 4, 1, 1);
+VALUES ( 58227175, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 61, 4, 1, 1);
+VALUES ( 41506342, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 61, 4, 1, 1);
+VALUES ( 59696030, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 61, 4, 1, 1);
+VALUES ( 26671184, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 61, 4, 1, 1);
+VALUES ( 47607203, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 61, 4, 1, 1);
+VALUES ( 51500528, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 61, 4, 1, 1);
+VALUES ( 43155290, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 61, 4, 1, 1);
+VALUES ( 13867166, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 61, 4, 1, 1);
+VALUES ( 52911819, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 61, 4, 1, 1);
+VALUES ( 34268579, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 61, 4, 1, 1);
+VALUES ( 39917212, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 61, 4, 1, 1);
+VALUES ( 15947211, 61, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33839274, 62, 4, 1, 1);
+VALUES ( 12425054, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17396648, 62, 4, 1, 1);
+VALUES ( 55334448, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16330667, 62, 4, 1, 1);
+VALUES ( 54089048, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54663523, 62, 4, 1, 1);
+VALUES ( 52265258, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37027390, 62, 4, 1, 1);
+VALUES ( 43247463, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16111445, 62, 4, 1, 1);
+VALUES ( 57010834, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27607075, 62, 4, 1, 1);
+VALUES ( 31781803, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11245522, 62, 4, 1, 1);
+VALUES ( 42804846, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29752488, 62, 4, 1, 1);
+VALUES ( 44132635, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36403351, 62, 4, 1, 1);
+VALUES ( 28691148, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49654781, 62, 4, 1, 1);
+VALUES ( 31809182, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12453522, 62, 4, 1, 1);
+VALUES ( 19830745, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17684819, 62, 4, 1, 1);
+VALUES ( 12283709, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24355697, 62, 4, 1, 1);
+VALUES ( 58227175, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57990193, 62, 4, 1, 1);
+VALUES ( 41506342, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48471326, 62, 4, 1, 1);
+VALUES ( 59696030, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14851580, 62, 4, 1, 1);
+VALUES ( 26671184, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44296299, 62, 4, 1, 1);
+VALUES ( 47607203, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16202006, 62, 4, 1, 1);
+VALUES ( 51500528, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29142029, 62, 4, 1, 1);
+VALUES ( 43155290, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51903067, 62, 4, 1, 1);
+VALUES ( 13867166, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29312789, 62, 4, 1, 1);
+VALUES ( 52911819, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44906791, 62, 4, 1, 1);
+VALUES ( 34268579, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43209049, 62, 4, 1, 1);
+VALUES ( 39917212, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29468439, 62, 4, 1, 1);
+VALUES ( 15947211, 62, 4, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 56, 5, 1, 1);
+VALUES ( 53616109, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 56, 5, 1, 1);
+VALUES ( 49002479, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 56, 5, 1, 1);
+VALUES ( 11343792, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 56, 5, 1, 1);
+VALUES ( 55901596, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 56, 5, 1, 1);
+VALUES ( 53326770, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 56, 5, 1, 1);
+VALUES ( 57889865, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 56, 5, 1, 1);
+VALUES ( 15096797, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 56, 5, 1, 1);
+VALUES ( 28978889, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 56, 5, 1, 1);
+VALUES ( 19848580, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 56, 5, 1, 1);
+VALUES ( 42000355, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 56, 5, 1, 1);
+VALUES ( 47763348, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 56, 5, 1, 1);
+VALUES ( 52283933, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 56, 5, 1, 1);
+VALUES ( 19133254, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 56, 5, 1, 1);
+VALUES ( 42806327, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 56, 5, 1, 1);
+VALUES ( 37884483, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 56, 5, 1, 1);
+VALUES ( 21269356, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 56, 5, 1, 1);
+VALUES ( 13567110, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 56, 5, 1, 1);
+VALUES ( 29545502, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 56, 5, 1, 1);
+VALUES ( 57015442, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 56, 5, 1, 1);
+VALUES ( 38975722, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 56, 5, 1, 1);
+VALUES ( 35444209, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 56, 5, 1, 1);
+VALUES ( 24608866, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 56, 5, 1, 1);
+VALUES ( 46949838, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 56, 5, 1, 1);
+VALUES ( 43745261, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 56, 5, 1, 1);
+VALUES ( 31825922, 56, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 57, 5, 1, 1);
+VALUES ( 53616109, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 57, 5, 1, 1);
+VALUES ( 49002479, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 57, 5, 1, 1);
+VALUES ( 11343792, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 57, 5, 1, 1);
+VALUES ( 55901596, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 57, 5, 1, 1);
+VALUES ( 53326770, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 57, 5, 1, 1);
+VALUES ( 57889865, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 57, 5, 1, 1);
+VALUES ( 15096797, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 57, 5, 1, 1);
+VALUES ( 28978889, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 57, 5, 1, 1);
+VALUES ( 19848580, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 57, 5, 1, 1);
+VALUES ( 42000355, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 57, 5, 1, 1);
+VALUES ( 47763348, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 57, 5, 1, 1);
+VALUES ( 52283933, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 57, 5, 1, 1);
+VALUES ( 19133254, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 57, 5, 1, 1);
+VALUES ( 42806327, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 57, 5, 1, 1);
+VALUES ( 37884483, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 57, 5, 1, 1);
+VALUES ( 21269356, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 57, 5, 1, 1);
+VALUES ( 13567110, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 57, 5, 1, 1);
+VALUES ( 29545502, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 57, 5, 1, 1);
+VALUES ( 57015442, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 57, 5, 1, 1);
+VALUES ( 38975722, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 57, 5, 1, 1);
+VALUES ( 35444209, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 57, 5, 1, 1);
+VALUES ( 24608866, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 57, 5, 1, 1);
+VALUES ( 46949838, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 57, 5, 1, 1);
+VALUES ( 43745261, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 57, 5, 1, 1);
+VALUES ( 31825922, 57, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 58, 5, 1, 1);
+VALUES ( 53616109, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 58, 5, 1, 1);
+VALUES ( 49002479, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 58, 5, 1, 1);
+VALUES ( 11343792, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 58, 5, 1, 1);
+VALUES ( 55901596, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 58, 5, 1, 1);
+VALUES ( 53326770, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 58, 5, 1, 1);
+VALUES ( 57889865, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 58, 5, 1, 1);
+VALUES ( 15096797, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 58, 5, 1, 1);
+VALUES ( 28978889, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 58, 5, 1, 1);
+VALUES ( 19848580, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 58, 5, 1, 1);
+VALUES ( 42000355, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 58, 5, 1, 1);
+VALUES ( 47763348, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 58, 5, 1, 1);
+VALUES ( 52283933, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 58, 5, 1, 1);
+VALUES ( 19133254, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 58, 5, 1, 1);
+VALUES ( 42806327, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 58, 5, 1, 1);
+VALUES ( 37884483, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 58, 5, 1, 1);
+VALUES ( 21269356, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 58, 5, 1, 1);
+VALUES ( 13567110, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 58, 5, 1, 1);
+VALUES ( 29545502, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 58, 5, 1, 1);
+VALUES ( 57015442, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 58, 5, 1, 1);
+VALUES ( 38975722, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 58, 5, 1, 1);
+VALUES ( 35444209, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 58, 5, 1, 1);
+VALUES ( 24608866, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 58, 5, 1, 1);
+VALUES ( 46949838, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 58, 5, 1, 1);
+VALUES ( 43745261, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 58, 5, 1, 1);
+VALUES ( 31825922, 58, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 59, 5, 1, 1);
+VALUES ( 53616109, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 59, 5, 1, 1);
+VALUES ( 49002479, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 59, 5, 1, 1);
+VALUES ( 11343792, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 59, 5, 1, 1);
+VALUES ( 55901596, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 59, 5, 1, 1);
+VALUES ( 53326770, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 59, 5, 1, 1);
+VALUES ( 57889865, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 59, 5, 1, 1);
+VALUES ( 15096797, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 59, 5, 1, 1);
+VALUES ( 28978889, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 59, 5, 1, 1);
+VALUES ( 19848580, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 59, 5, 1, 1);
+VALUES ( 42000355, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 59, 5, 1, 1);
+VALUES ( 47763348, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 59, 5, 1, 1);
+VALUES ( 52283933, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 59, 5, 1, 1);
+VALUES ( 19133254, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 59, 5, 1, 1);
+VALUES ( 42806327, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 59, 5, 1, 1);
+VALUES ( 37884483, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 59, 5, 1, 1);
+VALUES ( 21269356, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 59, 5, 1, 1);
+VALUES ( 13567110, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 59, 5, 1, 1);
+VALUES ( 29545502, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 59, 5, 1, 1);
+VALUES ( 57015442, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 59, 5, 1, 1);
+VALUES ( 38975722, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 59, 5, 1, 1);
+VALUES ( 35444209, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 59, 5, 1, 1);
+VALUES ( 24608866, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 59, 5, 1, 1);
+VALUES ( 46949838, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 59, 5, 1, 1);
+VALUES ( 43745261, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 59, 5, 1, 1);
+VALUES ( 31825922, 59, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 60, 5, 1, 1);
+VALUES ( 53616109, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 60, 5, 1, 1);
+VALUES ( 49002479, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 60, 5, 1, 1);
+VALUES ( 11343792, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 60, 5, 1, 1);
+VALUES ( 55901596, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 60, 5, 1, 1);
+VALUES ( 53326770, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 60, 5, 1, 1);
+VALUES ( 57889865, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 60, 5, 1, 1);
+VALUES ( 15096797, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 60, 5, 1, 1);
+VALUES ( 28978889, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 60, 5, 1, 1);
+VALUES ( 19848580, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 60, 5, 1, 1);
+VALUES ( 42000355, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 60, 5, 1, 1);
+VALUES ( 47763348, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 60, 5, 1, 1);
+VALUES ( 52283933, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 60, 5, 1, 1);
+VALUES ( 19133254, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 60, 5, 1, 1);
+VALUES ( 42806327, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 60, 5, 1, 1);
+VALUES ( 37884483, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 60, 5, 1, 1);
+VALUES ( 21269356, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 60, 5, 1, 1);
+VALUES ( 13567110, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 60, 5, 1, 1);
+VALUES ( 29545502, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 60, 5, 1, 1);
+VALUES ( 57015442, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 60, 5, 1, 1);
+VALUES ( 38975722, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 60, 5, 1, 1);
+VALUES ( 35444209, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 60, 5, 1, 1);
+VALUES ( 24608866, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 60, 5, 1, 1);
+VALUES ( 46949838, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 60, 5, 1, 1);
+VALUES ( 43745261, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 60, 5, 1, 1);
+VALUES ( 31825922, 60, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 61, 5, 1, 1);
+VALUES ( 53616109, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 61, 5, 1, 1);
+VALUES ( 49002479, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 61, 5, 1, 1);
+VALUES ( 11343792, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 61, 5, 1, 1);
+VALUES ( 55901596, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 61, 5, 1, 1);
+VALUES ( 53326770, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 61, 5, 1, 1);
+VALUES ( 57889865, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 61, 5, 1, 1);
+VALUES ( 15096797, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 61, 5, 1, 1);
+VALUES ( 28978889, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 61, 5, 1, 1);
+VALUES ( 19848580, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 61, 5, 1, 1);
+VALUES ( 42000355, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 61, 5, 1, 1);
+VALUES ( 47763348, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 61, 5, 1, 1);
+VALUES ( 52283933, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 61, 5, 1, 1);
+VALUES ( 19133254, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 61, 5, 1, 1);
+VALUES ( 42806327, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 61, 5, 1, 1);
+VALUES ( 37884483, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 61, 5, 1, 1);
+VALUES ( 21269356, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 61, 5, 1, 1);
+VALUES ( 13567110, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 61, 5, 1, 1);
+VALUES ( 29545502, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 61, 5, 1, 1);
+VALUES ( 57015442, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 61, 5, 1, 1);
+VALUES ( 38975722, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 61, 5, 1, 1);
+VALUES ( 35444209, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 61, 5, 1, 1);
+VALUES ( 24608866, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 61, 5, 1, 1);
+VALUES ( 46949838, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 61, 5, 1, 1);
+VALUES ( 43745261, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 61, 5, 1, 1);
+VALUES ( 31825922, 61, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55672341, 62, 5, 1, 1);
+VALUES ( 53616109, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16032910, 62, 5, 1, 1);
+VALUES ( 49002479, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19711359, 62, 5, 1, 1);
+VALUES ( 11343792, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15522706, 62, 5, 1, 1);
+VALUES ( 55901596, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42174809, 62, 5, 1, 1);
+VALUES ( 53326770, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15355941, 62, 5, 1, 1);
+VALUES ( 57889865, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21451236, 62, 5, 1, 1);
+VALUES ( 15096797, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11118379, 62, 5, 1, 1);
+VALUES ( 28978889, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21975222, 62, 5, 1, 1);
+VALUES ( 19848580, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19473810, 62, 5, 1, 1);
+VALUES ( 42000355, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59422465, 62, 5, 1, 1);
+VALUES ( 47763348, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44140464, 62, 5, 1, 1);
+VALUES ( 52283933, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38551625, 62, 5, 1, 1);
+VALUES ( 19133254, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55984906, 62, 5, 1, 1);
+VALUES ( 42806327, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43604542, 62, 5, 1, 1);
+VALUES ( 37884483, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53372616, 62, 5, 1, 1);
+VALUES ( 21269356, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54511910, 62, 5, 1, 1);
+VALUES ( 13567110, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37250743, 62, 5, 1, 1);
+VALUES ( 29545502, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39102382, 62, 5, 1, 1);
+VALUES ( 57015442, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21517177, 62, 5, 1, 1);
+VALUES ( 38975722, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37307992, 62, 5, 1, 1);
+VALUES ( 35444209, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16334895, 62, 5, 1, 1);
+VALUES ( 24608866, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28141773, 62, 5, 1, 1);
+VALUES ( 46949838, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54790613, 62, 5, 1, 1);
+VALUES ( 43745261, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32115722, 62, 5, 1, 1);
+VALUES ( 31825922, 62, 5, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 56, 6, 1, 1);
+VALUES ( 41662421, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 56, 6, 1, 1);
+VALUES ( 15331773, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 56, 6, 1, 1);
+VALUES ( 45377422, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 56, 6, 1, 1);
+VALUES ( 46319683, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 56, 6, 1, 1);
+VALUES ( 56173835, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 56, 6, 1, 1);
+VALUES ( 18963474, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 56, 6, 1, 1);
+VALUES ( 17696923, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 56, 6, 1, 1);
+VALUES ( 46190007, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 56, 6, 1, 1);
+VALUES ( 32017621, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 56, 6, 1, 1);
+VALUES ( 44428604, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 56, 6, 1, 1);
+VALUES ( 18707531, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 56, 6, 1, 1);
+VALUES ( 54255843, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 56, 6, 1, 1);
+VALUES ( 55136709, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 56, 6, 1, 1);
+VALUES ( 18073344, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 56, 6, 1, 1);
+VALUES ( 15797648, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 56, 6, 1, 1);
+VALUES ( 13644841, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 56, 6, 1, 1);
+VALUES ( 37917395, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 56, 6, 1, 1);
+VALUES ( 52992839, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 56, 6, 1, 1);
+VALUES ( 14551001, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 56, 6, 1, 1);
+VALUES ( 18932396, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 56, 6, 1, 1);
+VALUES ( 42180969, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 56, 6, 1, 1);
+VALUES ( 11813204, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 56, 6, 1, 1);
+VALUES ( 54738065, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 56, 6, 1, 1);
+VALUES ( 26001012, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 56, 6, 1, 1);
+VALUES ( 28842646, 56, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 57, 6, 1, 1);
+VALUES ( 41662421, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 57, 6, 1, 1);
+VALUES ( 15331773, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 57, 6, 1, 1);
+VALUES ( 45377422, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 57, 6, 1, 1);
+VALUES ( 46319683, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 57, 6, 1, 1);
+VALUES ( 56173835, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 57, 6, 1, 1);
+VALUES ( 18963474, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 57, 6, 1, 1);
+VALUES ( 17696923, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 57, 6, 1, 1);
+VALUES ( 46190007, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 57, 6, 1, 1);
+VALUES ( 32017621, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 57, 6, 1, 1);
+VALUES ( 44428604, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 57, 6, 1, 1);
+VALUES ( 18707531, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 57, 6, 1, 1);
+VALUES ( 54255843, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 57, 6, 1, 1);
+VALUES ( 55136709, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 57, 6, 1, 1);
+VALUES ( 18073344, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 57, 6, 1, 1);
+VALUES ( 15797648, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 57, 6, 1, 1);
+VALUES ( 13644841, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 57, 6, 1, 1);
+VALUES ( 37917395, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 57, 6, 1, 1);
+VALUES ( 52992839, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 57, 6, 1, 1);
+VALUES ( 14551001, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 57, 6, 1, 1);
+VALUES ( 18932396, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 57, 6, 1, 1);
+VALUES ( 42180969, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 57, 6, 1, 1);
+VALUES ( 11813204, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 57, 6, 1, 1);
+VALUES ( 54738065, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 57, 6, 1, 1);
+VALUES ( 26001012, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 57, 6, 1, 1);
+VALUES ( 28842646, 57, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 58, 6, 1, 1);
+VALUES ( 41662421, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 58, 6, 1, 1);
+VALUES ( 15331773, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 58, 6, 1, 1);
+VALUES ( 45377422, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 58, 6, 1, 1);
+VALUES ( 46319683, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 58, 6, 1, 1);
+VALUES ( 56173835, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 58, 6, 1, 1);
+VALUES ( 18963474, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 58, 6, 1, 1);
+VALUES ( 17696923, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 58, 6, 1, 1);
+VALUES ( 46190007, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 58, 6, 1, 1);
+VALUES ( 32017621, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 58, 6, 1, 1);
+VALUES ( 44428604, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 58, 6, 1, 1);
+VALUES ( 18707531, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 58, 6, 1, 1);
+VALUES ( 54255843, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 58, 6, 1, 1);
+VALUES ( 55136709, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 58, 6, 1, 1);
+VALUES ( 18073344, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 58, 6, 1, 1);
+VALUES ( 15797648, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 58, 6, 1, 1);
+VALUES ( 13644841, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 58, 6, 1, 1);
+VALUES ( 37917395, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 58, 6, 1, 1);
+VALUES ( 52992839, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 58, 6, 1, 1);
+VALUES ( 14551001, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 58, 6, 1, 1);
+VALUES ( 18932396, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 58, 6, 1, 1);
+VALUES ( 42180969, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 58, 6, 1, 1);
+VALUES ( 11813204, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 58, 6, 1, 1);
+VALUES ( 54738065, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 58, 6, 1, 1);
+VALUES ( 26001012, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 58, 6, 1, 1);
+VALUES ( 28842646, 58, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 59, 6, 1, 1);
+VALUES ( 41662421, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 59, 6, 1, 1);
+VALUES ( 15331773, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 59, 6, 1, 1);
+VALUES ( 45377422, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 59, 6, 1, 1);
+VALUES ( 46319683, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 59, 6, 1, 1);
+VALUES ( 56173835, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 59, 6, 1, 1);
+VALUES ( 18963474, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 59, 6, 1, 1);
+VALUES ( 17696923, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 59, 6, 1, 1);
+VALUES ( 46190007, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 59, 6, 1, 1);
+VALUES ( 32017621, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 59, 6, 1, 1);
+VALUES ( 44428604, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 59, 6, 1, 1);
+VALUES ( 18707531, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 59, 6, 1, 1);
+VALUES ( 54255843, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 59, 6, 1, 1);
+VALUES ( 55136709, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 59, 6, 1, 1);
+VALUES ( 18073344, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 59, 6, 1, 1);
+VALUES ( 15797648, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 59, 6, 1, 1);
+VALUES ( 13644841, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 59, 6, 1, 1);
+VALUES ( 37917395, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 59, 6, 1, 1);
+VALUES ( 52992839, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 59, 6, 1, 1);
+VALUES ( 14551001, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 59, 6, 1, 1);
+VALUES ( 18932396, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 59, 6, 1, 1);
+VALUES ( 42180969, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 59, 6, 1, 1);
+VALUES ( 11813204, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 59, 6, 1, 1);
+VALUES ( 54738065, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 59, 6, 1, 1);
+VALUES ( 26001012, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 59, 6, 1, 1);
+VALUES ( 28842646, 59, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 60, 6, 1, 1);
+VALUES ( 41662421, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 60, 6, 1, 1);
+VALUES ( 15331773, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 60, 6, 1, 1);
+VALUES ( 45377422, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 60, 6, 1, 1);
+VALUES ( 46319683, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 60, 6, 1, 1);
+VALUES ( 56173835, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 60, 6, 1, 1);
+VALUES ( 18963474, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 60, 6, 1, 1);
+VALUES ( 17696923, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 60, 6, 1, 1);
+VALUES ( 46190007, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 60, 6, 1, 1);
+VALUES ( 32017621, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 60, 6, 1, 1);
+VALUES ( 44428604, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 60, 6, 1, 1);
+VALUES ( 18707531, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 60, 6, 1, 1);
+VALUES ( 54255843, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 60, 6, 1, 1);
+VALUES ( 55136709, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 60, 6, 1, 1);
+VALUES ( 18073344, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 60, 6, 1, 1);
+VALUES ( 15797648, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 60, 6, 1, 1);
+VALUES ( 13644841, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 60, 6, 1, 1);
+VALUES ( 37917395, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 60, 6, 1, 1);
+VALUES ( 52992839, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 60, 6, 1, 1);
+VALUES ( 14551001, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 60, 6, 1, 1);
+VALUES ( 18932396, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 60, 6, 1, 1);
+VALUES ( 42180969, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 60, 6, 1, 1);
+VALUES ( 11813204, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 60, 6, 1, 1);
+VALUES ( 54738065, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 60, 6, 1, 1);
+VALUES ( 26001012, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 60, 6, 1, 1);
+VALUES ( 28842646, 60, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 61, 6, 1, 1);
+VALUES ( 41662421, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 61, 6, 1, 1);
+VALUES ( 15331773, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 61, 6, 1, 1);
+VALUES ( 45377422, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 61, 6, 1, 1);
+VALUES ( 46319683, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 61, 6, 1, 1);
+VALUES ( 56173835, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 61, 6, 1, 1);
+VALUES ( 18963474, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 61, 6, 1, 1);
+VALUES ( 17696923, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 61, 6, 1, 1);
+VALUES ( 46190007, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 61, 6, 1, 1);
+VALUES ( 32017621, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 61, 6, 1, 1);
+VALUES ( 44428604, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 61, 6, 1, 1);
+VALUES ( 18707531, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 61, 6, 1, 1);
+VALUES ( 54255843, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 61, 6, 1, 1);
+VALUES ( 55136709, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 61, 6, 1, 1);
+VALUES ( 18073344, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 61, 6, 1, 1);
+VALUES ( 15797648, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 61, 6, 1, 1);
+VALUES ( 13644841, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 61, 6, 1, 1);
+VALUES ( 37917395, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 61, 6, 1, 1);
+VALUES ( 52992839, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 61, 6, 1, 1);
+VALUES ( 14551001, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 61, 6, 1, 1);
+VALUES ( 18932396, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 61, 6, 1, 1);
+VALUES ( 42180969, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 61, 6, 1, 1);
+VALUES ( 11813204, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 61, 6, 1, 1);
+VALUES ( 54738065, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 61, 6, 1, 1);
+VALUES ( 26001012, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 61, 6, 1, 1);
+VALUES ( 28842646, 61, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13858640, 62, 6, 1, 1);
+VALUES ( 41662421, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39734682, 62, 6, 1, 1);
+VALUES ( 15331773, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15525134, 62, 6, 1, 1);
+VALUES ( 45377422, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18952615, 62, 6, 1, 1);
+VALUES ( 46319683, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52034057, 62, 6, 1, 1);
+VALUES ( 56173835, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11703986, 62, 6, 1, 1);
+VALUES ( 18963474, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39222653, 62, 6, 1, 1);
+VALUES ( 17696923, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13724659, 62, 6, 1, 1);
+VALUES ( 46190007, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32113542, 62, 6, 1, 1);
+VALUES ( 32017621, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52009898, 62, 6, 1, 1);
+VALUES ( 44428604, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19381249, 62, 6, 1, 1);
+VALUES ( 18707531, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47027172, 62, 6, 1, 1);
+VALUES ( 54255843, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57260140, 62, 6, 1, 1);
+VALUES ( 55136709, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45399307, 62, 6, 1, 1);
+VALUES ( 18073344, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18181181, 62, 6, 1, 1);
+VALUES ( 15797648, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23518242, 62, 6, 1, 1);
+VALUES ( 13644841, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29231767, 62, 6, 1, 1);
+VALUES ( 37917395, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33753177, 62, 6, 1, 1);
+VALUES ( 52992839, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33995353, 62, 6, 1, 1);
+VALUES ( 14551001, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47267225, 62, 6, 1, 1);
+VALUES ( 18932396, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47658365, 62, 6, 1, 1);
+VALUES ( 42180969, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43246061, 62, 6, 1, 1);
+VALUES ( 11813204, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36943745, 62, 6, 1, 1);
+VALUES ( 54738065, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33758280, 62, 6, 1, 1);
+VALUES ( 26001012, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51383718, 62, 6, 1, 1);
+VALUES ( 28842646, 62, 6, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 56, 7, 1, 1);
+VALUES ( 27354834, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 56, 7, 1, 1);
+VALUES ( 59986431, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 56, 7, 1, 1);
+VALUES ( 48582046, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 56, 7, 1, 1);
+VALUES ( 49544849, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 56, 7, 1, 1);
+VALUES ( 16185549, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 56, 7, 1, 1);
+VALUES ( 56004444, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 56, 7, 1, 1);
+VALUES ( 47787798, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 56, 7, 1, 1);
+VALUES ( 18341503, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 56, 7, 1, 1);
+VALUES ( 57261592, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 56, 7, 1, 1);
+VALUES ( 13201219, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 56, 7, 1, 1);
+VALUES ( 36818170, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 56, 7, 1, 1);
+VALUES ( 32359122, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 56, 7, 1, 1);
+VALUES ( 34439590, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 56, 7, 1, 1);
+VALUES ( 43825336, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 56, 7, 1, 1);
+VALUES ( 51339585, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 56, 7, 1, 1);
+VALUES ( 35167085, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 56, 7, 1, 1);
+VALUES ( 11938064, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 56, 7, 1, 1);
+VALUES ( 34722482, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 56, 7, 1, 1);
+VALUES ( 15235830, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 56, 7, 1, 1);
+VALUES ( 46635736, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 56, 7, 1, 1);
+VALUES ( 42727212, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 56, 7, 1, 1);
+VALUES ( 28725145, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 56, 7, 1, 1);
+VALUES ( 52751453, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 56, 7, 1, 1);
+VALUES ( 32144705, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 56, 7, 1, 1);
+VALUES ( 32412635, 56, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 57, 7, 1, 1);
+VALUES ( 27354834, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 57, 7, 1, 1);
+VALUES ( 59986431, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 57, 7, 1, 1);
+VALUES ( 48582046, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 57, 7, 1, 1);
+VALUES ( 49544849, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 57, 7, 1, 1);
+VALUES ( 16185549, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 57, 7, 1, 1);
+VALUES ( 56004444, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 57, 7, 1, 1);
+VALUES ( 47787798, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 57, 7, 1, 1);
+VALUES ( 18341503, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 57, 7, 1, 1);
+VALUES ( 57261592, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 57, 7, 1, 1);
+VALUES ( 13201219, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 57, 7, 1, 1);
+VALUES ( 36818170, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 57, 7, 1, 1);
+VALUES ( 32359122, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 57, 7, 1, 1);
+VALUES ( 34439590, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 57, 7, 1, 1);
+VALUES ( 43825336, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 57, 7, 1, 1);
+VALUES ( 51339585, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 57, 7, 1, 1);
+VALUES ( 35167085, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 57, 7, 1, 1);
+VALUES ( 11938064, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 57, 7, 1, 1);
+VALUES ( 34722482, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 57, 7, 1, 1);
+VALUES ( 15235830, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 57, 7, 1, 1);
+VALUES ( 46635736, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 57, 7, 1, 1);
+VALUES ( 42727212, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 57, 7, 1, 1);
+VALUES ( 28725145, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 57, 7, 1, 1);
+VALUES ( 52751453, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 57, 7, 1, 1);
+VALUES ( 32144705, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 57, 7, 1, 1);
+VALUES ( 32412635, 57, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 58, 7, 1, 1);
+VALUES ( 27354834, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 58, 7, 1, 1);
+VALUES ( 59986431, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 58, 7, 1, 1);
+VALUES ( 48582046, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 58, 7, 1, 1);
+VALUES ( 49544849, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 58, 7, 1, 1);
+VALUES ( 16185549, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 58, 7, 1, 1);
+VALUES ( 56004444, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 58, 7, 1, 1);
+VALUES ( 47787798, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 58, 7, 1, 1);
+VALUES ( 18341503, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 58, 7, 1, 1);
+VALUES ( 57261592, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 58, 7, 1, 1);
+VALUES ( 13201219, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 58, 7, 1, 1);
+VALUES ( 36818170, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 58, 7, 1, 1);
+VALUES ( 32359122, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 58, 7, 1, 1);
+VALUES ( 34439590, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 58, 7, 1, 1);
+VALUES ( 43825336, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 58, 7, 1, 1);
+VALUES ( 51339585, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 58, 7, 1, 1);
+VALUES ( 35167085, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 58, 7, 1, 1);
+VALUES ( 11938064, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 58, 7, 1, 1);
+VALUES ( 34722482, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 58, 7, 1, 1);
+VALUES ( 15235830, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 58, 7, 1, 1);
+VALUES ( 46635736, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 58, 7, 1, 1);
+VALUES ( 42727212, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 58, 7, 1, 1);
+VALUES ( 28725145, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 58, 7, 1, 1);
+VALUES ( 52751453, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 58, 7, 1, 1);
+VALUES ( 32144705, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 58, 7, 1, 1);
+VALUES ( 32412635, 58, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 59, 7, 1, 1);
+VALUES ( 27354834, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 59, 7, 1, 1);
+VALUES ( 59986431, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 59, 7, 1, 1);
+VALUES ( 48582046, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 59, 7, 1, 1);
+VALUES ( 49544849, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 59, 7, 1, 1);
+VALUES ( 16185549, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 59, 7, 1, 1);
+VALUES ( 56004444, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 59, 7, 1, 1);
+VALUES ( 47787798, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 59, 7, 1, 1);
+VALUES ( 18341503, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 59, 7, 1, 1);
+VALUES ( 57261592, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 59, 7, 1, 1);
+VALUES ( 13201219, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 59, 7, 1, 1);
+VALUES ( 36818170, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 59, 7, 1, 1);
+VALUES ( 32359122, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 59, 7, 1, 1);
+VALUES ( 34439590, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 59, 7, 1, 1);
+VALUES ( 43825336, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 59, 7, 1, 1);
+VALUES ( 51339585, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 59, 7, 1, 1);
+VALUES ( 35167085, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 59, 7, 1, 1);
+VALUES ( 11938064, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 59, 7, 1, 1);
+VALUES ( 34722482, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 59, 7, 1, 1);
+VALUES ( 15235830, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 59, 7, 1, 1);
+VALUES ( 46635736, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 59, 7, 1, 1);
+VALUES ( 42727212, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 59, 7, 1, 1);
+VALUES ( 28725145, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 59, 7, 1, 1);
+VALUES ( 52751453, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 59, 7, 1, 1);
+VALUES ( 32144705, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 59, 7, 1, 1);
+VALUES ( 32412635, 59, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 60, 7, 1, 1);
+VALUES ( 27354834, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 60, 7, 1, 1);
+VALUES ( 59986431, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 60, 7, 1, 1);
+VALUES ( 48582046, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 60, 7, 1, 1);
+VALUES ( 49544849, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 60, 7, 1, 1);
+VALUES ( 16185549, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 60, 7, 1, 1);
+VALUES ( 56004444, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 60, 7, 1, 1);
+VALUES ( 47787798, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 60, 7, 1, 1);
+VALUES ( 18341503, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 60, 7, 1, 1);
+VALUES ( 57261592, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 60, 7, 1, 1);
+VALUES ( 13201219, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 60, 7, 1, 1);
+VALUES ( 36818170, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 60, 7, 1, 1);
+VALUES ( 32359122, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 60, 7, 1, 1);
+VALUES ( 34439590, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 60, 7, 1, 1);
+VALUES ( 43825336, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 60, 7, 1, 1);
+VALUES ( 51339585, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 60, 7, 1, 1);
+VALUES ( 35167085, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 60, 7, 1, 1);
+VALUES ( 11938064, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 60, 7, 1, 1);
+VALUES ( 34722482, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 60, 7, 1, 1);
+VALUES ( 15235830, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 60, 7, 1, 1);
+VALUES ( 46635736, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 60, 7, 1, 1);
+VALUES ( 42727212, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 60, 7, 1, 1);
+VALUES ( 28725145, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 60, 7, 1, 1);
+VALUES ( 52751453, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 60, 7, 1, 1);
+VALUES ( 32144705, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 60, 7, 1, 1);
+VALUES ( 32412635, 60, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 61, 7, 1, 1);
+VALUES ( 27354834, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 61, 7, 1, 1);
+VALUES ( 59986431, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 61, 7, 1, 1);
+VALUES ( 48582046, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 61, 7, 1, 1);
+VALUES ( 49544849, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 61, 7, 1, 1);
+VALUES ( 16185549, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 61, 7, 1, 1);
+VALUES ( 56004444, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 61, 7, 1, 1);
+VALUES ( 47787798, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 61, 7, 1, 1);
+VALUES ( 18341503, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 61, 7, 1, 1);
+VALUES ( 57261592, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 61, 7, 1, 1);
+VALUES ( 13201219, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 61, 7, 1, 1);
+VALUES ( 36818170, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 61, 7, 1, 1);
+VALUES ( 32359122, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 61, 7, 1, 1);
+VALUES ( 34439590, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 61, 7, 1, 1);
+VALUES ( 43825336, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 61, 7, 1, 1);
+VALUES ( 51339585, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 61, 7, 1, 1);
+VALUES ( 35167085, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 61, 7, 1, 1);
+VALUES ( 11938064, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 61, 7, 1, 1);
+VALUES ( 34722482, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 61, 7, 1, 1);
+VALUES ( 15235830, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 61, 7, 1, 1);
+VALUES ( 46635736, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 61, 7, 1, 1);
+VALUES ( 42727212, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 61, 7, 1, 1);
+VALUES ( 28725145, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 61, 7, 1, 1);
+VALUES ( 52751453, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 61, 7, 1, 1);
+VALUES ( 32144705, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 61, 7, 1, 1);
+VALUES ( 32412635, 61, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27134969, 62, 7, 1, 1);
+VALUES ( 27354834, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43066449, 62, 7, 1, 1);
+VALUES ( 59986431, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11363312, 62, 7, 1, 1);
+VALUES ( 48582046, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17540665, 62, 7, 1, 1);
+VALUES ( 49544849, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47884629, 62, 7, 1, 1);
+VALUES ( 16185549, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55489473, 62, 7, 1, 1);
+VALUES ( 56004444, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31719729, 62, 7, 1, 1);
+VALUES ( 47787798, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42235518, 62, 7, 1, 1);
+VALUES ( 18341503, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28999635, 62, 7, 1, 1);
+VALUES ( 57261592, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36242139, 62, 7, 1, 1);
+VALUES ( 13201219, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37736951, 62, 7, 1, 1);
+VALUES ( 36818170, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55607287, 62, 7, 1, 1);
+VALUES ( 32359122, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14599130, 62, 7, 1, 1);
+VALUES ( 34439590, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36240222, 62, 7, 1, 1);
+VALUES ( 43825336, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51072420, 62, 7, 1, 1);
+VALUES ( 51339585, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46232112, 62, 7, 1, 1);
+VALUES ( 35167085, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47648099, 62, 7, 1, 1);
+VALUES ( 11938064, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58024561, 62, 7, 1, 1);
+VALUES ( 34722482, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44585232, 62, 7, 1, 1);
+VALUES ( 15235830, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24134182, 62, 7, 1, 1);
+VALUES ( 46635736, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28642971, 62, 7, 1, 1);
+VALUES ( 42727212, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35329132, 62, 7, 1, 1);
+VALUES ( 28725145, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34054861, 62, 7, 1, 1);
+VALUES ( 52751453, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26487557, 62, 7, 1, 1);
+VALUES ( 32144705, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25379822, 62, 7, 1, 1);
+VALUES ( 32412635, 62, 7, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 56, 8, 1, 1);
+VALUES ( 26923945, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 56, 8, 1, 1);
+VALUES ( 54884737, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 56, 8, 1, 1);
+VALUES ( 57867639, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 56, 8, 1, 1);
+VALUES ( 28929446, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 56, 8, 1, 1);
+VALUES ( 33833270, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 56, 8, 1, 1);
+VALUES ( 23026429, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 56, 8, 1, 1);
+VALUES ( 12375160, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 56, 8, 1, 1);
+VALUES ( 12319889, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 56, 8, 1, 1);
+VALUES ( 16420917, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 56, 8, 1, 1);
+VALUES ( 35958195, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 56, 8, 1, 1);
+VALUES ( 31925128, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 56, 8, 1, 1);
+VALUES ( 13518498, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 56, 8, 1, 1);
+VALUES ( 56510225, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 56, 8, 1, 1);
+VALUES ( 25443871, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 56, 8, 1, 1);
+VALUES ( 44684440, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 56, 8, 1, 1);
+VALUES ( 28743864, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 56, 8, 1, 1);
+VALUES ( 22884173, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 56, 8, 1, 1);
+VALUES ( 14962545, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 56, 8, 1, 1);
+VALUES ( 39334208, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 56, 8, 1, 1);
+VALUES ( 24941270, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 56, 8, 1, 1);
+VALUES ( 27878375, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 56, 8, 1, 1);
+VALUES ( 34583907, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 56, 8, 1, 1);
+VALUES ( 32828947, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 56, 8, 1, 1);
+VALUES ( 42044074, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 56, 8, 1, 1);
+VALUES ( 36185216, 56, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 57, 8, 1, 1);
+VALUES ( 26923945, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 57, 8, 1, 1);
+VALUES ( 54884737, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 57, 8, 1, 1);
+VALUES ( 57867639, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 57, 8, 1, 1);
+VALUES ( 28929446, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 57, 8, 1, 1);
+VALUES ( 33833270, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 57, 8, 1, 1);
+VALUES ( 23026429, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 57, 8, 1, 1);
+VALUES ( 12375160, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 57, 8, 1, 1);
+VALUES ( 12319889, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 57, 8, 1, 1);
+VALUES ( 16420917, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 57, 8, 1, 1);
+VALUES ( 35958195, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 57, 8, 1, 1);
+VALUES ( 31925128, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 57, 8, 1, 1);
+VALUES ( 13518498, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 57, 8, 1, 1);
+VALUES ( 56510225, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 57, 8, 1, 1);
+VALUES ( 25443871, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 57, 8, 1, 1);
+VALUES ( 44684440, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 57, 8, 1, 1);
+VALUES ( 28743864, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 57, 8, 1, 1);
+VALUES ( 22884173, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 57, 8, 1, 1);
+VALUES ( 14962545, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 57, 8, 1, 1);
+VALUES ( 39334208, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 57, 8, 1, 1);
+VALUES ( 24941270, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 57, 8, 1, 1);
+VALUES ( 27878375, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 57, 8, 1, 1);
+VALUES ( 34583907, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 57, 8, 1, 1);
+VALUES ( 32828947, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 57, 8, 1, 1);
+VALUES ( 42044074, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 57, 8, 1, 1);
+VALUES ( 36185216, 57, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 58, 8, 1, 1);
+VALUES ( 26923945, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 58, 8, 1, 1);
+VALUES ( 54884737, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 58, 8, 1, 1);
+VALUES ( 57867639, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 58, 8, 1, 1);
+VALUES ( 28929446, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 58, 8, 1, 1);
+VALUES ( 33833270, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 58, 8, 1, 1);
+VALUES ( 23026429, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 58, 8, 1, 1);
+VALUES ( 12375160, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 58, 8, 1, 1);
+VALUES ( 12319889, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 58, 8, 1, 1);
+VALUES ( 16420917, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 58, 8, 1, 1);
+VALUES ( 35958195, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 58, 8, 1, 1);
+VALUES ( 31925128, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 58, 8, 1, 1);
+VALUES ( 13518498, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 58, 8, 1, 1);
+VALUES ( 56510225, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 58, 8, 1, 1);
+VALUES ( 25443871, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 58, 8, 1, 1);
+VALUES ( 44684440, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 58, 8, 1, 1);
+VALUES ( 28743864, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 58, 8, 1, 1);
+VALUES ( 22884173, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 58, 8, 1, 1);
+VALUES ( 14962545, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 58, 8, 1, 1);
+VALUES ( 39334208, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 58, 8, 1, 1);
+VALUES ( 24941270, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 58, 8, 1, 1);
+VALUES ( 27878375, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 58, 8, 1, 1);
+VALUES ( 34583907, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 58, 8, 1, 1);
+VALUES ( 32828947, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 58, 8, 1, 1);
+VALUES ( 42044074, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 58, 8, 1, 1);
+VALUES ( 36185216, 58, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 59, 8, 1, 1);
+VALUES ( 26923945, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 59, 8, 1, 1);
+VALUES ( 54884737, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 59, 8, 1, 1);
+VALUES ( 57867639, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 59, 8, 1, 1);
+VALUES ( 28929446, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 59, 8, 1, 1);
+VALUES ( 33833270, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 59, 8, 1, 1);
+VALUES ( 23026429, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 59, 8, 1, 1);
+VALUES ( 12375160, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 59, 8, 1, 1);
+VALUES ( 12319889, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 59, 8, 1, 1);
+VALUES ( 16420917, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 59, 8, 1, 1);
+VALUES ( 35958195, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 59, 8, 1, 1);
+VALUES ( 31925128, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 59, 8, 1, 1);
+VALUES ( 13518498, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 59, 8, 1, 1);
+VALUES ( 56510225, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 59, 8, 1, 1);
+VALUES ( 25443871, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 59, 8, 1, 1);
+VALUES ( 44684440, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 59, 8, 1, 1);
+VALUES ( 28743864, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 59, 8, 1, 1);
+VALUES ( 22884173, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 59, 8, 1, 1);
+VALUES ( 14962545, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 59, 8, 1, 1);
+VALUES ( 39334208, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 59, 8, 1, 1);
+VALUES ( 24941270, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 59, 8, 1, 1);
+VALUES ( 27878375, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 59, 8, 1, 1);
+VALUES ( 34583907, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 59, 8, 1, 1);
+VALUES ( 32828947, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 59, 8, 1, 1);
+VALUES ( 42044074, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 59, 8, 1, 1);
+VALUES ( 36185216, 59, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 60, 8, 1, 1);
+VALUES ( 26923945, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 60, 8, 1, 1);
+VALUES ( 54884737, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 60, 8, 1, 1);
+VALUES ( 57867639, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 60, 8, 1, 1);
+VALUES ( 28929446, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 60, 8, 1, 1);
+VALUES ( 33833270, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 60, 8, 1, 1);
+VALUES ( 23026429, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 60, 8, 1, 1);
+VALUES ( 12375160, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 60, 8, 1, 1);
+VALUES ( 12319889, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 60, 8, 1, 1);
+VALUES ( 16420917, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 60, 8, 1, 1);
+VALUES ( 35958195, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 60, 8, 1, 1);
+VALUES ( 31925128, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 60, 8, 1, 1);
+VALUES ( 13518498, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 60, 8, 1, 1);
+VALUES ( 56510225, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 60, 8, 1, 1);
+VALUES ( 25443871, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 60, 8, 1, 1);
+VALUES ( 44684440, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 60, 8, 1, 1);
+VALUES ( 28743864, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 60, 8, 1, 1);
+VALUES ( 22884173, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 60, 8, 1, 1);
+VALUES ( 14962545, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 60, 8, 1, 1);
+VALUES ( 39334208, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 60, 8, 1, 1);
+VALUES ( 24941270, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 60, 8, 1, 1);
+VALUES ( 27878375, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 60, 8, 1, 1);
+VALUES ( 34583907, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 60, 8, 1, 1);
+VALUES ( 32828947, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 60, 8, 1, 1);
+VALUES ( 42044074, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 60, 8, 1, 1);
+VALUES ( 36185216, 60, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 61, 8, 1, 1);
+VALUES ( 26923945, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 61, 8, 1, 1);
+VALUES ( 54884737, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 61, 8, 1, 1);
+VALUES ( 57867639, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 61, 8, 1, 1);
+VALUES ( 28929446, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 61, 8, 1, 1);
+VALUES ( 33833270, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 61, 8, 1, 1);
+VALUES ( 23026429, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 61, 8, 1, 1);
+VALUES ( 12375160, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 61, 8, 1, 1);
+VALUES ( 12319889, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 61, 8, 1, 1);
+VALUES ( 16420917, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 61, 8, 1, 1);
+VALUES ( 35958195, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 61, 8, 1, 1);
+VALUES ( 31925128, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 61, 8, 1, 1);
+VALUES ( 13518498, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 61, 8, 1, 1);
+VALUES ( 56510225, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 61, 8, 1, 1);
+VALUES ( 25443871, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 61, 8, 1, 1);
+VALUES ( 44684440, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 61, 8, 1, 1);
+VALUES ( 28743864, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 61, 8, 1, 1);
+VALUES ( 22884173, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 61, 8, 1, 1);
+VALUES ( 14962545, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 61, 8, 1, 1);
+VALUES ( 39334208, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 61, 8, 1, 1);
+VALUES ( 24941270, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 61, 8, 1, 1);
+VALUES ( 27878375, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 61, 8, 1, 1);
+VALUES ( 34583907, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 61, 8, 1, 1);
+VALUES ( 32828947, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 61, 8, 1, 1);
+VALUES ( 42044074, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 61, 8, 1, 1);
+VALUES ( 36185216, 61, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33733604, 62, 8, 1, 1);
+VALUES ( 26923945, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24833916, 62, 8, 1, 1);
+VALUES ( 54884737, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14473912, 62, 8, 1, 1);
+VALUES ( 57867639, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24039180, 62, 8, 1, 1);
+VALUES ( 28929446, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39992385, 62, 8, 1, 1);
+VALUES ( 33833270, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14018762, 62, 8, 1, 1);
+VALUES ( 23026429, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45462631, 62, 8, 1, 1);
+VALUES ( 12375160, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56121343, 62, 8, 1, 1);
+VALUES ( 12319889, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22673956, 62, 8, 1, 1);
+VALUES ( 16420917, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23181184, 62, 8, 1, 1);
+VALUES ( 35958195, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17542168, 62, 8, 1, 1);
+VALUES ( 31925128, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33465122, 62, 8, 1, 1);
+VALUES ( 13518498, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133198, 62, 8, 1, 1);
+VALUES ( 56510225, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32022511, 62, 8, 1, 1);
+VALUES ( 25443871, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37749207, 62, 8, 1, 1);
+VALUES ( 44684440, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22764909, 62, 8, 1, 1);
+VALUES ( 28743864, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59386871, 62, 8, 1, 1);
+VALUES ( 22884173, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49411818, 62, 8, 1, 1);
+VALUES ( 14962545, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53261065, 62, 8, 1, 1);
+VALUES ( 39334208, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34167959, 62, 8, 1, 1);
+VALUES ( 24941270, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29171563, 62, 8, 1, 1);
+VALUES ( 27878375, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42862915, 62, 8, 1, 1);
+VALUES ( 34583907, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31730111, 62, 8, 1, 1);
+VALUES ( 32828947, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41015658, 62, 8, 1, 1);
+VALUES ( 42044074, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57591161, 62, 8, 1, 1);
+VALUES ( 36185216, 62, 8, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 56, 9, 1, 1);
+VALUES ( 49256117, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 56, 9, 1, 1);
+VALUES ( 54031273, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 56, 9, 1, 1);
+VALUES ( 34692168, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 56, 9, 1, 1);
+VALUES ( 26128018, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 56, 9, 1, 1);
+VALUES ( 59920439, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 56, 9, 1, 1);
+VALUES ( 24052235, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 56, 9, 1, 1);
+VALUES ( 18314318, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 56, 9, 1, 1);
+VALUES ( 32799746, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 56, 9, 1, 1);
+VALUES ( 19811129, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 56, 9, 1, 1);
+VALUES ( 14287321, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 56, 9, 1, 1);
+VALUES ( 46351746, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 56, 9, 1, 1);
+VALUES ( 29640203, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 56, 9, 1, 1);
+VALUES ( 28261351, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 56, 9, 1, 1);
+VALUES ( 44392433, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 56, 9, 1, 1);
+VALUES ( 12841949, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 56, 9, 1, 1);
+VALUES ( 43352866, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 56, 9, 1, 1);
+VALUES ( 44636857, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 56, 9, 1, 1);
+VALUES ( 35925724, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 56, 9, 1, 1);
+VALUES ( 43194113, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 56, 9, 1, 1);
+VALUES ( 45081776, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 56, 9, 1, 1);
+VALUES ( 37809019, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 56, 9, 1, 1);
+VALUES ( 17133644, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 56, 9, 1, 1);
+VALUES ( 47308825, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 56, 9, 1, 1);
+VALUES ( 17569162, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 56, 9, 1, 1);
+VALUES ( 27863015, 56, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 57, 9, 1, 1);
+VALUES ( 49256117, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 57, 9, 1, 1);
+VALUES ( 54031273, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 57, 9, 1, 1);
+VALUES ( 34692168, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 57, 9, 1, 1);
+VALUES ( 26128018, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 57, 9, 1, 1);
+VALUES ( 59920439, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 57, 9, 1, 1);
+VALUES ( 24052235, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 57, 9, 1, 1);
+VALUES ( 18314318, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 57, 9, 1, 1);
+VALUES ( 32799746, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 57, 9, 1, 1);
+VALUES ( 19811129, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 57, 9, 1, 1);
+VALUES ( 14287321, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 57, 9, 1, 1);
+VALUES ( 46351746, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 57, 9, 1, 1);
+VALUES ( 29640203, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 57, 9, 1, 1);
+VALUES ( 28261351, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 57, 9, 1, 1);
+VALUES ( 44392433, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 57, 9, 1, 1);
+VALUES ( 12841949, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 57, 9, 1, 1);
+VALUES ( 43352866, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 57, 9, 1, 1);
+VALUES ( 44636857, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 57, 9, 1, 1);
+VALUES ( 35925724, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 57, 9, 1, 1);
+VALUES ( 43194113, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 57, 9, 1, 1);
+VALUES ( 45081776, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 57, 9, 1, 1);
+VALUES ( 37809019, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 57, 9, 1, 1);
+VALUES ( 17133644, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 57, 9, 1, 1);
+VALUES ( 47308825, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 57, 9, 1, 1);
+VALUES ( 17569162, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 57, 9, 1, 1);
+VALUES ( 27863015, 57, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 58, 9, 1, 1);
+VALUES ( 49256117, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 58, 9, 1, 1);
+VALUES ( 54031273, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 58, 9, 1, 1);
+VALUES ( 34692168, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 58, 9, 1, 1);
+VALUES ( 26128018, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 58, 9, 1, 1);
+VALUES ( 59920439, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 58, 9, 1, 1);
+VALUES ( 24052235, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 58, 9, 1, 1);
+VALUES ( 18314318, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 58, 9, 1, 1);
+VALUES ( 32799746, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 58, 9, 1, 1);
+VALUES ( 19811129, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 58, 9, 1, 1);
+VALUES ( 14287321, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 58, 9, 1, 1);
+VALUES ( 46351746, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 58, 9, 1, 1);
+VALUES ( 29640203, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 58, 9, 1, 1);
+VALUES ( 28261351, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 58, 9, 1, 1);
+VALUES ( 44392433, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 58, 9, 1, 1);
+VALUES ( 12841949, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 58, 9, 1, 1);
+VALUES ( 43352866, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 58, 9, 1, 1);
+VALUES ( 44636857, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 58, 9, 1, 1);
+VALUES ( 35925724, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 58, 9, 1, 1);
+VALUES ( 43194113, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 58, 9, 1, 1);
+VALUES ( 45081776, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 58, 9, 1, 1);
+VALUES ( 37809019, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 58, 9, 1, 1);
+VALUES ( 17133644, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 58, 9, 1, 1);
+VALUES ( 47308825, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 58, 9, 1, 1);
+VALUES ( 17569162, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 58, 9, 1, 1);
+VALUES ( 27863015, 58, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 59, 9, 1, 1);
+VALUES ( 49256117, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 59, 9, 1, 1);
+VALUES ( 54031273, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 59, 9, 1, 1);
+VALUES ( 34692168, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 59, 9, 1, 1);
+VALUES ( 26128018, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 59, 9, 1, 1);
+VALUES ( 59920439, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 59, 9, 1, 1);
+VALUES ( 24052235, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 59, 9, 1, 1);
+VALUES ( 18314318, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 59, 9, 1, 1);
+VALUES ( 32799746, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 59, 9, 1, 1);
+VALUES ( 19811129, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 59, 9, 1, 1);
+VALUES ( 14287321, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 59, 9, 1, 1);
+VALUES ( 46351746, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 59, 9, 1, 1);
+VALUES ( 29640203, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 59, 9, 1, 1);
+VALUES ( 28261351, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 59, 9, 1, 1);
+VALUES ( 44392433, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 59, 9, 1, 1);
+VALUES ( 12841949, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 59, 9, 1, 1);
+VALUES ( 43352866, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 59, 9, 1, 1);
+VALUES ( 44636857, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 59, 9, 1, 1);
+VALUES ( 35925724, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 59, 9, 1, 1);
+VALUES ( 43194113, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 59, 9, 1, 1);
+VALUES ( 45081776, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 59, 9, 1, 1);
+VALUES ( 37809019, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 59, 9, 1, 1);
+VALUES ( 17133644, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 59, 9, 1, 1);
+VALUES ( 47308825, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 59, 9, 1, 1);
+VALUES ( 17569162, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 59, 9, 1, 1);
+VALUES ( 27863015, 59, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 60, 9, 1, 1);
+VALUES ( 49256117, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 60, 9, 1, 1);
+VALUES ( 54031273, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 60, 9, 1, 1);
+VALUES ( 34692168, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 60, 9, 1, 1);
+VALUES ( 26128018, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 60, 9, 1, 1);
+VALUES ( 59920439, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 60, 9, 1, 1);
+VALUES ( 24052235, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 60, 9, 1, 1);
+VALUES ( 18314318, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 60, 9, 1, 1);
+VALUES ( 32799746, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 60, 9, 1, 1);
+VALUES ( 19811129, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 60, 9, 1, 1);
+VALUES ( 14287321, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 60, 9, 1, 1);
+VALUES ( 46351746, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 60, 9, 1, 1);
+VALUES ( 29640203, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 60, 9, 1, 1);
+VALUES ( 28261351, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 60, 9, 1, 1);
+VALUES ( 44392433, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 60, 9, 1, 1);
+VALUES ( 12841949, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 60, 9, 1, 1);
+VALUES ( 43352866, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 60, 9, 1, 1);
+VALUES ( 44636857, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 60, 9, 1, 1);
+VALUES ( 35925724, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 60, 9, 1, 1);
+VALUES ( 43194113, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 60, 9, 1, 1);
+VALUES ( 45081776, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 60, 9, 1, 1);
+VALUES ( 37809019, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 60, 9, 1, 1);
+VALUES ( 17133644, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 60, 9, 1, 1);
+VALUES ( 47308825, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 60, 9, 1, 1);
+VALUES ( 17569162, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 60, 9, 1, 1);
+VALUES ( 27863015, 60, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 61, 9, 1, 1);
+VALUES ( 49256117, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 61, 9, 1, 1);
+VALUES ( 54031273, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 61, 9, 1, 1);
+VALUES ( 34692168, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 61, 9, 1, 1);
+VALUES ( 26128018, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 61, 9, 1, 1);
+VALUES ( 59920439, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 61, 9, 1, 1);
+VALUES ( 24052235, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 61, 9, 1, 1);
+VALUES ( 18314318, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 61, 9, 1, 1);
+VALUES ( 32799746, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 61, 9, 1, 1);
+VALUES ( 19811129, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 61, 9, 1, 1);
+VALUES ( 14287321, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 61, 9, 1, 1);
+VALUES ( 46351746, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 61, 9, 1, 1);
+VALUES ( 29640203, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 61, 9, 1, 1);
+VALUES ( 28261351, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 61, 9, 1, 1);
+VALUES ( 44392433, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 61, 9, 1, 1);
+VALUES ( 12841949, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 61, 9, 1, 1);
+VALUES ( 43352866, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 61, 9, 1, 1);
+VALUES ( 44636857, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 61, 9, 1, 1);
+VALUES ( 35925724, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 61, 9, 1, 1);
+VALUES ( 43194113, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 61, 9, 1, 1);
+VALUES ( 45081776, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 61, 9, 1, 1);
+VALUES ( 37809019, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 61, 9, 1, 1);
+VALUES ( 17133644, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 61, 9, 1, 1);
+VALUES ( 47308825, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 61, 9, 1, 1);
+VALUES ( 17569162, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 61, 9, 1, 1);
+VALUES ( 27863015, 61, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45381352, 62, 9, 1, 1);
+VALUES ( 49256117, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23016056, 62, 9, 1, 1);
+VALUES ( 54031273, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19720706, 62, 9, 1, 1);
+VALUES ( 34692168, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27110127, 62, 9, 1, 1);
+VALUES ( 26128018, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52464509, 62, 9, 1, 1);
+VALUES ( 59920439, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11789451, 62, 9, 1, 1);
+VALUES ( 24052235, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14225701, 62, 9, 1, 1);
+VALUES ( 18314318, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17729998, 62, 9, 1, 1);
+VALUES ( 32799746, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23644639, 62, 9, 1, 1);
+VALUES ( 19811129, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34213875, 62, 9, 1, 1);
+VALUES ( 14287321, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56253972, 62, 9, 1, 1);
+VALUES ( 46351746, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48030877, 62, 9, 1, 1);
+VALUES ( 29640203, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52209698, 62, 9, 1, 1);
+VALUES ( 28261351, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23387756, 62, 9, 1, 1);
+VALUES ( 44392433, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15401550, 62, 9, 1, 1);
+VALUES ( 12841949, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19492113, 62, 9, 1, 1);
+VALUES ( 43352866, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38092198, 62, 9, 1, 1);
+VALUES ( 44636857, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24220414, 62, 9, 1, 1);
+VALUES ( 35925724, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31097890, 62, 9, 1, 1);
+VALUES ( 43194113, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18373306, 62, 9, 1, 1);
+VALUES ( 45081776, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13392739, 62, 9, 1, 1);
+VALUES ( 37809019, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53177769, 62, 9, 1, 1);
+VALUES ( 17133644, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17155911, 62, 9, 1, 1);
+VALUES ( 47308825, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19658733, 62, 9, 1, 1);
+VALUES ( 17569162, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13034589, 62, 9, 1, 1);
+VALUES ( 27863015, 62, 9, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 56, 10, 1, 1);
+VALUES ( 55350567, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 56, 10, 1, 1);
+VALUES ( 22277017, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 56, 10, 1, 1);
+VALUES ( 44334041, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 56, 10, 1, 1);
+VALUES ( 35353121, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 56, 10, 1, 1);
+VALUES ( 28144628, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 56, 10, 1, 1);
+VALUES ( 23765885, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 56, 10, 1, 1);
+VALUES ( 11274947, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 56, 10, 1, 1);
+VALUES ( 23793955, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 56, 10, 1, 1);
+VALUES ( 18543834, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 56, 10, 1, 1);
+VALUES ( 36252740, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 56, 10, 1, 1);
+VALUES ( 52515152, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 56, 10, 1, 1);
+VALUES ( 39637284, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 56, 10, 1, 1);
+VALUES ( 18159827, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 56, 10, 1, 1);
+VALUES ( 52907224, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 56, 10, 1, 1);
+VALUES ( 15436719, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 56, 10, 1, 1);
+VALUES ( 51545859, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 56, 10, 1, 1);
+VALUES ( 55441441, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 56, 10, 1, 1);
+VALUES ( 55858826, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 56, 10, 1, 1);
+VALUES ( 47381962, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 56, 10, 1, 1);
+VALUES ( 13915836, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 56, 10, 1, 1);
+VALUES ( 53071650, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 56, 10, 1, 1);
+VALUES ( 59664475, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 56, 10, 1, 1);
+VALUES ( 17417117, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 56, 10, 1, 1);
+VALUES ( 41192511, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 56, 10, 1, 1);
+VALUES ( 14047262, 56, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 57, 10, 1, 1);
+VALUES ( 55350567, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 57, 10, 1, 1);
+VALUES ( 22277017, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 57, 10, 1, 1);
+VALUES ( 44334041, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 57, 10, 1, 1);
+VALUES ( 35353121, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 57, 10, 1, 1);
+VALUES ( 28144628, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 57, 10, 1, 1);
+VALUES ( 23765885, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 57, 10, 1, 1);
+VALUES ( 11274947, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 57, 10, 1, 1);
+VALUES ( 23793955, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 57, 10, 1, 1);
+VALUES ( 18543834, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 57, 10, 1, 1);
+VALUES ( 36252740, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 57, 10, 1, 1);
+VALUES ( 52515152, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 57, 10, 1, 1);
+VALUES ( 39637284, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 57, 10, 1, 1);
+VALUES ( 18159827, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 57, 10, 1, 1);
+VALUES ( 52907224, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 57, 10, 1, 1);
+VALUES ( 15436719, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 57, 10, 1, 1);
+VALUES ( 51545859, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 57, 10, 1, 1);
+VALUES ( 55441441, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 57, 10, 1, 1);
+VALUES ( 55858826, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 57, 10, 1, 1);
+VALUES ( 47381962, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 57, 10, 1, 1);
+VALUES ( 13915836, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 57, 10, 1, 1);
+VALUES ( 53071650, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 57, 10, 1, 1);
+VALUES ( 59664475, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 57, 10, 1, 1);
+VALUES ( 17417117, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 57, 10, 1, 1);
+VALUES ( 41192511, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 57, 10, 1, 1);
+VALUES ( 14047262, 57, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 58, 10, 1, 1);
+VALUES ( 55350567, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 58, 10, 1, 1);
+VALUES ( 22277017, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 58, 10, 1, 1);
+VALUES ( 44334041, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 58, 10, 1, 1);
+VALUES ( 35353121, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 58, 10, 1, 1);
+VALUES ( 28144628, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 58, 10, 1, 1);
+VALUES ( 23765885, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 58, 10, 1, 1);
+VALUES ( 11274947, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 58, 10, 1, 1);
+VALUES ( 23793955, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 58, 10, 1, 1);
+VALUES ( 18543834, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 58, 10, 1, 1);
+VALUES ( 36252740, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 58, 10, 1, 1);
+VALUES ( 52515152, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 58, 10, 1, 1);
+VALUES ( 39637284, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 58, 10, 1, 1);
+VALUES ( 18159827, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 58, 10, 1, 1);
+VALUES ( 52907224, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 58, 10, 1, 1);
+VALUES ( 15436719, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 58, 10, 1, 1);
+VALUES ( 51545859, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 58, 10, 1, 1);
+VALUES ( 55441441, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 58, 10, 1, 1);
+VALUES ( 55858826, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 58, 10, 1, 1);
+VALUES ( 47381962, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 58, 10, 1, 1);
+VALUES ( 13915836, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 58, 10, 1, 1);
+VALUES ( 53071650, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 58, 10, 1, 1);
+VALUES ( 59664475, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 58, 10, 1, 1);
+VALUES ( 17417117, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 58, 10, 1, 1);
+VALUES ( 41192511, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 58, 10, 1, 1);
+VALUES ( 14047262, 58, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 59, 10, 1, 1);
+VALUES ( 55350567, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 59, 10, 1, 1);
+VALUES ( 22277017, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 59, 10, 1, 1);
+VALUES ( 44334041, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 59, 10, 1, 1);
+VALUES ( 35353121, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 59, 10, 1, 1);
+VALUES ( 28144628, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 59, 10, 1, 1);
+VALUES ( 23765885, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 59, 10, 1, 1);
+VALUES ( 11274947, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 59, 10, 1, 1);
+VALUES ( 23793955, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 59, 10, 1, 1);
+VALUES ( 18543834, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 59, 10, 1, 1);
+VALUES ( 36252740, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 59, 10, 1, 1);
+VALUES ( 52515152, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 59, 10, 1, 1);
+VALUES ( 39637284, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 59, 10, 1, 1);
+VALUES ( 18159827, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 59, 10, 1, 1);
+VALUES ( 52907224, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 59, 10, 1, 1);
+VALUES ( 15436719, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 59, 10, 1, 1);
+VALUES ( 51545859, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 59, 10, 1, 1);
+VALUES ( 55441441, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 59, 10, 1, 1);
+VALUES ( 55858826, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 59, 10, 1, 1);
+VALUES ( 47381962, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 59, 10, 1, 1);
+VALUES ( 13915836, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 59, 10, 1, 1);
+VALUES ( 53071650, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 59, 10, 1, 1);
+VALUES ( 59664475, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 59, 10, 1, 1);
+VALUES ( 17417117, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 59, 10, 1, 1);
+VALUES ( 41192511, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 59, 10, 1, 1);
+VALUES ( 14047262, 59, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 60, 10, 1, 1);
+VALUES ( 55350567, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 60, 10, 1, 1);
+VALUES ( 22277017, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 60, 10, 1, 1);
+VALUES ( 44334041, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 60, 10, 1, 1);
+VALUES ( 35353121, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 60, 10, 1, 1);
+VALUES ( 28144628, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 60, 10, 1, 1);
+VALUES ( 23765885, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 60, 10, 1, 1);
+VALUES ( 11274947, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 60, 10, 1, 1);
+VALUES ( 23793955, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 60, 10, 1, 1);
+VALUES ( 18543834, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 60, 10, 1, 1);
+VALUES ( 36252740, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 60, 10, 1, 1);
+VALUES ( 52515152, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 60, 10, 1, 1);
+VALUES ( 39637284, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 60, 10, 1, 1);
+VALUES ( 18159827, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 60, 10, 1, 1);
+VALUES ( 52907224, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 60, 10, 1, 1);
+VALUES ( 15436719, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 60, 10, 1, 1);
+VALUES ( 51545859, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 60, 10, 1, 1);
+VALUES ( 55441441, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 60, 10, 1, 1);
+VALUES ( 55858826, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 60, 10, 1, 1);
+VALUES ( 47381962, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 60, 10, 1, 1);
+VALUES ( 13915836, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 60, 10, 1, 1);
+VALUES ( 53071650, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 60, 10, 1, 1);
+VALUES ( 59664475, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 60, 10, 1, 1);
+VALUES ( 17417117, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 60, 10, 1, 1);
+VALUES ( 41192511, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 60, 10, 1, 1);
+VALUES ( 14047262, 60, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 61, 10, 1, 1);
+VALUES ( 55350567, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 61, 10, 1, 1);
+VALUES ( 22277017, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 61, 10, 1, 1);
+VALUES ( 44334041, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 61, 10, 1, 1);
+VALUES ( 35353121, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 61, 10, 1, 1);
+VALUES ( 28144628, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 61, 10, 1, 1);
+VALUES ( 23765885, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 61, 10, 1, 1);
+VALUES ( 11274947, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 61, 10, 1, 1);
+VALUES ( 23793955, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 61, 10, 1, 1);
+VALUES ( 18543834, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 61, 10, 1, 1);
+VALUES ( 36252740, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 61, 10, 1, 1);
+VALUES ( 52515152, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 61, 10, 1, 1);
+VALUES ( 39637284, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 61, 10, 1, 1);
+VALUES ( 18159827, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 61, 10, 1, 1);
+VALUES ( 52907224, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 61, 10, 1, 1);
+VALUES ( 15436719, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 61, 10, 1, 1);
+VALUES ( 51545859, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 61, 10, 1, 1);
+VALUES ( 55441441, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 61, 10, 1, 1);
+VALUES ( 55858826, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 61, 10, 1, 1);
+VALUES ( 47381962, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 61, 10, 1, 1);
+VALUES ( 13915836, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 61, 10, 1, 1);
+VALUES ( 53071650, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 61, 10, 1, 1);
+VALUES ( 59664475, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 61, 10, 1, 1);
+VALUES ( 17417117, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 61, 10, 1, 1);
+VALUES ( 41192511, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 61, 10, 1, 1);
+VALUES ( 14047262, 61, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45915020, 62, 10, 1, 1);
+VALUES ( 55350567, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58192986, 62, 10, 1, 1);
+VALUES ( 22277017, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12746094, 62, 10, 1, 1);
+VALUES ( 44334041, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48435756, 62, 10, 1, 1);
+VALUES ( 35353121, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13957983, 62, 10, 1, 1);
+VALUES ( 28144628, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52952495, 62, 10, 1, 1);
+VALUES ( 23765885, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42343214, 62, 10, 1, 1);
+VALUES ( 11274947, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42858530, 62, 10, 1, 1);
+VALUES ( 23793955, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15069847, 62, 10, 1, 1);
+VALUES ( 18543834, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13258375, 62, 10, 1, 1);
+VALUES ( 36252740, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57293715, 62, 10, 1, 1);
+VALUES ( 52515152, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39240639, 62, 10, 1, 1);
+VALUES ( 39637284, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59667580, 62, 10, 1, 1);
+VALUES ( 18159827, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25673335, 62, 10, 1, 1);
+VALUES ( 52907224, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24946894, 62, 10, 1, 1);
+VALUES ( 15436719, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46831869, 62, 10, 1, 1);
+VALUES ( 51545859, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26833269, 62, 10, 1, 1);
+VALUES ( 55441441, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28669317, 62, 10, 1, 1);
+VALUES ( 55858826, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34538009, 62, 10, 1, 1);
+VALUES ( 47381962, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43092260, 62, 10, 1, 1);
+VALUES ( 13915836, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12471376, 62, 10, 1, 1);
+VALUES ( 53071650, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16358308, 62, 10, 1, 1);
+VALUES ( 59664475, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14203967, 62, 10, 1, 1);
+VALUES ( 17417117, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16432253, 62, 10, 1, 1);
+VALUES ( 41192511, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44380909, 62, 10, 1, 1);
+VALUES ( 14047262, 62, 10, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 56, 11, 1, 1);
+VALUES ( 48894899, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 56, 11, 1, 1);
+VALUES ( 34023868, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 56, 11, 1, 1);
+VALUES ( 48970350, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 56, 11, 1, 1);
+VALUES ( 28246264, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 56, 11, 1, 1);
+VALUES ( 31194737, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 56, 11, 1, 1);
+VALUES ( 39526489, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 56, 11, 1, 1);
+VALUES ( 43245001, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 56, 11, 1, 1);
+VALUES ( 25863875, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 56, 11, 1, 1);
+VALUES ( 28539576, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 56, 11, 1, 1);
+VALUES ( 37102095, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 56, 11, 1, 1);
+VALUES ( 14903961, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 56, 11, 1, 1);
+VALUES ( 49082699, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 56, 11, 1, 1);
+VALUES ( 52084717, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 56, 11, 1, 1);
+VALUES ( 25891092, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 56, 11, 1, 1);
+VALUES ( 45324403, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 56, 11, 1, 1);
+VALUES ( 46307955, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 56, 11, 1, 1);
+VALUES ( 21542518, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 56, 11, 1, 1);
+VALUES ( 54940305, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 56, 11, 1, 1);
+VALUES ( 55157492, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 56, 11, 1, 1);
+VALUES ( 11996854, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 56, 11, 1, 1);
+VALUES ( 26457718, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 56, 11, 1, 1);
+VALUES ( 21272793, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 56, 11, 1, 1);
+VALUES ( 19148285, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 56, 11, 1, 1);
+VALUES ( 24506305, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 56, 11, 1, 1);
+VALUES ( 58776449, 56, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 57, 11, 1, 1);
+VALUES ( 48894899, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 57, 11, 1, 1);
+VALUES ( 34023868, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 57, 11, 1, 1);
+VALUES ( 48970350, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 57, 11, 1, 1);
+VALUES ( 28246264, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 57, 11, 1, 1);
+VALUES ( 31194737, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 57, 11, 1, 1);
+VALUES ( 39526489, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 57, 11, 1, 1);
+VALUES ( 43245001, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 57, 11, 1, 1);
+VALUES ( 25863875, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 57, 11, 1, 1);
+VALUES ( 28539576, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 57, 11, 1, 1);
+VALUES ( 37102095, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 57, 11, 1, 1);
+VALUES ( 14903961, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 57, 11, 1, 1);
+VALUES ( 49082699, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 57, 11, 1, 1);
+VALUES ( 52084717, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 57, 11, 1, 1);
+VALUES ( 25891092, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 57, 11, 1, 1);
+VALUES ( 45324403, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 57, 11, 1, 1);
+VALUES ( 46307955, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 57, 11, 1, 1);
+VALUES ( 21542518, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 57, 11, 1, 1);
+VALUES ( 54940305, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 57, 11, 1, 1);
+VALUES ( 55157492, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 57, 11, 1, 1);
+VALUES ( 11996854, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 57, 11, 1, 1);
+VALUES ( 26457718, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 57, 11, 1, 1);
+VALUES ( 21272793, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 57, 11, 1, 1);
+VALUES ( 19148285, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 57, 11, 1, 1);
+VALUES ( 24506305, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 57, 11, 1, 1);
+VALUES ( 58776449, 57, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 58, 11, 1, 1);
+VALUES ( 48894899, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 58, 11, 1, 1);
+VALUES ( 34023868, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 58, 11, 1, 1);
+VALUES ( 48970350, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 58, 11, 1, 1);
+VALUES ( 28246264, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 58, 11, 1, 1);
+VALUES ( 31194737, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 58, 11, 1, 1);
+VALUES ( 39526489, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 58, 11, 1, 1);
+VALUES ( 43245001, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 58, 11, 1, 1);
+VALUES ( 25863875, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 58, 11, 1, 1);
+VALUES ( 28539576, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 58, 11, 1, 1);
+VALUES ( 37102095, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 58, 11, 1, 1);
+VALUES ( 14903961, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 58, 11, 1, 1);
+VALUES ( 49082699, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 58, 11, 1, 1);
+VALUES ( 52084717, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 58, 11, 1, 1);
+VALUES ( 25891092, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 58, 11, 1, 1);
+VALUES ( 45324403, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 58, 11, 1, 1);
+VALUES ( 46307955, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 58, 11, 1, 1);
+VALUES ( 21542518, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 58, 11, 1, 1);
+VALUES ( 54940305, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 58, 11, 1, 1);
+VALUES ( 55157492, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 58, 11, 1, 1);
+VALUES ( 11996854, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 58, 11, 1, 1);
+VALUES ( 26457718, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 58, 11, 1, 1);
+VALUES ( 21272793, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 58, 11, 1, 1);
+VALUES ( 19148285, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 58, 11, 1, 1);
+VALUES ( 24506305, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 58, 11, 1, 1);
+VALUES ( 58776449, 58, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 59, 11, 1, 1);
+VALUES ( 48894899, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 59, 11, 1, 1);
+VALUES ( 34023868, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 59, 11, 1, 1);
+VALUES ( 48970350, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 59, 11, 1, 1);
+VALUES ( 28246264, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 59, 11, 1, 1);
+VALUES ( 31194737, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 59, 11, 1, 1);
+VALUES ( 39526489, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 59, 11, 1, 1);
+VALUES ( 43245001, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 59, 11, 1, 1);
+VALUES ( 25863875, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 59, 11, 1, 1);
+VALUES ( 28539576, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 59, 11, 1, 1);
+VALUES ( 37102095, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 59, 11, 1, 1);
+VALUES ( 14903961, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 59, 11, 1, 1);
+VALUES ( 49082699, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 59, 11, 1, 1);
+VALUES ( 52084717, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 59, 11, 1, 1);
+VALUES ( 25891092, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 59, 11, 1, 1);
+VALUES ( 45324403, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 59, 11, 1, 1);
+VALUES ( 46307955, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 59, 11, 1, 1);
+VALUES ( 21542518, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 59, 11, 1, 1);
+VALUES ( 54940305, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 59, 11, 1, 1);
+VALUES ( 55157492, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 59, 11, 1, 1);
+VALUES ( 11996854, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 59, 11, 1, 1);
+VALUES ( 26457718, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 59, 11, 1, 1);
+VALUES ( 21272793, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 59, 11, 1, 1);
+VALUES ( 19148285, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 59, 11, 1, 1);
+VALUES ( 24506305, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 59, 11, 1, 1);
+VALUES ( 58776449, 59, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 60, 11, 1, 1);
+VALUES ( 48894899, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 60, 11, 1, 1);
+VALUES ( 34023868, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 60, 11, 1, 1);
+VALUES ( 48970350, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 60, 11, 1, 1);
+VALUES ( 28246264, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 60, 11, 1, 1);
+VALUES ( 31194737, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 60, 11, 1, 1);
+VALUES ( 39526489, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 60, 11, 1, 1);
+VALUES ( 43245001, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 60, 11, 1, 1);
+VALUES ( 25863875, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 60, 11, 1, 1);
+VALUES ( 28539576, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 60, 11, 1, 1);
+VALUES ( 37102095, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 60, 11, 1, 1);
+VALUES ( 14903961, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 60, 11, 1, 1);
+VALUES ( 49082699, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 60, 11, 1, 1);
+VALUES ( 52084717, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 60, 11, 1, 1);
+VALUES ( 25891092, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 60, 11, 1, 1);
+VALUES ( 45324403, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 60, 11, 1, 1);
+VALUES ( 46307955, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 60, 11, 1, 1);
+VALUES ( 21542518, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 60, 11, 1, 1);
+VALUES ( 54940305, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 60, 11, 1, 1);
+VALUES ( 55157492, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 60, 11, 1, 1);
+VALUES ( 11996854, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 60, 11, 1, 1);
+VALUES ( 26457718, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 60, 11, 1, 1);
+VALUES ( 21272793, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 60, 11, 1, 1);
+VALUES ( 19148285, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 60, 11, 1, 1);
+VALUES ( 24506305, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 60, 11, 1, 1);
+VALUES ( 58776449, 60, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 61, 11, 1, 1);
+VALUES ( 48894899, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 61, 11, 1, 1);
+VALUES ( 34023868, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 61, 11, 1, 1);
+VALUES ( 48970350, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 61, 11, 1, 1);
+VALUES ( 28246264, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 61, 11, 1, 1);
+VALUES ( 31194737, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 61, 11, 1, 1);
+VALUES ( 39526489, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 61, 11, 1, 1);
+VALUES ( 43245001, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 61, 11, 1, 1);
+VALUES ( 25863875, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 61, 11, 1, 1);
+VALUES ( 28539576, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 61, 11, 1, 1);
+VALUES ( 37102095, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 61, 11, 1, 1);
+VALUES ( 14903961, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 61, 11, 1, 1);
+VALUES ( 49082699, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 61, 11, 1, 1);
+VALUES ( 52084717, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 61, 11, 1, 1);
+VALUES ( 25891092, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 61, 11, 1, 1);
+VALUES ( 45324403, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 61, 11, 1, 1);
+VALUES ( 46307955, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 61, 11, 1, 1);
+VALUES ( 21542518, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 61, 11, 1, 1);
+VALUES ( 54940305, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 61, 11, 1, 1);
+VALUES ( 55157492, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 61, 11, 1, 1);
+VALUES ( 11996854, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 61, 11, 1, 1);
+VALUES ( 26457718, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 61, 11, 1, 1);
+VALUES ( 21272793, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 61, 11, 1, 1);
+VALUES ( 19148285, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 61, 11, 1, 1);
+VALUES ( 24506305, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 61, 11, 1, 1);
+VALUES ( 58776449, 61, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33237268, 62, 11, 1, 1);
+VALUES ( 48894899, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28941939, 62, 11, 1, 1);
+VALUES ( 34023868, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36856061, 62, 11, 1, 1);
+VALUES ( 48970350, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26571392, 62, 11, 1, 1);
+VALUES ( 28246264, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25712595, 62, 11, 1, 1);
+VALUES ( 31194737, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57664439, 62, 11, 1, 1);
+VALUES ( 39526489, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51565952, 62, 11, 1, 1);
+VALUES ( 43245001, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23263025, 62, 11, 1, 1);
+VALUES ( 25863875, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57147297, 62, 11, 1, 1);
+VALUES ( 28539576, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24041749, 62, 11, 1, 1);
+VALUES ( 37102095, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17937884, 62, 11, 1, 1);
+VALUES ( 14903961, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14491471, 62, 11, 1, 1);
+VALUES ( 49082699, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25639343, 62, 11, 1, 1);
+VALUES ( 52084717, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27955103, 62, 11, 1, 1);
+VALUES ( 25891092, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31395519, 62, 11, 1, 1);
+VALUES ( 45324403, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25722554, 62, 11, 1, 1);
+VALUES ( 46307955, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14008474, 62, 11, 1, 1);
+VALUES ( 21542518, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18678443, 62, 11, 1, 1);
+VALUES ( 54940305, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53234717, 62, 11, 1, 1);
+VALUES ( 55157492, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54841385, 62, 11, 1, 1);
+VALUES ( 11996854, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12265682, 62, 11, 1, 1);
+VALUES ( 26457718, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43710068, 62, 11, 1, 1);
+VALUES ( 21272793, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46977566, 62, 11, 1, 1);
+VALUES ( 19148285, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12282896, 62, 11, 1, 1);
+VALUES ( 24506305, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21348950, 62, 11, 1, 1);
+VALUES ( 58776449, 62, 11, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 56, 12, 1, 1);
+VALUES ( 27729764, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 56, 12, 1, 1);
+VALUES ( 56297635, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 56, 12, 1, 1);
+VALUES ( 48355960, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 56, 12, 1, 1);
+VALUES ( 44799871, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 56, 12, 1, 1);
+VALUES ( 41611262, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 56, 12, 1, 1);
+VALUES ( 42530655, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 56, 12, 1, 1);
+VALUES ( 38056324, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 56, 12, 1, 1);
+VALUES ( 11495731, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 56, 12, 1, 1);
+VALUES ( 51696195, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 56, 12, 1, 1);
+VALUES ( 49905134, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 56, 12, 1, 1);
+VALUES ( 42453178, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 56, 12, 1, 1);
+VALUES ( 29590789, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 56, 12, 1, 1);
+VALUES ( 47417133, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 56, 12, 1, 1);
+VALUES ( 49926388, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 56, 12, 1, 1);
+VALUES ( 39666201, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 56, 12, 1, 1);
+VALUES ( 39996701, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 56, 12, 1, 1);
+VALUES ( 53498583, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 56, 12, 1, 1);
+VALUES ( 42431431, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 56, 12, 1, 1);
+VALUES ( 48457108, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 56, 12, 1, 1);
+VALUES ( 21496965, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 56, 12, 1, 1);
+VALUES ( 17357747, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 56, 12, 1, 1);
+VALUES ( 24458936, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 56, 12, 1, 1);
+VALUES ( 42052267, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 56, 12, 1, 1);
+VALUES ( 21602392, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 56, 12, 1, 1);
+VALUES ( 31011472, 56, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 57, 12, 1, 1);
+VALUES ( 27729764, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 57, 12, 1, 1);
+VALUES ( 56297635, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 57, 12, 1, 1);
+VALUES ( 48355960, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 57, 12, 1, 1);
+VALUES ( 44799871, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 57, 12, 1, 1);
+VALUES ( 41611262, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 57, 12, 1, 1);
+VALUES ( 42530655, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 57, 12, 1, 1);
+VALUES ( 38056324, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 57, 12, 1, 1);
+VALUES ( 11495731, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 57, 12, 1, 1);
+VALUES ( 51696195, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 57, 12, 1, 1);
+VALUES ( 49905134, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 57, 12, 1, 1);
+VALUES ( 42453178, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 57, 12, 1, 1);
+VALUES ( 29590789, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 57, 12, 1, 1);
+VALUES ( 47417133, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 57, 12, 1, 1);
+VALUES ( 49926388, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 57, 12, 1, 1);
+VALUES ( 39666201, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 57, 12, 1, 1);
+VALUES ( 39996701, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 57, 12, 1, 1);
+VALUES ( 53498583, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 57, 12, 1, 1);
+VALUES ( 42431431, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 57, 12, 1, 1);
+VALUES ( 48457108, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 57, 12, 1, 1);
+VALUES ( 21496965, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 57, 12, 1, 1);
+VALUES ( 17357747, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 57, 12, 1, 1);
+VALUES ( 24458936, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 57, 12, 1, 1);
+VALUES ( 42052267, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 57, 12, 1, 1);
+VALUES ( 21602392, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 57, 12, 1, 1);
+VALUES ( 31011472, 57, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 58, 12, 1, 1);
+VALUES ( 27729764, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 58, 12, 1, 1);
+VALUES ( 56297635, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 58, 12, 1, 1);
+VALUES ( 48355960, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 58, 12, 1, 1);
+VALUES ( 44799871, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 58, 12, 1, 1);
+VALUES ( 41611262, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 58, 12, 1, 1);
+VALUES ( 42530655, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 58, 12, 1, 1);
+VALUES ( 38056324, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 58, 12, 1, 1);
+VALUES ( 11495731, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 58, 12, 1, 1);
+VALUES ( 51696195, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 58, 12, 1, 1);
+VALUES ( 49905134, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 58, 12, 1, 1);
+VALUES ( 42453178, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 58, 12, 1, 1);
+VALUES ( 29590789, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 58, 12, 1, 1);
+VALUES ( 47417133, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 58, 12, 1, 1);
+VALUES ( 49926388, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 58, 12, 1, 1);
+VALUES ( 39666201, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 58, 12, 1, 1);
+VALUES ( 39996701, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 58, 12, 1, 1);
+VALUES ( 53498583, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 58, 12, 1, 1);
+VALUES ( 42431431, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 58, 12, 1, 1);
+VALUES ( 48457108, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 58, 12, 1, 1);
+VALUES ( 21496965, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 58, 12, 1, 1);
+VALUES ( 17357747, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 58, 12, 1, 1);
+VALUES ( 24458936, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 58, 12, 1, 1);
+VALUES ( 42052267, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 58, 12, 1, 1);
+VALUES ( 21602392, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 58, 12, 1, 1);
+VALUES ( 31011472, 58, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 59, 12, 1, 1);
+VALUES ( 27729764, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 59, 12, 1, 1);
+VALUES ( 56297635, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 59, 12, 1, 1);
+VALUES ( 48355960, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 59, 12, 1, 1);
+VALUES ( 44799871, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 59, 12, 1, 1);
+VALUES ( 41611262, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 59, 12, 1, 1);
+VALUES ( 42530655, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 59, 12, 1, 1);
+VALUES ( 38056324, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 59, 12, 1, 1);
+VALUES ( 11495731, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 59, 12, 1, 1);
+VALUES ( 51696195, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 59, 12, 1, 1);
+VALUES ( 49905134, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 59, 12, 1, 1);
+VALUES ( 42453178, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 59, 12, 1, 1);
+VALUES ( 29590789, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 59, 12, 1, 1);
+VALUES ( 47417133, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 59, 12, 1, 1);
+VALUES ( 49926388, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 59, 12, 1, 1);
+VALUES ( 39666201, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 59, 12, 1, 1);
+VALUES ( 39996701, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 59, 12, 1, 1);
+VALUES ( 53498583, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 59, 12, 1, 1);
+VALUES ( 42431431, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 59, 12, 1, 1);
+VALUES ( 48457108, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 59, 12, 1, 1);
+VALUES ( 21496965, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 59, 12, 1, 1);
+VALUES ( 17357747, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 59, 12, 1, 1);
+VALUES ( 24458936, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 59, 12, 1, 1);
+VALUES ( 42052267, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 59, 12, 1, 1);
+VALUES ( 21602392, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 59, 12, 1, 1);
+VALUES ( 31011472, 59, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 60, 12, 1, 1);
+VALUES ( 27729764, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 60, 12, 1, 1);
+VALUES ( 56297635, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 60, 12, 1, 1);
+VALUES ( 48355960, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 60, 12, 1, 1);
+VALUES ( 44799871, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 60, 12, 1, 1);
+VALUES ( 41611262, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 60, 12, 1, 1);
+VALUES ( 42530655, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 60, 12, 1, 1);
+VALUES ( 38056324, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 60, 12, 1, 1);
+VALUES ( 11495731, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 60, 12, 1, 1);
+VALUES ( 51696195, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 60, 12, 1, 1);
+VALUES ( 49905134, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 60, 12, 1, 1);
+VALUES ( 42453178, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 60, 12, 1, 1);
+VALUES ( 29590789, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 60, 12, 1, 1);
+VALUES ( 47417133, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 60, 12, 1, 1);
+VALUES ( 49926388, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 60, 12, 1, 1);
+VALUES ( 39666201, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 60, 12, 1, 1);
+VALUES ( 39996701, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 60, 12, 1, 1);
+VALUES ( 53498583, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 60, 12, 1, 1);
+VALUES ( 42431431, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 60, 12, 1, 1);
+VALUES ( 48457108, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 60, 12, 1, 1);
+VALUES ( 21496965, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 60, 12, 1, 1);
+VALUES ( 17357747, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 60, 12, 1, 1);
+VALUES ( 24458936, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 60, 12, 1, 1);
+VALUES ( 42052267, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 60, 12, 1, 1);
+VALUES ( 21602392, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 60, 12, 1, 1);
+VALUES ( 31011472, 60, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 61, 12, 1, 1);
+VALUES ( 27729764, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 61, 12, 1, 1);
+VALUES ( 56297635, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 61, 12, 1, 1);
+VALUES ( 48355960, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 61, 12, 1, 1);
+VALUES ( 44799871, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 61, 12, 1, 1);
+VALUES ( 41611262, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 61, 12, 1, 1);
+VALUES ( 42530655, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 61, 12, 1, 1);
+VALUES ( 38056324, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 61, 12, 1, 1);
+VALUES ( 11495731, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 61, 12, 1, 1);
+VALUES ( 51696195, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 61, 12, 1, 1);
+VALUES ( 49905134, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 61, 12, 1, 1);
+VALUES ( 42453178, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 61, 12, 1, 1);
+VALUES ( 29590789, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 61, 12, 1, 1);
+VALUES ( 47417133, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 61, 12, 1, 1);
+VALUES ( 49926388, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 61, 12, 1, 1);
+VALUES ( 39666201, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 61, 12, 1, 1);
+VALUES ( 39996701, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 61, 12, 1, 1);
+VALUES ( 53498583, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 61, 12, 1, 1);
+VALUES ( 42431431, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 61, 12, 1, 1);
+VALUES ( 48457108, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 61, 12, 1, 1);
+VALUES ( 21496965, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 61, 12, 1, 1);
+VALUES ( 17357747, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 61, 12, 1, 1);
+VALUES ( 24458936, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 61, 12, 1, 1);
+VALUES ( 42052267, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 61, 12, 1, 1);
+VALUES ( 21602392, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 61, 12, 1, 1);
+VALUES ( 31011472, 61, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31032911, 62, 12, 1, 1);
+VALUES ( 27729764, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15510448, 62, 12, 1, 1);
+VALUES ( 56297635, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16471308, 62, 12, 1, 1);
+VALUES ( 48355960, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24266670, 62, 12, 1, 1);
+VALUES ( 44799871, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26900282, 62, 12, 1, 1);
+VALUES ( 41611262, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31744370, 62, 12, 1, 1);
+VALUES ( 42530655, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58285448, 62, 12, 1, 1);
+VALUES ( 38056324, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53818383, 62, 12, 1, 1);
+VALUES ( 11495731, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36122539, 62, 12, 1, 1);
+VALUES ( 51696195, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24135772, 62, 12, 1, 1);
+VALUES ( 49905134, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46493146, 62, 12, 1, 1);
+VALUES ( 42453178, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16155669, 62, 12, 1, 1);
+VALUES ( 29590789, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17363766, 62, 12, 1, 1);
+VALUES ( 47417133, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29421150, 62, 12, 1, 1);
+VALUES ( 49926388, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26252598, 62, 12, 1, 1);
+VALUES ( 39666201, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24584367, 62, 12, 1, 1);
+VALUES ( 39996701, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39822354, 62, 12, 1, 1);
+VALUES ( 53498583, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32489402, 62, 12, 1, 1);
+VALUES ( 42431431, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25617167, 62, 12, 1, 1);
+VALUES ( 48457108, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41342491, 62, 12, 1, 1);
+VALUES ( 21496965, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42809244, 62, 12, 1, 1);
+VALUES ( 17357747, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58528404, 62, 12, 1, 1);
+VALUES ( 24458936, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14226818, 62, 12, 1, 1);
+VALUES ( 42052267, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15263314, 62, 12, 1, 1);
+VALUES ( 21602392, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26748323, 62, 12, 1, 1);
+VALUES ( 31011472, 62, 12, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 56, 13, 1, 1);
+VALUES ( 26368478, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 56, 13, 1, 1);
+VALUES ( 36055572, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 56, 13, 1, 1);
+VALUES ( 42445537, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 56, 13, 1, 1);
+VALUES ( 26207537, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 56, 13, 1, 1);
+VALUES ( 16830269, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 56, 13, 1, 1);
+VALUES ( 47586370, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 56, 13, 1, 1);
+VALUES ( 33923417, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 56, 13, 1, 1);
+VALUES ( 53170818, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 56, 13, 1, 1);
+VALUES ( 34413318, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 56, 13, 1, 1);
+VALUES ( 32399243, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 56, 13, 1, 1);
+VALUES ( 42906573, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 56, 13, 1, 1);
+VALUES ( 17465330, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 56, 13, 1, 1);
+VALUES ( 33220314, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 56, 13, 1, 1);
+VALUES ( 42327781, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 56, 13, 1, 1);
+VALUES ( 51764827, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 56, 13, 1, 1);
+VALUES ( 36786864, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 56, 13, 1, 1);
+VALUES ( 45561112, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 56, 13, 1, 1);
+VALUES ( 32638667, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 56, 13, 1, 1);
+VALUES ( 51088110, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 56, 13, 1, 1);
+VALUES ( 56653152, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 56, 13, 1, 1);
+VALUES ( 25812741, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 56, 13, 1, 1);
+VALUES ( 52136433, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 56, 13, 1, 1);
+VALUES ( 51926059, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 56, 13, 1, 1);
+VALUES ( 22107503, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 56, 13, 1, 1);
+VALUES ( 39286453, 56, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 57, 13, 1, 1);
+VALUES ( 26368478, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 57, 13, 1, 1);
+VALUES ( 36055572, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 57, 13, 1, 1);
+VALUES ( 42445537, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 57, 13, 1, 1);
+VALUES ( 26207537, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 57, 13, 1, 1);
+VALUES ( 16830269, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 57, 13, 1, 1);
+VALUES ( 47586370, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 57, 13, 1, 1);
+VALUES ( 33923417, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 57, 13, 1, 1);
+VALUES ( 53170818, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 57, 13, 1, 1);
+VALUES ( 34413318, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 57, 13, 1, 1);
+VALUES ( 32399243, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 57, 13, 1, 1);
+VALUES ( 42906573, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 57, 13, 1, 1);
+VALUES ( 17465330, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 57, 13, 1, 1);
+VALUES ( 33220314, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 57, 13, 1, 1);
+VALUES ( 42327781, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 57, 13, 1, 1);
+VALUES ( 51764827, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 57, 13, 1, 1);
+VALUES ( 36786864, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 57, 13, 1, 1);
+VALUES ( 45561112, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 57, 13, 1, 1);
+VALUES ( 32638667, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 57, 13, 1, 1);
+VALUES ( 51088110, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 57, 13, 1, 1);
+VALUES ( 56653152, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 57, 13, 1, 1);
+VALUES ( 25812741, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 57, 13, 1, 1);
+VALUES ( 52136433, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 57, 13, 1, 1);
+VALUES ( 51926059, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 57, 13, 1, 1);
+VALUES ( 22107503, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 57, 13, 1, 1);
+VALUES ( 39286453, 57, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 58, 13, 1, 1);
+VALUES ( 26368478, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 58, 13, 1, 1);
+VALUES ( 36055572, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 58, 13, 1, 1);
+VALUES ( 42445537, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 58, 13, 1, 1);
+VALUES ( 26207537, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 58, 13, 1, 1);
+VALUES ( 16830269, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 58, 13, 1, 1);
+VALUES ( 47586370, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 58, 13, 1, 1);
+VALUES ( 33923417, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 58, 13, 1, 1);
+VALUES ( 53170818, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 58, 13, 1, 1);
+VALUES ( 34413318, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 58, 13, 1, 1);
+VALUES ( 32399243, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 58, 13, 1, 1);
+VALUES ( 42906573, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 58, 13, 1, 1);
+VALUES ( 17465330, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 58, 13, 1, 1);
+VALUES ( 33220314, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 58, 13, 1, 1);
+VALUES ( 42327781, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 58, 13, 1, 1);
+VALUES ( 51764827, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 58, 13, 1, 1);
+VALUES ( 36786864, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 58, 13, 1, 1);
+VALUES ( 45561112, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 58, 13, 1, 1);
+VALUES ( 32638667, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 58, 13, 1, 1);
+VALUES ( 51088110, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 58, 13, 1, 1);
+VALUES ( 56653152, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 58, 13, 1, 1);
+VALUES ( 25812741, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 58, 13, 1, 1);
+VALUES ( 52136433, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 58, 13, 1, 1);
+VALUES ( 51926059, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 58, 13, 1, 1);
+VALUES ( 22107503, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 58, 13, 1, 1);
+VALUES ( 39286453, 58, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 59, 13, 1, 1);
+VALUES ( 26368478, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 59, 13, 1, 1);
+VALUES ( 36055572, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 59, 13, 1, 1);
+VALUES ( 42445537, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 59, 13, 1, 1);
+VALUES ( 26207537, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 59, 13, 1, 1);
+VALUES ( 16830269, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 59, 13, 1, 1);
+VALUES ( 47586370, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 59, 13, 1, 1);
+VALUES ( 33923417, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 59, 13, 1, 1);
+VALUES ( 53170818, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 59, 13, 1, 1);
+VALUES ( 34413318, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 59, 13, 1, 1);
+VALUES ( 32399243, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 59, 13, 1, 1);
+VALUES ( 42906573, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 59, 13, 1, 1);
+VALUES ( 17465330, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 59, 13, 1, 1);
+VALUES ( 33220314, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 59, 13, 1, 1);
+VALUES ( 42327781, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 59, 13, 1, 1);
+VALUES ( 51764827, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 59, 13, 1, 1);
+VALUES ( 36786864, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 59, 13, 1, 1);
+VALUES ( 45561112, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 59, 13, 1, 1);
+VALUES ( 32638667, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 59, 13, 1, 1);
+VALUES ( 51088110, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 59, 13, 1, 1);
+VALUES ( 56653152, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 59, 13, 1, 1);
+VALUES ( 25812741, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 59, 13, 1, 1);
+VALUES ( 52136433, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 59, 13, 1, 1);
+VALUES ( 51926059, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 59, 13, 1, 1);
+VALUES ( 22107503, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 59, 13, 1, 1);
+VALUES ( 39286453, 59, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 60, 13, 1, 1);
+VALUES ( 26368478, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 60, 13, 1, 1);
+VALUES ( 36055572, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 60, 13, 1, 1);
+VALUES ( 42445537, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 60, 13, 1, 1);
+VALUES ( 26207537, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 60, 13, 1, 1);
+VALUES ( 16830269, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 60, 13, 1, 1);
+VALUES ( 47586370, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 60, 13, 1, 1);
+VALUES ( 33923417, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 60, 13, 1, 1);
+VALUES ( 53170818, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 60, 13, 1, 1);
+VALUES ( 34413318, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 60, 13, 1, 1);
+VALUES ( 32399243, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 60, 13, 1, 1);
+VALUES ( 42906573, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 60, 13, 1, 1);
+VALUES ( 17465330, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 60, 13, 1, 1);
+VALUES ( 33220314, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 60, 13, 1, 1);
+VALUES ( 42327781, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 60, 13, 1, 1);
+VALUES ( 51764827, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 60, 13, 1, 1);
+VALUES ( 36786864, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 60, 13, 1, 1);
+VALUES ( 45561112, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 60, 13, 1, 1);
+VALUES ( 32638667, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 60, 13, 1, 1);
+VALUES ( 51088110, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 60, 13, 1, 1);
+VALUES ( 56653152, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 60, 13, 1, 1);
+VALUES ( 25812741, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 60, 13, 1, 1);
+VALUES ( 52136433, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 60, 13, 1, 1);
+VALUES ( 51926059, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 60, 13, 1, 1);
+VALUES ( 22107503, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 60, 13, 1, 1);
+VALUES ( 39286453, 60, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 61, 13, 1, 1);
+VALUES ( 26368478, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 61, 13, 1, 1);
+VALUES ( 36055572, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 61, 13, 1, 1);
+VALUES ( 42445537, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 61, 13, 1, 1);
+VALUES ( 26207537, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 61, 13, 1, 1);
+VALUES ( 16830269, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 61, 13, 1, 1);
+VALUES ( 47586370, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 61, 13, 1, 1);
+VALUES ( 33923417, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 61, 13, 1, 1);
+VALUES ( 53170818, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 61, 13, 1, 1);
+VALUES ( 34413318, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 61, 13, 1, 1);
+VALUES ( 32399243, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 61, 13, 1, 1);
+VALUES ( 42906573, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 61, 13, 1, 1);
+VALUES ( 17465330, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 61, 13, 1, 1);
+VALUES ( 33220314, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 61, 13, 1, 1);
+VALUES ( 42327781, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 61, 13, 1, 1);
+VALUES ( 51764827, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 61, 13, 1, 1);
+VALUES ( 36786864, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 61, 13, 1, 1);
+VALUES ( 45561112, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 61, 13, 1, 1);
+VALUES ( 32638667, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 61, 13, 1, 1);
+VALUES ( 51088110, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 61, 13, 1, 1);
+VALUES ( 56653152, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 61, 13, 1, 1);
+VALUES ( 25812741, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 61, 13, 1, 1);
+VALUES ( 52136433, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 61, 13, 1, 1);
+VALUES ( 51926059, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 61, 13, 1, 1);
+VALUES ( 22107503, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 61, 13, 1, 1);
+VALUES ( 39286453, 61, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33905237, 62, 13, 1, 1);
+VALUES ( 26368478, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17607378, 62, 13, 1, 1);
+VALUES ( 36055572, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27650630, 62, 13, 1, 1);
+VALUES ( 42445537, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52969662, 62, 13, 1, 1);
+VALUES ( 26207537, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24455263, 62, 13, 1, 1);
+VALUES ( 16830269, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25341451, 62, 13, 1, 1);
+VALUES ( 47586370, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58370588, 62, 13, 1, 1);
+VALUES ( 33923417, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17927176, 62, 13, 1, 1);
+VALUES ( 53170818, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31109310, 62, 13, 1, 1);
+VALUES ( 34413318, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56344436, 62, 13, 1, 1);
+VALUES ( 32399243, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41525184, 62, 13, 1, 1);
+VALUES ( 42906573, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13498729, 62, 13, 1, 1);
+VALUES ( 17465330, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21614694, 62, 13, 1, 1);
+VALUES ( 33220314, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11950808, 62, 13, 1, 1);
+VALUES ( 42327781, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38544840, 62, 13, 1, 1);
+VALUES ( 51764827, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12941060, 62, 13, 1, 1);
+VALUES ( 36786864, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58241694, 62, 13, 1, 1);
+VALUES ( 45561112, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45985899, 62, 13, 1, 1);
+VALUES ( 32638667, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25418430, 62, 13, 1, 1);
+VALUES ( 51088110, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21097507, 62, 13, 1, 1);
+VALUES ( 56653152, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43744160, 62, 13, 1, 1);
+VALUES ( 25812741, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27565584, 62, 13, 1, 1);
+VALUES ( 52136433, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33052652, 62, 13, 1, 1);
+VALUES ( 51926059, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59372468, 62, 13, 1, 1);
+VALUES ( 22107503, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37696957, 62, 13, 1, 1);
+VALUES ( 39286453, 62, 13, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 56, 14, 1, 1);
+VALUES ( 25437567, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 56, 14, 1, 1);
+VALUES ( 53855640, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 56, 14, 1, 1);
+VALUES ( 15477533, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 56, 14, 1, 1);
+VALUES ( 46355980, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 56, 14, 1, 1);
+VALUES ( 46435970, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 56, 14, 1, 1);
+VALUES ( 38221294, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 56, 14, 1, 1);
+VALUES ( 57617408, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 56, 14, 1, 1);
+VALUES ( 49188861, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 56, 14, 1, 1);
+VALUES ( 13759153, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 56, 14, 1, 1);
+VALUES ( 36108214, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 56, 14, 1, 1);
+VALUES ( 56118047, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 56, 14, 1, 1);
+VALUES ( 54015041, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 56, 14, 1, 1);
+VALUES ( 54458219, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 56, 14, 1, 1);
+VALUES ( 25427627, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 56, 14, 1, 1);
+VALUES ( 39363946, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 56, 14, 1, 1);
+VALUES ( 32658390, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 56, 14, 1, 1);
+VALUES ( 15956862, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 56, 14, 1, 1);
+VALUES ( 35591715, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 56, 14, 1, 1);
+VALUES ( 54274293, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 56, 14, 1, 1);
+VALUES ( 21898228, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 56, 14, 1, 1);
+VALUES ( 51245762, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 56, 14, 1, 1);
+VALUES ( 15920160, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 56, 14, 1, 1);
+VALUES ( 24845359, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 56, 14, 1, 1);
+VALUES ( 14465763, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 56, 14, 1, 1);
+VALUES ( 26572227, 56, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 57, 14, 1, 1);
+VALUES ( 25437567, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 57, 14, 1, 1);
+VALUES ( 53855640, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 57, 14, 1, 1);
+VALUES ( 15477533, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 57, 14, 1, 1);
+VALUES ( 46355980, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 57, 14, 1, 1);
+VALUES ( 46435970, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 57, 14, 1, 1);
+VALUES ( 38221294, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 57, 14, 1, 1);
+VALUES ( 57617408, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 57, 14, 1, 1);
+VALUES ( 49188861, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 57, 14, 1, 1);
+VALUES ( 13759153, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 57, 14, 1, 1);
+VALUES ( 36108214, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 57, 14, 1, 1);
+VALUES ( 56118047, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 57, 14, 1, 1);
+VALUES ( 54015041, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 57, 14, 1, 1);
+VALUES ( 54458219, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 57, 14, 1, 1);
+VALUES ( 25427627, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 57, 14, 1, 1);
+VALUES ( 39363946, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 57, 14, 1, 1);
+VALUES ( 32658390, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 57, 14, 1, 1);
+VALUES ( 15956862, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 57, 14, 1, 1);
+VALUES ( 35591715, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 57, 14, 1, 1);
+VALUES ( 54274293, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 57, 14, 1, 1);
+VALUES ( 21898228, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 57, 14, 1, 1);
+VALUES ( 51245762, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 57, 14, 1, 1);
+VALUES ( 15920160, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 57, 14, 1, 1);
+VALUES ( 24845359, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 57, 14, 1, 1);
+VALUES ( 14465763, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 57, 14, 1, 1);
+VALUES ( 26572227, 57, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 58, 14, 1, 1);
+VALUES ( 25437567, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 58, 14, 1, 1);
+VALUES ( 53855640, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 58, 14, 1, 1);
+VALUES ( 15477533, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 58, 14, 1, 1);
+VALUES ( 46355980, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 58, 14, 1, 1);
+VALUES ( 46435970, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 58, 14, 1, 1);
+VALUES ( 38221294, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 58, 14, 1, 1);
+VALUES ( 57617408, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 58, 14, 1, 1);
+VALUES ( 49188861, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 58, 14, 1, 1);
+VALUES ( 13759153, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 58, 14, 1, 1);
+VALUES ( 36108214, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 58, 14, 1, 1);
+VALUES ( 56118047, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 58, 14, 1, 1);
+VALUES ( 54015041, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 58, 14, 1, 1);
+VALUES ( 54458219, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 58, 14, 1, 1);
+VALUES ( 25427627, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 58, 14, 1, 1);
+VALUES ( 39363946, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 58, 14, 1, 1);
+VALUES ( 32658390, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 58, 14, 1, 1);
+VALUES ( 15956862, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 58, 14, 1, 1);
+VALUES ( 35591715, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 58, 14, 1, 1);
+VALUES ( 54274293, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 58, 14, 1, 1);
+VALUES ( 21898228, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 58, 14, 1, 1);
+VALUES ( 51245762, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 58, 14, 1, 1);
+VALUES ( 15920160, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 58, 14, 1, 1);
+VALUES ( 24845359, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 58, 14, 1, 1);
+VALUES ( 14465763, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 58, 14, 1, 1);
+VALUES ( 26572227, 58, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 59, 14, 1, 1);
+VALUES ( 25437567, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 59, 14, 1, 1);
+VALUES ( 53855640, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 59, 14, 1, 1);
+VALUES ( 15477533, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 59, 14, 1, 1);
+VALUES ( 46355980, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 59, 14, 1, 1);
+VALUES ( 46435970, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 59, 14, 1, 1);
+VALUES ( 38221294, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 59, 14, 1, 1);
+VALUES ( 57617408, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 59, 14, 1, 1);
+VALUES ( 49188861, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 59, 14, 1, 1);
+VALUES ( 13759153, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 59, 14, 1, 1);
+VALUES ( 36108214, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 59, 14, 1, 1);
+VALUES ( 56118047, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 59, 14, 1, 1);
+VALUES ( 54015041, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 59, 14, 1, 1);
+VALUES ( 54458219, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 59, 14, 1, 1);
+VALUES ( 25427627, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 59, 14, 1, 1);
+VALUES ( 39363946, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 59, 14, 1, 1);
+VALUES ( 32658390, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 59, 14, 1, 1);
+VALUES ( 15956862, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 59, 14, 1, 1);
+VALUES ( 35591715, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 59, 14, 1, 1);
+VALUES ( 54274293, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 59, 14, 1, 1);
+VALUES ( 21898228, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 59, 14, 1, 1);
+VALUES ( 51245762, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 59, 14, 1, 1);
+VALUES ( 15920160, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 59, 14, 1, 1);
+VALUES ( 24845359, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 59, 14, 1, 1);
+VALUES ( 14465763, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 59, 14, 1, 1);
+VALUES ( 26572227, 59, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 60, 14, 1, 1);
+VALUES ( 25437567, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 60, 14, 1, 1);
+VALUES ( 53855640, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 60, 14, 1, 1);
+VALUES ( 15477533, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 60, 14, 1, 1);
+VALUES ( 46355980, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 60, 14, 1, 1);
+VALUES ( 46435970, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 60, 14, 1, 1);
+VALUES ( 38221294, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 60, 14, 1, 1);
+VALUES ( 57617408, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 60, 14, 1, 1);
+VALUES ( 49188861, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 60, 14, 1, 1);
+VALUES ( 13759153, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 60, 14, 1, 1);
+VALUES ( 36108214, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 60, 14, 1, 1);
+VALUES ( 56118047, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 60, 14, 1, 1);
+VALUES ( 54015041, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 60, 14, 1, 1);
+VALUES ( 54458219, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 60, 14, 1, 1);
+VALUES ( 25427627, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 60, 14, 1, 1);
+VALUES ( 39363946, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 60, 14, 1, 1);
+VALUES ( 32658390, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 60, 14, 1, 1);
+VALUES ( 15956862, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 60, 14, 1, 1);
+VALUES ( 35591715, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 60, 14, 1, 1);
+VALUES ( 54274293, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 60, 14, 1, 1);
+VALUES ( 21898228, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 60, 14, 1, 1);
+VALUES ( 51245762, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 60, 14, 1, 1);
+VALUES ( 15920160, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 60, 14, 1, 1);
+VALUES ( 24845359, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 60, 14, 1, 1);
+VALUES ( 14465763, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 60, 14, 1, 1);
+VALUES ( 26572227, 60, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 61, 14, 1, 1);
+VALUES ( 25437567, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 61, 14, 1, 1);
+VALUES ( 53855640, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 61, 14, 1, 1);
+VALUES ( 15477533, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 61, 14, 1, 1);
+VALUES ( 46355980, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 61, 14, 1, 1);
+VALUES ( 46435970, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 61, 14, 1, 1);
+VALUES ( 38221294, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 61, 14, 1, 1);
+VALUES ( 57617408, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 61, 14, 1, 1);
+VALUES ( 49188861, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 61, 14, 1, 1);
+VALUES ( 13759153, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 61, 14, 1, 1);
+VALUES ( 36108214, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 61, 14, 1, 1);
+VALUES ( 56118047, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 61, 14, 1, 1);
+VALUES ( 54015041, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 61, 14, 1, 1);
+VALUES ( 54458219, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 61, 14, 1, 1);
+VALUES ( 25427627, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 61, 14, 1, 1);
+VALUES ( 39363946, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 61, 14, 1, 1);
+VALUES ( 32658390, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 61, 14, 1, 1);
+VALUES ( 15956862, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 61, 14, 1, 1);
+VALUES ( 35591715, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 61, 14, 1, 1);
+VALUES ( 54274293, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 61, 14, 1, 1);
+VALUES ( 21898228, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 61, 14, 1, 1);
+VALUES ( 51245762, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 61, 14, 1, 1);
+VALUES ( 15920160, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 61, 14, 1, 1);
+VALUES ( 24845359, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 61, 14, 1, 1);
+VALUES ( 14465763, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 61, 14, 1, 1);
+VALUES ( 26572227, 61, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37298333, 62, 14, 1, 1);
+VALUES ( 25437567, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36063260, 62, 14, 1, 1);
+VALUES ( 53855640, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12469472, 62, 14, 1, 1);
+VALUES ( 15477533, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48261880, 62, 14, 1, 1);
+VALUES ( 46355980, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33926754, 62, 14, 1, 1);
+VALUES ( 46435970, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19496410, 62, 14, 1, 1);
+VALUES ( 38221294, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28554390, 62, 14, 1, 1);
+VALUES ( 57617408, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24176239, 62, 14, 1, 1);
+VALUES ( 49188861, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19133527, 62, 14, 1, 1);
+VALUES ( 13759153, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36120644, 62, 14, 1, 1);
+VALUES ( 36108214, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13500556, 62, 14, 1, 1);
+VALUES ( 56118047, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27001762, 62, 14, 1, 1);
+VALUES ( 54015041, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48944824, 62, 14, 1, 1);
+VALUES ( 54458219, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34826979, 62, 14, 1, 1);
+VALUES ( 25427627, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43089174, 62, 14, 1, 1);
+VALUES ( 39363946, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58062101, 62, 14, 1, 1);
+VALUES ( 32658390, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11734456, 62, 14, 1, 1);
+VALUES ( 15956862, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44035215, 62, 14, 1, 1);
+VALUES ( 35591715, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33661998, 62, 14, 1, 1);
+VALUES ( 54274293, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48879558, 62, 14, 1, 1);
+VALUES ( 21898228, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19702037, 62, 14, 1, 1);
+VALUES ( 51245762, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31296345, 62, 14, 1, 1);
+VALUES ( 15920160, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57858555, 62, 14, 1, 1);
+VALUES ( 24845359, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49315674, 62, 14, 1, 1);
+VALUES ( 14465763, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55535991, 62, 14, 1, 1);
+VALUES ( 26572227, 62, 14, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 56, 15, 1, 1);
+VALUES ( 13629992, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 56, 15, 1, 1);
+VALUES ( 44492918, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 56, 15, 1, 1);
+VALUES ( 45559741, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 56, 15, 1, 1);
+VALUES ( 37264736, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 56, 15, 1, 1);
+VALUES ( 52275029, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 56, 15, 1, 1);
+VALUES ( 56654974, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 56, 15, 1, 1);
+VALUES ( 18074166, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 56, 15, 1, 1);
+VALUES ( 31135169, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 56, 15, 1, 1);
+VALUES ( 52157160, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 56, 15, 1, 1);
+VALUES ( 58115699, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 56, 15, 1, 1);
+VALUES ( 26119633, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 56, 15, 1, 1);
+VALUES ( 33602217, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 56, 15, 1, 1);
+VALUES ( 29903710, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 56, 15, 1, 1);
+VALUES ( 28548309, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 56, 15, 1, 1);
+VALUES ( 59566249, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 56, 15, 1, 1);
+VALUES ( 41341942, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 56, 15, 1, 1);
+VALUES ( 53750892, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 56, 15, 1, 1);
+VALUES ( 49445885, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 56, 15, 1, 1);
+VALUES ( 42834817, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 56, 15, 1, 1);
+VALUES ( 56498821, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 56, 15, 1, 1);
+VALUES ( 31355545, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 56, 15, 1, 1);
+VALUES ( 38522498, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 56, 15, 1, 1);
+VALUES ( 11791640, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 56, 15, 1, 1);
+VALUES ( 47973157, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 56, 15, 1, 1);
+VALUES ( 14114536, 56, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 57, 15, 1, 1);
+VALUES ( 13629992, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 57, 15, 1, 1);
+VALUES ( 44492918, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 57, 15, 1, 1);
+VALUES ( 45559741, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 57, 15, 1, 1);
+VALUES ( 37264736, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 57, 15, 1, 1);
+VALUES ( 52275029, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 57, 15, 1, 1);
+VALUES ( 56654974, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 57, 15, 1, 1);
+VALUES ( 18074166, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 57, 15, 1, 1);
+VALUES ( 31135169, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 57, 15, 1, 1);
+VALUES ( 52157160, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 57, 15, 1, 1);
+VALUES ( 58115699, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 57, 15, 1, 1);
+VALUES ( 26119633, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 57, 15, 1, 1);
+VALUES ( 33602217, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 57, 15, 1, 1);
+VALUES ( 29903710, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 57, 15, 1, 1);
+VALUES ( 28548309, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 57, 15, 1, 1);
+VALUES ( 59566249, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 57, 15, 1, 1);
+VALUES ( 41341942, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 57, 15, 1, 1);
+VALUES ( 53750892, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 57, 15, 1, 1);
+VALUES ( 49445885, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 57, 15, 1, 1);
+VALUES ( 42834817, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 57, 15, 1, 1);
+VALUES ( 56498821, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 57, 15, 1, 1);
+VALUES ( 31355545, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 57, 15, 1, 1);
+VALUES ( 38522498, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 57, 15, 1, 1);
+VALUES ( 11791640, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 57, 15, 1, 1);
+VALUES ( 47973157, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 57, 15, 1, 1);
+VALUES ( 14114536, 57, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 58, 15, 1, 1);
+VALUES ( 13629992, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 58, 15, 1, 1);
+VALUES ( 44492918, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 58, 15, 1, 1);
+VALUES ( 45559741, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 58, 15, 1, 1);
+VALUES ( 37264736, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 58, 15, 1, 1);
+VALUES ( 52275029, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 58, 15, 1, 1);
+VALUES ( 56654974, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 58, 15, 1, 1);
+VALUES ( 18074166, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 58, 15, 1, 1);
+VALUES ( 31135169, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 58, 15, 1, 1);
+VALUES ( 52157160, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 58, 15, 1, 1);
+VALUES ( 58115699, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 58, 15, 1, 1);
+VALUES ( 26119633, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 58, 15, 1, 1);
+VALUES ( 33602217, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 58, 15, 1, 1);
+VALUES ( 29903710, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 58, 15, 1, 1);
+VALUES ( 28548309, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 58, 15, 1, 1);
+VALUES ( 59566249, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 58, 15, 1, 1);
+VALUES ( 41341942, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 58, 15, 1, 1);
+VALUES ( 53750892, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 58, 15, 1, 1);
+VALUES ( 49445885, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 58, 15, 1, 1);
+VALUES ( 42834817, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 58, 15, 1, 1);
+VALUES ( 56498821, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 58, 15, 1, 1);
+VALUES ( 31355545, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 58, 15, 1, 1);
+VALUES ( 38522498, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 58, 15, 1, 1);
+VALUES ( 11791640, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 58, 15, 1, 1);
+VALUES ( 47973157, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 58, 15, 1, 1);
+VALUES ( 14114536, 58, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 59, 15, 1, 1);
+VALUES ( 13629992, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 59, 15, 1, 1);
+VALUES ( 44492918, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 59, 15, 1, 1);
+VALUES ( 45559741, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 59, 15, 1, 1);
+VALUES ( 37264736, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 59, 15, 1, 1);
+VALUES ( 52275029, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 59, 15, 1, 1);
+VALUES ( 56654974, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 59, 15, 1, 1);
+VALUES ( 18074166, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 59, 15, 1, 1);
+VALUES ( 31135169, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 59, 15, 1, 1);
+VALUES ( 52157160, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 59, 15, 1, 1);
+VALUES ( 58115699, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 59, 15, 1, 1);
+VALUES ( 26119633, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 59, 15, 1, 1);
+VALUES ( 33602217, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 59, 15, 1, 1);
+VALUES ( 29903710, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 59, 15, 1, 1);
+VALUES ( 28548309, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 59, 15, 1, 1);
+VALUES ( 59566249, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 59, 15, 1, 1);
+VALUES ( 41341942, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 59, 15, 1, 1);
+VALUES ( 53750892, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 59, 15, 1, 1);
+VALUES ( 49445885, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 59, 15, 1, 1);
+VALUES ( 42834817, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 59, 15, 1, 1);
+VALUES ( 56498821, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 59, 15, 1, 1);
+VALUES ( 31355545, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 59, 15, 1, 1);
+VALUES ( 38522498, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 59, 15, 1, 1);
+VALUES ( 11791640, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 59, 15, 1, 1);
+VALUES ( 47973157, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 59, 15, 1, 1);
+VALUES ( 14114536, 59, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 60, 15, 1, 1);
+VALUES ( 13629992, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 60, 15, 1, 1);
+VALUES ( 44492918, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 60, 15, 1, 1);
+VALUES ( 45559741, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 60, 15, 1, 1);
+VALUES ( 37264736, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 60, 15, 1, 1);
+VALUES ( 52275029, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 60, 15, 1, 1);
+VALUES ( 56654974, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 60, 15, 1, 1);
+VALUES ( 18074166, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 60, 15, 1, 1);
+VALUES ( 31135169, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 60, 15, 1, 1);
+VALUES ( 52157160, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 60, 15, 1, 1);
+VALUES ( 58115699, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 60, 15, 1, 1);
+VALUES ( 26119633, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 60, 15, 1, 1);
+VALUES ( 33602217, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 60, 15, 1, 1);
+VALUES ( 29903710, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 60, 15, 1, 1);
+VALUES ( 28548309, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 60, 15, 1, 1);
+VALUES ( 59566249, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 60, 15, 1, 1);
+VALUES ( 41341942, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 60, 15, 1, 1);
+VALUES ( 53750892, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 60, 15, 1, 1);
+VALUES ( 49445885, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 60, 15, 1, 1);
+VALUES ( 42834817, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 60, 15, 1, 1);
+VALUES ( 56498821, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 60, 15, 1, 1);
+VALUES ( 31355545, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 60, 15, 1, 1);
+VALUES ( 38522498, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 60, 15, 1, 1);
+VALUES ( 11791640, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 60, 15, 1, 1);
+VALUES ( 47973157, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 60, 15, 1, 1);
+VALUES ( 14114536, 60, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 61, 15, 1, 1);
+VALUES ( 13629992, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 61, 15, 1, 1);
+VALUES ( 44492918, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 61, 15, 1, 1);
+VALUES ( 45559741, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 61, 15, 1, 1);
+VALUES ( 37264736, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 61, 15, 1, 1);
+VALUES ( 52275029, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 61, 15, 1, 1);
+VALUES ( 56654974, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 61, 15, 1, 1);
+VALUES ( 18074166, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 61, 15, 1, 1);
+VALUES ( 31135169, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 61, 15, 1, 1);
+VALUES ( 52157160, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 61, 15, 1, 1);
+VALUES ( 58115699, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 61, 15, 1, 1);
+VALUES ( 26119633, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 61, 15, 1, 1);
+VALUES ( 33602217, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 61, 15, 1, 1);
+VALUES ( 29903710, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 61, 15, 1, 1);
+VALUES ( 28548309, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 61, 15, 1, 1);
+VALUES ( 59566249, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 61, 15, 1, 1);
+VALUES ( 41341942, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 61, 15, 1, 1);
+VALUES ( 53750892, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 61, 15, 1, 1);
+VALUES ( 49445885, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 61, 15, 1, 1);
+VALUES ( 42834817, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 61, 15, 1, 1);
+VALUES ( 56498821, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 61, 15, 1, 1);
+VALUES ( 31355545, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 61, 15, 1, 1);
+VALUES ( 38522498, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 61, 15, 1, 1);
+VALUES ( 11791640, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 61, 15, 1, 1);
+VALUES ( 47973157, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 61, 15, 1, 1);
+VALUES ( 14114536, 61, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27561475, 62, 15, 1, 1);
+VALUES ( 13629992, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42008040, 62, 15, 1, 1);
+VALUES ( 44492918, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59081762, 62, 15, 1, 1);
+VALUES ( 45559741, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43255214, 62, 15, 1, 1);
+VALUES ( 37264736, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17295040, 62, 15, 1, 1);
+VALUES ( 52275029, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26455823, 62, 15, 1, 1);
+VALUES ( 56654974, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28301496, 62, 15, 1, 1);
+VALUES ( 18074166, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35818919, 62, 15, 1, 1);
+VALUES ( 31135169, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28972158, 62, 15, 1, 1);
+VALUES ( 52157160, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39286895, 62, 15, 1, 1);
+VALUES ( 58115699, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12756558, 62, 15, 1, 1);
+VALUES ( 26119633, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52316936, 62, 15, 1, 1);
+VALUES ( 33602217, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11980904, 62, 15, 1, 1);
+VALUES ( 29903710, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41817072, 62, 15, 1, 1);
+VALUES ( 28548309, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52563466, 62, 15, 1, 1);
+VALUES ( 59566249, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14667044, 62, 15, 1, 1);
+VALUES ( 41341942, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37583289, 62, 15, 1, 1);
+VALUES ( 53750892, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54707426, 62, 15, 1, 1);
+VALUES ( 49445885, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56944030, 62, 15, 1, 1);
+VALUES ( 42834817, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45479789, 62, 15, 1, 1);
+VALUES ( 56498821, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37588637, 62, 15, 1, 1);
+VALUES ( 31355545, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58264755, 62, 15, 1, 1);
+VALUES ( 38522498, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33191806, 62, 15, 1, 1);
+VALUES ( 11791640, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11393753, 62, 15, 1, 1);
+VALUES ( 47973157, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48114120, 62, 15, 1, 1);
+VALUES ( 14114536, 62, 15, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 56, 16, 1, 1);
+VALUES ( 12724636, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 56, 16, 1, 1);
+VALUES ( 57836404, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 56, 16, 1, 1);
+VALUES ( 44944842, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 56, 16, 1, 1);
+VALUES ( 31223825, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 56, 16, 1, 1);
+VALUES ( 12070318, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 56, 16, 1, 1);
+VALUES ( 23996575, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 56, 16, 1, 1);
+VALUES ( 22715077, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 56, 16, 1, 1);
+VALUES ( 12731110, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 56, 16, 1, 1);
+VALUES ( 22873110, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 56, 16, 1, 1);
+VALUES ( 48634552, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 56, 16, 1, 1);
+VALUES ( 52003543, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 56, 16, 1, 1);
+VALUES ( 38149444, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 56, 16, 1, 1);
+VALUES ( 33742835, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 56, 16, 1, 1);
+VALUES ( 22006591, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 56, 16, 1, 1);
+VALUES ( 13561893, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 56, 16, 1, 1);
+VALUES ( 12968713, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 56, 16, 1, 1);
+VALUES ( 41519955, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 56, 16, 1, 1);
+VALUES ( 13624077, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 56, 16, 1, 1);
+VALUES ( 19820093, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 56, 16, 1, 1);
+VALUES ( 36135998, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 56, 16, 1, 1);
+VALUES ( 22751669, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 56, 16, 1, 1);
+VALUES ( 39203899, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 56, 16, 1, 1);
+VALUES ( 26668888, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 56, 16, 1, 1);
+VALUES ( 59557654, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 56, 16, 1, 1);
+VALUES ( 31018840, 56, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 57, 16, 1, 1);
+VALUES ( 12724636, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 57, 16, 1, 1);
+VALUES ( 57836404, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 57, 16, 1, 1);
+VALUES ( 44944842, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 57, 16, 1, 1);
+VALUES ( 31223825, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 57, 16, 1, 1);
+VALUES ( 12070318, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 57, 16, 1, 1);
+VALUES ( 23996575, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 57, 16, 1, 1);
+VALUES ( 22715077, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 57, 16, 1, 1);
+VALUES ( 12731110, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 57, 16, 1, 1);
+VALUES ( 22873110, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 57, 16, 1, 1);
+VALUES ( 48634552, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 57, 16, 1, 1);
+VALUES ( 52003543, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 57, 16, 1, 1);
+VALUES ( 38149444, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 57, 16, 1, 1);
+VALUES ( 33742835, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 57, 16, 1, 1);
+VALUES ( 22006591, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 57, 16, 1, 1);
+VALUES ( 13561893, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 57, 16, 1, 1);
+VALUES ( 12968713, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 57, 16, 1, 1);
+VALUES ( 41519955, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 57, 16, 1, 1);
+VALUES ( 13624077, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 57, 16, 1, 1);
+VALUES ( 19820093, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 57, 16, 1, 1);
+VALUES ( 36135998, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 57, 16, 1, 1);
+VALUES ( 22751669, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 57, 16, 1, 1);
+VALUES ( 39203899, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 57, 16, 1, 1);
+VALUES ( 26668888, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 57, 16, 1, 1);
+VALUES ( 59557654, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 57, 16, 1, 1);
+VALUES ( 31018840, 57, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 58, 16, 1, 1);
+VALUES ( 12724636, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 58, 16, 1, 1);
+VALUES ( 57836404, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 58, 16, 1, 1);
+VALUES ( 44944842, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 58, 16, 1, 1);
+VALUES ( 31223825, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 58, 16, 1, 1);
+VALUES ( 12070318, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 58, 16, 1, 1);
+VALUES ( 23996575, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 58, 16, 1, 1);
+VALUES ( 22715077, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 58, 16, 1, 1);
+VALUES ( 12731110, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 58, 16, 1, 1);
+VALUES ( 22873110, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 58, 16, 1, 1);
+VALUES ( 48634552, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 58, 16, 1, 1);
+VALUES ( 52003543, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 58, 16, 1, 1);
+VALUES ( 38149444, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 58, 16, 1, 1);
+VALUES ( 33742835, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 58, 16, 1, 1);
+VALUES ( 22006591, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 58, 16, 1, 1);
+VALUES ( 13561893, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 58, 16, 1, 1);
+VALUES ( 12968713, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 58, 16, 1, 1);
+VALUES ( 41519955, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 58, 16, 1, 1);
+VALUES ( 13624077, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 58, 16, 1, 1);
+VALUES ( 19820093, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 58, 16, 1, 1);
+VALUES ( 36135998, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 58, 16, 1, 1);
+VALUES ( 22751669, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 58, 16, 1, 1);
+VALUES ( 39203899, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 58, 16, 1, 1);
+VALUES ( 26668888, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 58, 16, 1, 1);
+VALUES ( 59557654, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 58, 16, 1, 1);
+VALUES ( 31018840, 58, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 59, 16, 1, 1);
+VALUES ( 12724636, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 59, 16, 1, 1);
+VALUES ( 57836404, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 59, 16, 1, 1);
+VALUES ( 44944842, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 59, 16, 1, 1);
+VALUES ( 31223825, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 59, 16, 1, 1);
+VALUES ( 12070318, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 59, 16, 1, 1);
+VALUES ( 23996575, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 59, 16, 1, 1);
+VALUES ( 22715077, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 59, 16, 1, 1);
+VALUES ( 12731110, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 59, 16, 1, 1);
+VALUES ( 22873110, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 59, 16, 1, 1);
+VALUES ( 48634552, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 59, 16, 1, 1);
+VALUES ( 52003543, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 59, 16, 1, 1);
+VALUES ( 38149444, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 59, 16, 1, 1);
+VALUES ( 33742835, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 59, 16, 1, 1);
+VALUES ( 22006591, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 59, 16, 1, 1);
+VALUES ( 13561893, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 59, 16, 1, 1);
+VALUES ( 12968713, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 59, 16, 1, 1);
+VALUES ( 41519955, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 59, 16, 1, 1);
+VALUES ( 13624077, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 59, 16, 1, 1);
+VALUES ( 19820093, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 59, 16, 1, 1);
+VALUES ( 36135998, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 59, 16, 1, 1);
+VALUES ( 22751669, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 59, 16, 1, 1);
+VALUES ( 39203899, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 59, 16, 1, 1);
+VALUES ( 26668888, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 59, 16, 1, 1);
+VALUES ( 59557654, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 59, 16, 1, 1);
+VALUES ( 31018840, 59, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 60, 16, 1, 1);
+VALUES ( 12724636, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 60, 16, 1, 1);
+VALUES ( 57836404, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 60, 16, 1, 1);
+VALUES ( 44944842, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 60, 16, 1, 1);
+VALUES ( 31223825, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 60, 16, 1, 1);
+VALUES ( 12070318, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 60, 16, 1, 1);
+VALUES ( 23996575, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 60, 16, 1, 1);
+VALUES ( 22715077, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 60, 16, 1, 1);
+VALUES ( 12731110, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 60, 16, 1, 1);
+VALUES ( 22873110, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 60, 16, 1, 1);
+VALUES ( 48634552, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 60, 16, 1, 1);
+VALUES ( 52003543, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 60, 16, 1, 1);
+VALUES ( 38149444, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 60, 16, 1, 1);
+VALUES ( 33742835, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 60, 16, 1, 1);
+VALUES ( 22006591, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 60, 16, 1, 1);
+VALUES ( 13561893, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 60, 16, 1, 1);
+VALUES ( 12968713, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 60, 16, 1, 1);
+VALUES ( 41519955, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 60, 16, 1, 1);
+VALUES ( 13624077, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 60, 16, 1, 1);
+VALUES ( 19820093, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 60, 16, 1, 1);
+VALUES ( 36135998, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 60, 16, 1, 1);
+VALUES ( 22751669, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 60, 16, 1, 1);
+VALUES ( 39203899, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 60, 16, 1, 1);
+VALUES ( 26668888, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 60, 16, 1, 1);
+VALUES ( 59557654, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 60, 16, 1, 1);
+VALUES ( 31018840, 60, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 61, 16, 1, 1);
+VALUES ( 12724636, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 61, 16, 1, 1);
+VALUES ( 57836404, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 61, 16, 1, 1);
+VALUES ( 44944842, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 61, 16, 1, 1);
+VALUES ( 31223825, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 61, 16, 1, 1);
+VALUES ( 12070318, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 61, 16, 1, 1);
+VALUES ( 23996575, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 61, 16, 1, 1);
+VALUES ( 22715077, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 61, 16, 1, 1);
+VALUES ( 12731110, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 61, 16, 1, 1);
+VALUES ( 22873110, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 61, 16, 1, 1);
+VALUES ( 48634552, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 61, 16, 1, 1);
+VALUES ( 52003543, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 61, 16, 1, 1);
+VALUES ( 38149444, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 61, 16, 1, 1);
+VALUES ( 33742835, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 61, 16, 1, 1);
+VALUES ( 22006591, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 61, 16, 1, 1);
+VALUES ( 13561893, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 61, 16, 1, 1);
+VALUES ( 12968713, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 61, 16, 1, 1);
+VALUES ( 41519955, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 61, 16, 1, 1);
+VALUES ( 13624077, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 61, 16, 1, 1);
+VALUES ( 19820093, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 61, 16, 1, 1);
+VALUES ( 36135998, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 61, 16, 1, 1);
+VALUES ( 22751669, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 61, 16, 1, 1);
+VALUES ( 39203899, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 61, 16, 1, 1);
+VALUES ( 26668888, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 61, 16, 1, 1);
+VALUES ( 59557654, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 61, 16, 1, 1);
+VALUES ( 31018840, 61, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16415801, 62, 16, 1, 1);
+VALUES ( 12724636, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54133938, 62, 16, 1, 1);
+VALUES ( 57836404, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29159149, 62, 16, 1, 1);
+VALUES ( 44944842, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11117052, 62, 16, 1, 1);
+VALUES ( 31223825, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27668839, 62, 16, 1, 1);
+VALUES ( 12070318, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34620993, 62, 16, 1, 1);
+VALUES ( 23996575, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39124427, 62, 16, 1, 1);
+VALUES ( 22715077, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32485945, 62, 16, 1, 1);
+VALUES ( 12731110, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29527833, 62, 16, 1, 1);
+VALUES ( 22873110, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 35029722, 62, 16, 1, 1);
+VALUES ( 48634552, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21030727, 62, 16, 1, 1);
+VALUES ( 52003543, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17302435, 62, 16, 1, 1);
+VALUES ( 38149444, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39251200, 62, 16, 1, 1);
+VALUES ( 33742835, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56313762, 62, 16, 1, 1);
+VALUES ( 22006591, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17991424, 62, 16, 1, 1);
+VALUES ( 13561893, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27124762, 62, 16, 1, 1);
+VALUES ( 12968713, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26968840, 62, 16, 1, 1);
+VALUES ( 41519955, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56682345, 62, 16, 1, 1);
+VALUES ( 13624077, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12639778, 62, 16, 1, 1);
+VALUES ( 19820093, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27722142, 62, 16, 1, 1);
+VALUES ( 36135998, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 31750822, 62, 16, 1, 1);
+VALUES ( 22751669, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46269824, 62, 16, 1, 1);
+VALUES ( 39203899, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16889107, 62, 16, 1, 1);
+VALUES ( 26668888, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13804683, 62, 16, 1, 1);
+VALUES ( 59557654, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46558356, 62, 16, 1, 1);
+VALUES ( 31018840, 62, 16, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 56, 17, 1, 1);
+VALUES ( 37301540, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 56, 17, 1, 1);
+VALUES ( 39803073, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 56, 17, 1, 1);
+VALUES ( 59305873, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 56, 17, 1, 1);
+VALUES ( 39827746, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 56, 17, 1, 1);
+VALUES ( 36202030, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 56, 17, 1, 1);
+VALUES ( 17299795, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 56, 17, 1, 1);
+VALUES ( 54579114, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 56, 17, 1, 1);
+VALUES ( 46169195, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 56, 17, 1, 1);
+VALUES ( 16853615, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 56, 17, 1, 1);
+VALUES ( 57407401, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 56, 17, 1, 1);
+VALUES ( 29196199, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 56, 17, 1, 1);
+VALUES ( 17551593, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 56, 17, 1, 1);
+VALUES ( 48775748, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 56, 17, 1, 1);
+VALUES ( 18029553, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 56, 17, 1, 1);
+VALUES ( 42762270, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 56, 17, 1, 1);
+VALUES ( 21226283, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 56, 17, 1, 1);
+VALUES ( 49668150, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 56, 17, 1, 1);
+VALUES ( 21061974, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 56, 17, 1, 1);
+VALUES ( 42788208, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 56, 17, 1, 1);
+VALUES ( 42487004, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 56, 17, 1, 1);
+VALUES ( 41251777, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 56, 17, 1, 1);
+VALUES ( 26861044, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 56, 17, 1, 1);
+VALUES ( 11536604, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 56, 17, 1, 1);
+VALUES ( 43073434, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 56, 17, 1, 1);
+VALUES ( 24543123, 56, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 57, 17, 1, 1);
+VALUES ( 37301540, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 57, 17, 1, 1);
+VALUES ( 39803073, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 57, 17, 1, 1);
+VALUES ( 59305873, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 57, 17, 1, 1);
+VALUES ( 39827746, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 57, 17, 1, 1);
+VALUES ( 36202030, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 57, 17, 1, 1);
+VALUES ( 17299795, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 57, 17, 1, 1);
+VALUES ( 54579114, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 57, 17, 1, 1);
+VALUES ( 46169195, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 57, 17, 1, 1);
+VALUES ( 16853615, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 57, 17, 1, 1);
+VALUES ( 57407401, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 57, 17, 1, 1);
+VALUES ( 29196199, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 57, 17, 1, 1);
+VALUES ( 17551593, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 57, 17, 1, 1);
+VALUES ( 48775748, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 57, 17, 1, 1);
+VALUES ( 18029553, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 57, 17, 1, 1);
+VALUES ( 42762270, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 57, 17, 1, 1);
+VALUES ( 21226283, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 57, 17, 1, 1);
+VALUES ( 49668150, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 57, 17, 1, 1);
+VALUES ( 21061974, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 57, 17, 1, 1);
+VALUES ( 42788208, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 57, 17, 1, 1);
+VALUES ( 42487004, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 57, 17, 1, 1);
+VALUES ( 41251777, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 57, 17, 1, 1);
+VALUES ( 26861044, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 57, 17, 1, 1);
+VALUES ( 11536604, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 57, 17, 1, 1);
+VALUES ( 43073434, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 57, 17, 1, 1);
+VALUES ( 24543123, 57, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 58, 17, 1, 1);
+VALUES ( 37301540, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 58, 17, 1, 1);
+VALUES ( 39803073, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 58, 17, 1, 1);
+VALUES ( 59305873, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 58, 17, 1, 1);
+VALUES ( 39827746, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 58, 17, 1, 1);
+VALUES ( 36202030, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 58, 17, 1, 1);
+VALUES ( 17299795, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 58, 17, 1, 1);
+VALUES ( 54579114, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 58, 17, 1, 1);
+VALUES ( 46169195, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 58, 17, 1, 1);
+VALUES ( 16853615, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 58, 17, 1, 1);
+VALUES ( 57407401, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 58, 17, 1, 1);
+VALUES ( 29196199, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 58, 17, 1, 1);
+VALUES ( 17551593, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 58, 17, 1, 1);
+VALUES ( 48775748, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 58, 17, 1, 1);
+VALUES ( 18029553, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 58, 17, 1, 1);
+VALUES ( 42762270, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 58, 17, 1, 1);
+VALUES ( 21226283, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 58, 17, 1, 1);
+VALUES ( 49668150, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 58, 17, 1, 1);
+VALUES ( 21061974, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 58, 17, 1, 1);
+VALUES ( 42788208, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 58, 17, 1, 1);
+VALUES ( 42487004, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 58, 17, 1, 1);
+VALUES ( 41251777, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 58, 17, 1, 1);
+VALUES ( 26861044, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 58, 17, 1, 1);
+VALUES ( 11536604, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 58, 17, 1, 1);
+VALUES ( 43073434, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 58, 17, 1, 1);
+VALUES ( 24543123, 58, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 59, 17, 1, 1);
+VALUES ( 37301540, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 59, 17, 1, 1);
+VALUES ( 39803073, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 59, 17, 1, 1);
+VALUES ( 59305873, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 59, 17, 1, 1);
+VALUES ( 39827746, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 59, 17, 1, 1);
+VALUES ( 36202030, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 59, 17, 1, 1);
+VALUES ( 17299795, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 59, 17, 1, 1);
+VALUES ( 54579114, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 59, 17, 1, 1);
+VALUES ( 46169195, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 59, 17, 1, 1);
+VALUES ( 16853615, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 59, 17, 1, 1);
+VALUES ( 57407401, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 59, 17, 1, 1);
+VALUES ( 29196199, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 59, 17, 1, 1);
+VALUES ( 17551593, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 59, 17, 1, 1);
+VALUES ( 48775748, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 59, 17, 1, 1);
+VALUES ( 18029553, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 59, 17, 1, 1);
+VALUES ( 42762270, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 59, 17, 1, 1);
+VALUES ( 21226283, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 59, 17, 1, 1);
+VALUES ( 49668150, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 59, 17, 1, 1);
+VALUES ( 21061974, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 59, 17, 1, 1);
+VALUES ( 42788208, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 59, 17, 1, 1);
+VALUES ( 42487004, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 59, 17, 1, 1);
+VALUES ( 41251777, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 59, 17, 1, 1);
+VALUES ( 26861044, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 59, 17, 1, 1);
+VALUES ( 11536604, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 59, 17, 1, 1);
+VALUES ( 43073434, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 59, 17, 1, 1);
+VALUES ( 24543123, 59, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 60, 17, 1, 1);
+VALUES ( 37301540, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 60, 17, 1, 1);
+VALUES ( 39803073, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 60, 17, 1, 1);
+VALUES ( 59305873, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 60, 17, 1, 1);
+VALUES ( 39827746, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 60, 17, 1, 1);
+VALUES ( 36202030, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 60, 17, 1, 1);
+VALUES ( 17299795, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 60, 17, 1, 1);
+VALUES ( 54579114, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 60, 17, 1, 1);
+VALUES ( 46169195, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 60, 17, 1, 1);
+VALUES ( 16853615, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 60, 17, 1, 1);
+VALUES ( 57407401, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 60, 17, 1, 1);
+VALUES ( 29196199, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 60, 17, 1, 1);
+VALUES ( 17551593, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 60, 17, 1, 1);
+VALUES ( 48775748, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 60, 17, 1, 1);
+VALUES ( 18029553, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 60, 17, 1, 1);
+VALUES ( 42762270, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 60, 17, 1, 1);
+VALUES ( 21226283, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 60, 17, 1, 1);
+VALUES ( 49668150, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 60, 17, 1, 1);
+VALUES ( 21061974, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 60, 17, 1, 1);
+VALUES ( 42788208, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 60, 17, 1, 1);
+VALUES ( 42487004, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 60, 17, 1, 1);
+VALUES ( 41251777, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 60, 17, 1, 1);
+VALUES ( 26861044, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 60, 17, 1, 1);
+VALUES ( 11536604, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 60, 17, 1, 1);
+VALUES ( 43073434, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 60, 17, 1, 1);
+VALUES ( 24543123, 60, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 61, 17, 1, 1);
+VALUES ( 37301540, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 61, 17, 1, 1);
+VALUES ( 39803073, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 61, 17, 1, 1);
+VALUES ( 59305873, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 61, 17, 1, 1);
+VALUES ( 39827746, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 61, 17, 1, 1);
+VALUES ( 36202030, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 61, 17, 1, 1);
+VALUES ( 17299795, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 61, 17, 1, 1);
+VALUES ( 54579114, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 61, 17, 1, 1);
+VALUES ( 46169195, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 61, 17, 1, 1);
+VALUES ( 16853615, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 61, 17, 1, 1);
+VALUES ( 57407401, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 61, 17, 1, 1);
+VALUES ( 29196199, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 61, 17, 1, 1);
+VALUES ( 17551593, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 61, 17, 1, 1);
+VALUES ( 48775748, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 61, 17, 1, 1);
+VALUES ( 18029553, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 61, 17, 1, 1);
+VALUES ( 42762270, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 61, 17, 1, 1);
+VALUES ( 21226283, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 61, 17, 1, 1);
+VALUES ( 49668150, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 61, 17, 1, 1);
+VALUES ( 21061974, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 61, 17, 1, 1);
+VALUES ( 42788208, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 61, 17, 1, 1);
+VALUES ( 42487004, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 61, 17, 1, 1);
+VALUES ( 41251777, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 61, 17, 1, 1);
+VALUES ( 26861044, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 61, 17, 1, 1);
+VALUES ( 11536604, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 61, 17, 1, 1);
+VALUES ( 43073434, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 61, 17, 1, 1);
+VALUES ( 24543123, 61, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41368560, 62, 17, 1, 1);
+VALUES ( 37301540, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25367285, 62, 17, 1, 1);
+VALUES ( 39803073, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18752304, 62, 17, 1, 1);
+VALUES ( 59305873, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21835472, 62, 17, 1, 1);
+VALUES ( 39827746, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53336773, 62, 17, 1, 1);
+VALUES ( 36202030, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46577875, 62, 17, 1, 1);
+VALUES ( 17299795, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42335855, 62, 17, 1, 1);
+VALUES ( 54579114, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14752770, 62, 17, 1, 1);
+VALUES ( 46169195, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19201710, 62, 17, 1, 1);
+VALUES ( 16853615, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 44998978, 62, 17, 1, 1);
+VALUES ( 57407401, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19762217, 62, 17, 1, 1);
+VALUES ( 29196199, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36986880, 62, 17, 1, 1);
+VALUES ( 17551593, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16163658, 62, 17, 1, 1);
+VALUES ( 48775748, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33628132, 62, 17, 1, 1);
+VALUES ( 18029553, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43793741, 62, 17, 1, 1);
+VALUES ( 42762270, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25795698, 62, 17, 1, 1);
+VALUES ( 21226283, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48604569, 62, 17, 1, 1);
+VALUES ( 49668150, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25984231, 62, 17, 1, 1);
+VALUES ( 21061974, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38002163, 62, 17, 1, 1);
+VALUES ( 42788208, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28432667, 62, 17, 1, 1);
+VALUES ( 42487004, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38558883, 62, 17, 1, 1);
+VALUES ( 41251777, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52555499, 62, 17, 1, 1);
+VALUES ( 26861044, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37751189, 62, 17, 1, 1);
+VALUES ( 11536604, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43052882, 62, 17, 1, 1);
+VALUES ( 43073434, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14584375, 62, 17, 1, 1);
+VALUES ( 24543123, 62, 17, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 56, 18, 1, 1);
+VALUES ( 11181601, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 56, 18, 1, 1);
+VALUES ( 52208387, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 56, 18, 1, 1);
+VALUES ( 57792006, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 56, 18, 1, 1);
+VALUES ( 43533852, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 56, 18, 1, 1);
+VALUES ( 31159086, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 56, 18, 1, 1);
+VALUES ( 17887724, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 56, 18, 1, 1);
+VALUES ( 29613278, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 56, 18, 1, 1);
+VALUES ( 27409079, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 56, 18, 1, 1);
+VALUES ( 48909032, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 56, 18, 1, 1);
+VALUES ( 51893266, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 56, 18, 1, 1);
+VALUES ( 42182519, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 56, 18, 1, 1);
+VALUES ( 42219267, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 56, 18, 1, 1);
+VALUES ( 35582625, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 56, 18, 1, 1);
+VALUES ( 48546595, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 56, 18, 1, 1);
+VALUES ( 18117673, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 56, 18, 1, 1);
+VALUES ( 45022142, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 56, 18, 1, 1);
+VALUES ( 42511835, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 56, 18, 1, 1);
+VALUES ( 57112624, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 56, 18, 1, 1);
+VALUES ( 54915265, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 56, 18, 1, 1);
+VALUES ( 17930466, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 56, 18, 1, 1);
+VALUES ( 35817664, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 56, 18, 1, 1);
+VALUES ( 36317502, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 56, 18, 1, 1);
+VALUES ( 25841075, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 56, 18, 1, 1);
+VALUES ( 16027729, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 56, 18, 1, 1);
+VALUES ( 56111798, 56, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 57, 18, 1, 1);
+VALUES ( 11181601, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 57, 18, 1, 1);
+VALUES ( 52208387, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 57, 18, 1, 1);
+VALUES ( 57792006, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 57, 18, 1, 1);
+VALUES ( 43533852, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 57, 18, 1, 1);
+VALUES ( 31159086, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 57, 18, 1, 1);
+VALUES ( 17887724, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 57, 18, 1, 1);
+VALUES ( 29613278, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 57, 18, 1, 1);
+VALUES ( 27409079, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 57, 18, 1, 1);
+VALUES ( 48909032, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 57, 18, 1, 1);
+VALUES ( 51893266, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 57, 18, 1, 1);
+VALUES ( 42182519, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 57, 18, 1, 1);
+VALUES ( 42219267, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 57, 18, 1, 1);
+VALUES ( 35582625, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 57, 18, 1, 1);
+VALUES ( 48546595, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 57, 18, 1, 1);
+VALUES ( 18117673, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 57, 18, 1, 1);
+VALUES ( 45022142, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 57, 18, 1, 1);
+VALUES ( 42511835, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 57, 18, 1, 1);
+VALUES ( 57112624, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 57, 18, 1, 1);
+VALUES ( 54915265, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 57, 18, 1, 1);
+VALUES ( 17930466, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 57, 18, 1, 1);
+VALUES ( 35817664, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 57, 18, 1, 1);
+VALUES ( 36317502, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 57, 18, 1, 1);
+VALUES ( 25841075, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 57, 18, 1, 1);
+VALUES ( 16027729, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 57, 18, 1, 1);
+VALUES ( 56111798, 57, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 58, 18, 1, 1);
+VALUES ( 11181601, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 58, 18, 1, 1);
+VALUES ( 52208387, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 58, 18, 1, 1);
+VALUES ( 57792006, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 58, 18, 1, 1);
+VALUES ( 43533852, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 58, 18, 1, 1);
+VALUES ( 31159086, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 58, 18, 1, 1);
+VALUES ( 17887724, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 58, 18, 1, 1);
+VALUES ( 29613278, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 58, 18, 1, 1);
+VALUES ( 27409079, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 58, 18, 1, 1);
+VALUES ( 48909032, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 58, 18, 1, 1);
+VALUES ( 51893266, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 58, 18, 1, 1);
+VALUES ( 42182519, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 58, 18, 1, 1);
+VALUES ( 42219267, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 58, 18, 1, 1);
+VALUES ( 35582625, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 58, 18, 1, 1);
+VALUES ( 48546595, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 58, 18, 1, 1);
+VALUES ( 18117673, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 58, 18, 1, 1);
+VALUES ( 45022142, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 58, 18, 1, 1);
+VALUES ( 42511835, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 58, 18, 1, 1);
+VALUES ( 57112624, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 58, 18, 1, 1);
+VALUES ( 54915265, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 58, 18, 1, 1);
+VALUES ( 17930466, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 58, 18, 1, 1);
+VALUES ( 35817664, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 58, 18, 1, 1);
+VALUES ( 36317502, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 58, 18, 1, 1);
+VALUES ( 25841075, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 58, 18, 1, 1);
+VALUES ( 16027729, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 58, 18, 1, 1);
+VALUES ( 56111798, 58, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 59, 18, 1, 1);
+VALUES ( 11181601, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 59, 18, 1, 1);
+VALUES ( 52208387, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 59, 18, 1, 1);
+VALUES ( 57792006, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 59, 18, 1, 1);
+VALUES ( 43533852, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 59, 18, 1, 1);
+VALUES ( 31159086, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 59, 18, 1, 1);
+VALUES ( 17887724, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 59, 18, 1, 1);
+VALUES ( 29613278, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 59, 18, 1, 1);
+VALUES ( 27409079, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 59, 18, 1, 1);
+VALUES ( 48909032, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 59, 18, 1, 1);
+VALUES ( 51893266, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 59, 18, 1, 1);
+VALUES ( 42182519, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 59, 18, 1, 1);
+VALUES ( 42219267, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 59, 18, 1, 1);
+VALUES ( 35582625, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 59, 18, 1, 1);
+VALUES ( 48546595, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 59, 18, 1, 1);
+VALUES ( 18117673, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 59, 18, 1, 1);
+VALUES ( 45022142, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 59, 18, 1, 1);
+VALUES ( 42511835, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 59, 18, 1, 1);
+VALUES ( 57112624, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 59, 18, 1, 1);
+VALUES ( 54915265, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 59, 18, 1, 1);
+VALUES ( 17930466, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 59, 18, 1, 1);
+VALUES ( 35817664, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 59, 18, 1, 1);
+VALUES ( 36317502, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 59, 18, 1, 1);
+VALUES ( 25841075, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 59, 18, 1, 1);
+VALUES ( 16027729, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 59, 18, 1, 1);
+VALUES ( 56111798, 59, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 60, 18, 1, 1);
+VALUES ( 11181601, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 60, 18, 1, 1);
+VALUES ( 52208387, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 60, 18, 1, 1);
+VALUES ( 57792006, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 60, 18, 1, 1);
+VALUES ( 43533852, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 60, 18, 1, 1);
+VALUES ( 31159086, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 60, 18, 1, 1);
+VALUES ( 17887724, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 60, 18, 1, 1);
+VALUES ( 29613278, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 60, 18, 1, 1);
+VALUES ( 27409079, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 60, 18, 1, 1);
+VALUES ( 48909032, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 60, 18, 1, 1);
+VALUES ( 51893266, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 60, 18, 1, 1);
+VALUES ( 42182519, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 60, 18, 1, 1);
+VALUES ( 42219267, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 60, 18, 1, 1);
+VALUES ( 35582625, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 60, 18, 1, 1);
+VALUES ( 48546595, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 60, 18, 1, 1);
+VALUES ( 18117673, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 60, 18, 1, 1);
+VALUES ( 45022142, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 60, 18, 1, 1);
+VALUES ( 42511835, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 60, 18, 1, 1);
+VALUES ( 57112624, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 60, 18, 1, 1);
+VALUES ( 54915265, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 60, 18, 1, 1);
+VALUES ( 17930466, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 60, 18, 1, 1);
+VALUES ( 35817664, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 60, 18, 1, 1);
+VALUES ( 36317502, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 60, 18, 1, 1);
+VALUES ( 25841075, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 60, 18, 1, 1);
+VALUES ( 16027729, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 60, 18, 1, 1);
+VALUES ( 56111798, 60, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 61, 18, 1, 1);
+VALUES ( 11181601, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 61, 18, 1, 1);
+VALUES ( 52208387, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 61, 18, 1, 1);
+VALUES ( 57792006, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 61, 18, 1, 1);
+VALUES ( 43533852, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 61, 18, 1, 1);
+VALUES ( 31159086, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 61, 18, 1, 1);
+VALUES ( 17887724, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 61, 18, 1, 1);
+VALUES ( 29613278, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 61, 18, 1, 1);
+VALUES ( 27409079, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 61, 18, 1, 1);
+VALUES ( 48909032, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 61, 18, 1, 1);
+VALUES ( 51893266, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 61, 18, 1, 1);
+VALUES ( 42182519, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 61, 18, 1, 1);
+VALUES ( 42219267, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 61, 18, 1, 1);
+VALUES ( 35582625, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 61, 18, 1, 1);
+VALUES ( 48546595, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 61, 18, 1, 1);
+VALUES ( 18117673, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 61, 18, 1, 1);
+VALUES ( 45022142, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 61, 18, 1, 1);
+VALUES ( 42511835, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 61, 18, 1, 1);
+VALUES ( 57112624, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 61, 18, 1, 1);
+VALUES ( 54915265, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 61, 18, 1, 1);
+VALUES ( 17930466, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 61, 18, 1, 1);
+VALUES ( 35817664, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 61, 18, 1, 1);
+VALUES ( 36317502, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 61, 18, 1, 1);
+VALUES ( 25841075, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 61, 18, 1, 1);
+VALUES ( 16027729, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 61, 18, 1, 1);
+VALUES ( 56111798, 61, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59686112, 62, 18, 1, 1);
+VALUES ( 11181601, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16558205, 62, 18, 1, 1);
+VALUES ( 52208387, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16977324, 62, 18, 1, 1);
+VALUES ( 57792006, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43384443, 62, 18, 1, 1);
+VALUES ( 43533852, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29777901, 62, 18, 1, 1);
+VALUES ( 31159086, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56533950, 62, 18, 1, 1);
+VALUES ( 17887724, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43751428, 62, 18, 1, 1);
+VALUES ( 29613278, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26068751, 62, 18, 1, 1);
+VALUES ( 27409079, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58147890, 62, 18, 1, 1);
+VALUES ( 48909032, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27053533, 62, 18, 1, 1);
+VALUES ( 51893266, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28314140, 62, 18, 1, 1);
+VALUES ( 42182519, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17481891, 62, 18, 1, 1);
+VALUES ( 42219267, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42710227, 62, 18, 1, 1);
+VALUES ( 35582625, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16720991, 62, 18, 1, 1);
+VALUES ( 48546595, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 43992296, 62, 18, 1, 1);
+VALUES ( 18117673, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24100228, 62, 18, 1, 1);
+VALUES ( 45022142, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14288814, 62, 18, 1, 1);
+VALUES ( 42511835, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54076297, 62, 18, 1, 1);
+VALUES ( 57112624, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15813236, 62, 18, 1, 1);
+VALUES ( 54915265, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49162560, 62, 18, 1, 1);
+VALUES ( 17930466, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36216192, 62, 18, 1, 1);
+VALUES ( 35817664, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 42384135, 62, 18, 1, 1);
+VALUES ( 36317502, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 17667116, 62, 18, 1, 1);
+VALUES ( 25841075, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28048945, 62, 18, 1, 1);
+VALUES ( 16027729, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 13379612, 62, 18, 1, 1);
+VALUES ( 56111798, 62, 18, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 56, 19, 1, 1);
+VALUES ( 32624577, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 56, 19, 1, 1);
+VALUES ( 16421911, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 56, 19, 1, 1);
+VALUES ( 58281210, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 56, 19, 1, 1);
+VALUES ( 21532838, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 56, 19, 1, 1);
+VALUES ( 53464481, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 56, 19, 1, 1);
+VALUES ( 35011620, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 56, 19, 1, 1);
+VALUES ( 42936419, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 56, 19, 1, 1);
+VALUES ( 17304693, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 56, 19, 1, 1);
+VALUES ( 29566201, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 56, 19, 1, 1);
+VALUES ( 38295401, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 56, 19, 1, 1);
+VALUES ( 43537159, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 56, 19, 1, 1);
+VALUES ( 51410563, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 56, 19, 1, 1);
+VALUES ( 54685981, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 56, 19, 1, 1);
+VALUES ( 25119820, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 56, 19, 1, 1);
+VALUES ( 35776597, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 56, 19, 1, 1);
+VALUES ( 42790936, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 56, 19, 1, 1);
+VALUES ( 12222218, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 56, 19, 1, 1);
+VALUES ( 51652614, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 56, 19, 1, 1);
+VALUES ( 52350075, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 56, 19, 1, 1);
+VALUES ( 37136824, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 56, 19, 1, 1);
+VALUES ( 52407177, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 56, 19, 1, 1);
+VALUES ( 42944997, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 56, 19, 1, 1);
+VALUES ( 25726873, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 56, 19, 1, 1);
+VALUES ( 34597837, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 56, 19, 1, 1);
+VALUES ( 38178427, 56, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 57, 19, 1, 1);
+VALUES ( 32624577, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 57, 19, 1, 1);
+VALUES ( 16421911, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 57, 19, 1, 1);
+VALUES ( 58281210, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 57, 19, 1, 1);
+VALUES ( 21532838, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 57, 19, 1, 1);
+VALUES ( 53464481, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 57, 19, 1, 1);
+VALUES ( 35011620, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 57, 19, 1, 1);
+VALUES ( 42936419, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 57, 19, 1, 1);
+VALUES ( 17304693, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 57, 19, 1, 1);
+VALUES ( 29566201, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 57, 19, 1, 1);
+VALUES ( 38295401, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 57, 19, 1, 1);
+VALUES ( 43537159, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 57, 19, 1, 1);
+VALUES ( 51410563, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 57, 19, 1, 1);
+VALUES ( 54685981, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 57, 19, 1, 1);
+VALUES ( 25119820, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 57, 19, 1, 1);
+VALUES ( 35776597, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 57, 19, 1, 1);
+VALUES ( 42790936, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 57, 19, 1, 1);
+VALUES ( 12222218, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 57, 19, 1, 1);
+VALUES ( 51652614, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 57, 19, 1, 1);
+VALUES ( 52350075, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 57, 19, 1, 1);
+VALUES ( 37136824, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 57, 19, 1, 1);
+VALUES ( 52407177, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 57, 19, 1, 1);
+VALUES ( 42944997, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 57, 19, 1, 1);
+VALUES ( 25726873, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 57, 19, 1, 1);
+VALUES ( 34597837, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 57, 19, 1, 1);
+VALUES ( 38178427, 57, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 58, 19, 1, 1);
+VALUES ( 32624577, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 58, 19, 1, 1);
+VALUES ( 16421911, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 58, 19, 1, 1);
+VALUES ( 58281210, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 58, 19, 1, 1);
+VALUES ( 21532838, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 58, 19, 1, 1);
+VALUES ( 53464481, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 58, 19, 1, 1);
+VALUES ( 35011620, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 58, 19, 1, 1);
+VALUES ( 42936419, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 58, 19, 1, 1);
+VALUES ( 17304693, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 58, 19, 1, 1);
+VALUES ( 29566201, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 58, 19, 1, 1);
+VALUES ( 38295401, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 58, 19, 1, 1);
+VALUES ( 43537159, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 58, 19, 1, 1);
+VALUES ( 51410563, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 58, 19, 1, 1);
+VALUES ( 54685981, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 58, 19, 1, 1);
+VALUES ( 25119820, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 58, 19, 1, 1);
+VALUES ( 35776597, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 58, 19, 1, 1);
+VALUES ( 42790936, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 58, 19, 1, 1);
+VALUES ( 12222218, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 58, 19, 1, 1);
+VALUES ( 51652614, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 58, 19, 1, 1);
+VALUES ( 52350075, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 58, 19, 1, 1);
+VALUES ( 37136824, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 58, 19, 1, 1);
+VALUES ( 52407177, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 58, 19, 1, 1);
+VALUES ( 42944997, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 58, 19, 1, 1);
+VALUES ( 25726873, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 58, 19, 1, 1);
+VALUES ( 34597837, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 58, 19, 1, 1);
+VALUES ( 38178427, 58, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 59, 19, 1, 1);
+VALUES ( 32624577, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 59, 19, 1, 1);
+VALUES ( 16421911, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 59, 19, 1, 1);
+VALUES ( 58281210, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 59, 19, 1, 1);
+VALUES ( 21532838, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 59, 19, 1, 1);
+VALUES ( 53464481, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 59, 19, 1, 1);
+VALUES ( 35011620, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 59, 19, 1, 1);
+VALUES ( 42936419, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 59, 19, 1, 1);
+VALUES ( 17304693, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 59, 19, 1, 1);
+VALUES ( 29566201, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 59, 19, 1, 1);
+VALUES ( 38295401, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 59, 19, 1, 1);
+VALUES ( 43537159, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 59, 19, 1, 1);
+VALUES ( 51410563, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 59, 19, 1, 1);
+VALUES ( 54685981, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 59, 19, 1, 1);
+VALUES ( 25119820, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 59, 19, 1, 1);
+VALUES ( 35776597, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 59, 19, 1, 1);
+VALUES ( 42790936, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 59, 19, 1, 1);
+VALUES ( 12222218, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 59, 19, 1, 1);
+VALUES ( 51652614, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 59, 19, 1, 1);
+VALUES ( 52350075, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 59, 19, 1, 1);
+VALUES ( 37136824, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 59, 19, 1, 1);
+VALUES ( 52407177, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 59, 19, 1, 1);
+VALUES ( 42944997, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 59, 19, 1, 1);
+VALUES ( 25726873, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 59, 19, 1, 1);
+VALUES ( 34597837, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 59, 19, 1, 1);
+VALUES ( 38178427, 59, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 60, 19, 1, 1);
+VALUES ( 32624577, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 60, 19, 1, 1);
+VALUES ( 16421911, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 60, 19, 1, 1);
+VALUES ( 58281210, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 60, 19, 1, 1);
+VALUES ( 21532838, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 60, 19, 1, 1);
+VALUES ( 53464481, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 60, 19, 1, 1);
+VALUES ( 35011620, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 60, 19, 1, 1);
+VALUES ( 42936419, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 60, 19, 1, 1);
+VALUES ( 17304693, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 60, 19, 1, 1);
+VALUES ( 29566201, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 60, 19, 1, 1);
+VALUES ( 38295401, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 60, 19, 1, 1);
+VALUES ( 43537159, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 60, 19, 1, 1);
+VALUES ( 51410563, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 60, 19, 1, 1);
+VALUES ( 54685981, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 60, 19, 1, 1);
+VALUES ( 25119820, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 60, 19, 1, 1);
+VALUES ( 35776597, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 60, 19, 1, 1);
+VALUES ( 42790936, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 60, 19, 1, 1);
+VALUES ( 12222218, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 60, 19, 1, 1);
+VALUES ( 51652614, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 60, 19, 1, 1);
+VALUES ( 52350075, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 60, 19, 1, 1);
+VALUES ( 37136824, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 60, 19, 1, 1);
+VALUES ( 52407177, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 60, 19, 1, 1);
+VALUES ( 42944997, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 60, 19, 1, 1);
+VALUES ( 25726873, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 60, 19, 1, 1);
+VALUES ( 34597837, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 60, 19, 1, 1);
+VALUES ( 38178427, 60, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 61, 19, 1, 1);
+VALUES ( 32624577, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 61, 19, 1, 1);
+VALUES ( 16421911, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 61, 19, 1, 1);
+VALUES ( 58281210, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 61, 19, 1, 1);
+VALUES ( 21532838, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 61, 19, 1, 1);
+VALUES ( 53464481, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 61, 19, 1, 1);
+VALUES ( 35011620, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 61, 19, 1, 1);
+VALUES ( 42936419, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 61, 19, 1, 1);
+VALUES ( 17304693, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 61, 19, 1, 1);
+VALUES ( 29566201, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 61, 19, 1, 1);
+VALUES ( 38295401, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 61, 19, 1, 1);
+VALUES ( 43537159, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 61, 19, 1, 1);
+VALUES ( 51410563, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 61, 19, 1, 1);
+VALUES ( 54685981, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 61, 19, 1, 1);
+VALUES ( 25119820, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 61, 19, 1, 1);
+VALUES ( 35776597, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 61, 19, 1, 1);
+VALUES ( 42790936, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 61, 19, 1, 1);
+VALUES ( 12222218, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 61, 19, 1, 1);
+VALUES ( 51652614, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 61, 19, 1, 1);
+VALUES ( 52350075, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 61, 19, 1, 1);
+VALUES ( 37136824, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 61, 19, 1, 1);
+VALUES ( 52407177, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 61, 19, 1, 1);
+VALUES ( 42944997, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 61, 19, 1, 1);
+VALUES ( 25726873, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 61, 19, 1, 1);
+VALUES ( 34597837, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 61, 19, 1, 1);
+VALUES ( 38178427, 61, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 21208956, 62, 19, 1, 1);
+VALUES ( 32624577, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59591185, 62, 19, 1, 1);
+VALUES ( 16421911, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27957800, 62, 19, 1, 1);
+VALUES ( 58281210, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52429416, 62, 19, 1, 1);
+VALUES ( 21532838, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 25625037, 62, 19, 1, 1);
+VALUES ( 53464481, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34036556, 62, 19, 1, 1);
+VALUES ( 35011620, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49009803, 62, 19, 1, 1);
+VALUES ( 42936419, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34563434, 62, 19, 1, 1);
+VALUES ( 17304693, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 41214802, 62, 19, 1, 1);
+VALUES ( 29566201, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52598841, 62, 19, 1, 1);
+VALUES ( 38295401, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28724599, 62, 19, 1, 1);
+VALUES ( 43537159, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12603612, 62, 19, 1, 1);
+VALUES ( 51410563, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 33690783, 62, 19, 1, 1);
+VALUES ( 54685981, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51129237, 62, 19, 1, 1);
+VALUES ( 25119820, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 18084294, 62, 19, 1, 1);
+VALUES ( 35776597, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22481082, 62, 19, 1, 1);
+VALUES ( 42790936, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38335988, 62, 19, 1, 1);
+VALUES ( 12222218, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24111946, 62, 19, 1, 1);
+VALUES ( 51652614, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16911968, 62, 19, 1, 1);
+VALUES ( 52350075, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 57909318, 62, 19, 1, 1);
+VALUES ( 37136824, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46618942, 62, 19, 1, 1);
+VALUES ( 52407177, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 16965919, 62, 19, 1, 1);
+VALUES ( 42944997, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37614319, 62, 19, 1, 1);
+VALUES ( 25726873, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59774925, 62, 19, 1, 1);
+VALUES ( 34597837, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26873421, 62, 19, 1, 1);
+VALUES ( 38178427, 62, 19, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 56, 20, 1, 1);
+VALUES ( 35537971, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 56, 20, 1, 1);
+VALUES ( 49181443, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 56, 20, 1, 1);
+VALUES ( 55559783, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 56, 20, 1, 1);
+VALUES ( 22549385, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 56, 20, 1, 1);
+VALUES ( 17842841, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 56, 20, 1, 1);
+VALUES ( 42312578, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 56, 20, 1, 1);
+VALUES ( 35166542, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 56, 20, 1, 1);
+VALUES ( 15673309, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 56, 20, 1, 1);
+VALUES ( 31627409, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 56, 20, 1, 1);
+VALUES ( 58842593, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 56, 20, 1, 1);
+VALUES ( 44154849, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 56, 20, 1, 1);
+VALUES ( 37869904, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 56, 20, 1, 1);
+VALUES ( 34253407, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 56, 20, 1, 1);
+VALUES ( 54876801, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 56, 20, 1, 1);
+VALUES ( 13335131, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 56, 20, 1, 1);
+VALUES ( 52518079, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 56, 20, 1, 1);
+VALUES ( 53783837, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 56, 20, 1, 1);
+VALUES ( 46707884, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 56, 20, 1, 1);
+VALUES ( 34747676, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 56, 20, 1, 1);
+VALUES ( 48467769, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 56, 20, 1, 1);
+VALUES ( 36455906, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 56, 20, 1, 1);
+VALUES ( 48197336, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 56, 20, 1, 1);
+VALUES ( 46157382, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 56, 20, 1, 1);
+VALUES ( 16157582, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 56, 20, 1, 1);
+VALUES ( 11692432, 56, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 57, 20, 1, 1);
+VALUES ( 35537971, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 57, 20, 1, 1);
+VALUES ( 49181443, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 57, 20, 1, 1);
+VALUES ( 55559783, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 57, 20, 1, 1);
+VALUES ( 22549385, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 57, 20, 1, 1);
+VALUES ( 17842841, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 57, 20, 1, 1);
+VALUES ( 42312578, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 57, 20, 1, 1);
+VALUES ( 35166542, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 57, 20, 1, 1);
+VALUES ( 15673309, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 57, 20, 1, 1);
+VALUES ( 31627409, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 57, 20, 1, 1);
+VALUES ( 58842593, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 57, 20, 1, 1);
+VALUES ( 44154849, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 57, 20, 1, 1);
+VALUES ( 37869904, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 57, 20, 1, 1);
+VALUES ( 34253407, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 57, 20, 1, 1);
+VALUES ( 54876801, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 57, 20, 1, 1);
+VALUES ( 13335131, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 57, 20, 1, 1);
+VALUES ( 52518079, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 57, 20, 1, 1);
+VALUES ( 53783837, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 57, 20, 1, 1);
+VALUES ( 46707884, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 57, 20, 1, 1);
+VALUES ( 34747676, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 57, 20, 1, 1);
+VALUES ( 48467769, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 57, 20, 1, 1);
+VALUES ( 36455906, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 57, 20, 1, 1);
+VALUES ( 48197336, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 57, 20, 1, 1);
+VALUES ( 46157382, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 57, 20, 1, 1);
+VALUES ( 16157582, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 57, 20, 1, 1);
+VALUES ( 11692432, 57, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 58, 20, 1, 1);
+VALUES ( 35537971, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 58, 20, 1, 1);
+VALUES ( 49181443, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 58, 20, 1, 1);
+VALUES ( 55559783, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 58, 20, 1, 1);
+VALUES ( 22549385, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 58, 20, 1, 1);
+VALUES ( 17842841, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 58, 20, 1, 1);
+VALUES ( 42312578, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 58, 20, 1, 1);
+VALUES ( 35166542, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 58, 20, 1, 1);
+VALUES ( 15673309, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 58, 20, 1, 1);
+VALUES ( 31627409, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 58, 20, 1, 1);
+VALUES ( 58842593, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 58, 20, 1, 1);
+VALUES ( 44154849, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 58, 20, 1, 1);
+VALUES ( 37869904, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 58, 20, 1, 1);
+VALUES ( 34253407, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 58, 20, 1, 1);
+VALUES ( 54876801, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 58, 20, 1, 1);
+VALUES ( 13335131, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 58, 20, 1, 1);
+VALUES ( 52518079, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 58, 20, 1, 1);
+VALUES ( 53783837, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 58, 20, 1, 1);
+VALUES ( 46707884, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 58, 20, 1, 1);
+VALUES ( 34747676, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 58, 20, 1, 1);
+VALUES ( 48467769, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 58, 20, 1, 1);
+VALUES ( 36455906, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 58, 20, 1, 1);
+VALUES ( 48197336, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 58, 20, 1, 1);
+VALUES ( 46157382, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 58, 20, 1, 1);
+VALUES ( 16157582, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 58, 20, 1, 1);
+VALUES ( 11692432, 58, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 59, 20, 1, 1);
+VALUES ( 35537971, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 59, 20, 1, 1);
+VALUES ( 49181443, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 59, 20, 1, 1);
+VALUES ( 55559783, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 59, 20, 1, 1);
+VALUES ( 22549385, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 59, 20, 1, 1);
+VALUES ( 17842841, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 59, 20, 1, 1);
+VALUES ( 42312578, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 59, 20, 1, 1);
+VALUES ( 35166542, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 59, 20, 1, 1);
+VALUES ( 15673309, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 59, 20, 1, 1);
+VALUES ( 31627409, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 59, 20, 1, 1);
+VALUES ( 58842593, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 59, 20, 1, 1);
+VALUES ( 44154849, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 59, 20, 1, 1);
+VALUES ( 37869904, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 59, 20, 1, 1);
+VALUES ( 34253407, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 59, 20, 1, 1);
+VALUES ( 54876801, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 59, 20, 1, 1);
+VALUES ( 13335131, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 59, 20, 1, 1);
+VALUES ( 52518079, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 59, 20, 1, 1);
+VALUES ( 53783837, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 59, 20, 1, 1);
+VALUES ( 46707884, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 59, 20, 1, 1);
+VALUES ( 34747676, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 59, 20, 1, 1);
+VALUES ( 48467769, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 59, 20, 1, 1);
+VALUES ( 36455906, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 59, 20, 1, 1);
+VALUES ( 48197336, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 59, 20, 1, 1);
+VALUES ( 46157382, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 59, 20, 1, 1);
+VALUES ( 16157582, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 59, 20, 1, 1);
+VALUES ( 11692432, 59, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 60, 20, 1, 1);
+VALUES ( 35537971, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 60, 20, 1, 1);
+VALUES ( 49181443, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 60, 20, 1, 1);
+VALUES ( 55559783, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 60, 20, 1, 1);
+VALUES ( 22549385, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 60, 20, 1, 1);
+VALUES ( 17842841, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 60, 20, 1, 1);
+VALUES ( 42312578, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 60, 20, 1, 1);
+VALUES ( 35166542, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 60, 20, 1, 1);
+VALUES ( 15673309, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 60, 20, 1, 1);
+VALUES ( 31627409, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 60, 20, 1, 1);
+VALUES ( 58842593, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 60, 20, 1, 1);
+VALUES ( 44154849, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 60, 20, 1, 1);
+VALUES ( 37869904, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 60, 20, 1, 1);
+VALUES ( 34253407, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 60, 20, 1, 1);
+VALUES ( 54876801, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 60, 20, 1, 1);
+VALUES ( 13335131, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 60, 20, 1, 1);
+VALUES ( 52518079, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 60, 20, 1, 1);
+VALUES ( 53783837, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 60, 20, 1, 1);
+VALUES ( 46707884, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 60, 20, 1, 1);
+VALUES ( 34747676, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 60, 20, 1, 1);
+VALUES ( 48467769, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 60, 20, 1, 1);
+VALUES ( 36455906, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 60, 20, 1, 1);
+VALUES ( 48197336, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 60, 20, 1, 1);
+VALUES ( 46157382, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 60, 20, 1, 1);
+VALUES ( 16157582, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 60, 20, 1, 1);
+VALUES ( 11692432, 60, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 61, 20, 1, 1);
+VALUES ( 35537971, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 61, 20, 1, 1);
+VALUES ( 49181443, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 61, 20, 1, 1);
+VALUES ( 55559783, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 61, 20, 1, 1);
+VALUES ( 22549385, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 61, 20, 1, 1);
+VALUES ( 17842841, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 61, 20, 1, 1);
+VALUES ( 42312578, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 61, 20, 1, 1);
+VALUES ( 35166542, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 61, 20, 1, 1);
+VALUES ( 15673309, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 61, 20, 1, 1);
+VALUES ( 31627409, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 61, 20, 1, 1);
+VALUES ( 58842593, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 61, 20, 1, 1);
+VALUES ( 44154849, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 61, 20, 1, 1);
+VALUES ( 37869904, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 61, 20, 1, 1);
+VALUES ( 34253407, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 61, 20, 1, 1);
+VALUES ( 54876801, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 61, 20, 1, 1);
+VALUES ( 13335131, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 61, 20, 1, 1);
+VALUES ( 52518079, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 61, 20, 1, 1);
+VALUES ( 53783837, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 61, 20, 1, 1);
+VALUES ( 46707884, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 61, 20, 1, 1);
+VALUES ( 34747676, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 61, 20, 1, 1);
+VALUES ( 48467769, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 61, 20, 1, 1);
+VALUES ( 36455906, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 61, 20, 1, 1);
+VALUES ( 48197336, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 61, 20, 1, 1);
+VALUES ( 46157382, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 61, 20, 1, 1);
+VALUES ( 16157582, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 61, 20, 1, 1);
+VALUES ( 11692432, 61, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52047507, 62, 20, 1, 1);
+VALUES ( 35537971, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27454585, 62, 20, 1, 1);
+VALUES ( 49181443, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 34432235, 62, 20, 1, 1);
+VALUES ( 55559783, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26723612, 62, 20, 1, 1);
+VALUES ( 22549385, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59975707, 62, 20, 1, 1);
+VALUES ( 17842841, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 36583363, 62, 20, 1, 1);
+VALUES ( 42312578, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 49215309, 62, 20, 1, 1);
+VALUES ( 35166542, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 15593648, 62, 20, 1, 1);
+VALUES ( 15673309, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 37782336, 62, 20, 1, 1);
+VALUES ( 31627409, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 46866608, 62, 20, 1, 1);
+VALUES ( 58842593, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59487065, 62, 20, 1, 1);
+VALUES ( 44154849, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 56343915, 62, 20, 1, 1);
+VALUES ( 37869904, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 23582904, 62, 20, 1, 1);
+VALUES ( 34253407, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 12168949, 62, 20, 1, 1);
+VALUES ( 54876801, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 54569428, 62, 20, 1, 1);
+VALUES ( 13335131, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24859295, 62, 20, 1, 1);
+VALUES ( 52518079, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39328621, 62, 20, 1, 1);
+VALUES ( 53783837, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14331948, 62, 20, 1, 1);
+VALUES ( 46707884, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 38307103, 62, 20, 1, 1);
+VALUES ( 34747676, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55492569, 62, 20, 1, 1);
+VALUES ( 48467769, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48542282, 62, 20, 1, 1);
+VALUES ( 36455906, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 22551922, 62, 20, 1, 1);
+VALUES ( 48197336, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 53539854, 62, 20, 1, 1);
+VALUES ( 46157382, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32498031, 62, 20, 1, 1);
+VALUES ( 16157582, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 55397636, 62, 20, 1, 1);
+VALUES ( 11692432, 62, 20, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 56, 21, 1, 1);
+VALUES ( 12361484, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 56, 21, 1, 1);
+VALUES ( 34377586, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 56, 21, 1, 1);
+VALUES ( 58916473, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 56, 21, 1, 1);
+VALUES ( 29236030, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 56, 21, 1, 1);
+VALUES ( 17088506, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 56, 21, 1, 1);
+VALUES ( 43028047, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 56, 21, 1, 1);
+VALUES ( 18366258, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 56, 21, 1, 1);
+VALUES ( 43287346, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 56, 21, 1, 1);
+VALUES ( 59662734, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 56, 21, 1, 1);
+VALUES ( 37794741, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 56, 21, 1, 1);
+VALUES ( 34054059, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 56, 21, 1, 1);
+VALUES ( 57388742, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 56, 21, 1, 1);
+VALUES ( 53092086, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 56, 21, 1, 1);
+VALUES ( 43946457, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 56, 21, 1, 1);
+VALUES ( 38068983, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 56, 21, 1, 1);
+VALUES ( 21872422, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 56, 21, 1, 1);
+VALUES ( 23598791, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 56, 21, 1, 1);
+VALUES ( 29212511, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 56, 21, 1, 1);
+VALUES ( 16101787, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 56, 21, 1, 1);
+VALUES ( 34489852, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 56, 21, 1, 1);
+VALUES ( 51605887, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 56, 21, 1, 1);
+VALUES ( 16678065, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 56, 21, 1, 1);
+VALUES ( 55653662, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 56, 21, 1, 1);
+VALUES ( 22015794, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 56, 21, 1, 1);
+VALUES ( 31493187, 56, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 57, 21, 1, 1);
+VALUES ( 12361484, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 57, 21, 1, 1);
+VALUES ( 34377586, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 57, 21, 1, 1);
+VALUES ( 58916473, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 57, 21, 1, 1);
+VALUES ( 29236030, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 57, 21, 1, 1);
+VALUES ( 17088506, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 57, 21, 1, 1);
+VALUES ( 43028047, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 57, 21, 1, 1);
+VALUES ( 18366258, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 57, 21, 1, 1);
+VALUES ( 43287346, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 57, 21, 1, 1);
+VALUES ( 59662734, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 57, 21, 1, 1);
+VALUES ( 37794741, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 57, 21, 1, 1);
+VALUES ( 34054059, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 57, 21, 1, 1);
+VALUES ( 57388742, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 57, 21, 1, 1);
+VALUES ( 53092086, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 57, 21, 1, 1);
+VALUES ( 43946457, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 57, 21, 1, 1);
+VALUES ( 38068983, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 57, 21, 1, 1);
+VALUES ( 21872422, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 57, 21, 1, 1);
+VALUES ( 23598791, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 57, 21, 1, 1);
+VALUES ( 29212511, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 57, 21, 1, 1);
+VALUES ( 16101787, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 57, 21, 1, 1);
+VALUES ( 34489852, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 57, 21, 1, 1);
+VALUES ( 51605887, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 57, 21, 1, 1);
+VALUES ( 16678065, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 57, 21, 1, 1);
+VALUES ( 55653662, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 57, 21, 1, 1);
+VALUES ( 22015794, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 57, 21, 1, 1);
+VALUES ( 31493187, 57, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 58, 21, 1, 1);
+VALUES ( 12361484, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 58, 21, 1, 1);
+VALUES ( 34377586, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 58, 21, 1, 1);
+VALUES ( 58916473, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 58, 21, 1, 1);
+VALUES ( 29236030, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 58, 21, 1, 1);
+VALUES ( 17088506, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 58, 21, 1, 1);
+VALUES ( 43028047, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 58, 21, 1, 1);
+VALUES ( 18366258, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 58, 21, 1, 1);
+VALUES ( 43287346, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 58, 21, 1, 1);
+VALUES ( 59662734, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 58, 21, 1, 1);
+VALUES ( 37794741, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 58, 21, 1, 1);
+VALUES ( 34054059, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 58, 21, 1, 1);
+VALUES ( 57388742, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 58, 21, 1, 1);
+VALUES ( 53092086, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 58, 21, 1, 1);
+VALUES ( 43946457, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 58, 21, 1, 1);
+VALUES ( 38068983, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 58, 21, 1, 1);
+VALUES ( 21872422, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 58, 21, 1, 1);
+VALUES ( 23598791, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 58, 21, 1, 1);
+VALUES ( 29212511, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 58, 21, 1, 1);
+VALUES ( 16101787, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 58, 21, 1, 1);
+VALUES ( 34489852, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 58, 21, 1, 1);
+VALUES ( 51605887, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 58, 21, 1, 1);
+VALUES ( 16678065, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 58, 21, 1, 1);
+VALUES ( 55653662, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 58, 21, 1, 1);
+VALUES ( 22015794, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 58, 21, 1, 1);
+VALUES ( 31493187, 58, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 59, 21, 1, 1);
+VALUES ( 12361484, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 59, 21, 1, 1);
+VALUES ( 34377586, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 59, 21, 1, 1);
+VALUES ( 58916473, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 59, 21, 1, 1);
+VALUES ( 29236030, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 59, 21, 1, 1);
+VALUES ( 17088506, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 59, 21, 1, 1);
+VALUES ( 43028047, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 59, 21, 1, 1);
+VALUES ( 18366258, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 59, 21, 1, 1);
+VALUES ( 43287346, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 59, 21, 1, 1);
+VALUES ( 59662734, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 59, 21, 1, 1);
+VALUES ( 37794741, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 59, 21, 1, 1);
+VALUES ( 34054059, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 59, 21, 1, 1);
+VALUES ( 57388742, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 59, 21, 1, 1);
+VALUES ( 53092086, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 59, 21, 1, 1);
+VALUES ( 43946457, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 59, 21, 1, 1);
+VALUES ( 38068983, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 59, 21, 1, 1);
+VALUES ( 21872422, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 59, 21, 1, 1);
+VALUES ( 23598791, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 59, 21, 1, 1);
+VALUES ( 29212511, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 59, 21, 1, 1);
+VALUES ( 16101787, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 59, 21, 1, 1);
+VALUES ( 34489852, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 59, 21, 1, 1);
+VALUES ( 51605887, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 59, 21, 1, 1);
+VALUES ( 16678065, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 59, 21, 1, 1);
+VALUES ( 55653662, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 59, 21, 1, 1);
+VALUES ( 22015794, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 59, 21, 1, 1);
+VALUES ( 31493187, 59, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 60, 21, 1, 1);
+VALUES ( 12361484, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 60, 21, 1, 1);
+VALUES ( 34377586, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 60, 21, 1, 1);
+VALUES ( 58916473, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 60, 21, 1, 1);
+VALUES ( 29236030, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 60, 21, 1, 1);
+VALUES ( 17088506, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 60, 21, 1, 1);
+VALUES ( 43028047, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 60, 21, 1, 1);
+VALUES ( 18366258, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 60, 21, 1, 1);
+VALUES ( 43287346, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 60, 21, 1, 1);
+VALUES ( 59662734, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 60, 21, 1, 1);
+VALUES ( 37794741, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 60, 21, 1, 1);
+VALUES ( 34054059, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 60, 21, 1, 1);
+VALUES ( 57388742, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 60, 21, 1, 1);
+VALUES ( 53092086, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 60, 21, 1, 1);
+VALUES ( 43946457, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 60, 21, 1, 1);
+VALUES ( 38068983, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 60, 21, 1, 1);
+VALUES ( 21872422, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 60, 21, 1, 1);
+VALUES ( 23598791, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 60, 21, 1, 1);
+VALUES ( 29212511, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 60, 21, 1, 1);
+VALUES ( 16101787, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 60, 21, 1, 1);
+VALUES ( 34489852, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 60, 21, 1, 1);
+VALUES ( 51605887, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 60, 21, 1, 1);
+VALUES ( 16678065, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 60, 21, 1, 1);
+VALUES ( 55653662, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 60, 21, 1, 1);
+VALUES ( 22015794, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 60, 21, 1, 1);
+VALUES ( 31493187, 60, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 61, 21, 1, 1);
+VALUES ( 12361484, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 61, 21, 1, 1);
+VALUES ( 34377586, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 61, 21, 1, 1);
+VALUES ( 58916473, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 61, 21, 1, 1);
+VALUES ( 29236030, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 61, 21, 1, 1);
+VALUES ( 17088506, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 61, 21, 1, 1);
+VALUES ( 43028047, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 61, 21, 1, 1);
+VALUES ( 18366258, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 61, 21, 1, 1);
+VALUES ( 43287346, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 61, 21, 1, 1);
+VALUES ( 59662734, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 61, 21, 1, 1);
+VALUES ( 37794741, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 61, 21, 1, 1);
+VALUES ( 34054059, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 61, 21, 1, 1);
+VALUES ( 57388742, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 61, 21, 1, 1);
+VALUES ( 53092086, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 61, 21, 1, 1);
+VALUES ( 43946457, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 61, 21, 1, 1);
+VALUES ( 38068983, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 61, 21, 1, 1);
+VALUES ( 21872422, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 61, 21, 1, 1);
+VALUES ( 23598791, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 61, 21, 1, 1);
+VALUES ( 29212511, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 61, 21, 1, 1);
+VALUES ( 16101787, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 61, 21, 1, 1);
+VALUES ( 34489852, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 61, 21, 1, 1);
+VALUES ( 51605887, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 61, 21, 1, 1);
+VALUES ( 16678065, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 61, 21, 1, 1);
+VALUES ( 55653662, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 61, 21, 1, 1);
+VALUES ( 22015794, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 61, 21, 1, 1);
+VALUES ( 31493187, 61, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59061346, 62, 21, 1, 1);
+VALUES ( 12361484, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14402434, 62, 21, 1, 1);
+VALUES ( 34377586, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 14514136, 62, 21, 1, 1);
+VALUES ( 58916473, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28345961, 62, 21, 1, 1);
+VALUES ( 29236030, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 28531267, 62, 21, 1, 1);
+VALUES ( 17088506, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19270773, 62, 21, 1, 1);
+VALUES ( 43028047, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 26847199, 62, 21, 1, 1);
+VALUES ( 18366258, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39575747, 62, 21, 1, 1);
+VALUES ( 43287346, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 19937234, 62, 21, 1, 1);
+VALUES ( 59662734, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 11306178, 62, 21, 1, 1);
+VALUES ( 37794741, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24346397, 62, 21, 1, 1);
+VALUES ( 34054059, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 48285086, 62, 21, 1, 1);
+VALUES ( 57388742, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52910213, 62, 21, 1, 1);
+VALUES ( 53092086, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 24421020, 62, 21, 1, 1);
+VALUES ( 43946457, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 32992560, 62, 21, 1, 1);
+VALUES ( 38068983, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39793432, 62, 21, 1, 1);
+VALUES ( 21872422, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 52491631, 62, 21, 1, 1);
+VALUES ( 23598791, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 58288412, 62, 21, 1, 1);
+VALUES ( 29212511, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 47700489, 62, 21, 1, 1);
+VALUES ( 16101787, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 45831357, 62, 21, 1, 1);
+VALUES ( 34489852, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 29756224, 62, 21, 1, 1);
+VALUES ( 51605887, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 51663116, 62, 21, 1, 1);
+VALUES ( 16678065, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 59942574, 62, 21, 1, 1);
+VALUES ( 55653662, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 27555337, 62, 21, 1, 1);
+VALUES ( 22015794, 62, 21, 1, 1);
 INSERT INTO Relacion_Alumno_Asignatura_Grupos (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto, nota_final_asignatura)
-VALUES ( 39633943, 62, 21, 1, 1);
+VALUES ( 31493187, 62, 21, 1, 1);

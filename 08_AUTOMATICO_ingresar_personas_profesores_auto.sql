@@ -2,124 +2,124 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 36741345 , "Casiano" , "Jeremias" , "Navarro" , "Lopez" , "10/04/1983" , "Casiano.Jeremias.Navarro.Lopez@hotmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 21522794 , "Rita" , "Carmen" , "Mendez" , "Arias" , "04/07/1991" , "Rita.Carmen.Mendez.Arias@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 45937507 , "Toribio" , "Ladislao" , "Mora" , "Fernandez" , "09/01/1986" , "Toribio.Ladislao.Mora.Fernandez@yahoo.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 54908311 , "Sergio" , "Edgar" , "Benitez" , "Carrasco" , "05/26/1998" , "Sergio.Edgar.Benitez.Carrasco@hotmail.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 41255143 , "Gertrudis" , "Benedicto" , "Cortes" , "Moreno" , "08/21/1996" , "Gertrudis.Benedicto.Cortes.Moreno@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 46728204 , "Esther" , "Ifigenia" , "Gallego" , "Ferrer" , "06/03/1972" , "Esther.Ifigenia.Gallego.Ferrer@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 47718503 , "Gabriel" , "Remedios" , "Herrera" , "Flores" , "12/11/1991" , "Gabriel.Remedios.Herrera.Flores@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 17252397 , "Beltran" , "Dolores" , "Ferrer" , "Cortes" , "04/27/1971" , "Beltran.Dolores.Ferrer.Cortes@hotmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 54139039 , "Carlos" , "Patricia" , "Bravo" , "Garrido" , "10/23/2002" , "Carlos.Patricia.Bravo.Garrido@gmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 46488290 , "Federico" , "Andrea" , "Duran" , "Gallardo" , "10/02/1981" , "Federico.Andrea.Duran.Gallardo@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 24137479 , "Gisela" , "Timoteo" , "Diaz" , "Perez" , "05/19/1990" , "Gisela.Timoteo.Diaz.Perez@yahoo.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 41124449 , "Tarsicio" , "Joel" , "Gomez" , "Pascual" , "11/01/2002" , "Tarsicio.Joel.Gomez.Pascual@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 32595003 , "Jacinto" , "Leopoldo" , "Perez" , "Ortiz" , "01/20/1988" , "Jacinto.Leopoldo.Perez.Ortiz@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 12629662 , "Guido" , "Angel" , "Lozano" , "Gomez" , "01/21/2000" , "Guido.Angel.Lozano.Gomez@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 59609063 , "Ester" , "Rodrigo" , "Rodriguez" , "Cambil" , "08/30/1968" , "Ester.Rodrigo.Rodriguez.Cambil@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 55709209 , "Nazario" , "Dacio" , "Lozano" , "Martinez" , "02/20/1986" , "Nazario.Dacio.Lozano.Martinez@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 46228038 , "Tobias" , "Ruperto" , "Romero" , "Velasco" , "02/24/2002" , "Tobias.Ruperto.Romero.Velasco@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 56245052 , "Laura" , "Beatriz" , "Soto" , "Gutierrez" , "06/17/1979" , "Laura.Beatriz.Soto.Gutierrez@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 27296503 , "Sergio" , "Laureano" , "Sanchez" , "Morales" , "11/23/1994" , "Sergio.Laureano.Sanchez.Morales@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 14612481 , "Gloria" , "Alba" , "Campos" , "Esteban" , "02/22/1979" , "Gloria.Alba.Campos.Esteban@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 26307943 , "Liduvina" , "Enrique" , "Nieto" , "Aguilar" , "03/13/1992" , "Liduvina.Enrique.Nieto.Aguilar@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 51317826 , "Faustino" , "Joel" , "Lorenzo" , "Dominguez" , "04/20/1978" , "Faustino.Joel.Lorenzo.Dominguez@hotmail.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 23522473 , "Eva" , "Lucano" , "Roman" , "Velasco" , "12/23/1990" , "Eva.Lucano.Roman.Velasco@gmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 33114694 , "Margarita" , "Jeremias" , "Gallardo" , "Vidal" , "11/28/1979" , "Margarita.Jeremias.Gallardo.Vidal@its.edu.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 26897241 , "Victor" , "Fatima" , "Velasco" , "Cambil" , "04/26/1991" , "Victor.Fatima.Velasco.Cambil@hotmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 12236455 , "Sara" , "Felix" , "Rey" , "Gallego" , "06/12/1967" , "Sara.Felix.Rey.Gallego@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 54545238 , "Otilia" , "Alba" , "Fuentes" , "Carrasco" , "08/03/1968" , "Otilia.Alba.Fuentes.Carrasco@antel.com.uy" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 18138178 , "Ubaldo" , "Democrito" , "Vazquez" , "Fuentes" , "06/19/1990" , "Ubaldo.Democrito.Vazquez.Fuentes@yahoo.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 11241253 , "Clara" , "Natividad" , "Hernandez" , "Moya" , "11/02/1993" , "Clara.Natividad.Hernandez.Moya@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 28586325 , "Alejo" , "Fabian" , "Blesa" , "Lozano" , "08/15/1972" , "Alejo.Fabian.Blesa.Lozano@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 47707421 , "Augusto" , "Miriam" , "Parra" , "Garcia" , "12/20/1990" , "Augusto.Miriam.Parra.Garcia@gmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 16016396 , "Barbara" , "Samuel" , "Soler" , "Cambil" , "12/04/1997" , "Barbara.Samuel.Soler.Cambil@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 29157925 , "Adan" , "Faustino" , "Moya" , "Vicente" , "08/02/1982" , "Adan.Faustino.Moya.Vicente@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 39819779 , "Nuria" , "Araceli" , "Lorenzo" , "Ramirez" , "12/17/1966" , "Nuria.Araceli.Lorenzo.Ramirez@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 41902015 , "Hugo" , "Clotilde" , "Leon" , "Gimenez" , "12/05/1996" , "Hugo.Clotilde.Leon.Gimenez@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 28354227 , "Virgilio" , "Laura" , "Delgado" , "Molina" , "08/14/2002" , "Virgilio.Laura.Delgado.Molina@yahoo.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 52017928 , "Nemesio" , "Natalia" , "Alvarez" , "Pastor" , "08/04/1988" , "Nemesio.Natalia.Alvarez.Pastor@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 36203670 , "Primo" , "Pedro" , "Soto" , "Lorenzo" , "08/31/1991" , "Primo.Pedro.Soto.Lorenzo@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 24638564 , "Lidia" , "Rafael" , "Medina" , "Garrido" , "04/11/1999" , "Lidia.Rafael.Medina.Garrido@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 57829099 , "Rafael" , "Mariano" , "Castillo" , "Crespo" , "04/19/2003" , "Rafael.Mariano.Castillo.Crespo@gmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 56136584 , "Eliseo" , "Santiago" , "Morales" , "Marin" , "04/04/1999" , "Eliseo.Santiago.Morales.Marin@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 49252042 , "Esther" , "Pedro" , "Santana" , "Gomez" , "01/24/1972" , "Esther.Pedro.Santana.Gomez@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 57343057 , "Concepcion" , "Fatima" , "Prieto" , "Cruz" , "07/20/2001" , "Concepcion.Fatima.Prieto.Cruz@yahoo.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 12030968 , "Marc" , "Cipriano" , "Morales" , "Caballero" , "06/26/2003" , "Marc.Cipriano.Morales.Caballero@gmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 52681585 , "Cesareo" , "Marina" , "Blanco" , "Rodriguez" , "12/01/1967" , "Cesareo.Marina.Blanco.Rodriguez@hotmail.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 38525848 , "Benjamin" , "Angela" , "Lopez" , "Garcia" , "07/21/1989" , "Benjamin.Angela.Lopez.Garcia@yahoo.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 48889006 , "Raul" , "Ricardo" , "Santana" , "Gallego" , "04/11/2003" , "Raul.Ricardo.Santana.Gallego@yahoo.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 12627830 , "Efren" , "Luis" , "Roman" , "Garcia" , "12/17/1984" , "Efren.Luis.Roman.Garcia@hotmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 13361582 , "Velerio" , "Eduvigis" , "Lozano" , "Calvo" , "01/10/1968" , "Velerio.Eduvigis.Lozano.Calvo@its.edu.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 13594991 , "Fabian" , "Inocencio" , "Saez" , "Suarez" , "12/22/1998" , "Fabian.Inocencio.Saez.Suarez@gmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 47204811 , "Alejo" , "Lorena" , "Jimenez" , "Fuentes" , "07/25/1997" , "Alejo.Lorena.Jimenez.Fuentes@gmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 58882006 , "Aurea" , "Ramon" , "Santana" , "Hidalgo" , "07/04/1976" , "Aurea.Ramon.Santana.Hidalgo@gmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 38189418 , "Jacob" , "Tomas" , "Nieto" , "Delgado" , "05/17/1993" , "Jacob.Tomas.Nieto.Delgado@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 31223295 , "Otilia" , "Eusebio" , "Pastor" , "Fernandez" , "02/02/2003" , "Otilia.Eusebio.Pastor.Fernandez@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 44814841 , "Teofila" , "Miqueas" , "Carrasco" , "Esteban" , "06/02/1970" , "Teofila.Miqueas.Carrasco.Esteban@gmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 55768720 , "Elvira" , "Mariano" , "Roman" , "Crespo" , "05/16/1991" , "Elvira.Mariano.Roman.Crespo@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 55389493 , "Fausto" , "Juana" , "Molina" , "Parra" , "06/03/1991" , "Fausto.Juana.Molina.Parra@gmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 43334062 , "Carlos" , "Simon" , "Martinez" , "Gallardo" , "06/18/1989" , "Carlos.Simon.Martinez.Gallardo@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 39502249 , "Gonzalo" , "Fortunato" , "Cano" , "Martin" , "07/22/1980" , "Gonzalo.Fortunato.Cano.Martin@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 16419493 , "Javier" , "Inocencio" , "Arias" , "Marin" , "05/02/1987" , "Javier.Inocencio.Arias.Marin@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 56186545 , "Fulgencio" , "Aresio" , "Lozano" , "Parra" , "06/09/1991" , "Fulgencio.Aresio.Lozano.Parra@antel.com.uy" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 36800501 , "Ramon" , "Fabio" , "Iglesias" , "Blesa" , "10/27/2001" , "Ramon.Fabio.Iglesias.Blesa@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 39876311 , "Raul" , "Cesareo" , "Alonso" , "Lopez" , "02/25/1978" , "Raul.Cesareo.Alonso.Lopez@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 37331323 , "Guillermo" , "Ildefonso" , "Gallego" , "Fuentes" , "10/07/1995" , "Guillermo.Ildefonso.Gallego.Fuentes@hotmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 19807766 , "Sebastian" , "Francisca" , "Roman" , "Cruz" , "05/01/1988" , "Sebastian.Francisca.Roman.Cruz@antel.com.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 29113450 , "Jacinto" , "Amadeo" , "Moya" , "Velasco" , "03/27/1993" , "Jacinto.Amadeo.Moya.Velasco@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 19137341 , "Lazaro" , "Olga" , "Moreno" , "Mendez" , "08/05/1999" , "Lazaro.Olga.Moreno.Mendez@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 45512666 , "Luis" , "Norberto" , "Guerrero" , "Saez" , "06/16/2000" , "Luis.Norberto.Guerrero.Saez@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 25894840 , "Dolores" , "Pablo" , "Gallardo" , "Sanchez" , "05/16/1995" , "Dolores.Pablo.Gallardo.Sanchez@its.edu.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 52003402 , "Manuel" , "Jose" , "Cambil" , "Gimenez" , "03/12/2001" , "Manuel.Jose.Cambil.Gimenez@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 41933137 , "Norberto" , "Miriam" , "Blanco" , "Sanchez" , "01/28/1986" , "Norberto.Miriam.Blanco.Sanchez@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 49645497 , "Ricardo" , "Carmelo" , "Delgado" , "Cambil" , "08/21/1976" , "Ricardo.Carmelo.Delgado.Cambil@yahoo.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 57318008 , "Salomon" , "Noe" , "Marquez" , "Marin" , "02/04/1985" , "Salomon.Noe.Marquez.Marin@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 56376518 , "Baldomero" , "Anna" , "Flores" , "Jimenez" , "09/19/1991" , "Baldomero.Anna.Flores.Jimenez@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 26078798 , "Victorio" , "Vanesa" , "Santana" , "Garrido" , "05/06/1997" , "Victorio.Vanesa.Santana.Garrido@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 55704635 , "Beatriz" , "Jonas" , "Gutierrez" , "Romero" , "10/20/1979" , "Beatriz.Jonas.Gutierrez.Romero@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 56795405 , "Acacio" , "Laura" , "Esteban" , "Blesa" , "12/07/1977" , "Acacio.Laura.Esteban.Blesa@yahoo.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 58646329 , "Rosendo" , "Oseas" , "Suarez" , "Montero" , "04/04/1981" , "Rosendo.Oseas.Suarez.Montero@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 32369341 , "Rufo" , "Oswaldo" , "Soto" , "Caballero" , "08/01/2002" , "Rufo.Oswaldo.Soto.Caballero@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 55482334 , "Alipio" , "Leonardo" , "Caballero" , "Montoro" , "10/21/2002" , "Alipio.Leonardo.Caballero.Montoro@its.edu.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 57744554 , "Columbano" , "Sebastian" , "Fuentes" , "Sanchez" , "10/11/1995" , "Columbano.Sebastian.Fuentes.Sanchez@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 43801049 , "Venancio" , "Patricio" , "Rey" , "Cambil" , "08/18/1976" , "Venancio.Patricio.Rey.Cambil@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 55015230 , "Francesc" , "Josefina" , "Serrano" , "Duran" , "09/08/1974" , "Francesc.Josefina.Serrano.Duran@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 22323983 , "Joan" , "Rita" , "Santos" , "Navarro" , "10/29/1991" , "Joan.Rita.Santos.Navarro@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 18193615 , "Guido" , "Almudena" , "Carmona" , "Castillo" , "09/01/1968" , "Guido.Almudena.Carmona.Castillo@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 36984622 , "Joaquin" , "Leon" , "Gallego" , "Morales" , "09/07/1974" , "Joaquin.Leon.Gallego.Morales@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 15006217 , "Jose" , "Cesar" , "Moreno" , "Navarro" , "05/13/1985" , "Jose.Cesar.Moreno.Navarro@hotmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 23272143 , "Rufo" , "Barbara" , "Fuentes" , "Campos" , "07/16/1988" , "Rufo.Barbara.Fuentes.Campos@its.edu.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 29047077 , "Rita" , "Feliciano" , "Rubio" , "Ramos" , "01/18/1998" , "Rita.Feliciano.Rubio.Ramos@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 48496394 , "Fabian" , "Cesar" , "Aguilar" , "Aguilar" , "12/08/1987" , "Fabian.Cesar.Aguilar.Aguilar@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 32568460 , "Gerardo" , "Jacob" , "Iglesias" , "Hidalgo" , "08/15/1998" , "Gerardo.Jacob.Iglesias.Hidalgo@hotmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 45851381 , "Victorino" , "Julia" , "Velasco" , "Vega" , "02/15/1996" , "Victorino.Julia.Velasco.Vega@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 38619718 , "Lucia" , "Yolanda" , "Moya" , "Lorenzo" , "08/09/1988" , "Lucia.Yolanda.Moya.Lorenzo@antel.com.uy" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 21326655 , "Mercedes" , "Rafael" , "Gutierrez" , "Reyes" , "12/22/1987" , "Mercedes.Rafael.Gutierrez.Reyes@its.edu.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 38591467 , "Gisela" , "Victorino" , "Vicente" , "Vazquez" , "01/14/1996" , "Gisela.Victorino.Vicente.Vazquez@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 14923741 , "Nazario" , "Vidal" , "Aguilar" , "Duran" , "08/31/1997" , "Nazario.Vidal.Aguilar.Duran@yahoo.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 39626839 , "Alicia" , "Marina" , "Alonso" , "Vazquez" , "12/13/1980" , "Alicia.Marina.Alonso.Vazquez@its.edu.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 18673556 , "Lino" , "Matilde" , "Gutierrez" , "Ruiz" , "01/11/1977" , "Lino.Matilde.Gutierrez.Ruiz@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 31966384 , "Mario" , "Narciso" , "Carrasco" , "Santiago" , "11/01/1985" , "Mario.Narciso.Carrasco.Santiago@hotmail.com" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 14400420 , "Monica" , "Mercedes" , "Rubio" , "Garcia" , "10/07/1975" , "Monica.Mercedes.Rubio.Garcia@yahoo.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 53862873 , "Cesareo" , "Margarita" , "Flores" , "Santana" , "12/18/1974" , "Cesareo.Margarita.Flores.Santana@yahoo.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 44516150 , "Laura" , "Alejandra" , "Sanz" , "Alonso" , "07/09/1987" , "Laura.Alejandra.Sanz.Alonso@antel.com.uy" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 23975127 , "Raimundo" , "Gema" , "Dominguez" , "Gomez" , "04/20/1996" , "Raimundo.Gema.Dominguez.Gomez@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 38072192 , "Anatolio" , "Victorio" , "Arias" , "Rey" , "07/17/1978" , "Anatolio.Victorio.Arias.Rey@gmail.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 12067965 , "Alicia" , "Rogelio" , "Herrera" , "Saez" , "10/28/1987" , "Alicia.Rogelio.Herrera.Saez@antel.com.uy" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 39377406 , "Dorotea" , "Ernesto" , "Martinez" , "Mendez" , "01/19/2002" , "Dorotea.Ernesto.Martinez.Mendez@its.edu.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 51059002 , "Jacinto" , "Ciro" , "Diaz" , "Duran" , "11/19/1998" , "Jacinto.Ciro.Diaz.Duran@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 26573873 , "Justino" , "Silvia" , "Ortiz" , "Cruz" , "01/07/1999" , "Justino.Silvia.Ortiz.Cruz@hotmail.com" , 6, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 27557551 , "Nicanor" , "Nicodemo" , "Moreno" , "Pastor" , "07/09/1995" , "Nicanor.Nicodemo.Moreno.Pastor@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 33977515 , "Alejo" , "Josep" , "Herrera" , "Fernandez" , "11/19/1990" , "Alejo.Josep.Herrera.Fernandez@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 47138911 , "Sandra" , "Rodrigo" , "Roman" , "Vidal" , "12/29/1984" , "Sandra.Rodrigo.Roman.Vidal@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 57534739 , "Fidel" , "Pablo" , "Bravo" , "Ramos" , "09/12/1991" , "Fidel.Pablo.Bravo.Ramos@antel.com.uy" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 58021149 , "Rafael" , "Miguel" , "Nieto" , "Castillo" , "11/16/1999" , "Rafael.Miguel.Nieto.Castillo@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 11538577 , "Jonathan" , "Cleofas" , "Carrasco" , "Ramos" , "09/30/1976" , "Jonathan.Cleofas.Carrasco.Ramos@gmail.com" , 2, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 29074773 , "Pancracio" , "Guzman" , "Aguilar" , "Perez" , "10/18/1990" , "Pancracio.Guzman.Aguilar.Perez@antel.com.uy" , 4, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 59571690 , "Godofredo" , "Benito" , "Herrera" , "Campos" , "04/27/1973" , "Godofredo.Benito.Herrera.Campos@antel.com.uy" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 47703221 , "Alfonso" , "Lorenzo" , "Jimenez" , "Calvo" , "08/07/1976" , "Alfonso.Lorenzo.Jimenez.Calvo@its.edu.uy" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 35197567 , "Ursula" , "Pedro" , "Mora" , "Prieto" , "10/11/1997" , "Ursula.Pedro.Mora.Prieto@yahoo.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 56434861 , "Mateo" , "Inmaculada" , "Perez" , "Ramirez" , "10/26/1967" , "Mateo.Inmaculada.Perez.Ramirez@gmail.com" , 5, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 22384731 , "Casimiro" , "Rosendo" , "Santana" , "Ferrer" , "04/01/1995" , "Casimiro.Rosendo.Santana.Ferrer@antel.com.uy" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
 INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)
-VALUES ( 22987462 , "Benedicto" , "Octavio" , "Saez" , "Campos" , "01/14/1972" , "Benedicto.Octavio.Saez.Campos@hotmail.com" , 1, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
+VALUES ( 53507619 , "Isaac" , "Mar" , "Medina" , "Vazquez" , "05/23/1999" , "Isaac.Mar.Medina.Vazquez@yahoo.com" , 3, "t", 1, "Examen Febrero", "Profesor", NULL , NULL ,  "f" );
