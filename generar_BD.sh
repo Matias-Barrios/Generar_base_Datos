@@ -533,8 +533,8 @@ echo "$( date ) - Proceso iniciado..."
 			nota=`Numero_Aleatorio 1 12` 
 			nombre_evaluacion="Un trabajillo"
 						
-			echo "INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
-			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\" );"  >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, 1 ,\"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\" );"  >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))
 	done
