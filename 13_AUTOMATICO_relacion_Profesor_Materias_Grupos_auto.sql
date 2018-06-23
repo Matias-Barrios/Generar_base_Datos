@@ -1,297 +1,297 @@
 CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';
 
 
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 27362033, 56, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 38544646, 57, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 36287385, 58, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 41193311, 59, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47672204, 60, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22180195, 61, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23627271, 62, 1 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29514480, 56, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29951591, 57, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 42159217, 58, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52176253, 59, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 41181360, 60, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 41193311, 61, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 36275522, 62, 2 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24641882, 56, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29514480, 57, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 58362072, 58, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 34471330, 59, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 33140675, 60, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23627271, 61, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52270251, 62, 3 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 26918306, 56, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 33140675, 57, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 42961640, 58, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 57585421, 59, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 60, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 54029692, 61, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 32231724, 62, 4 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47623479, 56, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51582451, 57, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 58362072, 58, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56517461, 59, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56400844, 60, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51406398, 61, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 28874756, 62, 5 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52176253, 56, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 57, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24340757, 58, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23312454, 59, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52176253, 60, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 61, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 38675152, 62, 6 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22180195, 56, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 28874756, 57, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 57585421, 58, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11646386, 59, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 60, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24340757, 61, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22882200, 62, 7 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 41181360, 56, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 21308362, 57, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56517461, 58, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56400844, 59, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 37755696, 60, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51582451, 61, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24340757, 62, 8 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11646386, 56, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24340757, 57, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52643127, 58, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52643127, 59, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 54833835, 60, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56694261, 61, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11291361, 62, 9 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11291361, 56, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 16702426, 57, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 34471330, 58, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 57585421, 59, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51406398, 60, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29514480, 61, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47672204, 62, 10 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52270251, 56, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29370096, 57, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 16810495, 58, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 59, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 42159217, 60, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51582451, 61, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23900392, 62, 11 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51811907, 56, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 48996281, 57, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56694261, 58, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52270251, 59, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 45472935, 60, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56400844, 61, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 24340757, 62, 12 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 28082539, 56, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 27362033, 57, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 58362072, 58, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52270251, 59, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 60, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 42159217, 61, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11291361, 62, 13 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 54029692, 56, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23627271, 57, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51406398, 58, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51582451, 59, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 15386392, 60, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56517461, 61, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22180195, 62, 14 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 59891034, 56, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47672204, 57, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 31662489, 58, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 17437674, 59, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 26918306, 60, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22882200, 61, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29314282, 62, 15 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 15386392, 56, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 26918306, 57, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 38675152, 58, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 28082539, 59, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 60, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11646386, 61, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 45472935, 62, 16 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 42159217, 56, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 57585421, 57, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 58, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 26918306, 59, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 60, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 23627271, 61, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47672204, 62, 17 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 52643127, 56, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 16702426, 57, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 29951591, 58, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 31323918, 59, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 15386392, 60, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 41181360, 61, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 26918306, 62, 18 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 15386392, 56, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22180195, 57, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 16810495, 58, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 31662489, 59, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 51582451, 60, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 38675152, 61, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56517461, 62, 19 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 46841583, 56, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 11646386, 57, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 58, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 45472935, 59, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 31323918, 60, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 54833835, 61, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 59891034, 62, 20 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 38675152, 56, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 22825793, 57, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 58362072, 58, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 37755696, 59, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 56400844, 60, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 16702426, 61, 21 );
-INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_profesor, foranea_id_materia, foranea_id_grupo)
-VALUES ( 47672204, 62, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46960565, 56, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 38997293, 57, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 58657633, 58, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 28612637, 59, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 38997293, 60, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 29876175, 61, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 12715455, 62, 1, 1 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 29876175, 56, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 12715455, 57, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 42689379, 58, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 29876175, 59, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51206065, 60, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 61, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51206065, 62, 1, 2 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 21373329, 56, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 42689379, 57, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 58, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 35478680, 59, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 33992890, 60, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 57134587, 61, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 18681012, 62, 1, 3 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24482351, 56, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 42689379, 57, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16861836, 58, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 59, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 35478680, 60, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 21914214, 61, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 62, 1, 4 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16827452, 56, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 56672057, 57, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 47690666, 58, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23728590, 59, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23728590, 60, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51493020, 61, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46766872, 62, 1, 5 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 21373329, 56, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 31589908, 57, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 58, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24511295, 59, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 60, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 26685901, 61, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 18062030, 62, 1, 6 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 57134587, 56, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 14062014, 57, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22298578, 58, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 59, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51116652, 60, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 26685901, 61, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 29479464, 62, 1, 7 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 56, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 49664239, 57, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 14062014, 58, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 52517984, 59, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 60, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 41018519, 61, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24876318, 62, 1, 8 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24157497, 56, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 57, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 19067417, 58, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 41018519, 59, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 35478680, 60, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 18681012, 61, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 31259709, 62, 1, 9 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 56, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 56672057, 57, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 56672057, 58, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 28612637, 59, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 60, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46766872, 61, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 43282631, 62, 1, 10 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25552383, 56, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 57, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 58, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 59, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 26685901, 60, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46321963, 61, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 21914214, 62, 1, 11 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24511295, 56, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 48027634, 57, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24876318, 58, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11860489, 59, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51116652, 60, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 41018519, 61, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22298578, 62, 1, 12 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 31569849, 56, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 49328986, 57, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 33992890, 58, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 26685901, 59, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 29130589, 60, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23728590, 61, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 34929456, 62, 1, 13 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 49664239, 56, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 34929456, 57, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 57134587, 58, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 43282631, 59, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24157497, 60, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 28612637, 61, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51206065, 62, 1, 14 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 48027634, 56, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 31569849, 57, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 56672057, 58, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 56672057, 59, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 58657633, 60, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 14062014, 61, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11860489, 62, 1, 15 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11860489, 56, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23728590, 57, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 43282631, 58, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 31259709, 59, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 19067417, 60, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 33992890, 61, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 18062030, 62, 1, 16 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 56, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 27919282, 57, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16861836, 58, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24511295, 59, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51116652, 60, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 42689379, 61, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 38997293, 62, 1, 17 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 57134587, 56, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 27919282, 57, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 58, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 42689379, 59, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 22548751, 60, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 21914214, 61, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 14062014, 62, 1, 18 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46766872, 56, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 52491794, 57, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 25147166, 58, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 11366499, 59, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16827452, 60, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 38997293, 61, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 58657633, 62, 1, 19 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46960565, 56, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 58657633, 57, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24157497, 58, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51206065, 59, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 52491794, 60, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16861836, 61, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 35478680, 62, 1, 20 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 46960565, 56, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 51493020, 57, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23507148, 58, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 23728590, 59, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24157497, 60, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 24157497, 61, 1, 21 );
+INSERT INTO relacion_Profesor_Materias_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)
+VALUES ( 16861836, 62, 1, 21 );

@@ -290,7 +290,7 @@ echo "$( date ) - Proceso iniciado..."
 	while [ $i -le 60 ]
 	do
 		
-		echo "INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)" >> 08_AUTOMATICO_ingresar_personas_profesores_auto.sql
+		echo "INSERT INTO Personas (CI, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, fecha_nacimiento, email, grado, hace_proyecto, nota_final_pro, juicio_final, tipo, encriptacion_hash, encriptacion_sal, baja)" >> 08_AUTOMATICO_ingresar_personas_profesores_auto.sql
 
 		CI=`Cedula_Aleatoria` 
 		
