@@ -106,7 +106,7 @@ CREATE TABLE Historial
    (
     codigo SERIAL,
     foranea_CI_Persona INT REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
-    IP varchar(20) CONSTRAINT ip_vacia,
+    IP varchar(20) NOT NULL CONSTRAINT ip_vacia,
     query lvarchar(1000) NOT NULL CONSTRAINT Historial_query_vacia,
     fecha_hora DATETIME NOT NULL CONSTRAINT fecha_historial_vacio,
     PRIMARY KEY (foranea_CI_Persona, codigo) CONSTRAINT  Historial_claves_primarias
