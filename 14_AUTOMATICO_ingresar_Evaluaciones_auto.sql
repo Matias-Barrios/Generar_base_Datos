@@ -1,2005 +1,2005 @@
 CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';
 
 
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 43028047, 57, 21, "Un trabajillo",  "Entrega_final_proyecto", "06/01/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 44492918, 58, 1, "Un trabajillo",  "Defensa_grupal", "04/23/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 15920160, 60, 14, "Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 26128018, 59, 9, "Un trabajillo",  "Primera_entrega_proyecto", "05/06/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 52157160, 59, 15, "Un trabajillo",  "Entrega_final_proyecto", "04/01/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 36055572, 56, 13, "Un trabajillo",  "Entrega_final_proyecto", "05/18/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 21272793, 56, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 43537159, 56, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "06/16/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 46949838, 57, 5, "Un trabajillo",  "Es_proyecto", "04/18/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 11938064, 56, 7, "Un trabajillo",  "Trabajo_escrito", "04/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 36108214, 62, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 39286453, 62, 13, "Un trabajillo",  "Trabajo_laboratorio", "06/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 53783837, 59, 20, "Un trabajillo",  "Defensa_individual", "04/29/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 54915265, 61, 18, "Un trabajillo",  "Segunda_entrega_proyecto", "06/17/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 42834817, 58, 15, "Un trabajillo",  "Oral", "06/05/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 19820093, 61, 16, "Un trabajillo",  "Trabajo_investigacion", "04/20/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 46169195, 62, 17, "Un trabajillo",  "Trabajo_practico", "04/30/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 53464481, 60, 19, "Un trabajillo",  "Trabajo_practico", "06/19/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 11181601, 61, 18, "Un trabajillo",  "Defensa_individual", "04/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 12841949, 56, 9, "Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 27729764, 61, 12, "Un trabajillo",  "Es_proyecto", "06/22/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 52265258, 62, 4, "Un trabajillo",  "Parcial", "03/29/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 24845359, 61, 14, "Un trabajillo",  "Trabajo_laboratorio", "06/14/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 41251777, 56, 17, "Un trabajillo",  "Trabajo_practico", "05/22/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 38056324, 56, 1, "Un trabajillo",  "Defensa_individual", "05/05/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 21272793, 58, 11, "Un trabajillo",  "Trabajo_laboratorio", "05/22/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45851381, 41662421, 62, 6, "Un trabajillo",  "Trabajo_practico", "05/14/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 12375160, 56, 8, "Un trabajillo",  "Trabajo_investigacion", "05/01/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 39637284, 57, 10, "Un trabajillo",  "Defensa_grupal", "04/20/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 54274293, 59, 14, "Un trabajillo",  "Oral", "04/27/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 18543834, 57, 10, "Un trabajillo",  "Trabajo_investigacion", "06/07/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 11181601, 58, 18, "Un trabajillo",  "Trabajo_practico", "05/28/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 52518079, 58, 20, "Un trabajillo",  "Parcial", "06/22/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 49926388, 57, 12, "Un trabajillo",  "Trabajo_laboratorio", "06/20/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 39803073, 58, 17, "Un trabajillo",  "Segunda_entrega_proyecto", "04/29/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 17299795, 59, 17, "Un trabajillo",  "Oral", "03/28/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 11181601, 58, 18, "Un trabajillo",  "Primera_entrega_proyecto", "04/09/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 21226283, 58, 17, "Un trabajillo",  "Trabajo_practico", "04/15/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 14551001, 57, 6, "Un trabajillo",  "Primera_entrega_proyecto", "05/30/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 42944997, 59, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "06/15/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 47308825, 59, 9, "Un trabajillo",  "Oral", "06/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 31627409, 62, 20, "Un trabajillo",  "Defensa_grupal", "06/04/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 31135169, 56, 15, "Un trabajillo",  "Trabajo_investigacion", "06/20/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 56297635, 56, 12, "Un trabajillo",  "Trabajo_escrito", "06/21/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 52350075, 62, 19, "Un trabajillo",  "Primera_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 26572227, 58, 14, "Un trabajillo",  "Parcial", "04/25/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 44132635, 58, 4, "Un trabajillo",  "Segunda_entrega_proyecto", "06/13/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 29903710, 59, 15, "Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 42182519, 61, 18, "Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 52515152, 57, 10, "Un trabajillo",  "Trabajo_laboratorio", "05/08/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 54884737, 62, 8, "Un trabajillo",  "Oral", "04/10/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 36560995, 57, 3, "Un trabajillo",  "Primera_entrega_proyecto", "04/12/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 37869904, 62, 20, "Un trabajillo",  "Primera_entrega_proyecto", "05/22/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 38056324, 59, 12, "Un trabajillo",  "Trabajo_investigacion", "03/27/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 54458219, 62, 14, "Un trabajillo",  "Trabajo_escrito", "05/06/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 42762270, 56, 17, "Un trabajillo",  "Parcial", "03/31/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 15096797, 57, 5, "Un trabajillo",  "Defensa_individual", "04/28/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 13335131, 62, 20, "Un trabajillo",  "Trabajo_domiciliario", "04/05/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 14287321, 61, 9, "Un trabajillo",  "Oral", "04/28/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 28548309, 58, 15, "Un trabajillo",  "Segunda_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 19811129, 62, 9, "Un trabajillo",  "Oral", "04/08/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 44684440, 57, 8, "Un trabajillo",  "Defensa_individual", "04/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 19820093, 59, 16, "Un trabajillo",  "Entrega_final_proyecto", "05/26/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 58916473, 58, 21, "Un trabajillo",  "Trabajo_escrito", "06/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 22006591, 60, 16, "Un trabajillo",  "Trabajo_investigacion", "06/10/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 48457108, 59, 12, "Un trabajillo",  "Defensa_individual", "06/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 47763348, 61, 5, "Un trabajillo",  "Defensa_grupal", "04/16/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 38056324, 59, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 46355980, 60, 14, "Un trabajillo",  "Oral", "04/24/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 43247463, 56, 4, "Un trabajillo",  "Trabajo_practico", "06/22/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 21272793, 62, 11, "Un trabajillo",  "Trabajo_laboratorio", "05/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 14114536, 56, 15, "Un trabajillo",  "Oral", "04/05/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 34747676, 62, 20, "Un trabajillo",  "Trabajo_escrito", "04/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 32828947, 57, 8, "Un trabajillo",  "Trabajo_escrito", "06/17/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 11692432, 57, 20, "Un trabajillo",  "Entrega_final_proyecto", "05/31/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 22873110, 58, 16, "Un trabajillo",  "Trabajo_domiciliario", "03/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 13518498, 57, 8, "Un trabajillo",  "Trabajo_escrito", "06/04/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 34489852, 56, 21, "Un trabajillo",  "Trabajo_investigacion", "06/03/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 23006586, 61, 2, "Un trabajillo",  "Oral", "04/30/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 59920439, 56, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "05/28/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 19820093, 60, 16, "Un trabajillo",  "Es_proyecto", "05/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 22277017, 62, 10, "Un trabajillo",  "Entrega_final_proyecto", "04/15/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 51652614, 61, 19, "Un trabajillo",  "Defensa_grupal", "06/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 25437567, 59, 14, "Un trabajillo",  "Trabajo_investigacion", "06/11/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 26368478, 62, 13, "Un trabajillo",  "Es_proyecto", "05/24/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 38298908, 56, 2, "Un trabajillo",  "Trabajo_investigacion", "05/15/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 48355960, 62, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 44154849, 57, 2, "Un trabajillo",  "Oral", "06/05/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 31781803, 57, 4, "Un trabajillo",  "Trabajo_laboratorio", "05/12/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 34747676, 58, 20, "Un trabajillo",  "Trabajo_escrito", "04/12/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 42182519, 57, 18, "Un trabajillo",  "Trabajo_domiciliario", "03/30/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 39996701, 62, 12, "Un trabajillo",  "Oral", "06/21/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 51893266, 59, 18, "Un trabajillo",  "Segunda_entrega_proyecto", "05/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 53783837, 61, 20, "Un trabajillo",  "Trabajo_laboratorio", "04/02/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 58842593, 56, 2, "Un trabajillo",  "Trabajo_escrito", "04/27/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 11181601, 60, 18, "Un trabajillo",  "Oral", "04/17/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 46435970, 62, 14, "Un trabajillo",  "Trabajo_practico", "04/15/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 53498583, 59, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "05/18/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 24845359, 59, 14, "Un trabajillo",  "Entrega_final_proyecto", "06/07/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 32359122, 61, 7, "Un trabajillo",  "Trabajo_practico", "04/08/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 28743864, 58, 8, "Un trabajillo",  "Trabajo_laboratorio", "06/14/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 46707884, 61, 20, "Un trabajillo",  "Parcial", "06/03/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 39827746, 58, 17, "Un trabajillo",  "Parcial", "04/05/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 42219267, 58, 18, "Un trabajillo",  "Trabajo_escrito", "05/22/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 19133254, 59, 5, "Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 28075005, 56, 3, "Un trabajillo",  "Trabajo_domiciliario", "05/11/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 11181601, 57, 18, "Un trabajillo",  "Primera_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 16157582, 57, 20, "Un trabajillo",  "Parcial", "06/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 13644841, 61, 6, "Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 12070318, 59, 16, "Un trabajillo",  "Trabajo_escrito", "05/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 52518079, 60, 20, "Un trabajillo",  "Primera_entrega_proyecto", "04/01/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 46319683, 60, 6, "Un trabajillo",  "Trabajo_laboratorio", "06/10/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 54255843, 57, 6, "Un trabajillo",  "Primera_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 12361484, 57, 2, "Un trabajillo",  "Trabajo_investigacion", "05/22/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 15920160, 61, 14, "Un trabajillo",  "Defensa_grupal", "05/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 32658390, 59, 14, "Un trabajillo",  "Defensa_grupal", "04/06/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 11343792, 61, 5, "Un trabajillo",  "Oral", "03/29/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 51245762, 58, 14, "Un trabajillo",  "Trabajo_investigacion", "05/26/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45851381, 18963474, 62, 6, "Un trabajillo",  "Trabajo_escrito", "05/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 19820093, 57, 1, "Un trabajillo",  "Es_proyecto", "06/06/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 51545859, 58, 10, "Un trabajillo",  "Oral", "06/07/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49645497, 11536604, 60, 17, "Un trabajillo",  "Trabajo_escrito", "05/15/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 59662734, 56, 21, "Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 17304693, 62, 19, "Un trabajillo",  "Primera_entrega_proyecto", "04/25/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 15673309, 60, 20, "Un trabajillo",  "Trabajo_escrito", "04/08/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 57407401, 59, 17, "Un trabajillo",  "Trabajo_investigacion", "06/09/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 57112624, 58, 18, "Un trabajillo",  "Trabajo_laboratorio", "06/01/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 14287321, 60, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "05/27/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 38149444, 58, 16, "Un trabajillo",  "Primera_entrega_proyecto", "03/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 21061974, 58, 17, "Un trabajillo",  "Defensa_individual", "05/19/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 58842593, 60, 20, "Un trabajillo",  "Parcial", "05/24/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 37869904, 56, 20, "Un trabajillo",  "Trabajo_investigacion", "05/29/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 52283933, 58, 5, "Un trabajillo",  "Oral", "04/29/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 48197336, 57, 20, "Un trabajillo",  "Trabajo_practico", "04/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 33220314, 59, 13, "Un trabajillo",  "Defensa_individual", "03/27/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 31194737, 59, 1, "Un trabajillo",  "Defensa_individual", "04/29/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 36202030, 61, 17, "Un trabajillo",  "Oral", "04/12/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 25119820, 62, 19, "Un trabajillo",  "Trabajo_domiciliario", "05/15/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 17696923, 57, 6, "Un trabajillo",  "Trabajo_practico", "05/24/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 31018840, 62, 16, "Un trabajillo",  "Defensa_grupal", "05/14/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 21272793, 60, 11, "Un trabajillo",  "Parcial", "04/03/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 13335131, 56, 20, "Un trabajillo",  "Segunda_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 37809019, 61, 9, "Un trabajillo",  "Es_proyecto", "05/22/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 29613278, 61, 18, "Un trabajillo",  "Trabajo_domiciliario", "06/03/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 29566201, 59, 19, "Un trabajillo",  "Trabajo_domiciliario", "03/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 47763348, 59, 5, "Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 31781803, 58, 4, "Un trabajillo",  "Trabajo_escrito", "06/02/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 49905134, 60, 12, "Un trabajillo",  "Trabajo_laboratorio", "05/18/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 37102095, 58, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "04/29/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 45081776, 59, 9, "Un trabajillo",  "Trabajo_investigacion", "04/11/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 46355980, 58, 14, "Un trabajillo",  "Defensa_grupal", "04/13/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 18366258, 62, 21, "Un trabajillo",  "Trabajo_domiciliario", "05/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 15331773, 57, 6, "Un trabajillo",  "Entrega_final_proyecto", "04/17/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 27878375, 61, 8, "Un trabajillo",  "Es_proyecto", "04/20/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 25437567, 60, 14, "Un trabajillo",  "Trabajo_investigacion", "05/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 13624077, 59, 16, "Un trabajillo",  "Trabajo_practico", "03/29/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 44392433, 58, 9, "Un trabajillo",  "Trabajo_practico", "03/28/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 48634552, 56, 16, "Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 49544849, 59, 7, "Un trabajillo",  "Trabajo_domiciliario", "04/24/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 59594068, 59, 2, "Un trabajillo",  "Trabajo_escrito", "04/08/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 37301540, 58, 17, "Un trabajillo",  "Defensa_individual", "06/08/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 12283709, 59, 4, "Un trabajillo",  "Trabajo_investigacion", "04/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 46949838, 61, 5, "Un trabajillo",  "Defensa_grupal", "04/23/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 44392433, 59, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "06/01/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 53092086, 58, 21, "Un trabajillo",  "Primera_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 29212511, 58, 2, "Un trabajillo",  "Oral", "06/04/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 54876801, 58, 20, "Un trabajillo",  "Es_proyecto", "03/31/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 12968713, 58, 16, "Un trabajillo",  "Defensa_individual", "06/03/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 53616109, 61, 5, "Un trabajillo",  "Trabajo_domiciliario", "05/17/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 49668150, 62, 17, "Un trabajillo",  "Primera_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 23598791, 62, 21, "Un trabajillo",  "Parcial", "05/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 42806327, 56, 5, "Un trabajillo",  "Parcial", "05/18/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 15947211, 58, 4, "Un trabajillo",  "Es_proyecto", "06/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 13561893, 62, 16, "Un trabajillo",  "Trabajo_investigacion", "05/04/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 37869904, 56, 20, "Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 22107503, 58, 13, "Un trabajillo",  "Trabajo_investigacion", "05/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 53986219, 62, 3, "Un trabajillo",  "Parcial", "04/06/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 26671184, 58, 4, "Un trabajillo",  "Entrega_final_proyecto", "05/13/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 39526489, 56, 11, "Un trabajillo",  "Defensa_individual", "04/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 25812741, 60, 13, "Un trabajillo",  "Segunda_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 48775748, 57, 17, "Un trabajillo",  "Trabajo_laboratorio", "05/31/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 59566249, 60, 15, "Un trabajillo",  "Oral", "05/28/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 34597837, 60, 19, "Un trabajillo",  "Defensa_grupal", "05/20/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 52907224, 59, 1, "Un trabajillo",  "Defensa_individual", "04/04/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 57112624, 56, 18, "Un trabajillo",  "Defensa_grupal", "05/07/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 53855640, 60, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "06/08/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 15096797, 56, 5, "Un trabajillo",  "Parcial", "06/15/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 27141669, 57, 3, "Un trabajillo",  "Defensa_individual", "04/08/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 33362720, 59, 3, "Un trabajillo",  "Trabajo_laboratorio", "06/02/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 31675092, 60, 3, "Un trabajillo",  "Trabajo_practico", "05/17/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 33362720, 56, 3, "Un trabajillo",  "Parcial", "05/29/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 32658390, 58, 14, "Un trabajillo",  "Trabajo_domiciliario", "06/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 42788208, 62, 1, "Un trabajillo",  "Oral", "05/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 31135169, 62, 15, "Un trabajillo",  "Parcial", "05/04/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 42000355, 61, 5, "Un trabajillo",  "Primera_entrega_proyecto", "06/06/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 27863015, 56, 9, "Un trabajillo",  "Entrega_final_proyecto", "05/08/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 38149444, 56, 16, "Un trabajillo",  "Defensa_grupal", "05/17/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 58115699, 62, 15, "Un trabajillo",  "Segunda_entrega_proyecto", "05/16/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 46157382, 56, 20, "Un trabajillo",  "Defensa_grupal", "03/30/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 12731110, 57, 16, "Un trabajillo",  "Trabajo_practico", "04/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 52907224, 59, 10, "Un trabajillo",  "Es_proyecto", "06/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 56653152, 61, 13, "Un trabajillo",  "Parcial", "05/22/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 13567110, 58, 5, "Un trabajillo",  "Trabajo_practico", "05/13/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 31493187, 61, 21, "Un trabajillo",  "Primera_entrega_proyecto", "05/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 51245762, 61, 14, "Un trabajillo",  "Parcial", "03/27/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 32399243, 60, 13, "Un trabajillo",  "Trabajo_escrito", "04/15/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 19820093, 57, 16, "Un trabajillo",  "Defensa_grupal", "05/22/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 49082699, 60, 11, "Un trabajillo",  "Entrega_final_proyecto", "04/11/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 55441441, 59, 10, "Un trabajillo",  "Trabajo_escrito", "05/28/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 42944997, 60, 19, "Un trabajillo",  "Trabajo_practico", "05/14/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 46307955, 57, 11, "Un trabajillo",  "Oral", "04/16/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 46351746, 59, 9, "Un trabajillo",  "Entrega_final_proyecto", "04/19/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 17357747, 60, 12, "Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 34489852, 56, 21, "Un trabajillo",  "Trabajo_practico", "06/11/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 28743864, 58, 8, "Un trabajillo",  "Oral", "04/18/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49645497, 16853615, 60, 17, "Un trabajillo",  "Defensa_individual", "05/09/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 48546595, 56, 18, "Un trabajillo",  "Oral", "03/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 53616109, 59, 5, "Un trabajillo",  "Trabajo_investigacion", "06/20/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 13867166, 57, 4, "Un trabajillo",  "Trabajo_practico", "04/29/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 39363946, 59, 14, "Un trabajillo",  "Entrega_final_proyecto", "04/06/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 36202030, 62, 17, "Un trabajillo",  "Parcial", "05/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 58842593, 61, 2, "Un trabajillo",  "Oral", "04/22/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 48970350, 58, 11, "Un trabajillo",  "Parcial", "04/13/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 24845359, 56, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 13335131, 62, 20, "Un trabajillo",  "Parcial", "04/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 22884173, 57, 8, "Un trabajillo",  "Segunda_entrega_proyecto", "05/23/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 34023868, 59, 11, "Un trabajillo",  "Entrega_final_proyecto", "05/06/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 55901596, 56, 5, "Un trabajillo",  "Defensa_individual", "05/05/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 37102095, 58, 11, "Un trabajillo",  "Trabajo_escrito", "06/11/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 11791640, 62, 15, "Un trabajillo",  "Defensa_individual", "03/29/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 17718816, 59, 2, "Un trabajillo",  "Segunda_entrega_proyecto", "05/19/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 57889865, 58, 5, "Un trabajillo",  "Trabajo_practico", "03/27/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 21898228, 59, 14, "Un trabajillo",  "Defensa_individual", "04/03/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 39637284, 58, 1, "Un trabajillo",  "Entrega_final_proyecto", "06/01/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 43194113, 61, 9, "Un trabajillo",  "Trabajo_escrito", "05/24/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 21496965, 61, 12, "Un trabajillo",  "Trabajo_investigacion", "04/19/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 42936419, 59, 19, "Un trabajillo",  "Trabajo_practico", "05/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 18341503, 62, 7, "Un trabajillo",  "Defensa_individual", "06/06/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 22277017, 62, 1, "Un trabajillo",  "Primera_entrega_proyecto", "06/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 26368478, 62, 13, "Un trabajillo",  "Trabajo_practico", "05/01/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 28978889, 62, 5, "Un trabajillo",  "Defensa_individual", "04/13/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 14551001, 56, 6, "Un trabajillo",  "Entrega_final_proyecto", "04/16/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 29903710, 56, 15, "Un trabajillo",  "Defensa_grupal", "06/03/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 25119820, 56, 19, "Un trabajillo",  "Trabajo_practico", "05/08/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 14903961, 61, 11, "Un trabajillo",  "Parcial", "04/26/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 27409079, 56, 18, "Un trabajillo",  "Trabajo_investigacion", "04/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 42052267, 62, 12, "Un trabajillo",  "Trabajo_escrito", "05/31/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 13335131, 59, 2, "Un trabajillo",  "Oral", "04/12/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 36108214, 62, 1, "Un trabajillo",  "Primera_entrega_proyecto", "04/05/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 31493187, 60, 21, "Un trabajillo",  "Defensa_individual", "05/06/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 59557654, 62, 16, "Un trabajillo",  "Parcial", "03/27/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 54915265, 59, 18, "Un trabajillo",  "Trabajo_practico", "03/29/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 36786864, 57, 13, "Un trabajillo",  "Trabajo_investigacion", "05/04/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 44334041, 62, 10, "Un trabajillo",  "Trabajo_investigacion", "05/15/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 51410563, 62, 19, "Un trabajillo",  "Trabajo_domiciliario", "05/04/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 54015041, 59, 14, "Un trabajillo",  "Primera_entrega_proyecto", "03/31/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 21542518, 58, 11, "Un trabajillo",  "Primera_entrega_proyecto", "06/20/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 39666201, 60, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "04/04/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 48546595, 60, 18, "Un trabajillo",  "Parcial", "03/29/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 33220314, 60, 1, "Un trabajillo",  "Trabajo_investigacion", "06/11/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 37136824, 58, 19, "Un trabajillo",  "Oral", "04/27/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 31825922, 62, 5, "Un trabajillo",  "Trabajo_laboratorio", "05/01/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 47381962, 61, 10, "Un trabajillo",  "Parcial", "05/17/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 17069695, 58, 2, "Un trabajillo",  "Entrega_final_proyecto", "06/14/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 32210166, 59, 2, "Un trabajillo",  "Oral", "06/18/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 11692432, 60, 20, "Un trabajillo",  "Trabajo_laboratorio", "04/25/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 28246264, 58, 11, "Un trabajillo",  "Trabajo_investigacion", "04/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 32624577, 60, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "06/01/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 46307955, 62, 11, "Un trabajillo",  "Trabajo_domiciliario", "05/15/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 59986431, 62, 7, "Un trabajillo",  "Trabajo_domiciliario", "06/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 34253407, 59, 20, "Un trabajillo",  "Trabajo_escrito", "05/23/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 31825922, 62, 5, "Un trabajillo",  "Entrega_final_proyecto", "04/17/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 22015794, 60, 2, "Un trabajillo",  "Oral", "05/25/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 16853615, 58, 17, "Un trabajillo",  "Defensa_individual", "05/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 21872422, 57, 21, "Un trabajillo",  "Defensa_grupal", "06/07/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 29640203, 57, 9, "Un trabajillo",  "Es_proyecto", "06/07/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 42445537, 58, 13, "Un trabajillo",  "Primera_entrega_proyecto", "05/03/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 35582625, 58, 18, "Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 12070318, 62, 16, "Un trabajillo",  "Entrega_final_proyecto", "06/03/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 26368478, 61, 13, "Un trabajillo",  "Oral", "04/21/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 35189603, 62, 2, "Un trabajillo",  "Es_proyecto", "04/13/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 58115699, 56, 15, "Un trabajillo",  "Primera_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 26128018, 60, 9, "Un trabajillo",  "Defensa_individual", "04/20/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 11495731, 61, 12, "Un trabajillo",  "Trabajo_domiciliario", "05/21/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 38221294, 59, 14, "Un trabajillo",  "Trabajo_laboratorio", "04/20/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 51545859, 57, 1, "Un trabajillo",  "Oral", "06/16/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 42431431, 57, 12, "Un trabajillo",  "Oral", "04/25/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 33362720, 62, 3, "Un trabajillo",  "Trabajo_escrito", "06/17/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 42727212, 61, 7, "Un trabajillo",  "Entrega_final_proyecto", "04/23/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 41192511, 56, 10, "Un trabajillo",  "Defensa_grupal", "04/04/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49645497, 36202030, 60, 17, "Un trabajillo",  "Entrega_final_proyecto", "06/07/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 39286453, 61, 13, "Un trabajillo",  "Trabajo_escrito", "03/29/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 13624077, 58, 16, "Un trabajillo",  "Trabajo_escrito", "06/06/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 32828947, 62, 8, "Un trabajillo",  "Trabajo_investigacion", "04/03/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 52518079, 58, 2, "Un trabajillo",  "Primera_entrega_proyecto", "04/29/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 22107503, 59, 13, "Un trabajillo",  "Es_proyecto", "03/28/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 36108214, 57, 14, "Un trabajillo",  "Oral", "05/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 25841075, 62, 18, "Un trabajillo",  "Oral", "04/27/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 47607203, 59, 4, "Un trabajillo",  "Trabajo_laboratorio", "06/02/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 41192511, 58, 10, "Un trabajillo",  "Parcial", "05/20/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 49445885, 58, 15, "Un trabajillo",  "Trabajo_escrito", "05/17/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 37794741, 58, 2, "Un trabajillo",  "Parcial", "04/16/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 18117673, 61, 18, "Un trabajillo",  "Defensa_individual", "06/13/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 11938064, 56, 7, "Un trabajillo",  "Trabajo_laboratorio", "05/05/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 42180969, 60, 6, "Un trabajillo",  "Parcial", "04/29/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 14287321, 60, 9, "Un trabajillo",  "Trabajo_laboratorio", "05/15/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 56653152, 60, 13, "Un trabajillo",  "Trabajo_investigacion", "06/14/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 27729764, 62, 12, "Un trabajillo",  "Es_proyecto", "05/06/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 37884483, 61, 5, "Un trabajillo",  "Entrega_final_proyecto", "04/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 52157160, 62, 1, "Un trabajillo",  "Trabajo_practico", "04/13/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 24608866, 57, 5, "Un trabajillo",  "Entrega_final_proyecto", "06/08/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 18366258, 62, 21, "Un trabajillo",  "Trabajo_laboratorio", "05/14/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 23996575, 60, 16, "Un trabajillo",  "Segunda_entrega_proyecto", "06/01/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 51500528, 61, 4, "Un trabajillo",  "Entrega_final_proyecto", "06/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 17299795, 60, 1, "Un trabajillo",  "Es_proyecto", "06/17/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 39334208, 58, 8, "Un trabajillo",  "Es_proyecto", "06/18/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 35776597, 59, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "04/27/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 45559741, 61, 15, "Un trabajillo",  "Oral", "06/02/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 17299795, 62, 1, "Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 18159827, 57, 10, "Un trabajillo",  "Trabajo_investigacion", "04/30/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 43533852, 56, 18, "Un trabajillo",  "Es_proyecto", "04/23/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 25119820, 60, 19, "Un trabajillo",  "Oral", "04/01/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 39803073, 59, 17, "Un trabajillo",  "Primera_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 28539576, 61, 11, "Un trabajillo",  "Trabajo_investigacion", "04/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 54274293, 58, 14, "Un trabajillo",  "Trabajo_practico", "04/25/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 51339585, 61, 7, "Un trabajillo",  "Segunda_entrega_proyecto", "04/18/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 49344538, 59, 3, "Un trabajillo",  "Trabajo_escrito", "04/07/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 18117673, 57, 18, "Un trabajillo",  "Trabajo_domiciliario", "05/02/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 51696195, 61, 12, "Un trabajillo",  "Trabajo_practico", "05/24/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 41519955, 59, 16, "Un trabajillo",  "Entrega_final_proyecto", "04/18/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 52515152, 59, 1, "Un trabajillo",  "Defensa_grupal", "04/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 43533852, 58, 18, "Un trabajillo",  "Trabajo_practico", "03/31/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 28144628, 56, 10, "Un trabajillo",  "Trabajo_escrito", "06/17/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 57014125, 62, 3, "Un trabajillo",  "Trabajo_laboratorio", "05/29/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 25437567, 62, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 39234171, 57, 3, "Un trabajillo",  "Defensa_individual", "06/05/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 34377586, 59, 21, "Un trabajillo",  "Trabajo_laboratorio", "05/12/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 51088110, 57, 13, "Un trabajillo",  "Trabajo_domiciliario", "06/14/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 42453178, 61, 1, "Un trabajillo",  "Oral", "06/10/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 42834817, 62, 15, "Un trabajillo",  "Es_proyecto", "05/19/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 42727212, 62, 7, "Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 53616109, 56, 5, "Un trabajillo",  "Parcial", "06/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 13867166, 62, 4, "Un trabajillo",  "Defensa_grupal", "04/02/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 25863875, 57, 11, "Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 42804846, 59, 4, "Un trabajillo",  "Trabajo_investigacion", "03/28/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 36317502, 61, 18, "Un trabajillo",  "Es_proyecto", "04/28/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 35189603, 56, 2, "Un trabajillo",  "Trabajo_practico", "05/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 41662421, 57, 6, "Un trabajillo",  "Es_proyecto", "05/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 28842646, 61, 6, "Un trabajillo",  "Trabajo_practico", "05/19/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 47973157, 57, 15, "Un trabajillo",  "Entrega_final_proyecto", "04/20/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 28539576, 57, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "05/15/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 39803073, 57, 17, "Un trabajillo",  "Trabajo_laboratorio", "06/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 34253407, 59, 20, "Un trabajillo",  "Trabajo_practico", "05/24/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 25427627, 57, 14, "Un trabajillo",  "Trabajo_laboratorio", "04/06/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 29196199, 61, 1, "Un trabajillo",  "Defensa_individual", "06/05/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 38522498, 60, 15, "Un trabajillo",  "Oral", "06/03/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 24458936, 57, 12, "Un trabajillo",  "Trabajo_domiciliario", "06/08/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 17088506, 59, 21, "Un trabajillo",  "Trabajo_domiciliario", "04/13/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 31809182, 56, 4, "Un trabajillo",  "Trabajo_practico", "05/09/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 39286453, 61, 13, "Un trabajillo",  "Parcial", "03/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 46307955, 57, 11, "Un trabajillo",  "Primera_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 56297635, 62, 12, "Un trabajillo",  "Trabajo_domiciliario", "04/03/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 12375160, 62, 8, "Un trabajillo",  "Entrega_final_proyecto", "05/04/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 17718816, 60, 2, "Un trabajillo",  "Defensa_grupal", "04/26/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 43533852, 62, 18, "Un trabajillo",  "Primera_entrega_proyecto", "04/16/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 48197336, 59, 20, "Un trabajillo",  "Segunda_entrega_proyecto", "04/13/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 36108214, 61, 14, "Un trabajillo",  "Parcial", "04/06/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 47787798, 58, 7, "Un trabajillo",  "Primera_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 56004444, 60, 7, "Un trabajillo",  "Trabajo_laboratorio", "05/07/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 35591715, 58, 14, "Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 37884483, 62, 5, "Un trabajillo",  "Entrega_final_proyecto", "05/02/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 32359122, 56, 7, "Un trabajillo",  "Entrega_final_proyecto", "06/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 19148285, 58, 11, "Un trabajillo",  "Trabajo_laboratorio", "04/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 52907224, 57, 10, "Un trabajillo",  "Trabajo_practico", "05/24/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 29914109, 61, 1, "Un trabajillo",  "Trabajo_laboratorio", "03/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 18314318, 60, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "05/15/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 38522498, 59, 15, "Un trabajillo",  "Primera_entrega_proyecto", "06/10/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 17465330, 62, 13, "Un trabajillo",  "Defensa_individual", "05/22/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 18314318, 60, 9, "Un trabajillo",  "Defensa_individual", "05/08/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 52003543, 61, 16, "Un trabajillo",  "Trabajo_practico", "05/13/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 54915265, 57, 18, "Un trabajillo",  "Trabajo_domiciliario", "05/01/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 11996854, 62, 11, "Un trabajillo",  "Defensa_individual", "05/28/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 37917395, 61, 6, "Un trabajillo",  "Trabajo_escrito", "05/11/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 37869904, 58, 20, "Un trabajillo",  "Trabajo_investigacion", "04/02/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 42219267, 58, 18, "Un trabajillo",  "Entrega_final_proyecto", "04/28/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 44944842, 56, 16, "Un trabajillo",  "Parcial", "05/27/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 48355960, 61, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "06/07/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 43245001, 58, 11, "Un trabajillo",  "Trabajo_practico", "03/30/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 12724636, 57, 16, "Un trabajillo",  "Trabajo_domiciliario", "05/26/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 16185549, 56, 7, "Un trabajillo",  "Trabajo_domiciliario", "03/30/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 59922299, 61, 2, "Un trabajillo",  "Trabajo_laboratorio", "05/25/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 29590789, 62, 12, "Un trabajillo",  "Defensa_individual", "04/14/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 28743864, 61, 8, "Un trabajillo",  "Parcial", "06/04/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 37884483, 56, 5, "Un trabajillo",  "Trabajo_escrito", "04/27/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 18366258, 62, 21, "Un trabajillo",  "Es_proyecto", "05/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 13561893, 59, 16, "Un trabajillo",  "Segunda_entrega_proyecto", "04/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 42312578, 58, 20, "Un trabajillo",  "Trabajo_escrito", "05/09/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 48909032, 59, 18, "Un trabajillo",  "Trabajo_laboratorio", "05/01/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 19811129, 58, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "06/20/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 12724636, 60, 16, "Un trabajillo",  "Trabajo_practico", "04/08/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 16027729, 59, 18, "Un trabajillo",  "Oral", "06/12/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 39526489, 61, 11, "Un trabajillo",  "Primera_entrega_proyecto", "05/25/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 54089048, 60, 4, "Un trabajillo",  "Defensa_grupal", "06/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 41611262, 60, 12, "Un trabajillo",  "Trabajo_laboratorio", "04/17/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 31781803, 56, 4, "Un trabajillo",  "Defensa_grupal", "03/27/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 16185549, 58, 7, "Un trabajillo",  "Trabajo_investigacion", "05/20/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 25726873, 56, 19, "Un trabajillo",  "Entrega_final_proyecto", "05/28/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 13335131, 62, 20, "Un trabajillo",  "Es_proyecto", "06/09/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 43155290, 60, 4, "Un trabajillo",  "Trabajo_investigacion", "04/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 37036060, 61, 2, "Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 22277017, 57, 10, "Un trabajillo",  "Trabajo_laboratorio", "06/11/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 15920160, 56, 14, "Un trabajillo",  "Trabajo_laboratorio", "04/08/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 17417117, 59, 10, "Un trabajillo",  "Trabajo_investigacion", "04/06/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 34722482, 62, 7, "Un trabajillo",  "Defensa_individual", "04/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 37102095, 61, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "03/30/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 48457108, 59, 12, "Un trabajillo",  "Trabajo_escrito", "06/06/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 58512968, 59, 3, "Un trabajillo",  "Primera_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 38178427, 59, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 18707531, 60, 6, "Un trabajillo",  "Trabajo_investigacion", "05/20/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 21061974, 62, 17, "Un trabajillo",  "Trabajo_practico", "04/27/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 28548309, 61, 15, "Un trabajillo",  "Trabajo_escrito", "05/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 11791640, 59, 15, "Un trabajillo",  "Oral", "04/18/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 47751074, 59, 2, "Un trabajillo",  "Trabajo_practico", "06/07/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 16185549, 59, 7, "Un trabajillo",  "Trabajo_practico", "04/01/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 58842593, 62, 20, "Un trabajillo",  "Trabajo_practico", "04/26/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 49247384, 56, 3, "Un trabajillo",  "Trabajo_investigacion", "06/17/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 31810935, 60, 3, "Un trabajillo",  "Defensa_grupal", "06/20/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 56111798, 60, 18, "Un trabajillo",  "Trabajo_practico", "06/01/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 49544849, 60, 7, "Un trabajillo",  "Defensa_individual", "04/20/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 42180969, 56, 6, "Un trabajillo",  "Trabajo_practico", "06/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 36055572, 59, 13, "Un trabajillo",  "Trabajo_domiciliario", "05/28/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 11274947, 62, 10, "Un trabajillo",  "Entrega_final_proyecto", "04/15/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 57388742, 61, 21, "Un trabajillo",  "Trabajo_investigacion", "05/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 51545859, 61, 10, "Un trabajillo",  "Defensa_individual", "05/13/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 48467769, 60, 20, "Un trabajillo",  "Segunda_entrega_proyecto", "03/30/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 37884483, 60, 5, "Un trabajillo",  "Trabajo_investigacion", "06/11/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 58512968, 58, 3, "Un trabajillo",  "Oral", "05/04/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 53170818, 61, 13, "Un trabajillo",  "Trabajo_domiciliario", "05/14/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 29196199, 62, 17, "Un trabajillo",  "Defensa_grupal", "04/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 59986431, 57, 7, "Un trabajillo",  "Trabajo_investigacion", "06/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 52992839, 57, 6, "Un trabajillo",  "Trabajo_escrito", "05/01/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 35537971, 62, 20, "Un trabajillo",  "Primera_entrega_proyecto", "04/09/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 46949838, 56, 5, "Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 12222218, 59, 19, "Un trabajillo",  "Trabajo_domiciliario", "05/21/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 58227175, 62, 4, "Un trabajillo",  "Parcial", "06/05/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 43155290, 62, 4, "Un trabajillo",  "Defensa_grupal", "05/16/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 13335131, 61, 20, "Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 59986431, 58, 7, "Un trabajillo",  "Primera_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 51088110, 59, 13, "Un trabajillo",  "Entrega_final_proyecto", "04/19/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 39334208, 61, 8, "Un trabajillo",  "Trabajo_escrito", "06/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45512666, 11813204, 58, 6, "Un trabajillo",  "Trabajo_escrito", "06/21/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 42834817, 56, 15, "Un trabajillo",  "Entrega_final_proyecto", "05/01/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 54876801, 59, 20, "Un trabajillo",  "Es_proyecto", "04/12/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 59920439, 59, 9, "Un trabajillo",  "Entrega_final_proyecto", "05/15/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 42944997, 59, 19, "Un trabajillo",  "Entrega_final_proyecto", "06/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 42804846, 62, 4, "Un trabajillo",  "Defensa_grupal", "03/29/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 28246264, 60, 11, "Un trabajillo",  "Es_proyecto", "05/22/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 21496965, 58, 12, "Un trabajillo",  "Defensa_individual", "04/22/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 34747676, 61, 20, "Un trabajillo",  "Oral", "04/26/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 11274947, 56, 10, "Un trabajillo",  "Parcial", "05/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 51245762, 59, 14, "Un trabajillo",  "Defensa_individual", "05/26/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 22873110, 56, 16, "Un trabajillo",  "Trabajo_domiciliario", "04/29/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 58227175, 57, 4, "Un trabajillo",  "Trabajo_laboratorio", "05/21/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 16027729, 61, 18, "Un trabajillo",  "Trabajo_domiciliario", "05/11/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 41519955, 60, 16, "Un trabajillo",  "Es_proyecto", "04/17/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 27878375, 59, 8, "Un trabajillo",  "Defensa_individual", "06/17/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 52265258, 62, 4, "Un trabajillo",  "Segunda_entrega_proyecto", "05/08/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 26119633, 56, 15, "Un trabajillo",  "Trabajo_laboratorio", "06/20/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 56004444, 58, 7, "Un trabajillo",  "Es_proyecto", "05/31/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 34489852, 56, 21, "Un trabajillo",  "Trabajo_laboratorio", "06/18/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 17465330, 56, 13, "Un trabajillo",  "Trabajo_investigacion", "06/10/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 19830745, 57, 4, "Un trabajillo",  "Trabajo_escrito", "05/01/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 52751453, 58, 7, "Un trabajillo",  "Segunda_entrega_proyecto", "04/05/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 44944842, 58, 16, "Un trabajillo",  "Es_proyecto", "05/07/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 24845359, 57, 14, "Un trabajillo",  "Es_proyecto", "06/12/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 31810935, 58, 3, "Un trabajillo",  "Defensa_grupal", "05/09/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 48582046, 60, 7, "Un trabajillo",  "Primera_entrega_proyecto", "05/09/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 34489852, 59, 21, "Un trabajillo",  "Trabajo_domiciliario", "04/20/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49645497, 41251777, 60, 17, "Un trabajillo",  "Entrega_final_proyecto", "06/05/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 29236030, 59, 21, "Un trabajillo",  "Segunda_entrega_proyecto", "04/16/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 21872422, 59, 21, "Un trabajillo",  "Trabajo_investigacion", "03/29/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 28548309, 62, 15, "Un trabajillo",  "Trabajo_escrito", "06/20/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 52911819, 56, 4, "Un trabajillo",  "Oral", "04/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 31675092, 57, 3, "Un trabajillo",  "Trabajo_domiciliario", "06/08/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 48457108, 59, 1, "Un trabajillo",  "Trabajo_domiciliario", "06/04/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 57112624, 56, 18, "Un trabajillo",  "Primera_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 42445537, 57, 1, "Un trabajillo",  "Trabajo_escrito", "04/17/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 26119633, 61, 15, "Un trabajillo",  "Oral", "05/30/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 51652614, 62, 19, "Un trabajillo",  "Parcial", "04/28/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 23420241, 59, 2, "Un trabajillo",  "Trabajo_escrito", "04/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 46307955, 58, 11, "Un trabajillo",  "Primera_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 32658390, 57, 14, "Un trabajillo",  "Entrega_final_proyecto", "06/14/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 25119820, 60, 19, "Un trabajillo",  "Trabajo_practico", "05/15/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 11343792, 58, 5, "Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 44684440, 57, 8, "Un trabajillo",  "Primera_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 56654974, 60, 15, "Un trabajillo",  "Segunda_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 24543123, 62, 1, "Un trabajillo",  "Trabajo_investigacion", "05/20/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 31925128, 56, 8, "Un trabajillo",  "Trabajo_escrito", "05/29/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 43194113, 61, 9, "Un trabajillo",  "Trabajo_escrito", "04/07/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 52911819, 58, 4, "Un trabajillo",  "Es_proyecto", "05/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 59664475, 61, 10, "Un trabajillo",  "Segunda_entrega_proyecto", "04/29/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 53986219, 57, 3, "Un trabajillo",  "Trabajo_laboratorio", "06/06/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 48172380, 62, 2, "Un trabajillo",  "Defensa_grupal", "05/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 59986431, 58, 7, "Un trabajillo",  "Oral", "05/17/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 24845359, 59, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 46355980, 59, 14, "Un trabajillo",  "Primera_entrega_proyecto", "04/09/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 38295401, 60, 19, "Un trabajillo",  "Trabajo_escrito", "05/12/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 32658390, 59, 1, "Un trabajillo",  "Trabajo_investigacion", "04/13/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 47973157, 62, 15, "Un trabajillo",  "Segunda_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 21898228, 60, 14, "Un trabajillo",  "Defensa_grupal", "04/10/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 24543123, 62, 1, "Un trabajillo",  "Oral", "06/07/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 56118047, 57, 14, "Un trabajillo",  "Trabajo_laboratorio", "04/30/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 51926059, 56, 13, "Un trabajillo",  "Oral", "05/14/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 16678065, 61, 2, "Un trabajillo",  "Trabajo_practico", "06/13/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 47763348, 60, 5, "Un trabajillo",  "Trabajo_laboratorio", "05/23/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 34439590, 56, 7, "Un trabajillo",  "Entrega_final_proyecto", "03/28/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 48582046, 61, 7, "Un trabajillo",  "Defensa_individual", "04/30/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 29566201, 57, 19, "Un trabajillo",  "Parcial", "05/28/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 45324403, 61, 11, "Un trabajillo",  "Trabajo_escrito", "04/24/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 31194737, 61, 11, "Un trabajillo",  "Oral", "05/13/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 25863875, 59, 11, "Un trabajillo",  "Primera_entrega_proyecto", "04/01/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 48467769, 57, 20, "Un trabajillo",  "Oral", "05/04/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 24845359, 57, 14, "Un trabajillo",  "Entrega_final_proyecto", "04/17/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 15235830, 62, 7, "Un trabajillo",  "Trabajo_escrito", "05/10/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 16678065, 57, 21, "Un trabajillo",  "Trabajo_domiciliario", "05/29/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 53855640, 59, 1, "Un trabajillo",  "Trabajo_practico", "06/01/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 26923945, 58, 8, "Un trabajillo",  "Defensa_individual", "05/14/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 31809182, 58, 4, "Un trabajillo",  "Trabajo_investigacion", "04/09/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 21269356, 56, 5, "Un trabajillo",  "Defensa_grupal", "04/24/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 52518079, 57, 2, "Un trabajillo",  "Trabajo_practico", "05/04/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 36202030, 57, 17, "Un trabajillo",  "Trabajo_investigacion", "03/26/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 34489852, 60, 21, "Un trabajillo",  "Entrega_final_proyecto", "06/07/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 51545859, 58, 10, "Un trabajillo",  "Trabajo_practico", "04/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 15920160, 59, 14, "Un trabajillo",  "Trabajo_practico", "05/02/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 34023868, 61, 11, "Un trabajillo",  "Oral", "05/11/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 35353121, 61, 10, "Un trabajillo",  "Defensa_individual", "06/19/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 16853615, 59, 1, "Un trabajillo",  "Trabajo_investigacion", "06/05/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 53895937, 62, 3, "Un trabajillo",  "Defensa_grupal", "04/26/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 51652614, 58, 19, "Un trabajillo",  "Oral", "04/13/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 36252740, 59, 10, "Un trabajillo",  "Es_proyecto", "05/03/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 41662421, 56, 6, "Un trabajillo",  "Trabajo_laboratorio", "05/02/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 13518498, 56, 8, "Un trabajillo",  "Primera_entrega_proyecto", "05/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 41662421, 56, 6, "Un trabajillo",  "Trabajo_practico", "06/13/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 35166542, 58, 20, "Un trabajillo",  "Es_proyecto", "04/18/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 27141669, 58, 3, "Un trabajillo",  "Trabajo_laboratorio", "03/29/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 51926059, 56, 13, "Un trabajillo",  "Entrega_final_proyecto", "05/16/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 21496965, 60, 12, "Un trabajillo",  "Trabajo_practico", "06/12/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 25726873, 62, 1, "Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 49445885, 60, 15, "Un trabajillo",  "Primera_entrega_proyecto", "03/29/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 31925128, 57, 8, "Un trabajillo",  "Parcial", "05/01/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 47381962, 59, 10, "Un trabajillo",  "Segunda_entrega_proyecto", "06/05/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 54915265, 62, 18, "Un trabajillo",  "Trabajo_practico", "06/05/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 34597837, 62, 1, "Un trabajillo",  "Trabajo_domiciliario", "05/22/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 22751669, 56, 1, "Un trabajillo",  "Oral", "06/20/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 35582625, 58, 18, "Un trabajillo",  "Trabajo_escrito", "04/15/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 48467769, 60, 20, "Un trabajillo",  "Trabajo_practico", "05/15/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 46169195, 62, 1, "Un trabajillo",  "Trabajo_investigacion", "04/20/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45512666, 44428604, 58, 6, "Un trabajillo",  "Segunda_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 42453178, 57, 12, "Un trabajillo",  "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 34439590, 58, 7, "Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 43533852, 56, 18, "Un trabajillo",  "Defensa_individual", "04/25/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 19848580, 57, 5, "Un trabajillo",  "Trabajo_domiciliario", "04/07/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 35011620, 62, 19, "Un trabajillo",  "Parcial", "04/07/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 45324403, 60, 11, "Un trabajillo",  "Trabajo_domiciliario", "05/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 28691148, 61, 4, "Un trabajillo",  "Trabajo_investigacion", "04/13/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 34023868, 60, 11, "Un trabajillo",  "Primera_entrega_proyecto", "05/12/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 22873110, 59, 16, "Un trabajillo",  "Es_proyecto", "05/10/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 54015041, 62, 1, "Un trabajillo",  "Segunda_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 37884483, 62, 5, "Un trabajillo",  "Trabajo_investigacion", "05/17/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 37102095, 62, 11, "Un trabajillo",  "Trabajo_domiciliario", "05/11/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 13201219, 59, 7, "Un trabajillo",  "Trabajo_laboratorio", "04/10/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 13567110, 56, 5, "Un trabajillo",  "Parcial", "06/12/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 42806327, 56, 5, "Un trabajillo",  "Defensa_individual", "05/26/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 29640203, 59, 9, "Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 44944842, 61, 16, "Un trabajillo",  "Parcial", "04/19/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 48894899, 59, 1, "Un trabajillo",  "Defensa_individual", "04/19/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 41506342, 57, 4, "Un trabajillo",  "Segunda_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 17417117, 60, 10, "Un trabajillo",  "Trabajo_escrito", "06/18/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 15096797, 57, 5, "Un trabajillo",  "Parcial", "04/29/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 57010834, 62, 4, "Un trabajillo",  "Trabajo_domiciliario", "03/30/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 55136709, 61, 6, "Un trabajillo",  "Trabajo_practico", "05/03/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 38149444, 62, 16, "Un trabajillo",  "Trabajo_escrito", "06/15/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 39827746, 62, 17, "Un trabajillo",  "Primera_entrega_proyecto", "03/28/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 43946457, 60, 21, "Un trabajillo",  "Oral", "04/09/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 28075005, 58, 3, "Un trabajillo",  "Trabajo_practico", "05/18/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 18707531, 60, 6, "Un trabajillo",  "Trabajo_laboratorio", "06/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 23793955, 59, 10, "Un trabajillo",  "Trabajo_escrito", "04/18/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 54855356, 60, 3, "Un trabajillo",  "Entrega_final_proyecto", "04/30/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 16853615, 59, 17, "Un trabajillo",  "Parcial", "05/08/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 31825922, 57, 5, "Un trabajillo",  "Trabajo_escrito", "03/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 42806327, 61, 5, "Un trabajillo",  "Trabajo_escrito", "05/06/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45851381, 44428604, 62, 6, "Un trabajillo",  "Trabajo_domiciliario", "06/17/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 59305873, 57, 17, "Un trabajillo",  "Defensa_individual", "04/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45512666, 18963474, 58, 6, "Un trabajillo",  "Defensa_grupal", "05/30/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 44154849, 58, 2, "Un trabajillo",  "Trabajo_investigacion", "04/07/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 51893266, 62, 18, "Un trabajillo",  "Parcial", "06/17/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 12841949, 60, 9, "Un trabajillo",  "Primera_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 22015794, 56, 21, "Un trabajillo",  "Primera_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 14903961, 59, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 42790936, 58, 19, "Un trabajillo",  "Defensa_grupal", "03/28/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 15956862, 58, 14, "Un trabajillo",  "Entrega_final_proyecto", "05/23/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 38068983, 61, 2, "Un trabajillo",  "Defensa_grupal", "05/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 31135169, 62, 15, "Un trabajillo",  "Trabajo_practico", "05/22/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 34268579, 60, 4, "Un trabajillo",  "Oral", "05/24/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 57015442, 56, 5, "Un trabajillo",  "Trabajo_escrito", "04/20/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 35958195, 56, 8, "Un trabajillo",  "Trabajo_practico", "05/31/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 53464481, 57, 19, "Un trabajillo",  "Entrega_final_proyecto", "05/25/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 42312578, 60, 20, "Un trabajillo",  "Defensa_grupal", "04/20/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 35537971, 57, 20, "Un trabajillo",  "Parcial", "06/16/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 46307955, 57, 1, "Un trabajillo",  "Trabajo_domiciliario", "05/20/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 29545502, 57, 5, "Un trabajillo",  "Oral", "04/09/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 47308825, 59, 9, "Un trabajillo",  "Primera_entrega_proyecto", "06/20/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 54458219, 62, 1, "Un trabajillo",  "Trabajo_escrito", "04/25/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 57889865, 57, 5, "Un trabajillo",  "Trabajo_domiciliario", "05/13/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 52407177, 58, 19, "Un trabajillo",  "Trabajo_practico", "04/22/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 57112624, 56, 1, "Un trabajillo",  "Trabajo_escrito", "04/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 17304693, 62, 19, "Un trabajillo",  "Trabajo_escrito", "03/29/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 32144705, 59, 7, "Un trabajillo",  "Segunda_entrega_proyecto", "04/12/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 16678065, 59, 21, "Un trabajillo",  "Segunda_entrega_proyecto", "04/24/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 49247384, 56, 3, "Un trabajillo",  "Trabajo_escrito", "04/29/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 16421911, 59, 19, "Un trabajillo",  "Entrega_final_proyecto", "04/04/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 16027729, 59, 18, "Un trabajillo",  "Defensa_individual", "06/14/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 44799871, 59, 12, "Un trabajillo",  "Trabajo_laboratorio", "04/23/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 42052267, 60, 12, "Un trabajillo",  "Primera_entrega_proyecto", "05/20/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 28539576, 59, 1, "Un trabajillo",  "Trabajo_investigacion", "05/10/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 18159827, 60, 10, "Un trabajillo",  "Entrega_final_proyecto", "06/17/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 52992839, 57, 6, "Un trabajillo",  "Trabajo_practico", "06/05/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 39234171, 59, 3, "Un trabajillo",  "Trabajo_escrito", "06/14/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 48467769, 58, 20, "Un trabajillo",  "Defensa_individual", "05/16/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 24608866, 59, 5, "Un trabajillo",  "Trabajo_practico", "05/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 37794741, 61, 2, "Un trabajillo",  "Oral", "04/28/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 16027729, 62, 18, "Un trabajillo",  "Trabajo_domiciliario", "04/19/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 23816228, 56, 3, "Un trabajillo",  "Segunda_entrega_proyecto", "04/21/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 48775748, 59, 17, "Un trabajillo",  "Defensa_individual", "04/10/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 45081776, 60, 9, "Un trabajillo",  "Trabajo_practico", "05/17/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 56593641, 58, 3, "Un trabajillo",  "Trabajo_laboratorio", "04/16/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 56004444, 59, 7, "Un trabajillo",  "Trabajo_domiciliario", "04/21/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 57836404, 60, 1, "Un trabajillo",  "Entrega_final_proyecto", "06/15/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 27729764, 56, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 54685981, 61, 19, "Un trabajillo",  "Trabajo_domiciliario", "05/15/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 18029553, 61, 17, "Un trabajillo",  "Trabajo_laboratorio", "05/04/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 19607308, 58, 2, "Un trabajillo",  "Trabajo_domiciliario", "05/23/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 24052235, 62, 9, "Un trabajillo",  "Trabajo_practico", "04/28/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 37869904, 62, 2, "Un trabajillo",  "Trabajo_practico", "05/26/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 15477533, 57, 14, "Un trabajillo",  "Trabajo_escrito", "03/27/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 33833270, 61, 8, "Un trabajillo",  "Trabajo_practico", "06/22/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 13644841, 60, 6, "Un trabajillo",  "Trabajo_investigacion", "04/22/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 25437567, 56, 1, "Un trabajillo",  "Trabajo_laboratorio", "04/18/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33977515, 49344538, 60, 3, "Un trabajillo",  "Trabajo_domiciliario", "05/24/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 26572227, 60, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 24941270, 61, 8, "Un trabajillo",  "Defensa_individual", "04/04/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 35817664, 61, 1, "Un trabajillo",  "Defensa_grupal", "04/16/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 43537159, 60, 19, "Un trabajillo",  "Defensa_grupal", "04/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 59696030, 62, 4, "Un trabajillo",  "Oral", "06/10/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 52157160, 60, 15, "Un trabajillo",  "Entrega_final_proyecto", "06/03/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 24458936, 60, 12, "Un trabajillo",  "Entrega_final_proyecto", "04/14/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 42431431, 60, 12, "Un trabajillo",  "Parcial", "05/19/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 14962545, 61, 8, "Un trabajillo",  "Segunda_entrega_proyecto", "04/12/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 35591715, 58, 14, "Un trabajillo",  "Entrega_final_proyecto", "04/09/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 26457718, 60, 11, "Un trabajillo",  "Defensa_individual", "06/03/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 25119820, 58, 1, "Un trabajillo",  "Entrega_final_proyecto", "05/12/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 12222218, 58, 19, "Un trabajillo",  "Trabajo_investigacion", "06/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 18029553, 61, 17, "Un trabajillo",  "Primera_entrega_proyecto", "06/13/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 46355980, 60, 14, "Un trabajillo",  "Trabajo_escrito", "05/03/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 14287321, 62, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "03/30/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 36455906, 60, 20, "Un trabajillo",  "Entrega_final_proyecto", "05/15/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 36786864, 57, 13, "Un trabajillo",  "Trabajo_escrito", "04/11/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 52208387, 59, 18, "Un trabajillo",  "Trabajo_domiciliario", "06/02/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 51696195, 56, 12, "Un trabajillo",  "Parcial", "06/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 16437225, 57, 3, "Un trabajillo",  "Entrega_final_proyecto", "06/17/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 38149444, 58, 16, "Un trabajillo",  "Primera_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 38298908, 56, 2, "Un trabajillo",  "Parcial", "06/19/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 24845359, 61, 14, "Un trabajillo",  "Parcial", "04/08/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 52265258, 56, 4, "Un trabajillo",  "Trabajo_investigacion", "05/06/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 49668150, 59, 17, "Un trabajillo",  "Trabajo_domiciliario", "04/09/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 46307955, 62, 11, "Un trabajillo",  "Trabajo_escrito", "05/07/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45851381, 15797648, 62, 6, "Un trabajillo",  "Trabajo_domiciliario", "04/13/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 43825336, 58, 7, "Un trabajillo",  "Trabajo_escrito", "04/24/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 54915265, 59, 18, "Un trabajillo",  "Es_proyecto", "04/02/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 17930466, 61, 18, "Un trabajillo",  "Trabajo_investigacion", "05/09/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 27878375, 56, 8, "Un trabajillo",  "Trabajo_domiciliario", "04/21/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 45512666, 55136709, 58, 6, "Un trabajillo",  "Defensa_individual", "05/22/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 42906573, 59, 13, "Un trabajillo",  "Trabajo_domiciliario", "05/23/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 34692168, 57, 9, "Un trabajillo",  "Es_proyecto", "06/15/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 53783837, 60, 20, "Un trabajillo",  "Es_proyecto", "04/02/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 47607203, 61, 4, "Un trabajillo",  "Parcial", "06/17/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 47787798, 62, 7, "Un trabajillo",  "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 18074166, 56, 15, "Un trabajillo",  "Parcial", "04/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 13561893, 62, 16, "Un trabajillo",  "Oral", "05/30/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 46307955, 56, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "05/10/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 35817664, 56, 18, "Un trabajillo",  "Segunda_entrega_proyecto", "05/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 15477533, 57, 1, "Un trabajillo",  "Segunda_entrega_proyecto", "06/06/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 35167085, 62, 7, "Un trabajillo",  "Segunda_entrega_proyecto", "05/04/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 31223295, 13624077, 59, 16, "Un trabajillo",  "Entrega_final_proyecto", "05/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 47607203, 56, 4, "Un trabajillo",  "Trabajo_domiciliario", "05/19/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 51605887, 60, 21, "Un trabajillo",  "Primera_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 16101787, 56, 21, "Un trabajillo",  "Oral", "04/14/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 44392433, 58, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 11343792, 61, 5, "Un trabajillo",  "Trabajo_practico", "06/03/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 25891092, 57, 11, "Un trabajillo",  "Trabajo_domiciliario", "04/03/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 24941270, 61, 8, "Un trabajillo",  "Trabajo_domiciliario", "05/01/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 51410563, 59, 19, "Un trabajillo",  "Primera_entrega_proyecto", "04/18/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 52265258, 59, 4, "Un trabajillo",  "Trabajo_domiciliario", "06/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 52350075, 62, 19, "Un trabajillo",  "Trabajo_domiciliario", "06/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 26457718, 59, 11, "Un trabajillo",  "Trabajo_escrito", "04/26/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 12319889, 61, 8, "Un trabajillo",  "Primera_entrega_proyecto", "04/13/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 32359122, 61, 7, "Un trabajillo",  "Defensa_individual", "04/24/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 42000355, 56, 5, "Un trabajillo",  "Trabajo_escrito", "03/27/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 14287321, 60, 9, "Un trabajillo",  "Parcial", "06/03/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 18029553, 56, 17, "Un trabajillo",  "Defensa_grupal", "05/30/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 52003543, 56, 16, "Un trabajillo",  "Oral", "03/26/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 44132635, 57, 4, "Un trabajillo",  "Trabajo_domiciliario", "04/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 46949838, 58, 5, "Un trabajillo",  "Es_proyecto", "04/03/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 22751669, 58, 1, "Un trabajillo",  "Entrega_final_proyecto", "04/19/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 47973157, 58, 15, "Un trabajillo",  "Primera_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 29212511, 62, 2, "Un trabajillo",  "Defensa_grupal", "05/19/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 42788208, 57, 17, "Un trabajillo",  "Primera_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 27729764, 57, 1, "Un trabajillo",  "Trabajo_laboratorio", "05/08/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 56654974, 59, 15, "Un trabajillo",  "Oral", "06/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 27729764, 59, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "05/07/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 54855356, 58, 3, "Un trabajillo",  "Parcial", "06/01/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 24845359, 56, 14, "Un trabajillo",  "Oral", "05/28/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 23026429, 56, 8, "Un trabajillo",  "Trabajo_laboratorio", "05/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 58281210, 60, 19, "Un trabajillo",  "Defensa_individual", "05/15/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 46435970, 57, 14, "Un trabajillo",  "Oral", "05/05/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 58842593, 58, 20, "Un trabajillo",  "Trabajo_laboratorio", "04/04/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 37264736, 61, 15, "Un trabajillo",  "Trabajo_laboratorio", "05/17/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 48355960, 60, 12, "Un trabajillo",  "Trabajo_laboratorio", "04/21/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 49188861, 60, 14, "Un trabajillo",  "Trabajo_domiciliario", "06/22/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 14047262, 62, 10, "Un trabajillo",  "Segunda_entrega_proyecto", "05/26/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 31781803, 61, 4, "Un trabajillo",  "Oral", "04/10/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 32399243, 56, 13, "Un trabajillo",  "Trabajo_investigacion", "06/16/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 59696030, 61, 4, "Un trabajillo",  "Trabajo_investigacion", "04/23/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 28743864, 62, 8, "Un trabajillo",  "Trabajo_escrito", "06/18/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 16678065, 60, 21, "Un trabajillo",  "Trabajo_domiciliario", "03/28/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 46157382, 56, 20, "Un trabajillo",  "Trabajo_escrito", "05/31/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 16678065, 57, 21, "Un trabajillo",  "Primera_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 12724636, 60, 16, "Un trabajillo",  "Trabajo_investigacion", "03/26/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 37102095, 62, 11, "Un trabajillo",  "Oral", "04/17/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 16185549, 57, 7, "Un trabajillo",  "Defensa_grupal", "05/11/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 34747676, 61, 20, "Un trabajillo",  "Segunda_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 33063922, 62, 2, "Un trabajillo",  "Segunda_entrega_proyecto", "06/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 47381962, 61, 10, "Un trabajillo",  "Entrega_final_proyecto", "05/05/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 46949838, 57, 5, "Un trabajillo",  "Es_proyecto", "06/02/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 52157160, 59, 1, "Un trabajillo",  "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 26668888, 57, 16, "Un trabajillo",  "Entrega_final_proyecto", "04/21/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 51500528, 62, 4, "Un trabajillo",  "Defensa_individual", "03/29/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 17133644, 62, 9, "Un trabajillo",  "Primera_entrega_proyecto", "05/15/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 59557654, 58, 16, "Un trabajillo",  "Segunda_entrega_proyecto", "04/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 22015794, 57, 21, "Un trabajillo",  "Trabajo_laboratorio", "04/03/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56245052, 42052267, 57, 12, "Un trabajillo",  "Entrega_final_proyecto", "06/12/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 32425715, 62, 2, "Un trabajillo",  "Trabajo_laboratorio", "06/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 54458219, 57, 14, "Un trabajillo",  "Defensa_grupal", "06/17/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 39286453, 61, 13, "Un trabajillo",  "Primera_entrega_proyecto", "05/13/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 43533852, 61, 18, "Un trabajillo",  "Trabajo_practico", "04/16/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 52907224, 61, 10, "Un trabajillo",  "Trabajo_practico", "05/19/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 46355980, 61, 14, "Un trabajillo",  "Parcial", "04/24/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 48172380, 59, 2, "Un trabajillo",  "Defensa_grupal", "05/11/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 52907224, 60, 10, "Un trabajillo",  "Trabajo_practico", "04/23/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 32412635, 57, 7, "Un trabajillo",  "Es_proyecto", "05/02/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 47417133, 59, 1, "Un trabajillo",  "Oral", "05/16/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 34692168, 58, 9, "Un trabajillo",  "Trabajo_practico", "04/22/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 19811129, 56, 9, "Un trabajillo",  "Entrega_final_proyecto", "04/14/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 21061974, 58, 17, "Un trabajillo",  "Primera_entrega_proyecto", "04/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 39827746, 56, 17, "Un trabajillo",  "Trabajo_practico", "06/10/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 27878375, 58, 8, "Un trabajillo",  "Trabajo_practico", "06/09/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 32425715, 59, 2, "Un trabajillo",  "Trabajo_investigacion", "06/15/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 15956862, 61, 14, "Un trabajillo",  "Trabajo_investigacion", "05/16/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 42944997, 56, 19, "Un trabajillo",  "Es_proyecto", "06/02/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 13644841, 57, 6, "Un trabajillo",  "Entrega_final_proyecto", "06/01/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 23598791, 56, 21, "Un trabajillo",  "Trabajo_practico", "05/03/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36203670, 15469594, 56, 3, "Un trabajillo",  "Defensa_individual", "06/20/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 58842593, 57, 20, "Un trabajillo",  "Segunda_entrega_proyecto", "04/29/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 44132635, 62, 4, "Un trabajillo",  "Es_proyecto", "04/06/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 59566249, 60, 1, "Un trabajillo",  "Segunda_entrega_proyecto", "04/12/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 36055572, 62, 13, "Un trabajillo",  "Trabajo_escrito", "03/26/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 12283709, 57, 4, "Un trabajillo",  "Trabajo_practico", "03/31/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 59986431, 59, 7, "Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 44132635, 62, 4, "Un trabajillo",  "Defensa_individual", "05/22/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 49668150, 61, 17, "Un trabajillo",  "Segunda_entrega_proyecto", "06/18/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 48582046, 59, 7, "Un trabajillo",  "Trabajo_domiciliario", "04/13/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 27878375, 61, 8, "Un trabajillo",  "Parcial", "05/27/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 59986431, 60, 7, "Un trabajillo",  "Trabajo_practico", "05/23/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 42906573, 60, 13, "Un trabajillo",  "Es_proyecto", "05/29/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 48970350, 58, 11, "Un trabajillo",  "Defensa_grupal", "04/12/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 54738065, 56, 6, "Un trabajillo",  "Parcial", "03/27/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 59920439, 62, 9, "Un trabajillo",  "Trabajo_domiciliario", "04/26/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 14047262, 62, 10, "Un trabajillo",  "Trabajo_practico", "06/08/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 44492918, 59, 15, "Un trabajillo",  "Oral", "06/16/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 32210166, 58, 2, "Un trabajillo",  "Es_proyecto", "06/15/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 42052267, 61, 12, "Un trabajillo",  "Oral", "05/18/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 32144705, 62, 7, "Un trabajillo",  "Segunda_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 39334208, 62, 8, "Un trabajillo",  "Entrega_final_proyecto", "04/04/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 48582046, 59, 7, "Un trabajillo",  "Trabajo_practico", "05/06/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 28261351, 56, 9, "Un trabajillo",  "Segunda_entrega_proyecto", "05/11/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 26668888, 57, 16, "Un trabajillo",  "Oral", "06/12/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 52911819, 57, 4, "Un trabajillo",  "Oral", "04/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 22549385, 57, 20, "Un trabajillo",  "Es_proyecto", "04/16/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 37869904, 62, 20, "Un trabajillo",  "Entrega_final_proyecto", "04/19/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 15920160, 61, 14, "Un trabajillo",  "Entrega_final_proyecto", "04/01/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 44334041, 58, 10, "Un trabajillo",  "Entrega_final_proyecto", "04/19/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 46949838, 56, 5, "Un trabajillo",  "Oral", "05/17/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 35166542, 57, 2, "Un trabajillo",  "Segunda_entrega_proyecto", "05/15/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 43247463, 61, 4, "Un trabajillo",  "Trabajo_escrito", "05/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 59566249, 57, 15, "Un trabajillo",  "Defensa_individual", "03/27/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 54031273, 60, 9, "Un trabajillo",  "Defensa_grupal", "05/19/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 44944842, 62, 16, "Un trabajillo",  "Trabajo_domiciliario", "03/31/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 37136824, 61, 19, "Un trabajillo",  "Parcial", "05/31/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 17842841, 62, 20, "Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 51764827, 62, 13, "Un trabajillo",  "Defensa_grupal", "06/22/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 34439590, 58, 7, "Un trabajillo",  "Trabajo_investigacion", "06/06/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 48457108, 56, 12, "Un trabajillo",  "Parcial", "05/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 47417133, 56, 1, "Un trabajillo",  "Defensa_grupal", "04/17/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 51926059, 57, 13, "Un trabajillo",  "Trabajo_practico", "04/02/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 54579114, 59, 1, "Un trabajillo",  "Defensa_grupal", "06/17/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 49668150, 62, 17, "Un trabajillo",  "Trabajo_domiciliario", "04/29/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 14114536, 58, 15, "Un trabajillo",  "Trabajo_investigacion", "06/08/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 33923417, 62, 1, "Un trabajillo",  "Parcial", "04/08/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 56593641, 59, 3, "Un trabajillo",  "Trabajo_investigacion", "04/15/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 29566201, 59, 19, "Un trabajillo",  "Parcial", "05/29/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 28842646, 61, 6, "Un trabajillo",  "Primera_entrega_proyecto", "05/05/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 39996701, 59, 12, "Un trabajillo",  "Segunda_entrega_proyecto", "04/27/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 13759153, 60, 14, "Un trabajillo",  "Trabajo_escrito", "03/31/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 52208387, 60, 18, "Un trabajillo",  "Entrega_final_proyecto", "05/09/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 56297635, 59, 12, "Un trabajillo",  "Trabajo_investigacion", "04/30/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 51088110, 58, 13, "Un trabajillo",  "Trabajo_laboratorio", "06/09/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 15673309, 60, 20, "Un trabajillo",  "Trabajo_investigacion", "06/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 31200338, 57, 1, "Un trabajillo",  "Defensa_grupal", "05/07/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 15797648, 61, 6, "Un trabajillo",  "Defensa_grupal", "04/11/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 48894899, 62, 11, "Un trabajillo",  "Primera_entrega_proyecto", "04/24/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 59986431, 57, 7, "Un trabajillo",  "Primera_entrega_proyecto", "05/23/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 38221294, 60, 14, "Un trabajillo",  "Trabajo_domiciliario", "04/08/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 17304693, 61, 19, "Un trabajillo",  "Defensa_grupal", "04/27/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 46355980, 60, 14, "Un trabajillo",  "Trabajo_domiciliario", "04/28/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 16027729, 59, 1, "Un trabajillo",  "Parcial", "04/23/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 26207537, 62, 13, "Un trabajillo",  "Entrega_final_proyecto", "04/07/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 34377586, 60, 21, "Un trabajillo",  "Defensa_individual", "05/16/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 46157382, 60, 20, "Un trabajillo",  "Trabajo_domiciliario", "05/06/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 57792006, 57, 18, "Un trabajillo",  "Defensa_grupal", "05/28/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 41519955, 59, 1, "Un trabajillo",  "Trabajo_domiciliario", "04/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 57014125, 61, 3, "Un trabajillo",  "Parcial", "05/10/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 21532838, 56, 19, "Un trabajillo",  "Oral", "04/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 54015041, 62, 14, "Un trabajillo",  "Trabajo_practico", "04/30/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 54458219, 58, 14, "Un trabajillo",  "Segunda_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 49247384, 61, 3, "Un trabajillo",  "Primera_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 11813204, 56, 6, "Un trabajillo",  "Primera_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 14903961, 62, 11, "Un trabajillo",  "Oral", "03/30/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 33833270, 57, 8, "Un trabajillo",  "Parcial", "04/20/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 55157492, 62, 1, "Un trabajillo",  "Trabajo_laboratorio", "05/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 21872422, 59, 2, "Un trabajillo",  "Segunda_entrega_proyecto", "06/16/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 58916473, 59, 2, "Un trabajillo",  "Trabajo_domiciliario", "05/02/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 48546595, 61, 18, "Un trabajillo",  "Defensa_grupal", "06/08/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 42219267, 61, 18, "Un trabajillo",  "Trabajo_escrito", "03/29/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 59557654, 62, 16, "Un trabajillo",  "Es_proyecto", "04/28/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36984622, 36108214, 61, 14, "Un trabajillo",  "Oral", "05/05/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 53464481, 60, 19, "Un trabajillo",  "Segunda_entrega_proyecto", "05/06/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 44944842, 56, 16, "Un trabajillo",  "Trabajo_domiciliario", "05/28/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 49188861, 62, 14, "Un trabajillo",  "Parcial", "06/10/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 44132635, 57, 4, "Un trabajillo",  "Es_proyecto", "04/03/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 55901596, 58, 5, "Un trabajillo",  "Segunda_entrega_proyecto", "04/07/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 34747676, 62, 20, "Un trabajillo",  "Trabajo_investigacion", "06/05/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 13567110, 62, 5, "Un trabajillo",  "Defensa_grupal", "04/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 25891092, 56, 11, "Un trabajillo",  "Trabajo_practico", "06/21/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 46351746, 59, 9, "Un trabajillo",  "Trabajo_domiciliario", "04/24/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 12731110, 61, 16, "Un trabajillo",  "Parcial", "05/20/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 53092086, 57, 21, "Un trabajillo",  "Trabajo_domiciliario", "04/10/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 53170818, 58, 13, "Un trabajillo",  "Defensa_grupal", "04/15/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 52084717, 59, 11, "Un trabajillo",  "Es_proyecto", "03/27/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 26368478, 59, 13, "Un trabajillo",  "Es_proyecto", "04/28/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 21602392, 58, 12, "Un trabajillo",  "Entrega_final_proyecto", "05/22/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 28548309, 56, 15, "Un trabajillo",  "Segunda_entrega_proyecto", "03/30/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 28144628, 62, 10, "Un trabajillo",  "Trabajo_investigacion", "05/30/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 33602217, 58, 15, "Un trabajillo",  "Defensa_grupal", "05/09/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 35817664, 60, 18, "Un trabajillo",  "Segunda_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 46351746, 59, 9, "Un trabajillo",  "Trabajo_laboratorio", "06/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 55858826, 58, 10, "Un trabajillo",  "Entrega_final_proyecto", "04/28/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 17304693, 56, 1, "Un trabajillo",  "Trabajo_investigacion", "03/26/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12030968, 23059107, 57, 3, "Un trabajillo",  "Entrega_final_proyecto", "06/12/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 53170818, 59, 13, "Un trabajillo",  "Trabajo_domiciliario", "05/22/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 11274947, 62, 10, "Un trabajillo",  "Entrega_final_proyecto", "03/27/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 56653152, 62, 1, "Un trabajillo",  "Segunda_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 36560995, 59, 3, "Un trabajillo",  "Defensa_individual", "06/07/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21326655, 31011472, 59, 1, "Un trabajillo",  "Defensa_individual", "05/01/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 54015041, 60, 14, "Un trabajillo",  "Oral", "06/15/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 52003402, 12361484, 58, 21, "Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 18073344, 61, 6, "Un trabajillo",  "Trabajo_investigacion", "03/26/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 32624577, 61, 19, "Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 43537159, 60, 19, "Un trabajillo",  "Parcial", "05/22/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 55157492, 61, 11, "Un trabajillo",  "Trabajo_practico", "06/20/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 35011620, 62, 19, "Un trabajillo",  "Trabajo_investigacion", "04/21/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 28929446, 58, 8, "Un trabajillo",  "Trabajo_escrito", "04/11/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 37264736, 61, 15, "Un trabajillo",  "Es_proyecto", "05/02/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 22612556, 58, 3, "Un trabajillo",  "Entrega_final_proyecto", "05/02/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 34747676, 61, 2, "Un trabajillo",  "Trabajo_investigacion", "04/25/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 13201219, 56, 7, "Un trabajillo",  "Trabajo_practico", "04/29/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 44684440, 62, 8, "Un trabajillo",  "Trabajo_laboratorio", "05/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 29566201, 62, 19, "Un trabajillo",  "Entrega_final_proyecto", "06/05/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 35167085, 60, 7, "Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 52157160, 60, 15, "Un trabajillo",  "Trabajo_investigacion", "05/07/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 36818170, 56, 7, "Un trabajillo",  "Defensa_grupal", "05/02/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 34054059, 56, 21, "Un trabajillo",  "Trabajo_domiciliario", "04/14/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 46355980, 62, 14, "Un trabajillo",  "Trabajo_laboratorio", "06/21/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 18159827, 58, 10, "Un trabajillo",  "Defensa_individual", "04/24/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 21061974, 57, 17, "Un trabajillo",  "Trabajo_practico", "06/09/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 42944997, 61, 19, "Un trabajillo",  "Primera_entrega_proyecto", "06/22/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 52907224, 58, 10, "Un trabajillo",  "Trabajo_practico", "04/20/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 56653152, 62, 1, "Un trabajillo",  "Segunda_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 52265258, 57, 4, "Un trabajillo",  "Entrega_final_proyecto", "05/18/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 29590789, 59, 12, "Un trabajillo",  "Entrega_final_proyecto", "05/22/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 31810935, 59, 3, "Un trabajillo",  "Defensa_individual", "06/01/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 37102095, 62, 11, "Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 42445537, 62, 13, "Un trabajillo",  "Trabajo_investigacion", "04/06/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 42487004, 56, 17, "Un trabajillo",  "Trabajo_domiciliario", "05/16/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 48457108, 56, 12, "Un trabajillo",  "Trabajo_escrito", "04/16/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 46319683, 57, 6, "Un trabajillo",  "Trabajo_escrito", "04/19/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 12425054, 59, 4, "Un trabajillo",  "Trabajo_escrito", "04/28/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 44799871, 60, 12, "Un trabajillo",  "Trabajo_investigacion", "05/13/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 52407177, 57, 19, "Un trabajillo",  "Trabajo_practico", "04/10/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 21061974, 57, 17, "Un trabajillo",  "Trabajo_domiciliario", "04/10/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 28144628, 57, 10, "Un trabajillo",  "Segunda_entrega_proyecto", "04/14/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 21272793, 57, 11, "Un trabajillo",  "Segunda_entrega_proyecto", "06/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 22006591, 61, 16, "Un trabajillo",  "Segunda_entrega_proyecto", "04/01/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 59571690, 45022142, 61, 18, "Un trabajillo",  "Oral", "05/15/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 58512968, 61, 3, "Un trabajillo",  "Oral", "06/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 34597837, 57, 19, "Un trabajillo",  "Defensa_grupal", "06/06/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 52208387, 57, 18, "Un trabajillo",  "Trabajo_escrito", "06/15/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14923741, 28539576, 58, 11, "Un trabajillo",  "Parcial", "04/28/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22323983, 39203899, 57, 16, "Un trabajillo",  "Defensa_grupal", "06/09/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55709209, 41611262, 58, 12, "Un trabajillo",  "Primera_entrega_proyecto", "04/25/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 29640203, 59, 9, "Un trabajillo",  "Entrega_final_proyecto", "04/16/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28354227, 11181601, 60, 18, "Un trabajillo",  "Parcial", "05/27/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 53895937, 61, 3, "Un trabajillo",  "Primera_entrega_proyecto", "06/02/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 34413318, 60, 13, "Un trabajillo",  "Trabajo_escrito", "04/25/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 33114694, 38221294, 56, 14, "Un trabajillo",  "Es_proyecto", "04/09/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 36455906, 61, 2, "Un trabajillo",  "Parcial", "05/09/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 41124449, 17299795, 58, 17, "Un trabajillo",  "Parcial", "03/28/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 15469594, 59, 3, "Un trabajillo",  "Trabajo_domiciliario", "04/06/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 43537159, 60, 19, "Un trabajillo",  "Defensa_individual", "04/10/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 35197567, 12283709, 59, 4, "Un trabajillo",  "Entrega_final_proyecto", "06/16/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 21522794, 35582625, 56, 18, "Un trabajillo",  "Entrega_final_proyecto", "04/14/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 57388742, 56, 2, "Un trabajillo",  "Trabajo_laboratorio", "06/19/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 53507619, 15436719, 59, 10, "Un trabajillo",  "Trabajo_laboratorio", "05/27/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 47308825, 59, 9, "Un trabajillo",  "Parcial", "05/25/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 17930466, 62, 18, "Un trabajillo",  "Entrega_final_proyecto", "05/25/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 36800501, 52350075, 60, 19, "Un trabajillo",  "Trabajo_escrito", "04/30/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 11996854, 61, 11, "Un trabajillo",  "Defensa_individual", "04/20/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 56653152, 56, 13, "Un trabajillo",  "Trabajo_escrito", "05/08/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46728204, 34023868, 61, 11, "Un trabajillo",  "Trabajo_domiciliario", "04/13/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 31159086, 61, 1, "Un trabajillo",  "Parcial", "05/25/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 13201219, 60, 7, "Un trabajillo",  "Defensa_individual", "06/15/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 28586325, 12222218, 62, 19, "Un trabajillo",  "Defensa_grupal", "03/26/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 13594991, 36786864, 59, 13, "Un trabajillo",  "Trabajo_investigacion", "06/03/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 46488290, 57010834, 61, 4, "Un trabajillo",  "Trabajo_domiciliario", "06/16/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 35958195, 58, 8, "Un trabajillo",  "Trabajo_practico", "03/31/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39377406, 22715077, 62, 16, "Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 18366258, 61, 21, "Un trabajillo",  "Trabajo_domiciliario", "04/02/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12627830, 23059107, 62, 3, "Un trabajillo",  "Defensa_individual", "04/23/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 37331323, 57112624, 58, 18, "Un trabajillo",  "Defensa_grupal", "06/01/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 33923417, 58, 13, "Un trabajillo",  "Entrega_final_proyecto", "03/30/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43801049, 35167085, 61, 7, "Un trabajillo",  "Entrega_final_proyecto", "04/25/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18138178, 24543123, 59, 17, "Un trabajillo",  "Primera_entrega_proyecto", "04/13/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 18543834, 62, 1, "Un trabajillo",  "Trabajo_laboratorio", "05/26/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 19811129, 56, 9, "Un trabajillo",  "Primera_entrega_proyecto", "04/08/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 56376518, 51545859, 57, 10, "Un trabajillo",  "Entrega_final_proyecto", "03/27/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 43334062, 23059107, 61, 3, "Un trabajillo",  "Entrega_final_proyecto", "04/18/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12236455, 28144628, 61, 1, "Un trabajillo",  "Defensa_individual", "05/14/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 38072192, 17569162, 59, 9, "Un trabajillo",  "Trabajo_investigacion", "06/02/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 16027729, 57, 18, "Un trabajillo",  "Trabajo_practico", "06/12/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 15331773, 61, 6, "Un trabajillo",  "Primera_entrega_proyecto", "06/21/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 41519955, 60, 16, "Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 56653152, 58, 13, "Un trabajillo",  "Defensa_individual", "05/19/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 32624577, 59, 19, "Un trabajillo",  "Trabajo_practico", "04/29/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 29545502, 62, 5, "Un trabajillo",  "Primera_entrega_proyecto", "04/07/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 23272143, 49926388, 62, 12, "Un trabajillo",  "Trabajo_laboratorio", "06/10/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 29113450, 46351746, 56, 9, "Un trabajillo",  "Trabajo_domiciliario", "04/04/2018", "Esto es una descripcion", 10, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 28929446, 62, 8, "Un trabajillo",  "Trabajo_laboratorio", "04/08/2018", "Esto es una descripcion", 6, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 42806327, 56, 5, "Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 11538577, 16420917, 56, 8, "Un trabajillo",  "Oral", "04/18/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 57534739, 24845359, 62, 14, "Un trabajillo",  "Trabajo_escrito", "06/21/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 14903961, 56, 11, "Un trabajillo",  "Trabajo_escrito", "04/29/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 18673556, 17465330, 58, 1, "Un trabajillo",  "Primera_entrega_proyecto", "04/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 31810935, 58, 3, "Un trabajillo",  "Trabajo_practico", "06/21/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 16678065, 56, 2, "Un trabajillo",  "Trabajo_practico", "04/02/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 57889865, 60, 5, "Un trabajillo",  "Segunda_entrega_proyecto", "05/09/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 22384731, 48621739, 60, 2, "Un trabajillo",  "Trabajo_domiciliario", "03/31/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 58882006, 18073344, 61, 6, "Un trabajillo",  "Trabajo_escrito", "05/31/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 39819779, 36202030, 62, 17, "Un trabajillo",  "Trabajo_escrito", "04/06/2018", "Esto es una descripcion", 5, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 16419493, 27878375, 58, 8, "Un trabajillo",  "Trabajo_laboratorio", "04/27/2018", "Esto es una descripcion", 4, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 48496394, 34268579, 56, 4, "Un trabajillo",  "Trabajo_escrito", "05/24/2018", "Esto es una descripcion", 7, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 12629662, 35958195, 62, 8, "Un trabajillo",  "Oral", "05/08/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 55653662, 59, 21, "Un trabajillo",  "Segunda_entrega_proyecto", "05/05/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 39363946, 57, 14, "Un trabajillo",  "Defensa_individual", "05/25/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14400420, 14903961, 56, 11, "Un trabajillo",  "Trabajo_laboratorio", "04/09/2018", "Esto es una descripcion", 8, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55768720, 18029553, 57, 17, "Un trabajillo",  "Entrega_final_proyecto", "06/02/2018", "Esto es una descripcion", 9, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 55482334, 51893266, 57, 18, "Un trabajillo",  "Trabajo_practico", "06/13/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 44516150, 31135169, 56, 15, "Un trabajillo",  "Primera_entrega_proyecto", "05/16/2018", "Esto es una descripcion", 3, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 49252042, 44944842, 60, 16, "Un trabajillo",  "Oral", "04/19/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 17252397, 42790936, 61, 19, "Un trabajillo",  "Primera_entrega_proyecto", "05/10/2018", "Esto es una descripcion", 2, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 14612481, 27729764, 60, 12, "Un trabajillo",  "Defensa_grupal", "03/30/2018", "Esto es una descripcion", 1, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 28725145, 56, 7, "Un trabajillo",  "Primera_entrega_proyecto", "04/07/2018", "Esto es una descripcion", 11, "f" );
-INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha , comentario, nota, baja )
-VALUES ( 54908311, 42727212, 60, 7, "Un trabajillo",  "Parcial", "04/12/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 27044772, 57, 18, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/09/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 32592001, 58, 16, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/15/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 47745986, 61, 20, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/19/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 26206618, 59, 8, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/26/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 12428664, 60, 8, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/02/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 42888379, 58, 8, 1 ,"Un trabajillo",  "Trabajo_practico", "06/04/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 12754679, 59, 7, 1 ,"Un trabajillo",  "Defensa_individual", "04/17/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 58063092, 56, 4, 1 ,"Un trabajillo",  "Es_proyecto", "04/26/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 51680609, 61, 13, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/16/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 59439466, 59, 15, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/15/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 26763028, 56, 1, 1 ,"Un trabajillo",  "Es_proyecto", "03/26/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 52395431, 57, 2, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 31365742, 57, 17, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/23/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 57406140, 57, 2, 1 ,"Un trabajillo",  "Es_proyecto", "04/02/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 42799653, 58, 9, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/07/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 27113646, 58, 3, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/14/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 26765957, 58, 13, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/11/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 57560271, 61, 21, 1 ,"Un trabajillo",  "Parcial", "04/18/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 19479632, 59, 5, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 21560215, 56, 12, 1 ,"Un trabajillo",  "Defensa_grupal", "04/27/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 35604499, 60, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/15/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 37032804, 57, 9, 1 ,"Un trabajillo",  "Defensa_individual", "04/05/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 34712451, 60, 9, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 37334541, 57, 13, 1 ,"Un trabajillo",  "Es_proyecto", "05/12/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 56961169, 59, 7, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/10/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 55183990, 59, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/16/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 15640289, 62, 3, 1 ,"Un trabajillo",  "Trabajo_practico", "04/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 19739266, 58, 3, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 18228826, 58, 16, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/01/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 47433406, 56, 11, 1 ,"Un trabajillo",  "Parcial", "03/29/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 17644964, 61, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/20/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 37152169, 56, 2, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/20/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 38405931, 61, 7, 1 ,"Un trabajillo",  "Defensa_individual", "05/31/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 41784734, 58, 15, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/25/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 18598099, 61, 1, 1 ,"Un trabajillo",  "Parcial", "04/04/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 32346252, 59, 3, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 27250701, 60, 15, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/17/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 26279661, 59, 2, 1 ,"Un trabajillo",  "Parcial", "06/12/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 54859750, 58, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 24974174, 56, 3, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/01/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 24612564, 60, 20, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/31/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 12191423, 58, 7, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/21/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 36640010, 59, 3, 1 ,"Un trabajillo",  "Es_proyecto", "06/08/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 58868220, 61, 12, 1 ,"Un trabajillo",  "Defensa_grupal", "04/05/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 12712873, 62, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "05/17/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 13975630, 62, 16, 1 ,"Un trabajillo",  "Oral", "05/25/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 32602658, 56, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/08/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 35475707, 58, 13, 1 ,"Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 14502248, 58, 13, 1 ,"Un trabajillo",  "Defensa_individual", "06/12/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 34386698, 57, 15, 1 ,"Un trabajillo",  "Defensa_grupal", "05/07/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 41516646, 62, 20, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/23/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 15861540, 57, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "04/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 12712873, 62, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "06/06/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 39307609, 58, 18, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/01/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 47261011, 56, 8, 1 ,"Un trabajillo",  "Es_proyecto", "04/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 14021808, 51191797, 58, 6, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 34924406, 59, 9, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/12/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 37334541, 62, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/07/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 56740604, 62, 1, 1 ,"Un trabajillo",  "Defensa_individual", "04/17/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 57293787, 61, 9, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 34624206, 57, 12, 1 ,"Un trabajillo",  "Defensa_individual", "03/31/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 58551546, 59, 9, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/14/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 14765220, 59, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "06/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 32137801, 57, 2, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/05/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 19415337, 56, 3, 1 ,"Un trabajillo",  "Oral", "05/12/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 26763028, 58, 10, 1 ,"Un trabajillo",  "Es_proyecto", "04/23/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 28911190, 56, 8, 1 ,"Un trabajillo",  "Parcial", "05/01/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 42991069, 62, 11, 1 ,"Un trabajillo",  "Oral", "04/07/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 33336410, 62, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/09/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 52021751, 62, 8, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 56655774, 56, 4, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/04/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 47020936, 57, 14, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 27316216, 58, 20, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/23/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 19056432, 56, 11, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 42580246, 61, 14, 1 ,"Un trabajillo",  "Es_proyecto", "04/28/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 57293787, 57, 9, 1 ,"Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 25506011, 60, 14, 1 ,"Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 11441473, 56, 17, 1 ,"Un trabajillo",  "Defensa_grupal", "04/03/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 41961025, 59, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/25/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 42799653, 59, 9, 1 ,"Un trabajillo",  "Defensa_individual", "06/06/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 37487346, 61, 7, 1 ,"Un trabajillo",  "Defensa_grupal", "06/01/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 49583671, 60, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/13/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 19479632, 59, 5, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/08/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 57699115, 60, 13, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/08/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 44854053, 61, 20, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/17/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 26105606, 59, 10, 1 ,"Un trabajillo",  "Defensa_grupal", "06/06/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 22739693, 58, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/24/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 18431671, 62, 14, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/28/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 52021751, 60, 8, 1 ,"Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57560271, 60, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 29708738, 61, 16, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/04/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 47130044, 61, 20, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/17/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 15579373, 59, 16, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/12/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 52521096, 56, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/11/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 48678920, 57, 10, 1 ,"Un trabajillo",  "Defensa_individual", "06/12/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 32346252, 61, 3, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 19048089, 60, 4, 1 ,"Un trabajillo",  "Parcial", "05/25/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 31608736, 62, 6, 1 ,"Un trabajillo",  "Oral", "05/17/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 39295327, 57, 3, 1 ,"Un trabajillo",  "Oral", "04/13/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 23746764, 58, 11, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 18086123, 62, 20, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/01/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 14239528, 59, 6, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 45153222, 62, 14, 1 ,"Un trabajillo",  "Parcial", "06/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 56655774, 58, 4, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/15/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 22431021, 59, 11, 1 ,"Un trabajillo",  "Defensa_grupal", "03/29/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 27054349, 62, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/17/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 46853603, 59, 21, 1 ,"Un trabajillo",  "Defensa_grupal", "04/15/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 38249662, 62, 19, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/27/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 41516646, 57, 2, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/01/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 13854252, 56, 19, 1 ,"Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 52427402, 59, 11, 1 ,"Un trabajillo",  "Parcial", "04/24/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 59633808, 62, 17, 1 ,"Un trabajillo",  "Defensa_individual", "05/16/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 42913029, 60, 16, 1 ,"Un trabajillo",  "Es_proyecto", "05/17/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 36640010, 56, 3, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/14/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 33930424, 56, 11, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 19012804, 56, 17, 1 ,"Un trabajillo",  "Defensa_grupal", "05/22/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 21514169, 59, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/10/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 56655774, 58, 4, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/15/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 53790957, 61, 18, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 57124647, 62, 9, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/07/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 52362593, 61, 13, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/02/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 34407907, 56, 4, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/25/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 44520381, 62, 3, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/07/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 55183990, 58, 21, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 59024443, 60, 5, 1 ,"Un trabajillo",  "Parcial", "04/29/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 34624206, 59, 12, 1 ,"Un trabajillo",  "Trabajo_practico", "05/27/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 27642312, 61, 7, 1 ,"Un trabajillo",  "Defensa_individual", "06/04/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 12566610, 56, 1, 1 ,"Un trabajillo",  "Oral", "04/28/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 33758616, 56, 2, 1 ,"Un trabajillo",  "Defensa_individual", "05/09/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 56823204, 58, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/28/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 46639312, 62, 13, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/02/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 21560215, 62, 12, 1 ,"Un trabajillo",  "Es_proyecto", "06/04/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 17102550, 59, 8, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/25/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 31756183, 61, 3, 1 ,"Un trabajillo",  "Defensa_individual", "05/04/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52582822, 38837390, 56, 20, 1 ,"Un trabajillo",  "Defensa_individual", "04/05/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 17644964, 60, 7, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 24544365, 59, 13, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 45519131, 61, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 38327159, 56, 13, 1 ,"Un trabajillo",  "Oral", "04/27/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 33508015, 60, 14, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/08/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 21660853, 60, 16, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 22670409, 62, 8, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 55183990, 59, 21, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/22/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 29815662, 56, 12, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/10/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 18228826, 56, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "03/29/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 26707571, 58, 19, 1 ,"Un trabajillo",  "Defensa_grupal", "06/09/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 52427402, 61, 11, 1 ,"Un trabajillo",  "Es_proyecto", "04/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52582822, 33758616, 56, 20, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/07/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 34278726, 62, 14, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 23652628, 62, 5, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 44520381, 58, 3, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 26105606, 61, 10, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/11/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 23652628, 56, 5, 1 ,"Un trabajillo",  "Defensa_individual", "06/14/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 34245797, 60, 19, 1 ,"Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 12961555, 60, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 34692425, 61, 10, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/09/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 41521291, 58, 2, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 56740604, 59, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/22/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 25152131, 58, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 34261894, 62, 21, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 59657816, 60, 21, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 57293787, 60, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "05/15/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 25031929, 62, 19, 1 ,"Un trabajillo",  "Oral", "05/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 53678274, 61, 11, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/20/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 56823204, 56, 18, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/17/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 51149283, 61, 11, 1 ,"Un trabajillo",  "Defensa_individual", "04/10/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 31608736, 57, 6, 1 ,"Un trabajillo",  "Parcial", "05/14/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 45708467, 56, 12, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/29/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 44788915, 62, 18, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 51350303, 59, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "06/04/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 22403133, 37812280, 59, 19, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 53500893, 62, 9, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 13720562, 59, 15, 1 ,"Un trabajillo",  "Defensa_individual", "05/20/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 18743537, 62, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/03/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 17193197, 62, 18, 1 ,"Un trabajillo",  "Parcial", "04/16/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 25031929, 58, 19, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 55973573, 62, 8, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/29/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 26140012, 59, 17, 1 ,"Un trabajillo",  "Defensa_grupal", "05/15/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 23820170, 61, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/05/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 57293787, 61, 9, 1 ,"Un trabajillo",  "Defensa_individual", "05/23/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 21514169, 56, 10, 1 ,"Un trabajillo",  "Es_proyecto", "05/12/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 13348625, 60, 5, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/02/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 52427402, 61, 11, 1 ,"Un trabajillo",  "Defensa_individual", "06/15/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 59957549, 58, 21, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/28/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 29689938, 57, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/31/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 22643026, 60, 7, 1 ,"Un trabajillo",  "Es_proyecto", "04/20/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 13547142, 58, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/06/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 57560271, 61, 2, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 25564130, 57, 2, 1 ,"Un trabajillo",  "Defensa_individual", "03/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 23652628, 62, 5, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 41961025, 57, 5, 1 ,"Un trabajillo",  "Parcial", "04/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 38734211, 61, 18, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/08/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 31810214, 61, 18, 1 ,"Un trabajillo",  "Defensa_individual", "06/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 55829520, 56, 18, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/22/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 15593068, 59, 18, 1 ,"Un trabajillo",  "Trabajo_practico", "04/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 47745986, 62, 20, 1 ,"Un trabajillo",  "Oral", "03/27/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 24464858, 59, 11, 1 ,"Un trabajillo",  "Defensa_grupal", "06/07/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 14765220, 59, 4, 1 ,"Un trabajillo",  "Defensa_individual", "04/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 22670409, 58, 8, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/06/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 18346371, 61, 21, 1 ,"Un trabajillo",  "Defensa_individual", "04/01/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 51634161, 59, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 13348625, 59, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/09/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 22403133, 12126080, 59, 19, 1 ,"Un trabajillo",  "Defensa_grupal", "03/30/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 31851464, 59, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/04/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 49547772, 62, 11, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/09/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57876989, 60, 21, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/04/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57124647, 58, 9, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/07/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 55872044, 62, 15, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/23/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 23820170, 57, 12, 1 ,"Un trabajillo",  "Parcial", "06/05/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 15861540, 59, 6, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 12754679, 58, 7, 1 ,"Un trabajillo",  "Defensa_individual", "04/03/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 24029999, 62, 6, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/15/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 15640289, 61, 3, 1 ,"Un trabajillo",  "Es_proyecto", "04/12/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 31810214, 57, 18, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 39144815, 56, 11, 1 ,"Un trabajillo",  "Defensa_individual", "04/09/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 49583671, 62, 17, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/30/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 53883607, 60, 7, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/18/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 14642145, 61, 3, 1 ,"Un trabajillo",  "Defensa_grupal", "06/21/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 19791870, 61, 2, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/15/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 42575607, 57, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "03/29/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 53669930, 57, 21, 1 ,"Un trabajillo",  "Parcial", "05/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 35744023, 56, 17, 1 ,"Un trabajillo",  "Oral", "05/27/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 36815269, 59, 12, 1 ,"Un trabajillo",  "Es_proyecto", "04/07/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 53678274, 62, 11, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/16/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 55006742, 59, 20, 1 ,"Un trabajillo",  "Es_proyecto", "04/12/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 57117527, 60, 10, 1 ,"Un trabajillo",  "Defensa_individual", "05/08/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 18086123, 62, 20, 1 ,"Un trabajillo",  "Defensa_individual", "05/10/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 12757239, 58, 13, 1 ,"Un trabajillo",  "Es_proyecto", "05/09/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 53328295, 58, 14, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/07/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 23746764, 62, 11, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/09/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 27113646, 60, 3, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/22/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 59957549, 61, 21, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/04/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 41866910, 56, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 41702958, 59, 5, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/13/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 26300343, 56, 1, 1 ,"Un trabajillo",  "Es_proyecto", "04/28/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 27250701, 56, 15, 1 ,"Un trabajillo",  "Es_proyecto", "04/10/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 58479467, 56, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "04/26/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 32652976, 62, 18, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/18/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 19415337, 60, 3, 1 ,"Un trabajillo",  "Es_proyecto", "03/31/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 57334882, 59, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/05/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 13837402, 56, 16, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/15/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 57406140, 60, 20, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/24/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 14500052, 59, 5, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/10/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 32652976, 60, 18, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 38249662, 61, 19, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/10/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 42708414, 56, 15, 1 ,"Un trabajillo",  "Parcial", "03/27/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 27250701, 61, 15, 1 ,"Un trabajillo",  "Es_proyecto", "04/01/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 15680297, 57, 2, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/17/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 59664469, 58, 8, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 14502248, 59, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/08/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 57124647, 56, 9, 1 ,"Un trabajillo",  "Es_proyecto", "06/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 49745386, 61, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "05/23/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 45041310, 56, 8, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 32359934, 59, 7, 1 ,"Un trabajillo",  "Oral", "04/04/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 42799653, 57, 9, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/21/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 38327159, 57, 13, 1 ,"Un trabajillo",  "Es_proyecto", "04/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 37898307, 59, 6, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/17/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 29689938, 56, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/19/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 52462238, 57, 15, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 43502677, 56, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 26593409, 60, 5, 1 ,"Un trabajillo",  "Defensa_individual", "06/09/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 54914051, 62, 18, 1 ,"Un trabajillo",  "Trabajo_practico", "04/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 53790957, 61, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/10/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 37334541, 60, 13, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/22/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 22428214, 58, 14, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/22/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 35604499, 59, 3, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/15/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 15593068, 57, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/11/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 47261011, 60, 8, 1 ,"Un trabajillo",  "Oral", "03/28/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 18431671, 60, 14, 1 ,"Un trabajillo",  "Oral", "06/09/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 12843925, 57, 1, 1 ,"Un trabajillo",  "Parcial", "06/15/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 47745986, 61, 20, 1 ,"Un trabajillo",  "Es_proyecto", "06/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 19056432, 57, 11, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/08/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 23267297, 56, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "05/22/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 27889877, 59, 11, 1 ,"Un trabajillo",  "Trabajo_practico", "03/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 52462238, 61, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 25953664, 56, 5, 1 ,"Un trabajillo",  "Oral", "06/18/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 54859750, 59, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/12/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 24983139, 62, 15, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/08/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 48287084, 58, 1, 1 ,"Un trabajillo",  "Oral", "06/14/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 37334541, 60, 13, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/04/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 14999025, 58, 21, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/27/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 31373656, 56, 6, 1 ,"Un trabajillo",  "Oral", "05/15/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 53328295, 57, 14, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 13837402, 60, 16, 1 ,"Un trabajillo",  "Trabajo_practico", "06/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 41702958, 61, 5, 1 ,"Un trabajillo",  "Es_proyecto", "05/14/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 27866186, 59, 9, 1 ,"Un trabajillo",  "Defensa_individual", "04/24/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 48999409, 62, 12, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/08/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 57117527, 57, 10, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/06/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 25031929, 57, 19, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/22/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 12428664, 58, 8, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/01/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 16380054, 58, 5, 1 ,"Un trabajillo",  "Parcial", "04/26/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 17862336, 61, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/01/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 51191797, 59, 6, 1 ,"Un trabajillo",  "Oral", "04/24/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 46541521, 60, 4, 1 ,"Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 56051732, 58, 11, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/27/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 31365742, 57, 17, 1 ,"Un trabajillo",  "Oral", "05/11/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 23587330, 62, 12, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/09/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 53923087, 56, 14, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/29/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 13837402, 60, 16, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/13/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 26236112, 56, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/02/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 28441939, 58, 13, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 48291306, 61, 15, 1 ,"Un trabajillo",  "Trabajo_practico", "04/20/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 48291306, 59, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 29078995, 56, 8, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/16/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 52161454, 57, 16, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/07/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 49583671, 56, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/14/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 32592001, 62, 16, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/27/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 31218286, 59, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "05/23/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 12191423, 59, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 24967907, 56, 2, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 45871406, 62, 19, 1 ,"Un trabajillo",  "Trabajo_investigacion", "03/30/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 18427014, 57, 11, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 29815662, 60, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 19626554, 58, 12, 1 ,"Un trabajillo",  "Parcial", "05/24/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 14999025, 62, 21, 1 ,"Un trabajillo",  "Trabajo_practico", "04/07/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 51191797, 62, 6, 1 ,"Un trabajillo",  "Defensa_individual", "04/25/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 11065477, 57, 1, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/01/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 29689938, 62, 19, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 38405931, 60, 7, 1 ,"Un trabajillo",  "Parcial", "05/20/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 22403133, 43877630, 59, 19, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/02/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 27108972, 59, 5, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/12/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 31956303, 62, 4, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/19/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 58859475, 56, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "04/14/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 43113767, 56, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "04/27/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 36584505, 61, 10, 1 ,"Un trabajillo",  "Defensa_individual", "06/18/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 18598099, 61, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/17/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 12535435, 62, 8, 1 ,"Un trabajillo",  "Es_proyecto", "05/05/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 36640010, 59, 3, 1 ,"Un trabajillo",  "Defensa_individual", "04/26/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 25564130, 62, 20, 1 ,"Un trabajillo",  "Defensa_individual", "06/20/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 21305570, 61, 3, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/27/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 58850980, 56, 21, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/24/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 39492620, 57, 17, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/08/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 22048422, 58, 3, 1 ,"Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 54075776, 58, 3, 1 ,"Un trabajillo",  "Parcial", "06/10/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 31609809, 57, 18, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/28/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 49547772, 61, 11, 1 ,"Un trabajillo",  "Oral", "03/28/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 19479632, 59, 5, 1 ,"Un trabajillo",  "Oral", "06/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 24544365, 60, 13, 1 ,"Un trabajillo",  "Oral", "06/18/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 57699115, 56, 1, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/05/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 21514169, 56, 10, 1 ,"Un trabajillo",  "Oral", "05/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 42059180, 57, 2, 1 ,"Un trabajillo",  "Parcial", "04/23/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 31963031, 56, 12, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/24/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 21514169, 61, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/28/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 22048422, 59, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/06/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 52906123, 60, 6, 1 ,"Un trabajillo",  "Trabajo_practico", "04/10/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 22643026, 61, 7, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 48920286, 57, 3, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/10/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 53522392, 59, 15, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/10/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 53328295, 58, 14, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/13/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 32005498, 61, 21, 1 ,"Un trabajillo",  "Defensa_grupal", "06/11/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 55006742, 62, 20, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/12/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 27316573, 59, 21, 1 ,"Un trabajillo",  "Defensa_individual", "04/23/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 49402552, 62, 14, 1 ,"Un trabajillo",  "Defensa_individual", "05/09/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 12566610, 60, 10, 1 ,"Un trabajillo",  "Defensa_grupal", "03/28/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 27261849, 61, 15, 1 ,"Un trabajillo",  "Es_proyecto", "05/02/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 31365742, 60, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "04/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 29961221, 56, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 33995529, 59, 1, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/19/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 12173657, 57, 20, 1 ,"Un trabajillo",  "Defensa_individual", "05/03/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 31963031, 57, 12, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/30/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 57699115, 62, 13, 1 ,"Un trabajillo",  "Oral", "05/11/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 47130044, 57, 20, 1 ,"Un trabajillo",  "Parcial", "04/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 49017789, 58, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 17527708, 57, 20, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/24/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 47130044, 58, 2, 1 ,"Un trabajillo",  "Defensa_individual", "06/21/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 48920286, 61, 3, 1 ,"Un trabajillo",  "Es_proyecto", "05/10/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 11760051, 60, 1, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/11/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 15291149, 61, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 13547142, 59, 5, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 46853603, 56, 21, 1 ,"Un trabajillo",  "Defensa_individual", "06/10/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 35475707, 58, 13, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/06/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 21949655, 58, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 24392879, 62, 11, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/02/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 34407907, 57, 4, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/18/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 31734678, 60, 7, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/01/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 32005498, 57, 21, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 14296916, 59, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "05/23/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 47745986, 61, 2, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 58850980, 57, 21, 1 ,"Un trabajillo",  "Trabajo_practico", "05/06/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 18598099, 59, 10, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 35609621, 62, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 14021808, 31608736, 58, 6, 1 ,"Un trabajillo",  "Parcial", "05/06/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 13896973, 57, 2, 1 ,"Un trabajillo",  "Parcial", "03/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 49017789, 61, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/28/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 32188844, 60, 10, 1 ,"Un trabajillo",  "Parcial", "05/12/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 28523977, 58, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "06/08/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 19415337, 58, 3, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/15/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 34407907, 62, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "05/16/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 27581998, 57, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/11/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 51634161, 60, 1, 1 ,"Un trabajillo",  "Defensa_individual", "04/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 33930424, 56, 11, 1 ,"Un trabajillo",  "Trabajo_practico", "05/27/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 48287084, 57, 12, 1 ,"Un trabajillo",  "Defensa_individual", "06/04/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 12937340, 57, 11, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/19/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 12995419, 60, 19, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 34093405, 62, 5, 1 ,"Un trabajillo",  "Es_proyecto", "05/01/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 57117527, 61, 10, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 43109912, 62, 3, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/28/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 26519211, 57, 15, 1 ,"Un trabajillo",  "Es_proyecto", "06/18/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 41702958, 60, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 57699115, 59, 13, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/27/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 22403133, 34881488, 59, 19, 1 ,"Un trabajillo",  "Defensa_grupal", "05/09/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 29078995, 59, 8, 1 ,"Un trabajillo",  "Oral", "04/01/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 35298171, 57, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "04/23/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 28523977, 59, 4, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/25/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 16909058, 62, 4, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/02/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 14765220, 61, 4, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/09/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 11441473, 61, 17, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/11/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 59024443, 58, 5, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/23/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 15680297, 56, 21, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/30/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 52021751, 58, 8, 1 ,"Un trabajillo",  "Defensa_individual", "04/18/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 12995419, 62, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/16/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 53669930, 57, 2, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/19/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 19900500, 60, 14, 1 ,"Un trabajillo",  "Parcial", "05/08/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 19195410, 60, 2, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/16/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 18681103, 58, 1, 1 ,"Un trabajillo",  "Oral", "04/07/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 56295433, 60, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "04/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 59633808, 59, 17, 1 ,"Un trabajillo",  "Parcial", "05/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 24952421, 58, 1, 1 ,"Un trabajillo",  "Es_proyecto", "06/19/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 47939381, 57, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "06/03/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 16660606, 59, 13, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/23/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 15291149, 62, 5, 1 ,"Un trabajillo",  "Oral", "05/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 53883607, 62, 7, 1 ,"Un trabajillo",  "Defensa_individual", "04/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 27642312, 59, 7, 1 ,"Un trabajillo",  "Parcial", "05/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 22216526, 62, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/24/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52582822, 41516646, 56, 20, 1 ,"Un trabajillo",  "Oral", "05/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 53035626, 56, 4, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/14/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 25506011, 56, 14, 1 ,"Un trabajillo",  "Oral", "05/11/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 42913029, 60, 16, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 32685143, 61, 6, 1 ,"Un trabajillo",  "Defensa_individual", "06/21/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 59024443, 56, 5, 1 ,"Un trabajillo",  "Defensa_individual", "05/18/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 35744023, 59, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "05/16/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 34482672, 60, 17, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/25/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 31851464, 61, 18, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/11/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 56295433, 59, 21, 1 ,"Un trabajillo",  "Es_proyecto", "03/26/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 54859750, 57, 21, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/17/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 51149283, 62, 11, 1 ,"Un trabajillo",  "Trabajo_practico", "06/22/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 43877630, 61, 19, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/15/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 47807279, 60, 13, 1 ,"Un trabajillo",  "Defensa_grupal", "06/08/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 36740147, 57, 4, 1 ,"Un trabajillo",  "Parcial", "05/21/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 49547772, 62, 11, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/20/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 37314670, 56, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/17/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 26236112, 61, 20, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/12/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 33758616, 59, 20, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 37021835, 58, 7, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/09/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 32346252, 58, 3, 1 ,"Un trabajillo",  "Es_proyecto", "05/28/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 55973573, 62, 8, 1 ,"Un trabajillo",  "Defensa_individual", "04/08/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 16076316, 58, 16, 1 ,"Un trabajillo",  "Oral", "04/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 35179315, 57, 6, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/02/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 18305416, 57, 15, 1 ,"Un trabajillo",  "Es_proyecto", "03/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 51864471, 60, 6, 1 ,"Un trabajillo",  "Es_proyecto", "06/02/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 19012804, 61, 17, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/05/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 15254763, 62, 5, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/12/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 34692425, 60, 10, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 27197555, 61, 2, 1 ,"Un trabajillo",  "Oral", "04/22/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 12754679, 62, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/08/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 32359934, 60, 7, 1 ,"Un trabajillo",  "Oral", "04/21/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 22590005, 62, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 15254763, 60, 5, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/26/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 43877630, 57, 19, 1 ,"Un trabajillo",  "Oral", "05/07/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57945342, 62, 3, 1 ,"Un trabajillo",  "Trabajo_practico", "05/24/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 53282623, 60, 5, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/15/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 31810214, 58, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/05/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 21305570, 57, 3, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 36640010, 62, 3, 1 ,"Un trabajillo",  "Defensa_individual", "04/28/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51121558, 47357434, 56, 7, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/04/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 13547142, 57, 5, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/16/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 33930424, 59, 1, 1 ,"Un trabajillo",  "Parcial", "05/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 36325450, 60, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "06/11/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 13836179, 60, 17, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/01/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 56320412, 62, 9, 1 ,"Un trabajillo",  "Es_proyecto", "06/17/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 43755048, 57, 7, 1 ,"Un trabajillo",  "Es_proyecto", "04/29/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 48678920, 56, 10, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/28/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 31608736, 62, 6, 1 ,"Un trabajillo",  "Parcial", "04/23/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 26763028, 56, 1, 1 ,"Un trabajillo",  "Trabajo_practico", "05/12/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 56051732, 57, 11, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/22/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 34245797, 58, 19, 1 ,"Un trabajillo",  "Oral", "05/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 38137346, 59, 18, 1 ,"Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 12126080, 56, 19, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/30/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 12344894, 60, 19, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 11057159, 62, 6, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/17/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 43877630, 57, 19, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 53678274, 60, 11, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/21/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 39144815, 61, 11, 1 ,"Un trabajillo",  "Defensa_individual", "04/22/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 45153222, 57, 14, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 12613900, 56, 11, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 17877339, 59, 9, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 38463226, 62, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "03/28/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 52462238, 59, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/21/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 56190130, 61, 10, 1 ,"Un trabajillo",  "Defensa_individual", "06/14/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 14296916, 61, 9, 1 ,"Un trabajillo",  "Oral", "05/19/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 25031929, 62, 1, 1 ,"Un trabajillo",  "Es_proyecto", "05/05/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 28911190, 60, 8, 1 ,"Un trabajillo",  "Defensa_individual", "06/02/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 37487346, 62, 7, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 13836179, 58, 17, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/31/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 24974174, 58, 3, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/05/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 56051732, 59, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 27054349, 56, 19, 1 ,"Un trabajillo",  "Oral", "03/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 17951206, 59, 11, 1 ,"Un trabajillo",  "Parcial", "06/01/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 28631623, 62, 9, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/07/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 32685143, 62, 6, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/18/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 23820170, 60, 12, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/15/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 27044772, 62, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/13/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 44290734, 60, 20, 1 ,"Un trabajillo",  "Oral", "06/10/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 33758616, 58, 20, 1 ,"Un trabajillo",  "Trabajo_practico", "05/13/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 45519131, 61, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 51864471, 59, 6, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/24/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 56190130, 61, 10, 1 ,"Un trabajillo",  "Trabajo_practico", "05/10/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 39943748, 56, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 58850980, 62, 21, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/04/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 17102550, 59, 8, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/14/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 43502677, 62, 1, 1 ,"Un trabajillo",  "Trabajo_investigacion", "03/27/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 14502248, 57, 13, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/04/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 14296916, 58, 9, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 56823204, 62, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/19/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 24464858, 59, 11, 1 ,"Un trabajillo",  "Oral", "06/09/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 19900500, 61, 14, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/23/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 52427402, 62, 11, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/03/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 11418557, 59, 2, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/23/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 44291716, 62, 15, 1 ,"Un trabajillo",  "Es_proyecto", "04/11/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 14021808, 51191797, 58, 6, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/08/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 28755906, 60, 14, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 12535435, 62, 8, 1 ,"Un trabajillo",  "Trabajo_practico", "06/15/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 19048089, 57, 4, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 55829520, 60, 18, 1 ,"Un trabajillo",  "Defensa_individual", "05/05/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 48291306, 62, 15, 1 ,"Un trabajillo",  "Parcial", "06/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 49665409, 61, 9, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/29/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 32895855, 61, 4, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/06/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 32005498, 60, 21, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 25564130, 60, 2, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 31218286, 59, 4, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 48179720, 62, 12, 1 ,"Un trabajillo",  "Es_proyecto", "04/19/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 38327159, 58, 13, 1 ,"Un trabajillo",  "Defensa_individual", "05/26/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 13348625, 57, 5, 1 ,"Un trabajillo",  "Es_proyecto", "04/30/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 45210048, 61, 19, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/31/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 15640289, 56, 3, 1 ,"Un trabajillo",  "Parcial", "04/02/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 31314163, 60, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 42708414, 59, 15, 1 ,"Un trabajillo",  "Oral", "06/05/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 38896407, 57, 3, 1 ,"Un trabajillo",  "Defensa_individual", "04/02/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 13745029, 56, 16, 1 ,"Un trabajillo",  "Defensa_individual", "04/29/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 34191540, 59, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/17/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 14502248, 56, 13, 1 ,"Un trabajillo",  "Trabajo_practico", "04/07/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 57334882, 57, 10, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/08/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 33930424, 62, 11, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 59339072, 58, 9, 1 ,"Un trabajillo",  "Defensa_individual", "04/04/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 12613900, 61, 11, 1 ,"Un trabajillo",  "Oral", "06/08/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 18681103, 62, 16, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/09/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 21615745, 56, 10, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/17/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 27722261, 62, 6, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 36640010, 61, 3, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 17951206, 62, 11, 1 ,"Un trabajillo",  "Defensa_grupal", "05/18/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 33995529, 59, 16, 1 ,"Un trabajillo",  "Trabajo_practico", "06/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 17193197, 61, 18, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/21/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 39144815, 59, 1, 1 ,"Un trabajillo",  "Defensa_grupal", "06/18/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 57406140, 60, 20, 1 ,"Un trabajillo",  "Defensa_individual", "05/30/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 33758616, 58, 20, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/09/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 32828301, 60, 5, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/07/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 57373551, 56, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "05/23/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 24952421, 59, 16, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/20/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 34482672, 58, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "05/22/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 32652976, 59, 1, 1 ,"Un trabajillo",  "Defensa_grupal", "06/08/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 17862336, 61, 15, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/07/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 26707571, 62, 19, 1 ,"Un trabajillo",  "Parcial", "04/26/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 23267297, 61, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "05/14/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 12344894, 61, 19, 1 ,"Un trabajillo",  "Parcial", "06/04/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 48291306, 59, 15, 1 ,"Un trabajillo",  "Oral", "06/12/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 31787437, 58, 16, 1 ,"Un trabajillo",  "Oral", "06/18/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 51149283, 60, 11, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/25/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 36083846, 56, 5, 1 ,"Un trabajillo",  "Es_proyecto", "04/23/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 22842258, 57, 7, 1 ,"Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 47130044, 56, 2, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 48924969, 56, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "03/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 35514343, 56, 18, 1 ,"Un trabajillo",  "Oral", "04/29/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57373551, 57, 6, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 35609621, 60, 21, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/09/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 21514169, 58, 10, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/08/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 37334541, 57, 13, 1 ,"Un trabajillo",  "Defensa_individual", "05/12/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 48999409, 60, 12, 1 ,"Un trabajillo",  "Defensa_individual", "04/23/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 43755048, 62, 7, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/09/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 13854252, 57, 19, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/10/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 32592001, 62, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/31/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 17951206, 57, 11, 1 ,"Un trabajillo",  "Es_proyecto", "05/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 32982959, 61, 13, 1 ,"Un trabajillo",  "Trabajo_practico", "03/28/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 35475707, 56, 13, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/14/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 59024443, 57, 5, 1 ,"Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 11441473, 59, 17, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/11/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 55973573, 62, 8, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/10/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 26140012, 60, 17, 1 ,"Un trabajillo",  "Trabajo_practico", "06/09/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 19626554, 60, 12, 1 ,"Un trabajillo",  "Es_proyecto", "05/06/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 38426533, 58, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 49583671, 57, 17, 1 ,"Un trabajillo",  "Defensa_individual", "06/13/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 43275436, 56, 19, 1 ,"Un trabajillo",  "Defensa_grupal", "04/14/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 22670409, 56, 8, 1 ,"Un trabajillo",  "Defensa_individual", "06/18/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 31756183, 60, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/03/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 19479632, 60, 5, 1 ,"Un trabajillo",  "Es_proyecto", "04/06/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 47433406, 58, 11, 1 ,"Un trabajillo",  "Trabajo_practico", "05/03/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 27054349, 56, 1, 1 ,"Un trabajillo",  "Oral", "05/22/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 23746764, 61, 11, 1 ,"Un trabajillo",  "Oral", "04/20/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 25564130, 61, 2, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/14/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 42580246, 58, 14, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/23/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 53282623, 59, 5, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/04/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 19195410, 57, 2, 1 ,"Un trabajillo",  "Oral", "04/29/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 34482672, 60, 17, 1 ,"Un trabajillo",  "Oral", "06/08/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 26279661, 58, 2, 1 ,"Un trabajillo",  "Oral", "05/02/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 27866186, 56, 9, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/31/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 38896407, 61, 3, 1 ,"Un trabajillo",  "Es_proyecto", "05/03/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 36553784, 58, 19, 1 ,"Un trabajillo",  "Defensa_individual", "04/23/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 36083846, 59, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 12582949, 56, 13, 1 ,"Un trabajillo",  "Parcial", "05/06/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 34261894, 60, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 35744023, 61, 17, 1 ,"Un trabajillo",  "Defensa_grupal", "05/26/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 26763028, 58, 1, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/06/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 37021835, 61, 7, 1 ,"Un trabajillo",  "Parcial", "04/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 53328295, 57, 14, 1 ,"Un trabajillo",  "Defensa_individual", "04/13/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 32359934, 59, 7, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/04/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 14502248, 57, 13, 1 ,"Un trabajillo",  "Parcial", "05/19/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 29708738, 61, 16, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/01/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 56320412, 57, 9, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/18/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 18228826, 56, 16, 1 ,"Un trabajillo",  "Trabajo_practico", "05/20/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 57406140, 57, 2, 1 ,"Un trabajillo",  "Oral", "06/06/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 49372181, 59, 11, 1 ,"Un trabajillo",  "Parcial", "04/15/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 22048422, 59, 3, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/12/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 55381322, 61, 8, 1 ,"Un trabajillo",  "Es_proyecto", "04/23/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 43151783, 58, 7, 1 ,"Un trabajillo",  "Parcial", "04/05/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 34261894, 60, 21, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/22/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 27261849, 58, 15, 1 ,"Un trabajillo",  "Es_proyecto", "04/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 19902655, 56, 1, 1 ,"Un trabajillo",  "Es_proyecto", "05/25/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 36325450, 56, 16, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/03/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 34093405, 57, 5, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/15/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 31609809, 58, 18, 1 ,"Un trabajillo",  "Parcial", "04/28/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 29045916, 57, 2, 1 ,"Un trabajillo",  "Trabajo_practico", "06/13/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 36640010, 56, 3, 1 ,"Un trabajillo",  "Defensa_grupal", "05/13/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 35475707, 56, 13, 1 ,"Un trabajillo",  "Es_proyecto", "04/26/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 57117527, 57, 10, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/10/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 43066029, 59, 6, 1 ,"Un trabajillo",  "Oral", "04/15/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 18743537, 60, 15, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/30/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 11050145, 59, 2, 1 ,"Un trabajillo",  "Defensa_individual", "06/12/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 33759290, 61, 12, 1 ,"Un trabajillo",  "Defensa_grupal", "05/05/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 29045916, 60, 2, 1 ,"Un trabajillo",  "Parcial", "03/27/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 12948610, 61, 15, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/13/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 47351054, 60, 7, 1 ,"Un trabajillo",  "Es_proyecto", "06/10/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 11598763, 58, 12, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/23/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 47433406, 56, 11, 1 ,"Un trabajillo",  "Oral", "06/16/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 13854252, 60, 19, 1 ,"Un trabajillo",  "Parcial", "06/03/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 33122633, 61, 12, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 33758616, 56, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/07/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 56823204, 58, 18, 1 ,"Un trabajillo",  "Parcial", "04/05/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 57250404, 56, 5, 1 ,"Un trabajillo",  "Es_proyecto", "03/31/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 38327159, 59, 13, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/30/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 11657543, 58, 1, 1 ,"Un trabajillo",  "Trabajo_practico", "06/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 33798442, 62, 1, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/04/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 15716816, 58, 8, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/27/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 31365742, 56, 17, 1 ,"Un trabajillo",  "Parcial", "04/14/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 42575607, 61, 1, 1 ,"Un trabajillo",  "Trabajo_practico", "04/24/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 22216526, 60, 16, 1 ,"Un trabajillo",  "Trabajo_practico", "04/04/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 23704952, 60, 4, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/01/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 14296916, 61, 9, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/20/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 48924969, 59, 6, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/17/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 13063879, 62, 17, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 34881488, 60, 19, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/13/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 53328295, 60, 14, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/15/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51121558, 22590005, 56, 7, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/20/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 22428214, 59, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/25/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 36553784, 58, 19, 1 ,"Un trabajillo",  "Es_proyecto", "05/28/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 18346371, 58, 21, 1 ,"Un trabajillo",  "Oral", "06/01/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 57250404, 61, 5, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/02/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51121558, 31734678, 56, 7, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/20/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 33508015, 57, 14, 1 ,"Un trabajillo",  "Es_proyecto", "05/06/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 19900500, 57, 14, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/29/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 57293787, 56, 9, 1 ,"Un trabajillo",  "Oral", "05/12/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 54914051, 56, 18, 1 ,"Un trabajillo",  "Trabajo_practico", "05/02/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 14502248, 60, 13, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/03/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 55973573, 58, 8, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/13/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 25340178, 57, 7, 1 ,"Un trabajillo",  "Parcial", "05/27/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 28911190, 56, 8, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 56320412, 56, 9, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/22/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 43612898, 58, 2, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "03/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 59439466, 58, 15, 1 ,"Un trabajillo",  "Defensa_grupal", "06/16/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52582822, 52023680, 56, 20, 1 ,"Un trabajillo",  "Parcial", "04/26/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 52462238, 62, 15, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 27591678, 57, 4, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/18/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 21970727, 61, 11, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 17419143, 59, 5, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/15/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51121558, 22590005, 56, 7, 1 ,"Un trabajillo",  "Es_proyecto", "05/28/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 55006742, 60, 20, 1 ,"Un trabajillo",  "Es_proyecto", "06/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 33508015, 57, 14, 1 ,"Un trabajillo",  "Trabajo_practico", "05/31/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 43536917, 62, 14, 1 ,"Un trabajillo",  "Es_proyecto", "05/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 32359934, 57, 7, 1 ,"Un trabajillo",  "Es_proyecto", "05/24/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 56320412, 59, 9, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/21/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 57876989, 62, 21, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/23/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 51478983, 62, 9, 1 ,"Un trabajillo",  "Defensa_individual", "03/29/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 21660853, 58, 16, 1 ,"Un trabajillo",  "Oral", "06/09/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 47020936, 57, 14, 1 ,"Un trabajillo",  "Es_proyecto", "04/03/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 15593068, 57, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/04/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 42888379, 62, 8, 1 ,"Un trabajillo",  "Oral", "04/05/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 26519211, 62, 15, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/22/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 31787437, 62, 16, 1 ,"Un trabajillo",  "Es_proyecto", "05/24/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 29815662, 59, 12, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/22/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 28631623, 61, 9, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/13/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 47807279, 61, 13, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/15/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 57334882, 56, 10, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/04/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 11760051, 62, 12, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/10/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 58479467, 62, 17, 1 ,"Un trabajillo",  "Defensa_individual", "06/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 33995529, 62, 16, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/31/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 31851464, 61, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/23/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 29045916, 61, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "04/13/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 43536917, 61, 14, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 32359934, 58, 7, 1 ,"Un trabajillo",  "Defensa_grupal", "05/22/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 11057159, 57, 6, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 34093405, 59, 5, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/01/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 42888379, 62, 8, 1 ,"Un trabajillo",  "Defensa_individual", "06/07/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 56823204, 62, 18, 1 ,"Un trabajillo",  "Parcial", "06/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 12126080, 57, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 57293787, 58, 9, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/03/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 29030004, 59, 9, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/21/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 27722261, 56, 6, 1 ,"Un trabajillo",  "Trabajo_practico", "05/27/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 35475707, 56, 13, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/04/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 57117527, 57, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59100067, 38837390, 58, 20, 1 ,"Un trabajillo",  "Es_proyecto", "05/11/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 44788915, 59, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "03/26/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 48735348, 62, 3, 1 ,"Un trabajillo",  "Trabajo_practico", "03/27/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 17951206, 57, 1, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 13837402, 61, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "04/07/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 59633808, 59, 1, 1 ,"Un trabajillo",  "Es_proyecto", "04/29/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 33995529, 62, 16, 1 ,"Un trabajillo",  "Oral", "05/09/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 32359934, 57, 7, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "03/26/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 52161454, 57, 16, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 38405931, 60, 7, 1 ,"Un trabajillo",  "Parcial", "05/13/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 16909058, 56, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "06/07/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 59122287, 60, 21, 1 ,"Un trabajillo",  "Defensa_individual", "04/12/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 13698717, 60, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "03/28/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27561663, 21514169, 62, 10, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 15593068, 58, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/08/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 46853603, 56, 21, 1 ,"Un trabajillo",  "Trabajo_practico", "05/03/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 53923087, 59, 14, 1 ,"Un trabajillo",  "Defensa_grupal", "05/25/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 12613900, 58, 11, 1 ,"Un trabajillo",  "Defensa_individual", "05/30/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 42580246, 56, 14, 1 ,"Un trabajillo",  "Parcial", "04/01/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 14304775, 57, 14, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 47807279, 61, 13, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/17/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 36740147, 59, 4, 1 ,"Un trabajillo",  "Defensa_individual", "04/02/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 55064623, 61, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/09/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 22643026, 62, 7, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/26/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 49017789, 56, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/20/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 43066029, 62, 6, 1 ,"Un trabajillo",  "Oral", "04/11/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 18427014, 56, 11, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/05/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 41066431, 59, 10, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/08/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 32848006, 58, 19, 1 ,"Un trabajillo",  "Trabajo_practico", "04/28/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 41702958, 60, 5, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/06/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 32848006, 57, 1, 1 ,"Un trabajillo",  "Trabajo_practico", "05/22/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 26519211, 62, 15, 1 ,"Un trabajillo",  "Oral", "06/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 53035626, 58, 4, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/23/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 29708738, 58, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "04/18/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 53500893, 59, 9, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/02/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 57699115, 62, 13, 1 ,"Un trabajillo",  "Oral", "05/11/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 21660853, 61, 16, 1 ,"Un trabajillo",  "Oral", "06/14/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 14642145, 56, 3, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/30/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 24079411, 59, 12, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/17/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 22440785, 62, 17, 1 ,"Un trabajillo",  "Es_proyecto", "05/07/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 53888055, 58, 17, 1 ,"Un trabajillo",  "Defensa_grupal", "05/27/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 33758616, 59, 20, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/17/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 27113646, 56, 3, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 58868220, 56, 12, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 17644964, 57, 7, 1 ,"Un trabajillo",  "Oral", "06/05/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27561663, 57334882, 62, 10, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/17/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 36325450, 58, 16, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/31/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 43275436, 58, 19, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/14/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 13720562, 61, 15, 1 ,"Un trabajillo",  "Trabajo_practico", "05/25/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 35744023, 60, 17, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 57293787, 61, 9, 1 ,"Un trabajillo",  "Parcial", "06/15/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 54075776, 57, 3, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/15/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 19739266, 56, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/07/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 25936795, 62, 16, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/06/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 29078995, 62, 8, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/16/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 58859475, 60, 17, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/17/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 55511303, 57, 14, 1 ,"Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 53306451, 62, 11, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/06/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 19900500, 56, 1, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 37152169, 60, 2, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/21/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 23820170, 60, 12, 1 ,"Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 15254763, 59, 5, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/07/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 31314163, 62, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "06/04/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 46263739, 57, 15, 1 ,"Un trabajillo",  "Trabajo_practico", "04/07/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 31314163, 60, 4, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/02/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 37812280, 57, 19, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/13/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 32828301, 59, 5, 1 ,"Un trabajillo",  "Trabajo_practico", "03/26/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33709336, 31956303, 60, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "06/18/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 26140012, 60, 17, 1 ,"Un trabajillo",  "Es_proyecto", "04/01/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 29093402, 56, 21, 1 ,"Un trabajillo",  "Parcial", "04/12/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 14239528, 56, 6, 1 ,"Un trabajillo",  "Trabajo_practico", "03/31/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 38137346, 59, 18, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/21/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 27316216, 61, 20, 1 ,"Un trabajillo",  "Oral", "04/07/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 12649163, 61, 9, 1 ,"Un trabajillo",  "Defensa_individual", "04/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 48291306, 62, 15, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/11/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 24464858, 58, 11, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/26/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 12428664, 60, 8, 1 ,"Un trabajillo",  "Es_proyecto", "05/14/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 41035052, 57, 6, 1 ,"Un trabajillo",  "Trabajo_practico", "05/09/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 48287084, 61, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/18/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 55064623, 58, 15, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/29/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 31963031, 61, 1, 1 ,"Un trabajillo",  "Defensa_grupal", "04/03/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19078555, 23861568, 57, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/21/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 56961169, 58, 7, 1 ,"Un trabajillo",  "Defensa_individual", "06/14/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 47130044, 60, 20, 1 ,"Un trabajillo",  "Defensa_individual", "06/10/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 23704952, 56, 4, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/30/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 52521096, 61, 21, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/27/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 39942766, 57, 3, 1 ,"Un trabajillo",  "Defensa_individual", "04/24/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 57699115, 61, 13, 1 ,"Un trabajillo",  "Trabajo_practico", "05/11/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 36553784, 62, 19, 1 ,"Un trabajillo",  "Parcial", "05/14/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 43066029, 57, 6, 1 ,"Un trabajillo",  "Es_proyecto", "04/15/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 39307609, 61, 18, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/19/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 32598908, 62, 12, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/29/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 48671972, 58, 17, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/31/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 37334541, 56, 13, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/05/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 13975630, 62, 16, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/26/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 16909058, 57, 4, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 58479467, 56, 17, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/03/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 52395431, 59, 20, 1 ,"Un trabajillo",  "Parcial", "05/12/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 29815662, 59, 1, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/07/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 27116206, 61, 14, 1 ,"Un trabajillo",  "Es_proyecto", "04/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 32592001, 62, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/04/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 55006742, 56, 2, 1 ,"Un trabajillo",  "Trabajo_practico", "06/12/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 57945342, 60, 3, 1 ,"Un trabajillo",  "Defensa_individual", "04/25/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 23704952, 62, 4, 1 ,"Un trabajillo",  "Parcial", "04/22/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 32602658, 56, 10, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/29/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 13348625, 58, 5, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/11/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 12535435, 58, 8, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/19/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 34881488, 60, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 41702958, 62, 5, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/11/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 25506011, 58, 14, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/20/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 45153222, 61, 14, 1 ,"Un trabajillo",  "Es_proyecto", "06/19/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 41784734, 58, 15, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 12308832, 62, 14, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/19/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 59339072, 59, 9, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/24/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 43478846, 56, 16, 1 ,"Un trabajillo",  "Oral", "05/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 57876989, 56, 2, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/06/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 12582949, 61, 13, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "03/28/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 51478983, 59, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "05/18/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23702590, 38327159, 58, 13, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 34989501, 57, 4, 1 ,"Un trabajillo",  "Oral", "06/08/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 34924406, 58, 9, 1 ,"Un trabajillo",  "Defensa_grupal", "04/20/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 45608562, 59, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/30/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 53923087, 62, 14, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/13/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 17527708, 62, 20, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 34093405, 59, 5, 1 ,"Un trabajillo",  "Trabajo_practico", "04/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 23030923, 59, 15, 1 ,"Un trabajillo",  "Defensa_individual", "04/30/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 37314670, 58, 15, 1 ,"Un trabajillo",  "Es_proyecto", "06/05/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 47745986, 62, 20, 1 ,"Un trabajillo",  "Defensa_individual", "05/16/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 15593068, 59, 18, 1 ,"Un trabajillo",  "Es_proyecto", "04/02/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 31810214, 61, 18, 1 ,"Un trabajillo",  "Trabajo_investigacion", "03/31/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 25936795, 61, 16, 1 ,"Un trabajillo",  "Es_proyecto", "04/13/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 31608736, 62, 6, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/04/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 56051732, 61, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/19/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 42888379, 59, 8, 1 ,"Un trabajillo",  "Es_proyecto", "05/26/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 52462238, 62, 1, 1 ,"Un trabajillo",  "Es_proyecto", "03/30/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 13720562, 62, 15, 1 ,"Un trabajillo",  "Es_proyecto", "06/22/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 24079411, 56, 12, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/19/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 15680297, 56, 21, 1 ,"Un trabajillo",  "Parcial", "06/21/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 42799653, 61, 9, 1 ,"Un trabajillo",  "Defensa_individual", "04/13/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 28911190, 57, 8, 1 ,"Un trabajillo",  "Defensa_grupal", "06/01/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 18086123, 59, 20, 1 ,"Un trabajillo",  "Defensa_grupal", "04/29/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 51680609, 61, 13, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/03/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58304016, 23704952, 56, 4, 1 ,"Un trabajillo",  "Trabajo_practico", "06/13/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27561663, 57334882, 62, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/17/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 11488047, 59, 13, 1 ,"Un trabajillo",  "Es_proyecto", "05/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 22044090, 60, 3, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/20/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 37487346, 62, 7, 1 ,"Un trabajillo",  "Defensa_individual", "05/26/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 34049410, 57, 18, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/17/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 55381322, 58, 8, 1 ,"Un trabajillo",  "Trabajo_practico", "06/03/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 13837402, 62, 16, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/10/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 47910806, 60, 12, 1 ,"Un trabajillo",  "Oral", "04/17/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 25384502, 57, 6, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/10/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 49538723, 22044090, 60, 3, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/24/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 33508015, 57, 14, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/25/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 14430708, 62, 7, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/12/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 22044090, 56, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/23/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 51350303, 59, 2, 1 ,"Un trabajillo",  "Es_proyecto", "05/26/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 13547681, 56, 12, 1 ,"Un trabajillo",  "Defensa_grupal", "05/14/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 43502677, 62, 18, 1 ,"Un trabajillo",  "Defensa_grupal", "06/22/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 34049410, 57, 1, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/13/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 12173657, 57, 20, 1 ,"Un trabajillo",  "Defensa_grupal", "06/10/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 51478983, 60, 9, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/29/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 48920286, 56, 3, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/05/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 25152131, 59, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/02/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 33508015, 59, 14, 1 ,"Un trabajillo",  "Defensa_grupal", "06/19/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 53888055, 56, 17, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/08/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 36815269, 60, 12, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/21/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 41866910, 62, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/30/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 26236112, 61, 2, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 49762205, 58, 4, 1 ,"Un trabajillo",  "Defensa_grupal", "05/27/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 32975287, 56, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "06/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19973995, 58850980, 61, 21, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/05/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 44667816, 52431821, 59, 7, 1 ,"Un trabajillo",  "Defensa_grupal", "03/30/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 53678274, 62, 11, 1 ,"Un trabajillo",  "Parcial", "05/01/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 39943748, 58, 17, 1 ,"Un trabajillo",  "Oral", "04/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 35514343, 59, 18, 1 ,"Un trabajillo",  "Defensa_individual", "05/22/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 52362593, 57, 13, 1 ,"Un trabajillo",  "Defensa_grupal", "04/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 24983139, 57, 15, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/04/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 15593068, 57, 1, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/26/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 38463226, 59, 6, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "05/09/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 47498620, 59, 10, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 26625408, 57406140, 61, 2, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 14642145, 62, 3, 1 ,"Un trabajillo",  "Trabajo_practico", "05/30/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 34278726, 61, 14, 1 ,"Un trabajillo",  "Parcial", "04/29/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 13547681, 61, 1, 1 ,"Un trabajillo",  "Defensa_grupal", "04/29/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 25506011, 58, 1, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/19/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46714982, 48924969, 59, 6, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/29/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 21514169, 59, 10, 1 ,"Un trabajillo",  "Oral", "04/19/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 12126080, 58, 19, 1 ,"Un trabajillo",  "Oral", "06/03/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 54364571, 58551546, 61, 9, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/23/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 13720562, 58, 15, 1 ,"Un trabajillo",  "Es_proyecto", "05/29/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27561663, 47356800, 62, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "04/01/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 55829520, 62, 18, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/09/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 51681835, 23030923, 58, 15, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/19/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 35744023, 57, 17, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/20/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 12613900, 56, 11, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/11/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52419366, 59664469, 59, 8, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/18/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 27108972, 60, 5, 1 ,"Un trabajillo",  "Defensa_grupal", "05/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 14021808, 35179315, 58, 6, 1 ,"Un trabajillo",  "Defensa_grupal", "04/27/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 59957549, 59, 2, 1 ,"Un trabajillo",  "Parcial", "04/28/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 21560215, 60, 12, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/15/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 42991069, 57, 11, 1 ,"Un trabajillo",  "Defensa_grupal", "05/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 35617591, 59, 17, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/27/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47549659, 14642145, 61, 3, 1 ,"Un trabajillo",  "Parcial", "05/05/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 32652976, 62, 18, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "03/29/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 37954931, 62, 6, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/05/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 24983139, 59, 15, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/05/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 13464865, 57, 13, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55372185, 32828301, 59, 5, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/07/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 22708383, 58, 18, 1 ,"Un trabajillo",  "Defensa_grupal", "04/08/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28529181, 26765957, 57, 13, 1 ,"Un trabajillo",  "Es_proyecto", "04/06/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 34261894, 59, 21, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/12/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 59122287, 60, 2, 1 ,"Un trabajillo",  "Defensa_individual", "05/31/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53109108, 38734211, 56, 18, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "03/28/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 56295433, 56, 21, 1 ,"Un trabajillo",  "Trabajo_escrito", "06/02/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 52626236, 21305570, 57, 3, 1 ,"Un trabajillo",  "Defensa_individual", "05/25/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 31756183, 58, 3, 1 ,"Un trabajillo",  "Es_proyecto", "05/19/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 43536917, 59, 14, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/21/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 31756183, 59, 3, 1 ,"Un trabajillo",  "Trabajo_practico", "03/30/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 19870292, 60, 5, 1 ,"Un trabajillo",  "Defensa_individual", "06/13/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 46639312, 61, 13, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "06/03/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 21660853, 59, 16, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/10/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 56740604, 62, 17, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "06/21/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 12582949, 59, 13, 1 ,"Un trabajillo",  "Parcial", "05/08/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 55805948, 22202884, 62, 12, 1 ,"Un trabajillo",  "Parcial", "04/06/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 52023680, 60, 2, 1 ,"Un trabajillo",  "Defensa_grupal", "03/30/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 42059180, 60, 20, 1 ,"Un trabajillo",  "Oral", "04/12/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 32137801, 56, 21, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/08/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 11057159, 56, 6, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "06/03/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 53923087, 60, 14, 1 ,"Un trabajillo",  "Es_proyecto", "04/08/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 46639312, 60, 13, 1 ,"Un trabajillo",  "Defensa_grupal", "06/12/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 12613900, 62, 11, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/04/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 37812280, 56, 1, 1 ,"Un trabajillo",  "Trabajo_investigacion", "05/09/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 58284507, 37180552, 59, 2, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/01/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 15254763, 61, 5, 1 ,"Un trabajillo",  "Parcial", "04/21/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 34406248, 19012804, 56, 1, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "06/13/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46771085, 22865466, 60, 14, 1 ,"Un trabajillo",  "Trabajo_practico", "06/11/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 57373551, 62, 6, 1 ,"Un trabajillo",  "Trabajo_escrito", "05/23/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 26765957, 59, 13, 1 ,"Un trabajillo",  "Parcial", "05/30/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 17193197, 57, 18, 1 ,"Un trabajillo",  "Oral", "05/15/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 19056432, 58, 11, 1 ,"Un trabajillo",  "Defensa_individual", "04/26/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32243292, 19900500, 57, 1, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/13/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 39729673, 26279661, 58, 21, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 53678274, 59, 1, 1 ,"Un trabajillo",  "Trabajo_escrito", "04/13/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 14430708, 60, 7, 1 ,"Un trabajillo",  "Defensa_grupal", "04/05/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 32592001, 60, 16, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "03/27/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 27642312, 62, 7, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/20/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 12649163, 58, 9, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/03/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32960262, 41200574, 56, 14, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "05/29/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 57699115, 60, 13, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/23/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19771090, 26206618, 61, 8, 1 ,"Un trabajillo",  "Oral", "05/20/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 33940449, 37487346, 62, 7, 1 ,"Un trabajillo",  "Defensa_grupal", "05/21/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 46864199, 53035626, 59, 4, 1 ,"Un trabajillo",  "Oral", "03/29/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 47416640, 24612564, 56, 2, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "04/26/2018", "Esto es una descripcion", 3, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 25936795, 58, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "04/23/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 41250820, 12308832, 61, 14, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/21/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 31787437, 56, 16, 1 ,"Un trabajillo",  "Defensa_individual", "06/06/2018", "Esto es una descripcion", 11, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 44291716, 60, 15, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/14/2018", "Esto es una descripcion", 2, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 19510903, 14296916, 56, 9, 1 ,"Un trabajillo",  "Parcial", "06/02/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 11773222, 12126080, 58, 19, 1 ,"Un trabajillo",  "Defensa_individual", "04/19/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 51680609, 56, 13, 1 ,"Un trabajillo",  "Trabajo_practico", "06/11/2018", "Esto es una descripcion", 5, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 27316573, 60, 21, 1 ,"Un trabajillo",  "Es_proyecto", "06/22/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 35239917, 53669930, 56, 21, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "03/28/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18847717, 39492620, 61, 17, 1 ,"Un trabajillo",  "Defensa_individual", "06/16/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 36974607, 31365742, 57, 17, 1 ,"Un trabajillo",  "Trabajo_investigacion", "06/19/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 36815269, 58, 12, 1 ,"Un trabajillo",  "Defensa_individual", "04/29/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 17644964, 60, 7, 1 ,"Un trabajillo",  "Es_proyecto", "04/06/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 57282360, 12757239, 60, 13, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/30/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 16144866, 56740604, 62, 17, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "05/19/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59042322, 43478846, 58, 16, 1 ,"Un trabajillo",  "Es_proyecto", "06/07/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43391701, 39443964, 59, 13, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/18/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 28375186, 23861568, 60, 10, 1 ,"Un trabajillo",  "Entrega_final_proyecto", "06/11/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 32592001, 62, 16, 1 ,"Un trabajillo",  "Defensa_grupal", "06/19/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 18692906, 43478846, 62, 16, 1 ,"Un trabajillo",  "Segunda_entrega_proyecto", "05/18/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 27135167, 38137346, 62, 18, 1 ,"Un trabajillo",  "Trabajo_investigacion", "04/26/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 25584465, 21514169, 61, 10, 1 ,"Un trabajillo",  "Defensa_individual", "06/14/2018", "Esto es una descripcion", 10, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 53041134, 18681103, 59, 16, 1 ,"Un trabajillo",  "Oral", "04/15/2018", "Esto es una descripcion", 4, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 31608736, 56, 6, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "05/07/2018", "Esto es una descripcion", 9, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 32398205, 13836179, 60, 17, 1 ,"Un trabajillo",  "Primera_entrega_proyecto", "04/19/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43294808, 55064623, 60, 15, 1 ,"Un trabajillo",  "Oral", "05/31/2018", "Esto es una descripcion", 6, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 43462980, 11282657, 59, 2, 1 ,"Un trabajillo",  "Trabajo_domiciliario", "04/30/2018", "Esto es una descripcion", 7, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59409570, 15593068, 60, 18, 1 ,"Un trabajillo",  "Trabajo_practico", "06/15/2018", "Esto es una descripcion", 1, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 59631355, 25564130, 60, 2, 1 ,"Un trabajillo",  "Trabajo_escrito", "03/26/2018", "Esto es una descripcion", 8, "f" );
+INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, id_instituto ,nombre_calificacion, categoria, fecha , comentario, nota, baja )
+VALUES ( 23386025, 35688853, 59, 14, 1 ,"Un trabajillo",  "Trabajo_laboratorio", "04/30/2018", "Esto es una descripcion", 11, "f" );
