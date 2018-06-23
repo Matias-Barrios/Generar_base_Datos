@@ -454,7 +454,7 @@ echo "$( date ) - Proceso iniciado..."
 
 
 ###########################################
-## Tabla relacion_Profesor_Materias_Grupos
+## Tabla Relacion_Docente_Asignatura_Grupos
 ###########################################
 # CREATE TABLE Relacion_Docente_Asignatura_Grupos
 # (
@@ -464,10 +464,10 @@ echo "$( date ) - Proceso iniciado..."
 #     foranea_id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_grupo,
 #     PRIMARY KEY (foranea_CI_docente, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Docente_Asignatura_Grupos_clave_primaria
 # );
-	echo "Generando relacion_Profesor_Materias_Grupos"
+	echo "Generando Relacion_Docente_Asignatura_Grupos"
 	> ./lista_profesores_asignados_a_materia_y_grupo.txt
-	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
-	echo -e '\n' >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 13_AUTOMATICO_Relacion_Docente_Asignatura_Grupos_auto.sql
+	echo -e '\n' >> 13_AUTOMATICO_Relacion_Docente_Asignatura_Grupos_auto.sql
 	offset=0
 	while read id_grupo
 	do
@@ -476,8 +476,8 @@ echo "$( date ) - Proceso iniciado..."
 		do
 				lista_CI_profesor=$( cat ./todas_CI_Profesores.txt | tr '\n' ' ' )
 				profe=`Item_Aleatorio "$lista_CI_profesor"`
-				echo "INSERT INTO Relacion_Docente_Asignatura_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)" >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
-				echo "VALUES ( $profe, $i, 1, $id_grupo );"  >> 13_AUTOMATICO_relacion_Profesor_Materias_Grupos_auto.sql
+				echo "INSERT INTO Relacion_Docente_Asignatura_Grupos (foranea_CI_docente, foranea_id_asignatura, foranea_id_instituto, foranea_id_grupo)" >> 13_AUTOMATICO_Relacion_Docente_Asignatura_Grupos_auto.sql
+				echo "VALUES ( $profe, $i, 1, $id_grupo );"  >> 13_AUTOMATICO_Relacion_Docente_Asignatura_Grupos_auto.sql
 				echo "$profe $i $id_grupo" >> ./lista_profesores_asignados_a_materia_y_grupo.txt
 				(( i ++ ))
 		done 
