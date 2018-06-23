@@ -103,21 +103,21 @@ CREATE TABLE Calificaciones
  );
 
 CREATE TABLE Historial
-   (
+(
     id_evento SERIAL PRIMARY KEY CONSTRAINT  Historial_claves_primarias,
     foranea_CI_Persona INT REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
     IP varchar(20) NOT NULL CONSTRAINT ip_vacia,
     query lvarchar(1000) NOT NULL CONSTRAINT Historial_query_vacia,
-    fecha_hora DATETIME NOT NULL CONSTRAINT fecha_historial_vacio
+    fecha_hora DATETIME YEAR TO MINUTE NOT NULL CONSTRAINT Historial_fecha_vacia
 );
 
   
 CREATE TABLE Errores
-   (
+(
     codigo_error SERIAL PRIMARY KEY CONSTRAINT Errores_clave_primaria,
     foranea_CI_Persona INT REFERENCES Personas (CI) CONSTRAINT Errores_fk_Personas_CI,
-    query lvarchar(1000) NOT NULL CONSTRAINT Historial_query_vacia,
-    fecha_hora_e DATETIME NOT NULL CONSTRAINT fecha_error_vacio
+    query lvarchar(1000) NOT NULL CONSTRAINT Errores_query_vacia,
+    fecha_hora_e DATETIME YEAR TO MINUTE NOT NULL CONSTRAINT  Errores_fecha_error_vacio
 
 );
 
