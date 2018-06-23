@@ -44,7 +44,6 @@ CREATE TABLE Institutos
   foranea_id_ciudad INTEGER REFERENCES Ciudad (id_ciudad) CONSTRAINT Institutos_fk_id_ciudad
  ); 
 
-
 CREATE TABLE Orientaciones
  (
   id_orientacion SERIAL PRIMARY KEY CONSTRAINT Orientaciones_clave_primaria,
@@ -52,7 +51,7 @@ CREATE TABLE Orientaciones
   descripcion varchar (500),
   baja boolean NOT NULL CONSTRAINT Orientaciones_baja_vacio
  );
-
+ 
 CREATE TABLE Grupos
  (
   id_grupo  SERIAL,
@@ -62,8 +61,8 @@ CREATE TABLE Grupos
   baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
   foranea_id_orientacion INTEGER REFERENCES Orientaciones (id_orientacion) CONSTRAINT Grupos_fk_id_Orientacion
   PRIMARY KEY (id_grupo, foranea_id_instituto) CONSTRAINT Grupos_claves_primarias
-
  );
+
 
 
 CREATE TABLE Personas

@@ -137,19 +137,52 @@ echo "$( date ) - Proceso iniciado..."
 ###########################################
 
 ###########################################
+## Tabla Orientaciones
+###########################################
+
+# CREATE TABLE Orientaciones
+#  (
+#   id_orientacion SERIAL PRIMARY KEY CONSTRAINT Orientaciones_clave_primaria,
+#   nombre_orientacion varchar(25) NOT NULL,
+#   descripcion varchar (500),
+#   baja boolean NOT NULL CONSTRAINT Orientaciones_baja_vacio
+#  );
+
+	echo "Generando Orientaciones"	
+	> ./todos_codigos_grupos.txt
+	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 05_AUTOMATICO_ingresar_grupos_auto.sql
+	echo -e '\n' >> 05_AUTOMATICO_ingresar_grupos_auto.sql
+	
+	while read orientacion
+	do
+
+		echo "INSERT INTO Grupos (foranea_id_instituto,nombre_grupo, turno, baja, foranea_id_orientacion)" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
+		nombre_grupo="3I"`Item_Aleatorio "$lista_grupos_letras"` 
+		turno=`Item_Aleatorio "$lista_turnos"` 
+		echo "VALUES ( 1, \"$nombre_grupo\" , \"$turno\" , \"f\",  12 );" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
+		(( i++ ))
+		echo "$i" >> ./todos_codigos_grupos.txt
+	done <<< "$lista_materias"
+
+###########################################
+## FIN
+###########################################
+
+###########################################
 ## Tabla Grupos
 ###########################################
 
 # CREATE TABLE Grupos
 #  (
-#   id_grupo  SERIAL PRIMARY KEY  CONSTRAINT Grupos_clave_primaria,
+#   id_grupo  SERIAL,
+#   foranea_id_instituto INTEGER REFERENCES Institutos (id_institutos) CONSTRAINT Grupos_fk_Instiuto_id_instituto,
 #   nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
-#   orientacion   varchar(25) NOT NULL CHECK (orientacion IN ('ADMINISTRACIÓN','ELECTROELECTRÓNICA','QUÍMICA_BÁSICA','QUÍMICA_INDUSTRIAL','AERONÁUTICA','ELECTROMECÁNICA','TERMODINÁMICA','AGRARIO','ELECTROMECÁNICA_AUTOMOTRIZ','TURISMO','CONSTRUCCIÓN','INFORMÁTICA','DEPORTE_Y_RECREACIÓN','MAQUINISTA_NAVAL','ARTES_GRÁFICAS','ENERGÍAS_RENOVABLES','AUDIOVISUAL')) CONSTRAINT orientacion_valida,
 #   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
 #   baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
-
-#   foranea_id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT Grupos_fk_id_instituto
+#   foranea_id_orientacion INTEGER REFERENCES Orientaciones (id_orientacion) CONSTRAINT Grupos_fk_id_Orientacion
+#   PRIMARY KEY (id_grupo, foranea_id_instituto) CONSTRAINT Grupos_claves_primarias
 #  );
+
 	echo "Generando Grupos"	
 	> ./todos_codigos_grupos.txt
 	echo "CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';" > 05_AUTOMATICO_ingresar_grupos_auto.sql
@@ -158,11 +191,10 @@ echo "$( date ) - Proceso iniciado..."
 	while [ $i -le 20 ]
 	do
 
-		echo "INSERT INTO Grupos (nombre_grupo, orientacion, turno, baja)" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
+		echo "INSERT INTO Grupos (foranea_id_instituto,nombre_grupo, turno, baja, foranea_id_orientacion)" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
 		nombre_grupo="3I"`Item_Aleatorio "$lista_grupos_letras"` 
-		orientacion="INFORMÁTICA"
 		turno=`Item_Aleatorio "$lista_turnos"` 
-		echo "VALUES ( \"$nombre_grupo\" , \"$orientacion\" , \"$turno\" , \"f\" );" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
+		echo "VALUES ( 1, \"$nombre_grupo\" , \"$turno\" , \"f\",  12 );" >> 05_AUTOMATICO_ingresar_grupos_auto.sql
 		(( i++ ))
 		echo "$i" >> ./todos_codigos_grupos.txt
 	done <<< "$lista_materias"
