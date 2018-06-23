@@ -68,8 +68,10 @@ CREATE TABLE Grupos
 CREATE TABLE Personas
  (
   CI  INT PRIMARY KEY  CONSTRAINT Personas_clave_primaria,
-  nombre varchar(25) NOT NULL CONSTRAINT nombre_vacio,
-  apellido varchar(25) NOT NULL CONSTRAINT apellido_vacio,
+  primer_nombre varchar(25) NOT NULL CONSTRAINT primer_nombre_vacio,
+  segundo_nombre varchar(25) NOT NULL CONSTRAINT segundo_nombre_vacio,
+  primer_apellido varchar(25) NOT NULL CONSTRAINT primer_apellido_vacio,
+  segundo_apellido varchar(25) NOT NULL CONSTRAINT segundo_apellido_vacio,
   fecha_nacimiento DATE NOT NULL CONSTRAINT fecha_nacimiento_vacio,
   email varchar(80),
   grado INT CHECK ( grado > 0 AND grado < 8) CONSTRAINT grado_valido,
@@ -176,7 +178,7 @@ CREATE TABLE Relacion_Alumno_Asignatura_Grupos
 
 
 
-REATE TABLE Relacion_Docente_Asignatura_Grupos
+CREATE TABLE Relacion_Docente_Asignatura_Grupos
 (
     foranea_CI_docente INTEGER REFERENCES Persona (CI) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_Personas_CI,
     foranea_id_asignatura  INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_asignatura,
