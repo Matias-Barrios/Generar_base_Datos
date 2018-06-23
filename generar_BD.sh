@@ -493,20 +493,21 @@ echo "$( date ) - Proceso iniciado..."
 ## Tabla Calificaciones
 ###########################################
 
-#  CREATE TABLE Calificaciones
+# CREATE TABLE Calificaciones
 #  (
 #   id_calificacion SERIAL PRIMARY KEY  CONSTRAINT Calificaciones_clave_primaria,
-#   CI_docente INTEGER REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
-#   CI_alumno INTEGER REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_CI,
-#   id_asignatura INTEGER REFERENCES Asignaturas (id_asignatura) CONSTRAINT calificaciones_fk_asignaturas_id_asignatura,
-#   id_grupo INTEGER REFERENCES Grupos (id_grupo) CONSTRAINT calificaciones_fk_grupos_id_grupo,
-#   id_instituto INTEGER REFERENCES Institutos (id_instituto) CONSTRAINT calificaciones_fk_instituto_id_instituto,
+#   CI_docente INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_docente_CI,
+#   CI_alumno INT REFERENCES Personas (CI) CONSTRAINT calificaciones_fk_personas_alumno_CI,
+#   id_asignatura INT REFERENCES Asignaturas (id_asignatura) CONSTRAINT calificaciones_fk_asignaturas_id_asignatura,
+#   id_grupo INT NOT NULL CONSTRAINT calificaciones_fk_grupos_id_grupo,
+#   id_instituto INT NOT NULL CONSTRAINT calificaciones_fk_instituto_id_instituto,
 #   nombre_calificacion varchar(40) NOT NULL CONSTRAINT calificaciones_nombre_vacio,
 #   categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT calificaciones_categoria_valida,
 #   fecha DATE NOT NULL CONSTRAINT fecha_cal_vacio,
 #   comentario varchar(255),
 #   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT calificaciones_nota_valida,
 #   baja boolean NOT NULL CONSTRAINT calificaciones_baja_vacio,
+#   FOREIGN KEY  (id_grupo, id_instituto) REFERENCES Grupos CONSTRAINT calificaciones_fk_clave_foranea_valida
 #  );
 
 
@@ -532,7 +533,7 @@ echo "$( date ) - Proceso iniciado..."
 			nota=`Numero_Aleatorio 1 12` 
 			nombre_evaluacion="Un trabajillo"
 						
-			echo "INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_evaluacion, categoria, fecha_eva , descripcion, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
+			echo "INSERT INTO Calificaciones (CI_docente, CI_alumno, id_asignatura, id_grupo, nombre_calificacion, categoria, fecha_eva , descripcion, nota, baja )" >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			echo "VALUES ( $profe, $un_alumno_random, $una_materia_que_da_el_profe, $un_grupo_del_profe, \"$nombre_evaluacion\",  \"$categoria\", \"$fecha_eva\", \"Esto es una descripcion\", $nota, \"f\" );"  >> 14_AUTOMATICO_ingresar_Evaluaciones_auto.sql
 			
 			(( i ++ ))
