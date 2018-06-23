@@ -48,7 +48,7 @@ CREATE TABLE Orientaciones
  (
   id_orientacion SERIAL PRIMARY KEY CONSTRAINT Orientaciones_clave_primaria,
   nombre_orientacion varchar(25) NOT NULL,
-  descripcion varchar (500),
+  descripcion lvarchar (500),
   baja boolean NOT NULL CONSTRAINT Orientaciones_baja_vacio
  );
  
@@ -59,7 +59,7 @@ CREATE TABLE Grupos
   nombre_grupo  varchar(5) NOT NULL CONSTRAINT Grupos_nombre_not_null,
   turno   varchar(25) NOT NULL CHECK (turno IN ('Vespertino', 'Matutino', 'Nocturno')) CONSTRAINT turno_valido,
   baja boolean NOT NULL CONSTRAINT Grupos_baja_vacio,
-  foranea_id_orientacion INTEGER REFERENCES Orientaciones (id_orientacion) CONSTRAINT Grupos_fk_id_Orientacion
+  foranea_id_orientacion INT REFERENCES Orientaciones (id_orientacion) CONSTRAINT Grupos_fk_id_Orientacion
   PRIMARY KEY (id_grupo, foranea_id_instituto) CONSTRAINT Grupos_claves_primarias
  );
 
@@ -107,7 +107,7 @@ CREATE TABLE Historial
     codigo SERIAL,
     foranea_CI_Persona INTEGER REFERENCES Personas (CI) CONSTRAINT Historial_fk_Personas_CI,
     IP varchar(20),
-    statement varchar(500) NOT NULL,
+    statement lvarchar(500) NOT NULL,
     fecha_hora TIMESTAMP NOT NULL CONSTRAINT fecha_historial_vacio,
     PRIMARY KEY (foranea_CI_Persona, codigo) CONSTRAINT  Historial_claves_primarias
 
@@ -118,7 +118,7 @@ CREATE TABLE Errores
    (
     codigo_error SERIAL PRIMARY KEY CONSTRAINT Errores_clave_primaria,
     foranea_CI_Persona INTEGER REFERENCES Personas (CI) CONSTRAINT Errores_fk_Personas_CI,
-    statement varchar(500) NOT NULL,
+    statement lvarchar(500) NOT NULL,
     fecha_hora_e TIMESTAMP NOT NULL CONSTRAINT fecha_error_vacio,
 
 );
@@ -188,9 +188,4 @@ CREATE TABLE Relacion_Docente_Asignatura_Grupos
 );
 
 
-
-
-
--- 
-                                        
-                                        
+                             
