@@ -337,19 +337,19 @@ echo "$( date ) - Proceso iniciado..."
 	while read id_grupo
 	do
 		
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 56, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 57, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 58, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 59, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 60, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 61, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
-		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_materia, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
+		echo "INSERT INTO Relacion_Grupos_Formado_Asignaturas (foranea_id_grupo, foranea_id_asignatura, foranea_id_instituto)" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		echo "VALUES ( $id_grupo, 62, 1);" >> 09_AUTOMATICO_relacion_Grupos_tienen_Materias_auto.sql
 		
 	done <<< "$( cat ./todos_codigos_grupos.txt )"
