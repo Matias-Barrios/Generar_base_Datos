@@ -184,9 +184,10 @@ CREATE TABLE Relacion_Docente_Asignatura_Grupos
     foranea_id_asignatura  INT REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_asignatura,
     foranea_id_instituto  INT NOT NULL CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_instituto,
     foranea_id_grupo INT NOT NULL CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_grupo,
-    FOREIGN KEY  (foranea_id_instituto, foranea_id_grupo) REFERENCES Grupos CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_clave_foranea_grupos_valida,
+    FOREIGN KEY  (foranea_id_grupo,foranea_id_instituto) REFERENCES Grupos CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_clave_foranea_grupos_valida,
     PRIMARY KEY (foranea_CI_docente, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Docente_Asignatura_Grupos_clave_primaria
 );
 
 
                              
+
