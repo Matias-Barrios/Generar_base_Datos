@@ -170,7 +170,7 @@ CREATE TABLE Relacion_Alumno_Asignatura_Grupos
     foranea_CI_alumno INT REFERENCES Personas (CI) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_Personas_CI,
     foranea_id_asignatura  INT REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_asignatura,
     foranea_id_grupo INT NOT NULL CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_grupo,
-    foranea_id_instituto  INT NOT NULL CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_grupo,
+    foranea_id_instituto  INT NOT NULL CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_instituto,
     nota_final_asignatura INT CHECK ( nota_final_asignatura > 0 AND nota_final_asignatura < 13) CONSTRAINT nota_final_asignatura_valida,
     FOREIGN KEY  (foranea_id_grupo, foranea_id_instituto) REFERENCES Grupos CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_clave_foranea_grupos_valida,
     PRIMARY KEY (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_clave_primaria
@@ -180,7 +180,7 @@ CREATE TABLE Relacion_Alumno_Asignatura_Grupos
 
 CREATE TABLE Relacion_Docente_Asignatura_Grupos
 (
-    foranea_CI_docente INT REFERENCES Persona (CI) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_Personas_CI,
+    foranea_CI_docente INT REFERENCES Personas (CI) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_Personas_CI,
     foranea_id_asignatura  INT REFERENCES Asignaturas (id_asignatura) CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_asignatura,
     foranea_id_instituto  INT NOT NULL CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_instituto,
     foranea_id_grupo INT NOT NULL CONSTRAINT Relacion_Docente_Asignatura_Grupos_fk_id_grupo,
