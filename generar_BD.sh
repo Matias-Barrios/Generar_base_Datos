@@ -19,7 +19,7 @@ lista_turnos="Vespertino Matutino Nocturno"
 lista_materias=$( cat ./lista_materias.txt)
 lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia Pando Colonia San_Luis Piedras_Blancas La_Union San_Peperino_Pomoro"
 lista_departamentos="Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja Maldonado Montevideo Paysandú Río_Negro Rivera Rocha Salto San_José Soriano Tacuarembó Treinta_y_Tres"
-lista_tipos_evaluacion="Trabajo_laboratorio Trabajo_domiciliario Trabajo_practico Trabajo_investigacion Trabajo_escrito Oral Parcial Primera_entrega_proyecto Segunda_entrega_proyecto Entrega_final_proyecto Defensa_individual Defensa_grupal Es_proyecto"
+lista_tipos_evaluacion="Trabajo_laboratorio Trabajo_domiciliario Trabajo_practico Trabajo_investigacion Trabajo_escrito Oral Parcial Primera_entrega_proyecto Segunda_entrega_proyecto Tercera_entrega_proyecto Defensa_individual Defensa_grupal Es_proyecto"
 verdadero_o_falso="t f"
 lista_tipos="Alumno Profesor Administrador"
 

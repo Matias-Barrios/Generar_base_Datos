@@ -94,7 +94,7 @@ CREATE TABLE Calificaciones
   id_grupo INT NOT NULL CONSTRAINT calificaciones_fk_grupos_id_grupo,
   id_instituto INT NOT NULL CONSTRAINT calificaciones_fk_instituto_id_instituto,
   nombre_calificacion varchar(40) NOT NULL CONSTRAINT calificaciones_nombre_vacio,
-  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal')) CONSTRAINT calificaciones_categoria_valida,
+  categoria varchar(30) NOT NULL CHECK (categoria IN ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial', 'Primera_entrega_proyecto', 'Segunda_entrega_proyecto', 'Tercera_entrega_proyecto', 'Defensa_individual', 'Defensa_grupal', 'Es_proyecto')) CONSTRAINT calificaciones_categoria_valida,
   fecha DATE NOT NULL CONSTRAINT fecha_cal_vacio,
   comentario varchar(255),
   nota INT CHECK ( nota > 0 AND nota < 13) CONSTRAINT calificaciones_nota_valida,

@@ -2,24 +2,24 @@ CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWO
 
 
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Maldonado" , "Florida" , "f" );
+VALUES ( "Maldonado" , "San_José" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Piriapolis" , "Salto" , "f" );
+VALUES ( "Piriapolis" , "Cerro_Largo" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Montevideo" , "Rocha" , "f" );
+VALUES ( "Montevideo" , "Maldonado" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "San_Jose" , "Lavalleja" , "f" );
-INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Colonia" , "Rivera" , "f" );
-INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Pando" , "Soriano" , "f" );
+VALUES ( "San_Jose" , "Treinta_y_Tres" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "Colonia" , "San_José" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "San_Luis" , "Artigas" , "f" );
+VALUES ( "Pando" , "Canelones" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Piedras_Blancas" , "Canelones" , "f" );
+VALUES ( "Colonia" , "Montevideo" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "La_Union" , "Treinta_y_Tres" , "f" );
+VALUES ( "San_Luis" , "Montevideo" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "San_Peperino_Pomoro" , "Maldonado" , "f" );
+VALUES ( "Piedras_Blancas" , "Durazno" , "f" );
+INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
+VALUES ( "La_Union" , "Río_Negro" , "f" );
+INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
+VALUES ( "San_Peperino_Pomoro" , "Treinta_y_Tres" , "f" );
