@@ -6,7 +6,15 @@
 ##  Nombre    : https://raw.githubusercontent.com/olea/lemarios/master/nombres-propios-es.txt
 ##  Apellidos : https://raw.githubusercontent.com/olea/lemarios/master/apellidos-es.txt
 ##
+# ##
+#  Sacar tildes
+#
+# while read file
+# do
+# 	echo "File:  $file"
+# 	iconv -f UTF-8 -t ASCII//TRANSLIT $file > /tmp/tmp.txt && cat /tmp/tmp.txt > $file 
 
+# done <<< "$all_Files"
 ## Cargar nombres como array 
 
 lista_nombres=$( cat ./nombres_propios.txt | tr '\n' ' ' )

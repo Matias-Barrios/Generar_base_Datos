@@ -22,7 +22,7 @@ Practicas y Materiales de Mantenimiento II
 Administracion y Gestion de Obras III
 Informatica Aplicada C.A.D III
 Procesos Constructivos III
-Tecn. del Dise�o de la Construccion III
+Tecn. del Dise?o de la Construccion III
 Teoricas Constructivas Contemporaneas
 Deporte y Recreacion
 Fisica
@@ -53,7 +53,7 @@ Eficiancia Energetica
 Laboratorio de Biomasa
 Proyecto Electrico
 Proyecto Termico
-Analisis y Diseño de Aplicaciones
+Analisis y Diseno de Aplicaciones
 Formacion Empresarial
 Programacion III
 Proyecto

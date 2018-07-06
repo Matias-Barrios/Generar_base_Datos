@@ -50,7 +50,7 @@ VALUES ( "Informatica Aplicada C.A.D III" , "Esto se supone que es una descripci
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
 VALUES ( "Procesos Constructivos III" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
-VALUES ( "Tecn. del Dise�o de la Construccion III" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Tecn. del Dise?o de la Construccion III" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
 VALUES ( "Teoricas Constructivas Contemporaneas" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
@@ -112,7 +112,7 @@ VALUES ( "Proyecto Electrico" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
 VALUES ( "Proyecto Termico" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
-VALUES ( "Analisis y Diseño de Aplicaciones" , "Esto se supone que es una descripcion" , "f" );
+VALUES ( "Analisis y Diseno de Aplicaciones" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
 VALUES ( "Formacion Empresarial" , "Esto se supone que es una descripcion" , "f" );
 INSERT INTO Asignaturas (nombre_asignatura, descripcion,baja)
