@@ -10,16 +10,16 @@ VALUES ( "Montevideo" , "Salto" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "San_Jose" , "Maldonado" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Colonia" , "Tacuarembó" , "f" );
+VALUES ( "Colonia" , "Tacuarembo" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "Pando" , "Treinta_y_Tres" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "Colonia" , "San_José" , "f" );
+VALUES ( "Colonia" , "San_Jose" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "San_Luis" , "Treinta_y_Tres" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "Piedras_Blancas" , "Florida" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
-VALUES ( "La_Union" , "San_José" , "f" );
+VALUES ( "La_Union" , "San_Jose" , "f" );
 INSERT INTO Ciudad (nombre_ciudad, nombre_departamento,baja)
 VALUES ( "San_Peperino_Pomoro" , "Maldonado" , "f" );
