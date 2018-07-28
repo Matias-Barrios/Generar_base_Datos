@@ -188,6 +188,56 @@ CREATE TABLE Relacion_Docente_Asignatura_Grupos
     PRIMARY KEY (foranea_CI_docente, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Docente_Asignatura_Grupos_clave_primaria
 );
 
+-- TRIGGERS 
+ -- Usamos triggers basicamente para lograr tener una baja logica que tambien funcione en cascada
+                                        
+-- Trigger : trigger_alumno_baja
+-- Cuando se borra un alumno, se borra al mismo de la relacion 'relacion_alumno_asignatura_grupos' y de la relacion 'Relacion_Alumno_Asiste_Instituto'
+-- 
 
+drop trigger if exists trigger_alumno_baja;
+create trigger trigger_alumno_baja update of baja on Personas
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' and n.tipo = 'Alumno' )
+    (
+      delete from Relacion_Alumno_Asignatura_Grupos where n.CI = Relacion_Alumno_Asignatura_Grupos.foranea_CI_alumno,
+      delete from Relacion_Alumno_Asiste_Instituto where n.CI = Relacion_Alumno_Asiste_Instituto.foranea_CI_alumno
+    )
+;
+
+-- Trigger : trigger_docente_baja
+-- Cuando se borra un docente, se borra al mismo de la relacion 'Relacion_Docente_Asignatura_Grupos' y de la relacion 'Relacion_Docente_Trabaja_Instituto'
+-- 
+
+drop trigger if exists trigger_profesor_baja;
+create trigger trigger_profesor_baja update of baja on Personas
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' and n.tipo = 'Profesor' )
+    (
+      delete from Relacion_Docente_Asignatura_Grupos where n.CI = Relacion_Docente_Asignatura_Grupos.foranea_CI_docente,
+      delete from Relacion_Docente_Trabaja_Instituto where n.CI = Relacion_Docente_Trabaja_Instituto.foranea_CI_docente,
+      update Personas set  encriptacion_hash = null , encriptacion_sal = null where Personas.CI = n.CI
+      
+    )
+;
+                                        
+-- Trigger : trigger_grupo_baja
+-- Cuando se borra un grupo, se borra al mismo de la relacion 'Relacion_Alumno_Asignatura_Grupos','Relacion_Docente_Asignatura_Grupos' y de la relacion 'Relacion_Grupos_Formado_Asignaturas'
+-- 
+
+drop trigger if exists trigger_grupo_baja;
+create trigger trigger_grupo_baja update of baja on Grupos
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' )
+    (
+      delete from Relacion_Alumno_Asignatura_Grupos where n.id_grupo = Relacion_Alumno_Asignatura_Grupos.foranea_id_grupo,
+      delete from Relacion_Docente_Asignatura_Grupos where n.id_grupo = Relacion_Docente_Asignatura_Grupos.foranea_id_grupo,
+      delete from Relacion_Grupos_Formado_Asignaturas where n.id_grupo = Relacion_Grupos_Formado_Asignaturas.foranea_id_grupo
+      
+    )
+;
                              
 
