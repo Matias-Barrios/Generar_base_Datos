@@ -285,3 +285,18 @@ create trigger trigger_institutos_baja update of baja on Institutos
     )
 ;
 
+
+-- Trigger : trigger_orientaciones_baja
+-- Cuando se borra una Orientacion, se borra al mismo de las demas relaciones
+-- 
+
+drop trigger if exists trigger_orientaciones_baja;
+create trigger trigger_orientaciones_baja update of baja on Orientaciones
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' )
+    (
+      update Grupos set baja = 't' where n.id_orientacion = Grupos.foranea_id_orientacion
+    )
+;
+                                        
