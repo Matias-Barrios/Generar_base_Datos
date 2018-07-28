@@ -260,3 +260,28 @@ create trigger trigger_asignatura_baja update of baja on Asignaturas
     )
 ;
 
+
+
+-- Trigger : trigger_institutos_baja
+-- Cuando se borra un Instituto, se borra al mismo de las demas relaciones
+-- 
+
+drop trigger if exists trigger_institutos_baja;
+create trigger trigger_institutos_baja update of baja on Institutos
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' )
+    (
+      delete from Grupos where n.id_instituto = Grupos.foranea_id_instituto,
+      delete from Relacion_Docente_Trabaja_Instituto where n.id_instituto = Relacion_Docente_Trabaja_Instituto.foranea_id_instituto,
+      delete from Relacion_Alumno_Asiste_Instituto where n.id_instituto = Relacion_Alumno_Asiste_Instituto.foranea_id_instituto,
+      delete from Relacion_Grupos_Formado_Asignaturas where n.id_instituto = Relacion_Grupos_Formado_Asignaturas.foranea_id_instituto,
+      delete from Relacion_Alumno_Asignatura_Grupos where n.id_instituto = Relacion_Alumno_Asignatura_Grupos.foranea_id_instituto,
+      delete from Relacion_Docente_Asignatura_Grupos where n.id_instituto = Relacion_Docente_Asignatura_Grupos.foranea_id_instituto,
+      update Calificaciones set baja = 't' where n.id_instituto = Calificaciones.id_instituto
+      
+      
+      
+    )
+;
+
