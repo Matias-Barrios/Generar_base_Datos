@@ -241,3 +241,22 @@ create trigger trigger_grupo_baja update of baja on Grupos
 ;
                              
 
+
+
+-- Trigger : trigger_grupo_baja
+-- Cuando se borra una Asignatura, se borra al mismo de la relacion 'Relacion_Grupos_Formado_Asignaturas','Relacion_Alumno_Asignatura_Grupos' y de la relacion 'Relacion_Docente_Asignatura_Grupos'
+-- 
+
+drop trigger if exists trigger_asignatura_baja;
+create trigger trigger_asignatura_baja update of baja on Asignaturas
+ referencing old as o new as n
+    for each row
+    when ( n.baja = 't' )
+    (
+      delete from Relacion_Grupos_Formado_Asignaturas where n.id_asignatura = Relacion_Grupos_Formado_Asignaturas.foranea_id_asignatura,
+      delete from Relacion_Alumno_Asignatura_Grupos where n.id_asignatura = Relacion_Alumno_Asignatura_Grupos.foranea_id_asignatura,
+      delete from Relacion_Docente_Asignatura_Grupos where n.id_asignatura = Relacion_Docente_Asignatura_Grupos.foranea_id_asignatura
+      
+    )
+;
+
