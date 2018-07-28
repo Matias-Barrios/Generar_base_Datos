@@ -299,4 +299,29 @@ create trigger trigger_orientaciones_baja update of baja on Orientaciones
       update Grupos set baja = 't' where n.id_orientacion = Grupos.foranea_id_orientacion
     )
 ;
+
                                         
+-- Trigger : trigger_personas_actualizar_cedula
+-- Cuando se actualiza una cedula, se actualiza a lo largo de toda la BD
+-- 
+                                        
+drop trigger if exists trigger_personas_actualizar_cedula;
+create trigger trigger_personas_actualizar_cedula update of CI on Personas
+ referencing old as o new as n
+    for each row
+    when ( o.CI != n.CI )
+    (
+      update Calificaciones set CI_alumno = n.CI where o.CI = Calificaciones.CI_alumno,
+      update Historial set foranea_CI_Persona = n.CI where o.CI = Historial.foranea_CI_Persona,
+      update Errores set foranea_CI_Persona = n.CI where o.CI = Errores.foranea_CI_Persona,
+      update Relacion_Docente_Trabaja_Instituto set foranea_CI_docente = n.CI where o.CI = Relacion_Docente_Trabaja_Instituto.foranea_CI_docente,
+      update Relacion_Alumno_Asiste_Instituto set foranea_CI_alumno = n.CI where o.CI = Relacion_Alumno_Asiste_Instituto.foranea_CI_alumno,
+      update Relacion_Alumno_Asignatura_Grupos set foranea_CI_alumno = n.CI where o.CI = Relacion_Alumno_Asignatura_Grupos.foranea_CI_alumno,
+      update Relacion_Docente_Asignatura_Grupos set foranea_CI_docente = n.CI where o.CI = Relacion_Docente_Asignatura_Grupos.foranea_CI_docente,
+      update Relacion_Docente_Asignatura_Grupos set foranea_CI_docente = n.CI where o.CI = Relacion_Docente_Asignatura_Grupos.foranea_CI_docente
+      
+      
+    )
+;
+                                        
+                                       
