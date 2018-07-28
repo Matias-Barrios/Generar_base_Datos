@@ -243,7 +243,7 @@ create trigger trigger_grupo_baja update of baja on Grupos
 
 
 
--- Trigger : trigger_grupo_baja
+-- Trigger : trigger_asignatura_baja
 -- Cuando se borra una Asignatura, se borra al mismo de la relacion 'Relacion_Grupos_Formado_Asignaturas','Relacion_Alumno_Asignatura_Grupos' y de la relacion 'Relacion_Docente_Asignatura_Grupos'
 -- 
 
