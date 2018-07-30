@@ -18,7 +18,7 @@ DROP TABLE IF EXISTS Orientaciones;
 CREATE TABLE Ciudad
  (
   id_ciudad SERIAL PRIMARY KEY  CONSTRAINT Ciudad_clave_primaria,
-  nombre_ciudad varchar(50) UNIQUE NOT NULL CONSTRAINT Ciudad_nombre_vacio,
+  nombre_ciudad varchar(50)  NOT NULL CONSTRAINT Ciudad_nombre_vacio,
   nombre_departamento varchar(50) NOT NULL CONSTRAINT Departamento_nombre_vacio,
   baja boolean NOT NULL CONSTRAINT Ciudad_baja_vacio
  );
