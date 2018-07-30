@@ -27,7 +27,7 @@ CREATE TABLE Ciudad
  CREATE TABLE Asignaturas
  (
   id_asignatura  SERIAL PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
-  nombre_asignatura  varchar(25) NOT NULL CONSTRAINT Materias_nombre_not_null,
+  nombre_asignatura  varchar(100) NOT NULL CONSTRAINT Materias_nombre_not_null,
   descripcion   varchar(255),
   baja boolean NOT NULL CONSTRAINT Materias_baja_vacio
  );
