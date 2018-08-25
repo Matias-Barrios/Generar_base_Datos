@@ -328,8 +328,9 @@ create trigger trigger_personas_actualizar_cedula update of CI on Personas
 -- recalcular la nota final de cada asignatura cuando ocurre un insert, o un update de la
 -- nota o del attributo baja en una Calificacion.
                                         
+
 drop trigger if exists actualizar_notas_update;
-create trigger actualizar_notas_update update of nota on Calificaciones
+create trigger actualizar_notas_update update of nota,baja on Calificaciones
  referencing  old as o new as n
     for each row 
     when (o.nota != n.nota or o.baja != n.baja) 
@@ -356,7 +357,7 @@ create trigger actualizar_notas_update update of nota on Calificaciones
      
      
 drop trigger if exists actualizar_notas_insert;
-create trigger actualizar_notas_insert update of nota on Calificaciones
+create trigger actualizar_notas_insert insert on Calificaciones
  referencing  new as n
     for each row 
     (
@@ -378,6 +379,3 @@ create trigger actualizar_notas_insert update of nota on Calificaciones
       );
 
 
-
-                                        
-                                       
