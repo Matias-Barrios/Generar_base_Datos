@@ -324,4 +324,60 @@ create trigger trigger_personas_actualizar_cedula update of CI on Personas
     )
 ;
                                         
+-- Estos dos son basicamente los dos triggers mas importantes de la aplicacion. Su tarea es 
+-- recalcular la nota final de cada asignatura cuando ocurre un insert, o un update de la
+-- nota o del attributo baja en una Calificacion.
+                                        
+drop trigger if exists actualizar_notas_update;
+create trigger actualizar_notas_update update of nota on Calificaciones
+ referencing  old as o new as n
+    for each row 
+    when (o.nota != n.nota or o.baja != n.baja) 
+    (
+    
+      update relacion_alumno_asignatura_grupos
+	  set nota_final_asignatura = (
+        select  coalesce(avg(nota),1) * 0.6
+          from calificaciones
+            where  categoria 
+             in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
+              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	
+ 		) + (
+        select  coalesce(avg(nota),1) * 0.4
+          from calificaciones
+            where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
+              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura
+        )
+		where foranea_ci_alumno = n.CI_alumno and foranea_id_asignatura in (select id_asignatura from Calificaciones where foranea_ci_alumno = n.CI_alumno)
+      );
+
+
+
+     
+     
+drop trigger if exists actualizar_notas_insert;
+create trigger actualizar_notas_insert update of nota on Calificaciones
+ referencing  new as n
+    for each row 
+    (
+    
+      update relacion_alumno_asignatura_grupos
+	  set nota_final_asignatura = (
+        select  coalesce(avg(nota),1) * 0.6
+          from calificaciones
+            where  categoria 
+             in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
+              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	
+ 		) + (
+        select  coalesce(avg(nota),1) * 0.4
+          from calificaciones
+            where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
+              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura
+        )
+		where foranea_ci_alumno = n.CI_alumno and foranea_id_asignatura in (select id_asignatura from Calificaciones where foranea_ci_alumno = n.CI_alumno)
+      );
+
+
+
+                                        
                                        
