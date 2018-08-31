@@ -172,6 +172,7 @@ CREATE TABLE Relacion_Alumno_Asignatura_Grupos
     foranea_id_grupo INT NOT NULL CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_grupo,
     foranea_id_instituto  INT NOT NULL CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_id_instituto,
     nota_final_asignatura INT CHECK ( nota_final_asignatura > 0 AND nota_final_asignatura < 13) CONSTRAINT nota_final_asignatura_valida,
+    nota_final_asignatura_proyecto INT CHECK ( nota_final_asignatura_proyecto > 0 AND nota_final_asignatura_proyecto < 13) CONSTRAINT nota_final_asignatura_proyecto_valida,
     FOREIGN KEY  (foranea_id_grupo, foranea_id_instituto) REFERENCES Grupos CONSTRAINT Relacion_Alumno_Asignatura_Grupos_fk_clave_foranea_grupos_valida,
     PRIMARY KEY (foranea_CI_alumno, foranea_id_asignatura, foranea_id_grupo, foranea_id_instituto) CONSTRAINT Relacion_Alumno_Asignatura_Grupos_clave_primaria
 );
@@ -342,12 +343,12 @@ create trigger actualizar_notas_update update of nota,baja on Calificaciones
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
-              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	
+              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	and baja = 'f'
  		) + (
         select  coalesce(avg(nota),1) * 0.4
           from calificaciones
             where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
-              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura
+              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura and baja = 'f'
         )
 		where foranea_ci_alumno = n.CI_alumno and foranea_id_asignatura in (select id_asignatura from Calificaciones where foranea_ci_alumno = n.CI_alumno)
       );
@@ -368,12 +369,12 @@ create trigger actualizar_notas_insert insert on Calificaciones
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
-              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	
+              and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	and baja = 'f'
  		) + (
         select  coalesce(avg(nota),1) * 0.4
           from calificaciones
             where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
-              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura
+              and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura and baja = 'f'
         )
 		where foranea_ci_alumno = n.CI_alumno and foranea_id_asignatura in (select id_asignatura from Calificaciones where foranea_ci_alumno = n.CI_alumno)
       );
