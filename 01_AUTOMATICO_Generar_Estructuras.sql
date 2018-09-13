@@ -339,13 +339,13 @@ create trigger actualizar_notas_update update of nota,baja on Calificaciones
     
       update relacion_alumno_asignatura_grupos
 	  set nota_final_asignatura = (
-        select  coalesce(avg(nota),1) * 0.6
+        select  nvl(avg(nota),1) * 0.6
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
               and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	and baja = 'f'
  		) + (
-        select  coalesce(avg(nota),1) * 0.4
+        select  nvl(avg(nota),1) * 0.4
           from calificaciones
             where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
               and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura and baja = 'f'
@@ -365,13 +365,13 @@ create trigger actualizar_notas_insert insert on Calificaciones
     
       update relacion_alumno_asignatura_grupos
 	  set nota_final_asignatura = (
-        select  coalesce(avg(nota),1) * 0.6
+        select  nvl(avg(nota),1) * 0.6
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
               and  CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura	and baja = 'f'
  		) + (
-        select  coalesce(avg(nota),1) * 0.4
+        select  nvl(avg(nota),1) * 0.4
           from calificaciones
             where  categoria in ('Trabajo_laboratorio', 'Trabajo_domiciliario', 'Trabajo_practico', 'Trabajo_investigacion', 'Trabajo_escrito', 'Oral', 'Parcial') 
               and CI_alumno = n.CI_alumno and id_asignatura = foranea_id_asignatura and baja = 'f'
@@ -389,7 +389,7 @@ create trigger actualizar_nota_final_asignatura_proyecto_insert insert on Califi
     
       update relacion_alumno_asignatura_grupos
 	  set nota_final_asignatura_proyecto = (
-        select  coalesce(avg(nota),1) 
+        select  nvl(avg(nota),1) 
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
@@ -407,7 +407,7 @@ create trigger actualizar_nota_final_asignatura_proyecto_update update of nota,b
     
       update relacion_alumno_asignatura_grupos
 	  set nota_final_asignatura_proyecto = (
-        select  coalesce(avg(nota),1) 
+        select  nvl(avg(nota),1) 
           from calificaciones
             where  categoria 
              in ('Primera_entrega_proyecto','Segunda_entrega_proyecto','Tercera_entrega_proyecto','Defensa_individual','Defensa_grupal','Es_proyecto') 
