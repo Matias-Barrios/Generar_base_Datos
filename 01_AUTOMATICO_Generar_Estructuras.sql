@@ -26,10 +26,10 @@ CREATE TABLE Ciudad
  
  CREATE TABLE Asignaturas
  (
-  id_asignatura  SERIAL PRIMARY KEY  CONSTRAINT Materias_clave_primaria,
-  nombre_asignatura  varchar(100) NOT NULL CONSTRAINT Materias_nombre_not_null,
+  id_asignatura  SERIAL PRIMARY KEY  CONSTRAINT Asignaturas_clave_primaria,
+  nombre_asignatura  varchar(100) NOT NULL CONSTRAINT Asignaturas_nombre_not_null,
   descripcion   varchar(255),
-  baja boolean NOT NULL CONSTRAINT Materias_baja_vacio
+  baja boolean NOT NULL CONSTRAINT Asignaturas_baja_vacio
  );
 
 CREATE TABLE Institutos
@@ -78,7 +78,7 @@ CREATE TABLE Personas
   hace_proyecto boolean NOT NULL CONSTRAINT hace_proyecto_vacio,
   nota_final_pro INT CHECK ( nota_final_pro > 0 AND nota_final_pro < 13) CONSTRAINT nota_final_pro_valida,
   juicio_final varchar(30) NOT NULL CHECK ( juicio_final IN ('Examen Febrero', 'Examen Diciembre', 'Aprobado')) CONSTRAINT Personas_Juicio_valido,
-  tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Profesor', 'Administrador', 'Admin')) CONSTRAINT Personas_tipo_valido,
+  tipo varchar(30) NOT NULL CHECK ( tipo IN ('Alumno', 'Docente', 'Administrativo', 'Admin')) CONSTRAINT Personas_tipo_valido,
   encriptacion_hash varchar(250),
   encriptacion_sal varchar(250),
   baja boolean NOT NULL CONSTRAINT Personas_baja_vacio
@@ -211,11 +211,11 @@ create trigger trigger_alumno_baja update of baja on Personas
 -- Cuando se borra un docente, se borra al mismo de la relacion 'Relacion_Docente_Asignatura_Grupos' y de la relacion 'Relacion_Docente_Trabaja_Instituto'
 -- 
 
-drop trigger if exists trigger_profesor_baja;
-create trigger trigger_profesor_baja update of baja on Personas
+drop trigger if exists trigger_Docente_baja;
+create trigger trigger_Docente_baja update of baja on Personas
  referencing old as o new as n
     for each row
-    when ( n.baja = 't' and n.tipo = 'Profesor' )
+    when ( n.baja = 't' and n.tipo = 'Docente' )
     (
       delete from Relacion_Docente_Asignatura_Grupos where n.CI = Relacion_Docente_Asignatura_Grupos.foranea_CI_docente,
       delete from Relacion_Docente_Trabaja_Instituto where n.CI = Relacion_Docente_Trabaja_Instituto.foranea_CI_docente,
