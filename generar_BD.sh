@@ -29,7 +29,7 @@ lista_ciudades="Maldonado Piriapolis Montevideo San_Jose Colonia Pando Colonia S
 lista_departamentos="Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja Maldonado Montevideo Paysandú Río_Negro Rivera Rocha Salto San_José Soriano Tacuarembó Treinta_y_Tres"
 lista_tipos_evaluacion="Trabajo_laboratorio Trabajo_domiciliario Trabajo_practico Trabajo_investigacion Trabajo_escrito Oral Parcial Primera_entrega_proyecto Segunda_entrega_proyecto Tercera_entrega_proyecto Defensa_individual Defensa_grupal Es_proyecto"
 verdadero_o_falso="t f"
-lista_tipos="Alumno Profesor Administrador"
+lista_tipos="Alumno Docente Administrativo"
 
 
     
@@ -66,7 +66,7 @@ Cedula_Aleatoria () {
 Generar_columnas () {
 	Item_Aleatorio "$lista_nombres" ; 
 		printf "|"; 
-	Item_Aleatorio "$lista_nombres" ; 
+ 	Item_Aleatorio "$lista_nombres" ; 
 		printf "|"; 
 	Item_Aleatorio "$lista_apellidos" ;
 		printf "|"
@@ -309,7 +309,7 @@ echo "$( date ) - Proceso iniciado..."
 		numero_dias=`Numero_Aleatorio 5400 19000` 
 		fecha_nacimiento="`date +%m/%d/%Y --date "$numero_dias days ago"`"
 		email="$primer_nombre.$segundo_nombre.$primer_apellido.$segundo_apellido@`Item_Aleatorio "$lista_pro_email"`"
-		tipo="Profesor"
+		tipo="Docente"
 		grado=`Numero_Aleatorio 1 7` 
 		hace_proyecto="t"
 		nota_final=1
