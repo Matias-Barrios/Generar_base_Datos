@@ -1,3 +1,3 @@
-CONNECT TO 'gestion_utu@miServidor' USER 'XXXNOMBREUSUARIOXXX'  USING 'XXXPASSWORDXXX';
+CONNECT TO 'gestion_utu@miServidor' USER 'admin_proyecto'  USING 'tercero2018';
 
 SELECT CI FROM Personas WHERE tipo = "Alumno" AND baja = "f";
